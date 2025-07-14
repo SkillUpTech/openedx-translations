@@ -51,6 +51,7 @@
   "learning.generic.upsell.fullAccessBullet": "{fullAccessInBoldText} ao conteúdo e materiais do curso, mesmo após o curso terminar",
   "learning.generic.upsell.supportMissionBullet.mission": "missão",
   "learning.generic.upsell.supportMissionBullet": "Apoio a nossa {missionInBoldText} em {siteName}",
+  "learning.outline.tools": "Ferramentas do Curso",
   "tours.datesCheckpoint.body": "As datas importantes podem ajudá-lo a manter-se no seu percurso.",
   "tours.datesCheckpoint.title": "Mantenha-se a par das principais datas",
   "tours.outlineCheckpoint.body": "Pode explorar secções do curso utilizando o esquema abaixo.",
