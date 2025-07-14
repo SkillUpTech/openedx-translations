@@ -1,0 +1,11 @@
+-c constraints.txt
+
+# i18n
+edx-i18n-tools
+pyyaml
+
+# transifex
+requests
+transifex-client
+transifex-python
+python-slugify

@@ -1,0 +1,183 @@
+# #-#-#-#-#  djangojs.po (edx-proctoring)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2018 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2018.
+# 
+# Translators:
+# Brian Smith, 2025
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: edx-proctoring\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-24 00:32+0000\n"
+"PO-Revision-Date: 2024-12-18 13:44+0000\n"
+"Last-Translator: Brian Smith, 2025\n"
+"Language-Team: Chinese (China) (https://app.transifex.com/open-edx/teams/6205/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: static/proctoring/js/exam_action_handler.js:44
+msgid "OK"
+msgstr "是的"
+
+#: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:218
+#: static/proctoring/js/views/proctored_exam_allowance_view.js:13
+#: static/proctoring/spec/proctored_exam_add_bulk_allowance_spec.js:82
+msgid "Review Policy Exception"
+msgstr "审核政策的特殊情况"
+
+#: static/proctoring/js/views/proctored_exam_allowance_view.js:12
+#: static/proctoring/spec/proctored_exam_add_bulk_allowance_spec.js:81
+msgid "Additional Time (minutes)"
+msgstr "额外时间（分钟）"
+
+#: static/proctoring/js/views/proctored_exam_attempt_view.js:11
+msgid "Created"
+msgstr "已创建"
+
+#: static/proctoring/js/views/proctored_exam_attempt_view.js:12
+msgid "Download Software Clicked"
+msgstr "已点击下载软件"
+
+#: static/proctoring/js/views/proctored_exam_attempt_view.js:14
+#: static/proctoring/js/views/proctored_exam_info.js:17
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:33
+msgid "Started"
+msgstr "已经开始"
+
+#: static/proctoring/js/views/proctored_exam_attempt_view.js:16
+msgid "Declined"
+msgstr "拒绝"
+
+#: static/proctoring/js/views/proctored_exam_attempt_view.js:18
+msgid "Second Review Required"
+msgstr "需要二次审核"
+
+#: static/proctoring/js/views/proctored_exam_attempt_view.js:19
+#: static/proctoring/js/views/proctored_exam_info.js:21
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:34
+msgid "Submitted"
+msgstr "已提交"
+
+#: static/proctoring/js/views/proctored_exam_attempt_view.js:20
+#: static/proctoring/js/views/proctored_exam_info.js:34
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:35
+msgid "Verified"
+msgstr "已认证"
+
+#: static/proctoring/js/views/proctored_exam_attempt_view.js:21
+#: static/proctoring/js/views/proctored_exam_info.js:38
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:36
+msgid "Rejected"
+msgstr "拒绝"
+
+#: static/proctoring/js/views/proctored_exam_attempt_view.js:22
+#: static/proctoring/js/views/proctored_exam_info.js:42
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:37
+msgid "Error"
+msgstr "错误"
+
+#: static/proctoring/js/views/proctored_exam_attempt_view.js:179
+msgid "Proctored"
+msgstr "监考"
+
+#: static/proctoring/js/views/proctored_exam_attempt_view.js:181
+msgid "Timed"
+msgstr "计时"
+
+#: static/proctoring/js/views/proctored_exam_info.js:13
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:29
+msgid "Not Started"
+msgstr "尚未开始"
+
+#: static/proctoring/js/views/proctored_exam_info.js:14
+msgid "You have not started your onboarding exam."
+msgstr "您还没有开始入学考试。"
+
+#: static/proctoring/js/views/proctored_exam_info.js:18
+msgid "You have started your onboarding exam."
+msgstr "您已经开始入学考试。"
+
+#: static/proctoring/js/views/proctored_exam_info.js:22
+msgid "You have submitted your onboarding exam."
+msgstr "您已提交您的入学考试。"
+
+#: static/proctoring/js/views/proctored_exam_info.js:35
+msgid "Your onboarding exam has been approved in this course."
+msgstr "您的入学考试已在此课程中获得批准。"
+
+#: static/proctoring/js/views/proctored_exam_info.js:39
+msgid "Your onboarding exam has been rejected. Please retry onboarding."
+msgstr "您的入学考试成绩已被拒绝。请重试入学。"
+
+#: static/proctoring/js/views/proctored_exam_info.js:43
+msgid ""
+"An error has occurred during your onboarding exam. Please retry onboarding."
+msgstr "您的入学考试期间出现错误。请重试入学。"
+
+#: static/proctoring/js/views/proctored_exam_info.js:46
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:32
+msgid "Approved in Another Course"
+msgstr "在另一门课程中获得批准"
+
+#: static/proctoring/js/views/proctored_exam_info.js:47
+msgid "Your onboarding exam has been approved in another course."
+msgstr "您的入学考试已在另一门课程中获得批准。"
+
+#: static/proctoring/js/views/proctored_exam_info.js:49
+msgid ""
+"If your device has changed, we recommend that you complete this course's "
+"onboarding exam in order to ensure that your setup still meets the "
+"requirements for proctoring."
+msgstr "如果您的设备已更改，我们建议您完成本课程的入学考试，以确保您的设置仍然满足监考要求。"
+
+#: static/proctoring/js/views/proctored_exam_info.js:55
+msgid "Expiring Soon"
+msgstr "即将过期"
+
+#: static/proctoring/js/views/proctored_exam_info.js:57
+msgid ""
+"Your onboarding profile has been approved. However, your onboarding status "
+"is expiring soon. Please complete onboarding again to ensure that you will "
+"be able to continue taking proctored exams."
+msgstr "您的入学资料已获批准。但是，您的入学资格即将到期。请再次完成入学手续，以确保您能够继续参加监考考试。"
+
+#: static/proctoring/js/views/proctored_exam_info.js:64
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:38
+msgid "Expired"
+msgstr "已到期"
+
+#: static/proctoring/js/views/proctored_exam_info.js:66
+msgid ""
+"Your onboarding status has expired. Please complete onboarding again to "
+"continue taking proctored exams."
+msgstr "您的入学状态已过期。请再次完成入学手续以继续参加监考考试。"
+
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:42
+msgid "Audit"
+msgstr "旁听"
+
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:43
+msgid "Honor"
+msgstr "荣誉"
+
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:44
+msgid "Professional"
+msgstr "专业"
+
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:46
+msgid "Credit"
+msgstr "学分"
+
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:47
+msgid "Master's"
+msgstr "硕士"
+
+#: static/proctoring/js/views/proctored_exam_onboarding_view.js:48
+msgid "Executive Education"
+msgstr "高管教育"

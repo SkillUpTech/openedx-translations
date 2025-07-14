@@ -1,0 +1,828 @@
+# #-#-#-#-#  django.po (edx-ora2)  #-#-#-#-#
+# edX translation file
+# Copyright (C) 2018 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2018.
+# 
+# Translators:
+# Brian Smith, 2025
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: edx-ora2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-09 08:22-0500\n"
+"PO-Revision-Date: 2024-12-18 13:43+0000\n"
+"Last-Translator: Brian Smith, 2025\n"
+"Language-Team: Thai (https://app.transifex.com/open-edx/teams/6205/th/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: assessment/api/student_training.py:179
+msgid "Could not parse serialized rubric"
+msgstr "ไม่สามารถแจงกฎรูบริคที่ต่อเนื่อง"
+
+#: assessment/api/student_training.py:203
+#, python-brace-format
+msgid "Example {example_number} has a validation error: {error}"
+msgstr "ตัวอย่าง {example_number} มีข้อผิดพลาดในการตรวจสอบ: {error}"
+
+#: assessment/api/student_training.py:217
+#, python-brace-format
+msgid ""
+"Example {example_number} has an invalid option for \"{criterion_name}\": "
+"\"{option_name}\""
+msgstr ""
+"ตัวอย่าง {example_number} มีตัวเลือกไม่ถูกต้องสำหรับ \"{criterion_name}\": "
+"\"{option_name}\""
+
+#: assessment/api/student_training.py:227
+#, python-brace-format
+msgid "Example {example_number} has an extra option for \"{criterion_name}\""
+msgstr "ตัวอย่าง {example_number} มีตัวเลือกเพิ่มเติมสำหรับ \"{criterion_name}\""
+
+#: assessment/api/student_training.py:240
+#, python-brace-format
+msgid "Example {example_number} is missing an option for \"{criterion_name}\""
+msgstr "ตัวอย่าง {example_number} ขาดตัวเลือกสำหรับ \"{criterion_name}\""
+
+#: assessment/score_type_constants.py:21 xblock/grade_mixin.py:547
+msgid "Peer"
+msgstr "เพื่อน"
+
+#: data.py:967
+#: templates/legacy/staff_area/oa_student_info_assessment_detail.html:59
+msgid "Overall Feedback"
+msgstr "ผลตอบกลับทั้งหมด"
+
+#: data.py:1625 templates/legacy/edit/oa_edit_criterion.html:54
+#: xblock/studio_mixin.py:57
+msgid "None"
+msgstr "ไม่ระบุ"
+
+#: templates/legacy/edit/oa_edit.html:28
+msgid "Save"
+msgstr "บันทึก"
+
+#: templates/legacy/edit/oa_edit.html:32
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: templates/legacy/edit/oa_edit_basic_settings_list.html:5
+msgid "Display Name "
+msgstr "ชื่อที่แสดง"
+
+#: templates/legacy/edit/oa_edit_basic_settings_list.html:52
+#: templates/legacy/edit/oa_edit_basic_settings_list.html:93
+#: templates/legacy/edit/oa_edit_basic_settings_list.html:131
+#: templates/legacy/edit/oa_edit_basic_settings_list.html:157
+#: templates/legacy/edit/oa_edit_basic_settings_list.html:169
+#: templates/legacy/edit/oa_edit_peer_assessment.html:45
+msgid "False"
+msgstr "ผิด"
+
+#: templates/legacy/edit/oa_edit_basic_settings_list.html:53
+#: templates/legacy/edit/oa_edit_basic_settings_list.html:94
+#: templates/legacy/edit/oa_edit_basic_settings_list.html:132
+#: templates/legacy/edit/oa_edit_basic_settings_list.html:158
+#: templates/legacy/edit/oa_edit_basic_settings_list.html:170
+#: templates/legacy/edit/oa_edit_peer_assessment.html:46
+msgid "True"
+msgstr "ถูก"
+
+#: templates/legacy/edit/oa_edit_basic_settings_list.html:102
+#: templates/legacy/leaderboard/oa_leaderboard_show.html:8
+#: templates/legacy/leaderboard/oa_leaderboard_waiting.html:10
+msgid "Top Responses"
+msgstr "คำตอบยอดนิยม"
+
+#: templates/legacy/edit/oa_edit_criterion.html:6
+#: templates/legacy/staff_area/oa_student_info.html:122
+#: templates/legacy/staff_area/oa_student_info_assessment_detail.html:25
+msgid "Criterion"
+msgstr "เกณฑ์"
+
+#: templates/legacy/edit/oa_edit_criterion.html:7
+msgid "You cannot delete a criterion after the assignment has been released."
+msgstr "คุณไม่สามารถลบเกรฑ์ได้หลังจากประกาศงานที่มอบหมายไปแล้ว"
+
+#: templates/legacy/edit/oa_edit_criterion.html:9
+#: templates/legacy/edit/oa_edit_option.html:7
+#: templates/legacy/edit/oa_edit_prompt.html:10
+#: templates/legacy/edit/oa_training_example.html:10
+msgid "Remove"
+msgstr "ลบ"
+
+#: templates/legacy/edit/oa_edit_criterion.html:17
+msgid "Criterion Name"
+msgstr "ชื่อเกณฑ์"
+
+#: templates/legacy/edit/oa_edit_criterion.html:29
+msgid "Criterion Prompt"
+msgstr "แจ้งเกณฑ์"
+
+#: templates/legacy/edit/oa_edit_criterion.html:44
+msgid "Add Option"
+msgstr "เพิ่มตัวเลือก"
+
+#: templates/legacy/edit/oa_edit_criterion.html:52
+msgid "Feedback for This Criterion"
+msgstr "ผลตอบรับสำหรับเกณฑ์นี้"
+
+#: templates/legacy/edit/oa_edit_criterion.html:55 xblock/studio_mixin.py:56
+msgid "Optional"
+msgstr "เป็นตัวเลือก"
+
+#: templates/legacy/edit/oa_edit_criterion.html:56
+#: templates/legacy/oa_rubric.html:13
+#: templates/legacy/student_training/student_training.html:93
+#: xblock/studio_mixin.py:55
+msgid "Required"
+msgstr "จำเป็น"
+
+#: templates/legacy/edit/oa_edit_header_and_validation.html:3
+msgid "Open Response Assessment"
+msgstr "การประเมินการตอบแบบเปิด"
+
+#: templates/legacy/edit/oa_edit_header_and_validation.html:8
+#: templates/legacy/edit/oa_edit_prompt.html:7
+msgid "Prompt"
+msgstr "แจ้ง"
+
+#: templates/legacy/edit/oa_edit_header_and_validation.html:15
+msgid "Rubric"
+msgstr "กฎรูบริค"
+
+#: templates/legacy/edit/oa_edit_header_and_validation.html:38
+msgid "Settings"
+msgstr "การตั้งค่าต่างๆ "
+
+#: templates/legacy/edit/oa_edit_option.html:5
+msgid "Option"
+msgstr "ตัวเลือก"
+
+#: templates/legacy/edit/oa_edit_option.html:16
+msgid "Option Name"
+msgstr "ชื่อตัวเลือก"
+
+#: templates/legacy/edit/oa_edit_option.html:29
+msgid "Option Points"
+msgstr "คะแนนตัวเลือก"
+
+#: templates/legacy/edit/oa_edit_option.html:42
+msgid "Option Explanation"
+msgstr "คำอธิบายตัวเลือก"
+
+#: templates/legacy/edit/oa_edit_peer_assessment.html:10
+msgid "Step: Peer Assessment"
+msgstr "ขั้นตอน: ประเมินโดยเพื่อน"
+
+#: templates/legacy/edit/oa_edit_peer_assessment.html:29
+msgid "Must Grade"
+msgstr "ต้องให้คะแนน"
+
+#: templates/legacy/edit/oa_edit_peer_assessment.html:36
+msgid "Graded By"
+msgstr "ให้คะแนนโดย"
+
+#: templates/legacy/edit/oa_edit_peer_assessment_schedule.html:10
+#: templates/legacy/edit/oa_edit_self_assessment_schedule.html:10
+msgid "Start Date"
+msgstr "วันที่เริ่ม"
+
+#: templates/legacy/edit/oa_edit_peer_assessment_schedule.html:19
+#: templates/legacy/edit/oa_edit_self_assessment_schedule.html:19
+msgid "Start Time"
+msgstr "เวลาที่เริ่ม"
+
+#: templates/legacy/edit/oa_edit_peer_assessment_schedule.html:31
+#: templates/legacy/edit/oa_edit_self_assessment_schedule.html:31
+#: templates/legacy/staff_area/oa_staff_area.html:119
+msgid "Due Date"
+msgstr "วันครบกำหนด"
+
+#: templates/legacy/edit/oa_edit_peer_assessment_schedule.html:40
+#: templates/legacy/edit/oa_edit_self_assessment_schedule.html:40
+msgid "Due Time"
+msgstr "เวลาครบกำหนด"
+
+#: templates/legacy/edit/oa_edit_prompt.html:8
+msgid "You cannot delete a prompt after the assignment has been released."
+msgstr "คุณไม่สามารถลบการแจ้งได้หลังจากประกาศงานที่มอบหมายไปแล้ว"
+
+#: templates/legacy/edit/oa_edit_prompts.html:10
+msgid ""
+"Prompts. Replace the sample text with your own text. For more information, "
+"see the ORA documentation."
+msgstr ""
+"การแจ้ง แทนที่ข้อความตัวอย่างด้วยข้อความของคุณเอง "
+"สำหรับข้อมูลเพิ่มเติมโปรดดูที่เอกสาร ORA"
+
+#: templates/legacy/edit/oa_edit_prompts.html:22
+msgid "Add Prompt"
+msgstr "เพิ่มการแจ้ง"
+
+#: templates/legacy/edit/oa_edit_rubric.html:14
+msgid ""
+"Rubrics are made up of criteria, which usually contain one or more options. "
+"Each option has a point value. This template contains two sample criteria "
+"and their options. Replace the sample text with your own text. For more "
+"information, see the ORA documentation."
+msgstr ""
+"กฎรูบริคนั้นสร้างมาจากเกณฑ์ซึ่งโดยปกติมีหนึ่งตัวเลือกหรือมากกว่านั้น "
+"ในตัวเลือกแต่ละข้อมีค่า เทมเพลตนี้มีสองเกณฑ์ตัวอย่างและตัวเลือกของพวกเขา "
+"วางข้อความตัวอย่างด้วยข้อความของคุณเอง ข้อมูลเพิ่มเติม ดูที่งานเอกสารORA"
+
+#: templates/legacy/edit/oa_edit_rubric.html:29
+msgid "Add Criterion"
+msgstr "เพิ่มเกณฑ์"
+
+#: templates/legacy/edit/oa_edit_rubric.html:35
+msgid "Feedback for This Response"
+msgstr "ผลตอบกลับสำหรับคำตอบนี้"
+
+#: templates/legacy/edit/oa_edit_rubric.html:40
+msgid "Feedback Instructions"
+msgstr "คำแนะนำผลตอบกลับ"
+
+#: templates/legacy/edit/oa_edit_rubric.html:49
+msgid "Default Feedback Text"
+msgstr "ข้อความผลตอบกลับเริ่มต้น"
+
+#: templates/legacy/edit/oa_edit_schedule.html:40
+msgid "Response Start Date"
+msgstr "วันเริ่มตอบ"
+
+#: templates/legacy/edit/oa_edit_schedule.html:53
+msgid "Response Start Time"
+msgstr "เวลาเริ่มตอบ"
+
+#: templates/legacy/edit/oa_edit_schedule.html:70
+msgid "Response Due Date"
+msgstr "วันกำหนดส่งคำตอบ"
+
+#: templates/legacy/edit/oa_edit_schedule.html:83
+msgid "Response Due Time"
+msgstr "เวลากำหนดส่งคำตอบ"
+
+#: templates/legacy/edit/oa_edit_self_assessment.html:8
+msgid "Step: Self Assessment"
+msgstr "ขั้นตอน: ประเมินตนเอง"
+
+#: templates/legacy/edit/oa_edit_student_training.html:32
+msgid "Add Sample Response"
+msgstr "เพิ่มตัวอย่างคำตอบ"
+
+#: templates/legacy/edit/oa_training_example.html:7
+msgid "Scored Response"
+msgstr "คำตอบที่ให้คะแนนแล้ว"
+
+#: templates/legacy/edit/oa_training_example.html:16
+msgid "Response Score"
+msgstr "คะแนนคำตอบ"
+
+#: templates/legacy/edit/oa_training_example.html:27
+msgid "Response"
+msgstr "คำตอบ"
+
+#: templates/legacy/edit/oa_training_example_criterion.html:10
+msgid "Not Selected"
+msgstr "ไม่ถูกเลือก"
+
+#: templates/legacy/edit/oa_training_example_criterion.html:15
+#: templates/legacy/oa_rubric.html:43
+#: templates/legacy/student_training/student_training.html:128
+msgid "points"
+msgstr "คะแนน"
+
+#: templates/legacy/grade/oa_assessment_title.html:24
+#, python-format
+msgid "More information about %(name)s"
+msgstr "ข้อมูลเพิ่มเติมเกี่ยวกับ %(name)s"
+
+#: templates/legacy/grade/oa_grade_cancelled.html:14
+#: templates/legacy/grade/oa_grade_complete.html:15
+#: templates/legacy/grade/oa_grade_complete.html:26
+#: templates/legacy/grade/oa_grade_incomplete.html:14
+#: templates/legacy/grade/oa_grade_not_started.html:14
+#: templates/legacy/grade/oa_grade_waiting.html:14
+msgid "Your Grade"
+msgstr "เกรดของคุณ"
+
+#: templates/legacy/grade/oa_grade_cancelled.html:38
+msgid "Your submission has been cancelled."
+msgstr "การส่งของคุณถูกยกเลิกแล้ว"
+
+#: templates/legacy/grade/oa_grade_complete.html:38
+#: templates/legacy/response/oa_response.html:29
+msgid "Your Response"
+msgstr "คำตอบของคุณ"
+
+#: templates/legacy/grade/oa_grade_complete.html:46
+msgid "Assessments of Your Response"
+msgstr "การประเมินสำหรับคำตอบของคุณ"
+
+#: templates/legacy/grade/oa_grade_complete.html:65
+msgid "Overall Grade"
+msgstr "เกรดรวม"
+
+#: templates/legacy/grade/oa_grade_complete.html:70
+#: templates/legacy/staff_area/oa_student_info_assessment_detail.html:28
+msgid "Points"
+msgstr "คะแนน"
+
+#: templates/legacy/grade/oa_grade_complete.html:96
+msgid "Additional comments on your response"
+msgstr "ความเห็นเพิ่มเติมในคำตอบของคุณ"
+
+#: templates/legacy/grade/oa_grade_complete.html:126
+msgid "Submitting Feedback"
+msgstr "ส่งผลตอบกลับ"
+
+#: templates/legacy/grade/oa_grade_complete.html:134
+msgid ""
+"Your feedback has been submitted. Course staff will be able to see this "
+"feedback when they review course records."
+msgstr ""
+"ผลตอบกลับของคุณส่งเรียบร้อยแล้ว "
+"เจ้าหน้าที่หลักสูตรจะสามารถเห็นผลตอบกลับเมื่อเจ้าหน้าที่ตรวจสอบบันทึกหลักสูตร"
+
+#: templates/legacy/grade/oa_grade_complete.html:140
+msgid ""
+"Course staff will be able to see any feedback that you provide here when "
+"they review course records."
+msgstr ""
+"เต้าหน้าที่หลักสูตรจะสามารถเห็นผลตอบกลับใดๆก็ตามที่คุณส่งมาให้เมื่อเจ้าที่ตรวจสอบบันทึกหลักสูตร"
+
+#: templates/legacy/grade/oa_grade_complete.html:155
+msgid "These assessments were useful."
+msgstr "การประเมินเหล่านี้มีประโยชน์"
+
+#: templates/legacy/grade/oa_grade_complete.html:164
+msgid "These assessments were not useful."
+msgstr "การประเมินเหล่านี้ไม่ก่อประโยชน์"
+
+#: templates/legacy/grade/oa_grade_complete.html:173
+msgid "I disagree with one or more of the peer assessments of my response."
+msgstr ""
+"ไม่เห็นด้วยกับความเห็นการประเมินอันหนึ่งหรือมากกว่านั้น ต่อคำตอบของของคุณ"
+
+#: templates/legacy/grade/oa_grade_complete.html:182
+msgid "Some comments I received were inappropriate."
+msgstr "บางความเห็นที่ได้รับนั้นไม่เหมาะสม"
+
+#: templates/legacy/grade/oa_grade_complete.html:190
+msgid "I feel the feedback I received was..."
+msgstr "คุณรู้สึกว่าผลตอบกลับที่ได้นั้น..."
+
+#: templates/legacy/grade/oa_grade_complete.html:200
+msgid "We could not submit your feedback"
+msgstr "เราไม่สามารถส่งผลตอบรับของคุณ"
+
+#: templates/legacy/grade/oa_grade_incomplete.html:16
+msgid "Not Completed"
+msgstr "ยังไม่ครบ"
+
+#: templates/legacy/grade/oa_grade_incomplete.html:33
+msgid "You have not completed all the steps of this problem."
+msgstr "คุณยังไม่เสร็จสิ้นทุกขั้นตอนของปัญหานี้"
+
+#: templates/legacy/grade/oa_grade_not_started.html:16
+msgid "Not Started"
+msgstr "ยังไม่เริ่ม"
+
+#: templates/legacy/grade/oa_grade_not_started.html:27
+msgid "You have not started this problem yet."
+msgstr "คุณยังไม่ได้เริ่มปัญหาข้อนี้เลย"
+
+#: templates/legacy/grade/oa_grade_waiting.html:16
+msgid "Waiting for Assessments"
+msgstr "รอการประเมิน"
+
+#: templates/legacy/leaderboard/oa_leaderboard_show.html:20
+#, python-format
+msgid "%(num_points)s points"
+msgstr "%(num_points)s คะแนน"
+
+#: templates/legacy/leaderboard/oa_leaderboard_waiting.html:19
+msgid ""
+"After you complete all the steps of this assignment, you can see the top-"
+"scoring responses from your peers."
+msgstr ""
+"หลังจากเสร็จสิ้นทุกขั้นสำหรับการประเมินครั้งนี้แล้ว "
+"คุณสามารถเห็นคะแนนสูงสุดจากเพื่อนได้"
+
+#: templates/legacy/message/oa_message_unavailable.html:4
+msgid "Instructions Unavailable"
+msgstr "คำแนะนำใช้งานไม่ได้"
+
+#: templates/legacy/message/oa_message_unavailable.html:6
+msgid "The instructions for this step could not be loaded."
+msgstr "ไม่สามารถโหลดคำแนะนำสำหรับขั้นตอนนี้ได้"
+
+#: templates/legacy/oa_base.html:37 templates/openassessmentblock/base.html:56
+#: templates/openassessmentblock/base.html:105
+msgid "Loading"
+msgstr "กำลังโหลด"
+
+#: templates/legacy/oa_rubric.html:53
+msgid "Comments"
+msgstr "ความคิดเห็น"
+
+#: templates/legacy/peer/oa_peer_assessment.html:36
+msgid "Assess Peers"
+msgstr "ประเมินเพื่อน"
+
+#: templates/legacy/peer/oa_peer_assessment.html:75
+#: templates/legacy/peer/oa_peer_turbo_mode.html:45
+msgid "Read and assess the following response from one of your peers."
+msgstr "อ่านและประเมินคำตอบจากหนึ่งในเพื่อนของคุณ"
+
+#: templates/legacy/peer/oa_peer_assessment.html:101
+#: templates/legacy/peer/oa_peer_turbo_mode.html:70
+#: templates/legacy/self/oa_self_assessment.html:81
+#: templates/legacy/staff_area/oa_staff_grade_learners_assessment.html:57
+#: templates/legacy/staff_area/oa_staff_override_assessment.html:50
+msgid "We could not submit your assessment"
+msgstr "เราไม่สามารถส่งการประเมินของคุณ"
+
+#: templates/legacy/peer/oa_peer_cancelled.html:19
+#: templates/legacy/response/oa_response_cancelled.html:21
+#: templates/legacy/self/oa_self_cancelled.html:21
+#: templates/legacy/student_training/student_training_cancelled.html:18
+msgid "Cancelled"
+msgstr "ยกเลิก"
+
+#: templates/legacy/peer/oa_peer_closed.html:20
+#, python-format
+msgid ""
+"\n"
+"            Incomplete (%(num_graded)s of %(num_must_grade)s)\n"
+"        "
+msgstr ""
+"\n"
+"            ไม่เสร็จ (%(num_graded)s จาก %(num_must_grade)s)\n"
+"        "
+
+#: templates/legacy/peer/oa_peer_complete.html:13
+msgid "Completed"
+msgstr "ครบแล้ว"
+
+#: templates/legacy/peer/oa_peer_complete.html:31
+#: templates/legacy/peer/oa_peer_turbo_mode.html:41
+#: templates/legacy/peer/oa_peer_turbo_mode_waiting.html:36
+msgid ""
+"You have successfully completed all of the required peer assessments for "
+"this assignment. You may assess additional peer responses if you want to. "
+"Completing additional assessments will not affect your final grade."
+msgstr ""
+"ประเมินเพื่อนเสร็จสมบูรณ์ทั้งหมด คุณสามารถประเมินเพิ่มได้หากต้องการ "
+"การประเมินผลเพิ่มเติมจะไม่ส่งผลต่อคะแนนรวมคุณ"
+
+#: templates/legacy/peer/oa_peer_complete.html:36
+msgid "We could not retrieve additional submissions for assessment"
+msgstr "เราไม่สามารถกู้คืนการส่งเพิ่มเติมสำหรับการประเมินได้"
+
+#: templates/legacy/peer/oa_peer_complete.html:43
+msgid "Continue Assessing Peers"
+msgstr "ดำเนินการประเมินโดยเพื่อนต่อ"
+
+#: templates/legacy/peer/oa_peer_turbo_mode.html:26
+#: templates/legacy/peer/oa_peer_turbo_mode_waiting.html:20
+#, python-format
+msgid ""
+"\n"
+"        Complete (%(num_graded)s)\n"
+"      "
+msgstr ""
+"\n"
+"เสร็จสมบูรณ์ (%(num_graded)s)\n"
+"      "
+
+#: templates/legacy/peer/oa_peer_unavailable.html:16
+#: templates/legacy/response/oa_response_unavailable.html:17
+#: templates/legacy/self/oa_self_unavailable.html:17
+#: templates/legacy/student_training/student_training_unavailable.html:16
+msgid "Not Available"
+msgstr "ใช้ไม่ได้"
+
+#: templates/legacy/response/oa_response.html:54
+#: templates/legacy/self/oa_self_assessment.html:56
+msgid "In Progress"
+msgstr "อยู่ในระหว่างดำเนินการ"
+
+#: templates/legacy/response/oa_response.html:110
+msgid "After you submit your response, you cannot edit it"
+msgstr "หลังจากคุณส่งคำตอบ คุณไม่สามารถแก้ไขได้แล้ว"
+
+#: templates/legacy/response/oa_response.html:224
+msgid "We could not save your progress"
+msgstr "เราไม่สามารถบันทึกความก้าวหน้าของคุณ"
+
+#: templates/legacy/response/oa_response.html:322
+msgid "We could not submit your response"
+msgstr "เราไม่สามารถส่งคำตอบของคุณ"
+
+#: templates/legacy/response/oa_response.html:333
+msgid "Submit your response and move to the next step"
+msgstr "ส่งคำตอบของคุณและก้าวไปขั้นต่อไป"
+
+#: templates/legacy/response/oa_response_cancelled.html:48
+#, python-format
+msgid ""
+"\n"
+"                            Comments: %(comments)s\n"
+"                        "
+msgstr ""
+"\n"
+"ความคิดเห็น: %(comments)s"
+
+#: templates/legacy/response/oa_response_closed.html:19
+#: templates/legacy/self/oa_self_closed.html:20
+#: templates/legacy/student_training/student_training_closed.html:17
+msgid "Incomplete"
+msgstr "ยังไม่สมบูรณ์"
+
+#: templates/legacy/response/oa_response_graded.html:20
+#: templates/legacy/response/oa_response_submitted.html:20
+#: templates/legacy/self/oa_self_complete.html:18
+#: templates/legacy/student_training/student_training_complete.html:17
+msgid "Complete"
+msgstr "สำเร็จ"
+
+#: templates/legacy/self/oa_self_assessment.html:33
+msgid "Assess Your Response"
+msgstr "ประเมินคำตอบของคุณ"
+
+#: templates/legacy/staff_area/oa_staff_area.html:56
+msgid "Submit"
+msgstr "ส่ง"
+
+#: templates/legacy/staff_area/oa_staff_area.html:78
+msgid "Response total"
+msgstr "คำตอบทั้งหมด"
+
+#: templates/legacy/staff_area/oa_staff_area.html:84
+msgid "Location"
+msgstr "ตำแหน่ง"
+
+#: templates/legacy/staff_area/oa_staff_area.html:94
+#: templates/legacy/staff_area/oa_staff_area.html:117
+msgid "Problem Step"
+msgstr "ขั้นปัญหา"
+
+#: templates/legacy/staff_area/oa_staff_area.html:113
+msgid "Dates"
+msgstr "วันที่"
+
+#: templates/legacy/staff_area/oa_staff_area.html:118
+msgid "Release Date"
+msgstr "วันที่ปล่อย"
+
+#: templates/legacy/staff_area/oa_staff_area.html:131
+#: templates/legacy/staff_area/oa_staff_area.html:137
+msgid "N/A"
+msgstr "ไม่ปรากฎ"
+
+#: templates/legacy/staff_area/oa_student_info.html:252
+msgid "Comments:"
+msgstr "ความคิดเห็น"
+
+#: templates/legacy/staff_area/oa_student_info.html:261
+msgid "Remove submission"
+msgstr "ยกเลิกการส่ง"
+
+#: templates/legacy/staff_area/oa_student_info_assessment_detail.html:26
+msgid "Selected Option"
+msgstr "เลือกตัวเลือก"
+
+#: templates/legacy/staff_area/oa_student_info_assessment_detail.html:27
+msgid "Feedback"
+msgstr "ผลตอบกลับ"
+
+#: templates/legacy/staff_area/oa_student_info_assessment_detail.html:29
+msgid "Points Possible"
+msgstr "คะแนนที่เป็นไปได้"
+
+#: templates/legacy/student_training/student_training.html:18
+msgid "Learn to Assess Responses"
+msgstr "เรียนรู้เพื่อประเมินคำตอบ"
+
+#: templates/legacy/student_training/student_training.html:58
+#: templates/legacy/student_training/student_training.html:66
+msgid "Learning to Assess Responses"
+msgstr "การเรียนรู้เพื่อประเมินคำตอบ"
+
+#: templates/legacy/student_training/student_training.html:61
+msgid ""
+"Before you begin to assess your peers' responses, you'll learn how to "
+"complete peer assessments by reviewing responses that instructors have "
+"already assessed. If you select the same options for the response that the "
+"instructor selected, you'll move to the next step. If you don't select the "
+"same options, you'll review the response and try again."
+msgstr ""
+"ก่อนที่คุณจะเริ่มประเมินคำตอบของพื่อน "
+"คุณต้องเรียนรู้ว่าจะประเมินเพื่อนอย่างไร "
+"โดยการทบทวนคำตอบที่ผู้สอนได้ประเมินไว้แล้ว "
+"หากคุณเลือกตัวเลือกเดียวกันกับผู้สอน คุณจะไปขั้นต่อไป "
+"หากไม่คุณจะต้องทบทวนคำตอบอีกครั้ง"
+
+#: templates/legacy/student_training/student_training.html:69
+msgid ""
+"Your assessment differs from the instructor's assessment of this response. "
+"Review the response and consider why the instructor may have assessed it "
+"differently. Then, try the assessment again."
+msgstr ""
+"การประเมินของคุณต่างจากผู้สอนในคำตอบนี้ "
+"ทบทวนคำตอบและพิจารณาว่าเหตุใดผู้สอนจึงให้การประเมินที่ต่างออกไป "
+"จากนั้นลองประเมินอีกครั้ง"
+
+#: templates/legacy/student_training/student_training.html:98
+msgid "Selected Options Agree"
+msgstr "เลือกตัวเลือกที่เห็นด้วย"
+
+#: templates/legacy/student_training/student_training.html:101
+msgid "The option you selected is the option that the instructor selected."
+msgstr "ตัวเลือกที่คุณเลือกนั้นตรงกับที่ผู้สอนเลือก"
+
+#: templates/legacy/student_training/student_training.html:105
+msgid "Selected Options Differ"
+msgstr "เลือกตัวเลือกที่แตกต่าง"
+
+#: templates/legacy/student_training/student_training.html:108
+msgid ""
+"The option you selected is not the option that the instructor selected."
+msgstr "ตัวเลือกที่คุณเลือกนั้นไม่ตรงกับที่ผู้สอนเลือก"
+
+#: templates/legacy/student_training/student_training.html:144
+msgid "We could not check your assessment"
+msgstr "เราไม่สามารถตรวจงานคุณได้"
+
+#: templates/legacy/student_training/student_training.html:151
+msgid "Compare your selections with the instructor's selections"
+msgstr "เปรียบเทียบการเลือกของคุณกับผู้สอน"
+
+#: xblock/grade_mixin.py:78 xblock/leaderboard_mixin.py:61
+msgid "An unexpected error occurred."
+msgstr "เกิดข้อผิดพลาดที่คาดไม่ถึง"
+
+#: xblock/grade_mixin.py:180
+msgid "Peer Assessment"
+msgstr "การประเมินผลโดยเพื่อน"
+
+#: xblock/grade_mixin.py:182
+msgid "Self Assessment"
+msgstr "การประเมินตนเอง"
+
+#: xblock/grade_mixin.py:222
+msgid "Assessment feedback could not be saved."
+msgstr "ผลตอบกลับการประเมินไม่สามารถบันทึก"
+
+#: xblock/grade_mixin.py:233
+msgid "Feedback saved."
+msgstr "ผลตอบกลับบันทึกแล้ว"
+
+#: xblock/grade_mixin.py:394
+msgid "Your Self Assessment"
+msgstr "การประเมินส่วนตัว"
+
+#: xblock/staff_area_mixin.py:42
+msgid "You do not have permission to schedule training"
+msgstr "คุณไม่ได้รับอนุญาตให้กำหนดการฝึกอบรม"
+
+#: xblock/staff_area_mixin.py:43
+msgid "You do not have permission to reschedule tasks."
+msgstr "คุณไม่มีสิทธิ์เปลี่ยนแปลงกำหนดการของงาน"
+
+#: xblock/staff_area_mixin.py:702
+msgid "Please enter valid reason to remove the submission."
+msgstr "โปรดระบุเหตุผลในการยกเลิกการส่ง"
+
+#: xblock/studio_mixin.py:246 xblock/studio_mixin.py:258
+msgid "Error updating XBlock configuration"
+msgstr "ข้อผิดพลาดในการอัพเดตการกำหนดค่า XBlock"
+
+#: xblock/studio_mixin.py:294
+#, python-brace-format
+msgid "Validation error: {error}"
+msgstr "สาเหตุผิดพลาด: {error}"
+
+#: xblock/studio_mixin.py:328
+msgid "Successfully updated OpenAssessment XBlock"
+msgstr "การอัพเดทการประเมินแบบเปิด XBlockเสร็จสมบูรณ์"
+
+#: xblock/utils/resolve_dates.py:52
+#, python-brace-format
+msgid ""
+"'{date}' is an invalid date format. Make sure the date is formatted as YYYY-"
+"MM-DDTHH:MM:SS."
+msgstr ""
+"'{date}'รูปแบบไม่ถูกต้อง ตรวจสอบรูปแบบการเรียงเวลาให้เป็นรูปแบบนี้ YYYY-MM-"
+"DDTHH:MM:SS "
+
+#: xblock/utils/resolve_dates.py:57
+#, python-brace-format
+msgid "'{date}' must be a date string or datetime"
+msgstr "'{date}' ต้องเป็นตัวอักษรวันที่หรือวันเวลา"
+
+#: xblock/utils/resolve_dates.py:210
+#, python-brace-format
+msgid ""
+"This step's start date '{start}' cannot be earlier than the previous step's "
+"start date '{prev}'."
+msgstr ""
+"วันเริ่มในขั้นนี้  "
+"'{start}'ไม่สามารถจะเร็วกว่าวันที่เริ่มต้นขั้นตอนก่อนหน้า'{prev}'"
+
+#: xblock/utils/resolve_dates.py:218
+#, python-brace-format
+msgid ""
+"This step's due date '{due}' cannot be later than the next step's due date "
+"'{prev}'."
+msgstr ""
+"วันเริ่มในขั้นนี้  "
+"'{due}'ไม่สามารถจะช้ากว่าวันที่เริ่มต้นขั้นตอนก่อนหน้า'{prev}'"
+
+#: xblock/utils/resolve_dates.py:234
+#, python-brace-format
+msgid "The start date '{start}' cannot be later than the due date '{due}'"
+msgstr "วันเริ่มในขั้นนี้ '{start}'ไม่สามารถจะช้ากว่าวันกำหนดส่ง '{due}'"
+
+#: xblock/utils/validation.py:120
+msgid "This problem must include at least one assessment."
+msgstr "ปัญหานี้ต้องมีอย่างน้อยหนึ่งการประเมิน"
+
+#: xblock/utils/validation.py:124
+msgid "The assessment order you selected is invalid."
+msgstr "ลำดับการประเมินที่คุณเลือกไม่ถูกต้อง"
+
+#: xblock/utils/validation.py:134
+msgid "In peer assessment, the \"Must Grade\" value must be a positive integer."
+msgstr "การประเมินโดยเพื่อน ค่า\"ต้องให้คะแนน\" ต้องเป็นจำนวนเต็มบวก"
+
+#: xblock/utils/validation.py:137
+msgid "In peer assessment, the \"Graded By\" value must be a positive integer."
+msgstr "การประเมินโดยเพื่อน ค่า\"ให้คะแนนโดย\" ต้องเป็นจำนวนเต็มบวก"
+
+#: xblock/utils/validation.py:141
+msgid ""
+"In peer assessment, the \"Must Grade\" value must be greater than or equal "
+"to the \"Graded By\" value."
+msgstr ""
+"การประเมินโดยเพื่อน ค่า \"ต้องให้คะแนน\"ต้องมากกว่าหรือเท่ากับค่า  "
+"\"ให้คะแนนโดย\" "
+
+#: xblock/utils/validation.py:164
+msgid ""
+"The number of assessments cannot be changed after the problem has been "
+"released."
+msgstr "จำนวนของการประเมินไม่สามารถเปลี่ยนได้หลังออกคำถามไปแล้ว"
+
+#: xblock/utils/validation.py:169
+msgid ""
+"The assessment type cannot be changed after the problem has been released."
+msgstr "ประเภทของการประเมินไม่สามารถเปลี่ยนได้หลังออกคำถามไปแล้ว"
+
+#: xblock/utils/validation.py:200
+msgid "This rubric definition is not valid."
+msgstr "การอธิบายกฎรูบริคไม่ถูกต้อง"
+
+#: xblock/utils/validation.py:209
+#, python-brace-format
+msgid "Options in '{criterion}' have duplicate name(s): {duplicates}"
+msgstr "ตัวเลือกใน '{criterion}'ต้องคัดลอกชื่อ(s): {duplicates}"
+
+#: xblock/utils/validation.py:217
+msgid "Criteria with no options must require written feedback."
+msgstr "เกณฑ์ที่ไม่มีตัวเลือกต้องเขียนรายงานตอบกลับ"
+
+#: xblock/utils/validation.py:226
+msgid "Prompts cannot be created or deleted after a problem is released."
+msgstr "ข้อความแจ้งไม่สามารถสร้างหรือลบหลังจากที่ปัญหาถูกปล่อย"
+
+#: xblock/utils/validation.py:230
+msgid "The number of criteria cannot be changed after a problem is released."
+msgstr "จำนวนของเกณฑ์ไม่สามารถเปลี่ยนได้หลังออกคำถามไปแล้ว"
+
+#: xblock/utils/validation.py:243
+msgid "Criteria names cannot be changed after a problem is released"
+msgstr "ชื่อเกณฑ์ไม่สามารถเปลี่ยนได้หลังออกคำถามไปแล้ว"
+
+#: xblock/utils/validation.py:248
+msgid "The number of options cannot be changed after a problem is released."
+msgstr "จำนวนของตัวเลือกไม่สามารถเปลี่ยนได้หลังออกคำถามไปแล้ว"
+
+#: xblock/utils/validation.py:253
+msgid "Point values cannot be changed after a problem is released."
+msgstr "ค่าของจุดไม่สามารถเปลี่ยนได้หลังออกคำถามไปแล้ว"
+
+#: xblock/utils/validation.py:369
+msgid "Leaderboard number is invalid."
+msgstr "หมายเลขกระดานผู้นำไม่ถูกต้อง"
+
+#: xblock/utils/validation.py:392
+msgid "The submission format is invalid."
+msgstr "รูปแบบการส่งไม่ถูกต้อง"
