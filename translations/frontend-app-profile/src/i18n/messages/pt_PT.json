@@ -54,5 +54,16 @@
   "profile.formcontrols.button.saving": "A Guardar",
   "profile.formcontrols.button.saved": "Guardado",
   "profile.visibility.who.just.me": "Apenas eu",
-  "profile.visibility.who.everyone": "Toda a gente em {siteName}"
+  "profile.visibility.who.everyone": "Toda a gente em {siteName}",
+  "progress.header": "O Teu Progresso",
+  "progress.completion.header": "Conclusão do Recurso", 
+  "progress.courseGrade.grades": "Classificações",
+  "progress.weightedGrade": "Classificação ponderada",
+  "progress.weightedGradeSummary": "Resumo atual da tua classificação ponderada",
+  "progress.gradeSummary": "Sumário da Classificação",
+  "progress.footnotes.droppableAssignments":  "A pontuação mais baixa do trabalho de casa é removida da classificação. A pontuação mais baixa do trabalho prática é removida da classificação",
+  "progress.detailedGrades": "Classificações Detalhadas",
+  "progress.ungradedAlert": "Para progredires em domínios não avaliados, consulta o programa do recurso educativo"
 }
+  
+
