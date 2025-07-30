@@ -23210,7 +23210,7 @@ msgstr ""
 
 #: lms/templates/edxnotes/edxnotes.html:76
 msgid "Record thoughts about a specific passage or concept."
-msgstr "Registar reflexões acerca de uma passagem ou conceito específico." 
+msgstr "Registar reflexões acerca de uma passagem ou conceito específico."
 
 #: lms/templates/edxnotes/edxnotes.html:77
 msgid ""
