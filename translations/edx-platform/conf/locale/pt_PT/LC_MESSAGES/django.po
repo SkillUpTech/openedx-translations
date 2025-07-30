@@ -23207,9 +23207,11 @@ msgstr ""
 msgid "Mark a passage or concept so that it's easy to find later."
 msgstr ""
 "Marcar uma passagem ou conceito para que seja fácil de encontrar mais tarde."
+
 #: lms/templates/edxnotes/edxnotes.html:76
 msgid "Record thoughts about a specific passage or concept."
-msgstr " Registar reflexões acerca de uma passagem ou conceito específico." 
+msgstr "Registar reflexões acerca de uma passagem ou conceito específico." 
+
 #: lms/templates/edxnotes/edxnotes.html:77
 msgid ""
 "Highlight important information to review later in the course or in future "
