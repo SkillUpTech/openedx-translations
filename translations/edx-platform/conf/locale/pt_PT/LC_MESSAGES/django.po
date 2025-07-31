@@ -23181,8 +23181,8 @@ msgstr "Anotações dos Estudantes"
 
 #: lms/templates/edxnotes/edxnotes.html:28
 msgid "Highlights and notes you've made in course content"
-msgstr "Apontamentos e anotações que fez no conteúdo do curso"
-
+msgstr "Apontamentos e anotações que fizeste ao longo do recurso."
+    
 #: lms/templates/edxnotes/edxnotes.html:35
 msgid "Search notes for:"
 msgstr "Procurar anotações por:"
@@ -23200,32 +23200,31 @@ msgid ""
 "You have not made any notes in this course yet. Other students in this "
 "course are using notes to:"
 msgstr ""
-"Ainda não fez anotações neste curso. Outros estudantes neste curso estão a "
-"utilizar notas para:"
+"Ainda não fizeste anotações. Outros estudantes estão a "
+"utilizar as notas para: "
 
 #: lms/templates/edxnotes/edxnotes.html:75
 msgid "Mark a passage or concept so that it's easy to find later."
 msgstr ""
-"Marque uma passagem ou conceito para que seja fácil de encontrar mais tarde."
+"Marcar uma passagem ou conceito para que seja fácil de encontrar mais tarde."
 
 #: lms/templates/edxnotes/edxnotes.html:76
 msgid "Record thoughts about a specific passage or concept."
-msgstr "Registe reflexões acerca de uma passagem ou conceito específico."
+msgstr "Registar reflexões acerca de uma passagem ou conceito específico."
 
 #: lms/templates/edxnotes/edxnotes.html:77
 msgid ""
 "Highlight important information to review later in the course or in future "
 "courses."
 msgstr ""
-"Destaque informações importantes para rever mais tarde no curso ou em cursos"
-" futuros."
+"Destacar informações importantes para rever mais tarde ou em recursos futuros"
 
 #: lms/templates/edxnotes/edxnotes.html:82
 msgid ""
 "Get started by making a note in something you just read, like "
 "{section_link}."
 msgstr ""
-"Comece por fazer uma anotação em algo que acabou de ler, como "
+" Começa por fazer uma anotação em algo que acabaste de ler! , como "
 "{section_link}."
 
 #: lms/templates/edxnotes/toggle_notes.html:22
