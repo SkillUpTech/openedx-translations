@@ -130,5 +130,5 @@
   "calculator.instruction.table.to.use.scientific.notation.type2": "{notationSyntax} registo",
   "calculator.instruction.table.to.use.scientific.notation.type3": "{notationSyntax} e o expoente",
   "learn.honorCode.content": "Honestidade e integridade académica são importantes para {siteName} e as instituições que fornecem cursos e programas no site {siteName}. Ao clicar em \"Concordo\" abaixo, confirmo que li, compreendo e respeitarei o {link} do site {siteName}.",
-  "learn.course.sequence.navigation.mobile.menu": "{current} de {total}"
+  "learn.course.sequence.navigation.mobile.menu": "{current} de {total}" 
 }
