@@ -8920,6 +8920,36 @@ msgstr "Id do Curso"
 msgid "Schedules"
 msgstr "Horários"
 
+#: cms/templates/maintenance/base.html:14
+#: cms/templates/maintenance/index.html:8
+msgid "Maintenance Dashboard"
+msgstr "Painel de manutenção"
+
+#: cms/djangoapps/maintenance/views.py:35
+#: cms/templates/maintenance/_force_publish_course.html:24
+msgid "Force Publish Course"
+msgstr "Forçar publicação do recurso"
+
+#: cms/djangoapps/maintenance/views.py:38
+msgid ""
+"Sometimes the draft and published branches of a course can get out of sync. "
+"Force publish course command resets the published branch of a course to "
+"point to the draft branch, effectively force publishing the course. This "
+"view dry runs the force publish command"
+msgstr ""
+"Às vezes, as versões preliminares e publicadas de um recurso podem ficar descoordenadas. O comando “Forçar publicação do recurso” redefine a versão publicada de um recurso para apontar para a versão preliminar, forçando efetivamente a publicação do recurso. Esta vista executa este comando."
+
+#: cms/djangoapps/maintenance/views.py:45
+msgid "Edit Announcements"
+msgstr "Editar anúncios"
+
+#: cms/djangoapps/maintenance/views.py:48
+msgid ""
+"This view shows the announcement editor to create or alter announcements "
+"that are shown on the rightside of the dashboard."
+msgstr "Esta vista mostra o editor de anúncios para criar ou alterar anúncios que são exibidos no lado direito do painel."
+
+
 #: openedx/core/djangoapps/schedules/models.py:23
 msgid "Indicates if this schedule is actively used"
 msgstr "Indica se este programa é utilizado ativamente"
@@ -19288,7 +19318,7 @@ msgstr "Etiqueta"
 
 #: cms/templates/widgets/sock.html:12
 msgid "Looking for help with {studio_name}?"
-msgstr "Precisa de ajuda com {studio_name}?"
+msgstr "Precisas de ajuda com o Ecossistema de Aprendizagem - Estúdio?"
 
 #: cms/templates/widgets/sock.html:13
 msgid "Hide {studio_name} Help"
