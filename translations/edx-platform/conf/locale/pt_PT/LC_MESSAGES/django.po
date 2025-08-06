@@ -4323,7 +4323,7 @@ msgstr ""
 #: lms/templates/courseware/courseware.html:215
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:21
 msgid "Course"
-msgstr "Curso"
+msgstr "Recurso"
 
 #: lms/djangoapps/courseware/tabs.py:63
 #: lms/templates/courseware/syllabus.html:21
@@ -4332,7 +4332,7 @@ msgstr "Programa"
 
 #: lms/djangoapps/courseware/tabs.py:307
 msgid "Dates"
-msgstr "Datas"
+msgstr "Calendário"
 
 #: lms/djangoapps/courseware/views/index.py:231
 #, python-brace-format
