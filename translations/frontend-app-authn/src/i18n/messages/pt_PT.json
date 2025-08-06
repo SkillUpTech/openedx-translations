@@ -37,6 +37,7 @@
   "forgot.password.request.in.progress.message": "O seu pedido anterior está a ser processado, por favor tente novamente dentro de momentos.",
   "forgot.password.empty.email.field.error": "Digite o seu email",
   "forgot.password.email.help.text": "O endereço de e-mail que usou para se registar em {platformName}",
+  "forgot.password.return.text": "Entrar",
   "confirmation.message.title": "Verifique o seu email",
   "confirmation.support.link": "contacto o suporte técnico",
   "need.help.sign.in.text": "Precisa de ajuda para entrar?",
