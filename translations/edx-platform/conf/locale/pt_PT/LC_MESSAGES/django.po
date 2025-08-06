@@ -15876,6 +15876,10 @@ msgstr "Nota: Não são permitidos espaços ou caracteres especiais."
 msgid "Course Number"
 msgstr "Código do Curso"
 
+#: lms/templates/courseware/course_about.html:157
+msgid "Course Summary"
+msgstr "Resumo do Recurso"
+
 #. Translators: This is an example for the number used to identify a course,
 #. seen when filling out the form to create a new course. The number here is
 #. short for "Computer Science 101". It can contain letters but cannot contain
