@@ -23,7 +23,7 @@
   "learning.goals.unsubscribe.errorDescription": "Não foi possível cancelar a sua inscrição dos emails de lembrete de objetivo. Tente novamente mais tarde ou {contactSupport} para obter ajuda.",
   "learning.outline.sequence-due-date-set": "{description} previsto {assignmentDue}",
   "learning.outline.sequence-due-date-not-set": "{description}",
-  "learn.breadcrumb.navigation.course.home": "Curso",
+  "learn.breadcrumb.navigation.course.home": "Recurso",
   "learn.course.tabs.navigation.overflow.menu": "Mais...",
   "learning.upgradeButton.buttonText": "Actualizar para {pricing}",
   "learning.upgradeNowButton.buttonText": "Actualizar agora para {pricing}",
@@ -53,6 +53,7 @@
   "learning.generic.upsell.supportMissionBullet": "Apoio a nossa {missionInBoldText} em {siteName}",
   "learning.outline.tools": "Ferramentas do recurso",
   "learning.outline.materials": "Materials do recurso",
+  "learning.outline.handouts": "Materiais do recurso",
   "tours.datesCheckpoint.body": "As datas importantes podem ajudá-lo a manter-se no seu percurso.",
   "tours.datesCheckpoint.title": "Mantenha-se a par das principais datas",
   "tours.outlineCheckpoint.body": "Pode explorar secções do curso utilizando o esquema abaixo.",
@@ -80,6 +81,8 @@
   "learning.celebration.goalCongrats": "Parabéns, atingiu o seu objetivo de aprendizagem de {nTimes} por semana.",
   "learning.celebration.setGoal": "O estabelecimento de um objetivo pode ajudá-lo {strongText} no seu curso.",
   "learning.outline.startBlurb": "Explora hoje um novo recurso educativo",
+  "learning.dates.title": "Calendário as importantes",
+  "learning.dates.badge.today": "Hoje",
   "courseCelebration.certificateBody.upgradable": "Ainda não é tarde para atualizar. Por {price} desbloqueará o acesso a todas as tarefas classificadas deste curso. Após a conclusão, receberá um certificado verificado que é uma credencial valiosa para melhorar as suas perspectivas de emprego e avançar na sua carreira, ou destacar o seu certificado em candidaturas escolares.",
   "courseCelebration.upgradeDiscountCodePrompt": "Use o código {code} no checkout para {percent}% de desconto!",
   "learning.outline.start":"Iniciar recurso",
@@ -139,5 +142,11 @@
   "notes.button.show": "Ocultar notas",
   "notes.button.hide": "Mostrar notas",
   "notification.tray.title": "Notificações",
-  "notification.tray.no.message": "Não existe nenhuma notificação neste momento"
+  "notification.tray.no.message": "Não existe nenhuma notificação neste momento.",
+  "role.staff": "Equipa",
+  "role.specific": "Aluno específico",
+  "role.exam": "Exame",
+  "roleStaff": "Equipa",
+  "roleSpecific": "Aluno específico",
+  "masquerade.about": "Ver este recurso como"
 }

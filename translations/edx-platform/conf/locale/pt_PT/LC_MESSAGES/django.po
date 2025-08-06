@@ -4323,7 +4323,7 @@ msgstr ""
 #: lms/templates/courseware/courseware.html:215
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:21
 msgid "Course"
-msgstr "Curso"
+msgstr "Recurso"
 
 #: lms/djangoapps/courseware/tabs.py:63
 #: lms/templates/courseware/syllabus.html:21
@@ -4332,7 +4332,7 @@ msgstr "Programa"
 
 #: lms/djangoapps/courseware/tabs.py:307
 msgid "Dates"
-msgstr "Datas"
+msgstr "Calendário"
 
 #: lms/djangoapps/courseware/views/index.py:231
 #, python-brace-format
@@ -8919,6 +8919,36 @@ msgstr "Id do Curso"
 #: openedx/core/djangoapps/schedules/models.py:47
 msgid "Schedules"
 msgstr "Horários"
+
+#: cms/templates/maintenance/base.html:14
+#: cms/templates/maintenance/index.html:8
+msgid "Maintenance Dashboard"
+msgstr "Painel de manutenção"
+
+#: cms/djangoapps/maintenance/views.py:35
+#: cms/templates/maintenance/_force_publish_course.html:24
+msgid "Force Publish Course"
+msgstr "Forçar publicação do recurso"
+
+#: cms/djangoapps/maintenance/views.py:38
+msgid ""
+"Sometimes the draft and published branches of a course can get out of sync. "
+"Force publish course command resets the published branch of a course to "
+"point to the draft branch, effectively force publishing the course. This "
+"view dry runs the force publish command"
+msgstr ""
+"Às vezes, as versões preliminares e publicadas de um recurso podem ficar descoordenadas. O comando “Forçar publicação do recurso” redefine a versão publicada de um recurso para apontar para a versão preliminar, forçando efetivamente a publicação do recurso. Esta vista executa este comando."
+
+#: cms/djangoapps/maintenance/views.py:45
+msgid "Edit Announcements"
+msgstr "Editar anúncios"
+
+#: cms/djangoapps/maintenance/views.py:48
+msgid ""
+"This view shows the announcement editor to create or alter announcements "
+"that are shown on the rightside of the dashboard."
+msgstr "Esta vista mostra o editor de anúncios para criar ou alterar anúncios que são exibidos no lado direito do painel."
+
 
 #: openedx/core/djangoapps/schedules/models.py:23
 msgid "Indicates if this schedule is actively used"
@@ -19288,7 +19318,7 @@ msgstr "Etiqueta"
 
 #: cms/templates/widgets/sock.html:12
 msgid "Looking for help with {studio_name}?"
-msgstr "Precisa de ajuda com {studio_name}?"
+msgstr "Precisas de ajuda com o {studio_name}?"
 
 #: cms/templates/widgets/sock.html:13
 msgid "Hide {studio_name} Help"
@@ -25350,7 +25380,7 @@ msgstr ""
 
 #: lms/templates/learner_dashboard/_dashboard_navigation_courses.html:7
 msgid "My Courses"
-msgstr "Meus Cursos"
+msgstr "Os meus recursos"
 
 #: lms/templates/lti_provider/user-auth-error.html:11
 msgid "There was an error when loading this module!"
