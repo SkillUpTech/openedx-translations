@@ -148,5 +148,12 @@
   "role.exam": "Exame",
   "roleStaff": "Equipa",
   "roleSpecific": "Aluno específico",
-  "masquerade.about": "Ver este recurso como"
+  "masquerade.about": "Ver este recurso como",
+  "progress.header": "O seu Progresso",
+  "progress.completion.header": "Conclusão do Curso",
+  "progress.courseGrade.grades": "Notas",
+  "progress.relatedLinks": "Links Relacionadas",
+  "progress.relatedLinks.outlineCard.link": "Estrutura do recurso",
+  "progress.creditInformation.completed": "Concluído"
+
 }
