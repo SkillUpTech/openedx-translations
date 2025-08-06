@@ -40,7 +40,7 @@
   "confirmation.message.title": "Verifique o seu email",
   "confirmation.support.link": "contacto o suporte técnico",
   "need.help.sign.in.text": "Precisa de ajuda para entrar?",
-  "additional.help.text": "Para ajuda adicional, contacta o nosso suporte através do e-mail",
+  "additional.help.text": "Para ajuda adicional, contacta o nosso suporte através do e-mail:",
   "sign.in.text": "Iniciar sessão",
   "extend.field.errors": "{emailError} abaixo.",
   "invalid.token.heading": "Link para Redefinir Palavra-passe inválido",
