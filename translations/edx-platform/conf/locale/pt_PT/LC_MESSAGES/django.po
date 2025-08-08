@@ -23772,7 +23772,7 @@ msgid "Register for free"
 msgstr "Registre-se gratuitamente"
 
 #: lms/templates/header/user_dropdown.html:47
-msgid "My Account"
+msgid "Profile"
 msgstr "Perfil"
 
 #: lms/templates/header/user_dropdown.html:50
