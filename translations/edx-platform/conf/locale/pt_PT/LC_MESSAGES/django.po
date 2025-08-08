@@ -7568,8 +7568,8 @@ msgstr "Ir para a Página Inicial de %(platform_name)s"
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:39
 #: lms/templates/navigation/navbar-authenticated.html:22
 #: lms/templates/navigation/navbar-not-authenticated.html:20
-msgid "Courses"
-msgstr "Cursos"
+msgid "Resources"
+msgstr "Recursos"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:108
 msgid "My Account"
@@ -19575,7 +19575,7 @@ msgstr "Ainda não está inscrito em nenhum curso."
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:32
 #: lms/templates/navigation/navbar-authenticated.html:16
 msgid "Explore courses"
-msgstr "Explorar cursos"
+msgstr "Explorar recursos"
 
 #: lms/templates/header/navbar-not-authenticated.html:40
 msgid "Discover courses"
@@ -23772,7 +23772,7 @@ msgid "Register for free"
 msgstr "Registre-se gratuitamente"
 
 #: lms/templates/header/user_dropdown.html:47
-msgid "Profile"
+msgid "My Account"
 msgstr "Perfil"
 
 #: lms/templates/header/user_dropdown.html:50
@@ -25452,7 +25452,7 @@ msgstr ""
 
 #: lms/templates/navigation/navbar-not-authenticated.html:33
 msgid "Explore Courses"
-msgstr "Explorar Cursos"
+msgstr "Explorar Recursos"
 
 #: lms/templates/navigation/navigation.html:44
 msgid "Global"
@@ -26224,7 +26224,7 @@ msgstr "Ainda não obteve quaisquer certificados."
 
 #: openedx/features/learner_profile/templates/learner_profile/learner-achievements-fragment.html:58
 msgid "Explore New Courses"
-msgstr "Explorar Novos Cursos"
+msgstr "Explorar Novos Recursos"
 
 #: openedx/features/learner_profile/templates/learner_profile/learner_profile.html:16
 msgid "Learner Profile"
