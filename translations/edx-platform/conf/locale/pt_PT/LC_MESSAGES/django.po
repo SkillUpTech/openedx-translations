@@ -4465,7 +4465,7 @@ msgid ""
 "{enroll_link_start}Enroll now{enroll_link_end}."
 msgstr ""
 "É necessário estar inscrito no curso para ver o conteúdo do curso. "
-"{enroll_link_start}Inscreva-se agora{enroll_link_end}."
+"{enroll_link_start}Inscreve-te agora{enroll_link_end}."
 
 #: lms/djangoapps/courseware/views/views.py:597
 msgid "You must be enrolled in the course to see course content."
@@ -22149,7 +22149,7 @@ msgstr "Matrícula Encerrada"
 
 #: lms/templates/courseware/course_about.html:113
 msgid "Enroll Now"
-msgstr "Inscreva-se agora"
+msgstr "Inscreve-te agora"
 
 #: lms/templates/courseware/course_about.html:145
 msgid "View About Page in studio"

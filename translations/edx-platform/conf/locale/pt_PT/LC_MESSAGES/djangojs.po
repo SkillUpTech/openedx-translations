@@ -10763,7 +10763,7 @@ msgstr "Selecione uma sessão:"
 #: lms/templates/learner_dashboard/course_enroll.underscore:34
 #: lms/templates/learner_dashboard/course_enroll.underscore:38
 msgid "Enroll Now"
-msgstr "Inscreva-se Agora"
+msgstr "Inscreve-te agora"
 
 #: lms/templates/learner_dashboard/course_enroll.underscore:44
 msgid "Coming Soon"
