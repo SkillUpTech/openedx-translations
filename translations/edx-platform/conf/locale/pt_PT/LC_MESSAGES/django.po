@@ -666,7 +666,7 @@ msgstr "{platform_name} Níveis de Suporte:"
 #: lms/djangoapps/discussion/templates/discussion/discussion_profile_page.html:48
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:24
 msgid "Discussion"
-msgstr "Fórum"
+msgstr "Discussão"
 
 #: cms/djangoapps/contentstore/views/component.py:261
 #: openedx/core/djangoapps/content_libraries/constants.py:10
@@ -3937,14 +3937,14 @@ msgstr "Objetivo do curso atualizado com sucesso."
 #: lms/djangoapps/course_wiki/views.py:125 lms/templates/wiki/base.html:6
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:27
 msgid "Wiki"
-msgstr "Wiki"
+msgstr "Colaboração"
 
 #: lms/djangoapps/course_wiki/plugins/course_app.py:32
 msgid ""
 "Enable learners to access, and collaborate on course-related information."
 msgstr ""
-"Permitir aos alunos o acesso, e colaborar na informação relacionada com os "
-"cursos."
+"Permite que os alunos acedam e colaborem em informações relacionadas com o "
+"recurso."
 
 #. Translators: this string includes wiki markup.  Leave the ** and the _
 #. alone.
@@ -4265,7 +4265,7 @@ msgstr "Progresso"
 
 #: lms/djangoapps/courseware/plugins.py:28
 msgid "Keep learners engaged and on track throughout the course."
-msgstr "Manter os estudantes envolvidos e no rumo certo ao longo do curso."
+msgstr "Mantém os alunos envolvidos e no caminho certo no recurso educativo."
 
 #. #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 #. Translators: 'Textbooks' refers to the tab in the course that leads to the
@@ -4280,7 +4280,7 @@ msgstr "Livros Didáticos"
 #: lms/djangoapps/courseware/plugins.py:75
 msgid ""
 "Create and manage a library of course readings, textbooks, and chapters."
-msgstr "Criar e gerir uma biblioteca de textos, livros e capítulos de cursos."
+msgstr "Cria e gere uma biblioteca de leituras do recurso, livros didáticos e capítulos."
 
 #: lms/djangoapps/courseware/plugins.py:125
 msgid "Calculator"
@@ -4289,7 +4289,7 @@ msgstr "Calculadora"
 #: lms/djangoapps/courseware/plugins.py:126
 msgid "Provide an in-course calculator for simple and complex calculations."
 msgstr ""
-"Fornecer uma calculadora no decurso do curso para cálculos simples e "
+"Fornece uma calculadora integrada no recurso para cálculos simples e "
 "complexos."
 
 #: lms/djangoapps/courseware/plugins.py:173
@@ -4306,12 +4306,12 @@ msgstr ""
 #: lms/djangoapps/courseware/plugins.py:219 cms/templates/edit-tabs.html:12
 #: cms/templates/edit-tabs.html:55 cms/templates/edit-tabs.html:177
 msgid "Custom pages"
-msgstr "Páginas personalizadas"
+msgstr "Páginas personalizados"
 
 #: lms/djangoapps/courseware/plugins.py:220
 msgid "Provide additional course content and resources with custom pages"
 msgstr ""
-"Fornecer conteúdo e recursos adicionais do curso com páginas personalizadas"
+"Fornece conteúdos adicionais ao recurso com páginas personalizadas"
 
 #: lms/djangoapps/courseware/tabs.py:36
 #: lms/djangoapps/courseware/views/views.py:2198
@@ -4668,7 +4668,7 @@ msgstr "Notas"
 #: lms/djangoapps/edxnotes/plugins.py:58
 msgid ""
 "Allow learners to highlight passages and make notes right in the course."
-msgstr "Permitir aos alunos destacar passagens e tomar notas durante o curso."
+msgstr "Permite que os alunos destaquem passagens e façam anotações diretamente no recurso."
 
 #: lms/djangoapps/grades/rest_api/v1/gradebook_views.py:1147
 msgid ""
@@ -6124,7 +6124,7 @@ msgstr "Equipas"
 
 #: lms/djangoapps/teams/plugins.py:54
 msgid "Leverage teams to allow learners to connect by topic of interest."
-msgstr "Permitir que as equipas de alunos se liguem por tópico de interesse."
+msgstr "Aproveita as equipas para permitir que os alunos interajam por tópico de interesse."
 
 #: lms/djangoapps/teams/views.py:417
 msgid "course_id must be provided"
@@ -8212,7 +8212,7 @@ msgstr "Ao vivo"
 #: openedx/core/djangoapps/course_live/plugins.py:26
 msgid "Enable in-platform video conferencing by configuring live"
 msgstr ""
-"Activar a videoconferência na plataforma através da configuração ao vivo"
+"Permite a videoconferência na plataforma através do modo ao vivo"
 
 #: openedx/core/djangoapps/credentials/apps.py:18
 msgid "Credentials"
@@ -8555,7 +8555,7 @@ msgstr ""
 #: openedx/core/djangoapps/discussions/plugins.py:24
 msgid ""
 "Encourage participation and engagement in your course with discussions."
-msgstr "Incentivar a participação e o empenho no seu curso com debates."
+msgstr "Incentiva a utilização e o envolvimento no teu recurso através de discussões sobre tópicos abordados."
 
 #: openedx/core/djangoapps/django_comment_common/models.py:25
 msgid "Administrator"
