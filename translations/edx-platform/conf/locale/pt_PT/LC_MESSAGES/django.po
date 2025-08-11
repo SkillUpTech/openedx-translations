@@ -16149,7 +16149,7 @@ msgstr ""
 
 #: cms/templates/course_outline.html:306
 msgid "Learn more about the course outline"
-msgstr "Saiba mais sobre a estrutura geral do curso"
+msgstr "Saber mais sobre a estrutura geral do recurso"
 
 #: cms/templates/course_outline.html:310
 msgid "Setting release dates and grading policies"
