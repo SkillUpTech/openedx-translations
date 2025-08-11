@@ -16149,7 +16149,7 @@ msgstr ""
 
 #: cms/templates/course_outline.html:306
 msgid "Learn more about the course outline"
-msgstr "Saiba mais sobre a estrutura geral do curso"
+msgstr "Saber mais sobre a estrutura geral do recurso"
 
 #: cms/templates/course_outline.html:310
 msgid "Setting release dates and grading policies"
@@ -16171,7 +16171,7 @@ msgstr "Saiba mais sobre as configurações da política de classificação"
 
 #: cms/templates/course_outline.html:317
 msgid "Changing the content learners see"
-msgstr "A alterar a visualização do conteúdo dos estudantes"
+msgstr "A alterar a visualização do conteúdo dos alunos"
 
 #: cms/templates/course_outline.html:318
 msgid ""
@@ -17573,16 +17573,16 @@ msgid "Taxonomies"
 msgstr "Taxonomias"
 
 #: cms/templates/index.html:383
-msgid "Are you staff on an existing {studio_name} course?"
-msgstr "Pertence à equipa de algum curso {studio_name} já existente?"
+msgid "Are you staff on an existing Learning Ecosystem - Studio course?"
+msgstr "Fazes parte da equipa de um recurso existente no Ecossistema de Aprendizagem - Estúdio?"
 
 #: cms/templates/index.html:385
 msgid ""
 "The course creator must give you access to the course. Contact the course "
 "creator or administrator for the course you are helping to author."
 msgstr ""
-"O criador do curso deve dar-lhe acesso ao curso. Contacte o criador ou "
-"administrador do curso que está a ajudar a criar."
+"O criador do recurso deve conceder-te acesso ao recurso. "
+"Entra em contacto com o criador ou administrador do recurso."
 
 #: cms/templates/index.html:393 cms/templates/index.html:401
 msgid "Create Your First Course"
@@ -19575,11 +19575,11 @@ msgstr "Ainda não está inscrito em nenhum curso."
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:32
 #: lms/templates/navigation/navbar-authenticated.html:16
 msgid "Explore courses"
-msgstr "Explorar recursos"
+msgstr "Explorar"
 
 #: lms/templates/header/navbar-not-authenticated.html:40
 msgid "Discover courses"
-msgstr "Explorar recursos"
+msgstr "Explorar"
 
 #: lms/templates/dashboard.html:249
 #: lms/templates/registration/account_activation_sidebar_notice.html:16
