@@ -18426,7 +18426,7 @@ msgid ""
 "You can manage this image along with all of your other {a_link_start}files "
 "and uploads{a_link_end}"
 msgstr ""
-"Pode gerir esta imagem junto com todos os seus outros ficheiros "
+"É possível gerir esta imagem juntamente com os outros ficheiros "
 "{a_link_start} e carregamentos{a_link_end}"
 
 #: cms/templates/settings.html:473
