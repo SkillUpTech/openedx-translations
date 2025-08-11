@@ -16171,7 +16171,7 @@ msgstr "Saiba mais sobre as configurações da política de classificação"
 
 #: cms/templates/course_outline.html:317
 msgid "Changing the content learners see"
-msgstr "A alterar a visualização do conteúdo dos estudantes"
+msgstr "A alterar a visualização do conteúdo dos alunos"
 
 #: cms/templates/course_outline.html:318
 msgid ""
