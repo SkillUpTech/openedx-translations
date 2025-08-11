@@ -19575,11 +19575,11 @@ msgstr "Ainda não está inscrito em nenhum curso."
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:32
 #: lms/templates/navigation/navbar-authenticated.html:16
 msgid "Explore courses"
-msgstr "Explorar recursos"
+msgstr "Explorar"
 
 #: lms/templates/header/navbar-not-authenticated.html:40
 msgid "Discover courses"
-msgstr "Explorar recursos"
+msgstr "Explorar"
 
 #: lms/templates/dashboard.html:249
 #: lms/templates/registration/account_activation_sidebar_notice.html:16
