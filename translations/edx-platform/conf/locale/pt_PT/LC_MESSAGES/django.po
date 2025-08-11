@@ -17574,15 +17574,15 @@ msgstr "Taxonomias"
 
 #: cms/templates/index.html:383
 msgid "Are you staff on an existing {studio_name} course?"
-msgstr "Pertence à equipa de algum curso {studio_name} já existente?"
+msgstr "Fazes parte da equipa de um recurso existente no Ecossistema de Aprendizagem - Estúdio?"
 
 #: cms/templates/index.html:385
 msgid ""
 "The course creator must give you access to the course. Contact the course "
 "creator or administrator for the course you are helping to author."
 msgstr ""
-"O criador do curso deve dar-lhe acesso ao curso. Contacte o criador ou "
-"administrador do curso que está a ajudar a criar."
+"O criador do recurso deve conceder-te acesso ao recurso. "
+"Entra em contacto com o criador ou administrador do recurso."
 
 #: cms/templates/index.html:393 cms/templates/index.html:401
 msgid "Create Your First Course"
