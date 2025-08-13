@@ -1288,6 +1288,7 @@
   "authoring.texteditor.sourcecodemodal.title.label": "Editar código fonte",
   "pgn.DataTable.FilterStatus.removeFilter": "Remover este filtro",
   "pgn.DataTable.FilterStatus.clearFiltersText": "Limpar filtros",
+  "course-authoring.course-outline.buttons.dismiss": "Rejeitar",
   "course-authoring.video-uploads.file-info.infoTab.title": "Info",
   "course-authoring.video-uploads.file-info.transcriptTab.title": "Transcrição ({transcriptCount})",
   "course-authoring.video-uploads.file-info.transcriptTab.notification.screenReader.text": "Erro na transcrição",
