@@ -19321,11 +19321,11 @@ msgid "Label"
 msgstr "Etiqueta"
 
 #: cms/templates/widgets/sock.html:12
-msgid "Looking for help with Studio?"
+msgid "Looking for help with Learning Ecosystem Studio?"
 msgstr "Precisas de ajuda com o Ecossistema de Aprendizagem - Estúdio?"
 
 #: cms/templates/widgets/sock.html:13
-msgid "Hide Studio Help"
+msgid "Hide Learning Ecosystem Studio Help"
 msgstr "Ocultar Ajuda de Ecossistema de Aprendizagem - Estúdio"
 
 #: cms/templates/widgets/sock.html:20
