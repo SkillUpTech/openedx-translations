@@ -1,4 +1,5 @@
 {
+  "initial.display.message": "Entra ou regista-te para explorar novas formas de aprender e ensinar.",
   "error.notfound.message": "A página que procura não está disponível ou há um erro no URL. Por favor, verifique o URL e tente novamente.",
   "institution.login.page.sub.heading": "Escolha a sua instituição a partir da lista abaixo",
   "logistration.sign.in": "Iniciar sessão",
@@ -36,10 +37,11 @@
   "forgot.password.request.in.progress.message": "O seu pedido anterior está a ser processado, por favor tente novamente dentro de momentos.",
   "forgot.password.empty.email.field.error": "Digite o seu email",
   "forgot.password.email.help.text": "O endereço de e-mail que usou para se registar em {platformName}",
+  "forgot.password.return.text": "Entrar",
   "confirmation.message.title": "Verifique o seu email",
   "confirmation.support.link": "contacto o suporte técnico",
   "need.help.sign.in.text": "Precisa de ajuda para entrar?",
-  "additional.help.text": "Para ajuda adicional, contacta o nosso suporte através do e-mail",
+  "additional.help.text": "Para ajuda adicional, contacta o nosso suporte através do e-mail:",
   "sign.in.text": "Iniciar sessão",
   "extend.field.errors": "{emailError} abaixo.",
   "invalid.token.heading": "Link para Redefinir Palavra-passe inválido",

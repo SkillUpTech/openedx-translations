@@ -1,4 +1,5 @@
 {
+  "initial.display.message": "Log in or sign up to explore new ways of learning and teaching.",
   "error.notfound.message": "The page you're looking for is unavailable or there's an error in the URL. Please check the URL and try again.",
   "institution.login.page.sub.heading": "Choose your institution from the list below",
   "logistration.sign.in": "Sign in",

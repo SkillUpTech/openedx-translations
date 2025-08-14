@@ -32,7 +32,7 @@
   "instructorToolbar.pageBanner.courseHasNotStarted": "Este aluno ainda não tem acesso a este curso. O curso começa em {date}.",
   "learning.enrollment.alert": "Você deve estar inscrito no curso para ver o conteúdo dele.",
   "learning.staff.enrollment.alert": "Você está vendo este curso como um funcionário equipe e não está inscrito.",
-  "learning.enrollment.enrollNow.Inline": "Inscreva-se agora",
+  "learning.enrollment.enrollNow.Inline": "Inscreve-te agora",
   "learning.enrollment.enrollNow.Sentence": "Inscreva-se agora.",
   "learning.enrollment.success": "Você se inscreveu com sucesso neste curso!",
   "account-activation.alert.button": "Continuar para {siteName}",

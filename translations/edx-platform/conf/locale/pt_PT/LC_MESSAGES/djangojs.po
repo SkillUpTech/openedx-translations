@@ -3460,9 +3460,9 @@ msgstr ""
 #, javascript-format
 msgid "Viewing %s course"
 msgid_plural "Viewing %s courses"
-msgstr[0] "A visualizar %s curso"
-msgstr[1] "A visualizar %s cursos"
-msgstr[2] "A visualizar %s cursos"
+msgstr[0] "A visualizar %s recurso"
+msgstr[1] "A visualizar %s recursos"
+msgstr[2] "A visualizar %s recursos"
 
 #: lms/static/js/discovery/views/search_form.js:57
 #, javascript-format
@@ -10763,7 +10763,7 @@ msgstr "Selecione uma sessão:"
 #: lms/templates/learner_dashboard/course_enroll.underscore:34
 #: lms/templates/learner_dashboard/course_enroll.underscore:38
 msgid "Enroll Now"
-msgstr "Inscreva-se Agora"
+msgstr "Inscreve-te agora"
 
 #: lms/templates/learner_dashboard/course_enroll.underscore:44
 msgid "Coming Soon"
