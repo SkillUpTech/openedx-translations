@@ -1834,7 +1834,23 @@
   "course-authoring.studio-home.courses.tab.course.not.found.alert.title": "Não foi possível encontrar nenhum resultado",
   "course-authoring.studio-home.courses.tab.course.not.found.alert.message": "Não há recursos com os filtros atuais.",
   "course-authoring.studio-home.courses.tab.course.not.found.alert.clean.filters.button": "Limpar filtros",
-  "course-authoring.studio-home.courses.pagination.info": "A mostrar {length} de {total}"
-
-  
+  "course-authoring.studio-home.courses.pagination.info": "A mostrar {length} de {total}",
+  "course-authoring.pages-resources.card.progress": "Progresso",
+  "course-authoring.pages-resources.description.progress": "Mantém os alunos envolvidos e no caminho certo no recurso educativo.",
+  "course-authoring.pages-resources.card.discussion": "Discussão",
+  "course-authoring.pages-resources.description.discussion": "Incentiva a utilização e o envolvimento no teu recurso através de discussões sobre tópicos abordados.",
+  "course-authoring.pages-resources.card.teams": "Equipas",
+  "course-authoring.pages-resources.description.teams": "Aproveita as equipas para permitir que os alunos interajam por tópico de interesse.",
+  "course-authoring.pages-resources.card.notes": "Notas",
+  "course-authoring.pages-resources.description.notes": "Permite que os alunos destaquem passagens e façam anotações diretamente no recurso.",
+  "course-authoring.pages-resources.card.wiki": "Colaboração",
+  "course-authoring.pages-resources.description.wiki": "Permite que os alunos acedam e colaborem em informações relacionadas com o recurso.",
+   "course-authoring.pages-resources.card.calculator": "Calculadora",
+  "course-authoring.pages-resources.description.calculator": "Fornece uma calculadora integrada no recurso para cálculos simples e complexos.",
+   "course-authoring.pages-resources.card.live": "Ao vivo",
+  "course-authoring.pages-resources.description.live": "Permite a videoconferência na plataforma através do modo ao vivo.",
+  "course-authoring.pages-resources.card.textbooks": "Livros Didáticos",
+  "course-authoring.pages-resources.description.textbooks": "Cria e gere uma biblioteca de leituras do recurso, livros didáticos e capítulos.",
+  "course-authoring.pages-resources.card.custom-pages": "Páginas personalizados",
+  "course-authoring.pages-resources.description.custom-pages": "Fornece conteúdos adicionais ao recurso com páginas personalizadas "
 }
