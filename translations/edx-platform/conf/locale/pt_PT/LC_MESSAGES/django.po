@@ -23745,8 +23745,8 @@ msgstr ""
 "suportado. Recomendamos a utilização de {chrome_link} ou {ff_link}."
 
 #: lms/templates/header/navbar-authenticated.html:51
-msgid "Discover New"
-msgstr "Explorar Novo"
+msgid "Discover"
+msgstr "Explorar"
 
 #: lms/templates/header/navbar-logo-header.html:24
 msgid "{name} Dashboard"
