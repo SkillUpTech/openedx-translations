@@ -3754,11 +3754,11 @@ msgstr ""
 
 #: lms/djangoapps/courseware/date_summary.py:273
 msgid "Course starts"
-msgstr ""
+msgstr "Course starts"
 
 #: lms/djangoapps/courseware/date_summary.py:281
 msgid "Course ends"
-msgstr ""
+msgstr "Course ends"
 
 #: lms/djangoapps/courseware/date_summary.py:298
 msgid ""
@@ -3771,7 +3771,8 @@ msgstr ""
 msgid ""
 "After the course ends, the course content will be archived and no longer "
 "active."
-msgstr ""
+msgstr "After the course ends, the course content will be archived and no longer "
+"active."
 
 #: lms/djangoapps/courseware/date_summary.py:304
 msgid ""
@@ -7174,7 +7175,7 @@ msgstr ""
 #: openedx/features/course_bookmarks/templates/course_bookmarks/course-bookmarks.html:43
 #: openedx/features/course_bookmarks/templates/course_bookmarks/course-bookmarks.html:50
 msgid "Bookmarks"
-msgstr ""
+msgstr "Bookmarks"
 
 #: openedx/core/djangoapps/bookmarks/views.py:39
 msgid "An error has occurred. Please try again."
