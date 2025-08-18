@@ -17314,11 +17314,11 @@ msgid "Label"
 msgstr ""
 
 #: cms/templates/widgets/sock.html:12
-msgid "Looking for help with {studio_name}?"
+msgid "Looking for help with Learning Ecosystem Studio?"
 msgstr ""
 
 #: cms/templates/widgets/sock.html:13
-msgid "Hide {studio_name} Help"
+msgid "Hide Learning Ecosystem Studio Help"
 msgstr ""
 
 #: cms/templates/widgets/sock.html:20
