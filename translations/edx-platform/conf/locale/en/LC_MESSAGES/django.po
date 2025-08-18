@@ -660,7 +660,7 @@ msgstr ""
 #: lms/djangoapps/discussion/templates/discussion/discussion_profile_page.html:48
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:24
 msgid "Discussion"
-msgstr ""
+msgstr "Discussion"
 
 #: cms/djangoapps/contentstore/views/component.py:261
 #: openedx/core/djangoapps/content_libraries/constants.py:10
@@ -3912,7 +3912,7 @@ msgstr ""
 #: lms/templates/peer_grading/peer_grading.html:41
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:30
 msgid "Progress"
-msgstr ""
+msgstr "Progress"
 
 #: lms/djangoapps/courseware/plugins.py:28
 msgid "Keep learners engaged and on track throughout the course."
@@ -3978,7 +3978,7 @@ msgstr ""
 #: lms/templates/courseware/courseware.html:215
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:21
 msgid "Course"
-msgstr ""
+msgstr "Course"
 
 #: lms/djangoapps/courseware/tabs.py:63
 #: lms/templates/courseware/syllabus.html:21
@@ -3987,7 +3987,7 @@ msgstr ""
 
 #: lms/djangoapps/courseware/tabs.py:307
 msgid "Dates"
-msgstr ""
+msgstr "Dates"
 
 #: lms/djangoapps/courseware/views/index.py:231
 #, python-brace-format
@@ -4971,7 +4971,7 @@ msgstr ""
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:78
 msgid "Instructor"
-msgstr ""
+msgstr "Instructor"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:157
 #, python-brace-format
@@ -7018,7 +7018,7 @@ msgstr ""
 #: lms/templates/navigation/navbar-authenticated.html:22
 #: lms/templates/navigation/navbar-not-authenticated.html:20
 msgid "Courses"
-msgstr ""
+msgstr "Courses"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:108
 msgid "My Account"
