@@ -142,5 +142,11 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} não aprovou o seu pedido de crédito de curso. Para mais informações, contacte diretamente {linkToProviderSite}.",
   "learner-dash.courseCard.banners.credit.requestCredit": "Solicitar Crédito",
   "learner-dash.courseCard.banners.credit.viewCredit": "Ver Crédito",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Ver Detalhes"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Ver Detalhes",
+  "LearningEcosystemFooter.components.centerbar.text": "O Ecossistema de Aprendizagem é financiado pelo Plano de Recuperação e Resiliência e o NextGenerationEU.",
+  "LearningEcosystemFooter.components.links.terms": "Termos e Condições",
+  "LearningEcosystemFooter.components.links.privacy": "Política de Privacidade",
+  "LearningEcosystemFooter.components.links.cookies": "Preferências de Cookies",
+  "LearningEcosystemFooter.components.copyright": "Ecossistema de Aprendizagem. Direitos reservados"
+
 }

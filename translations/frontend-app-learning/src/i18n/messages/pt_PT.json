@@ -54,12 +54,12 @@
   "learning.outline.tools": "Ferramentas do recurso",
   "learning.outline.materials": "Materials do recurso",
   "learning.outline.handouts": "Materiais do recurso",
-  "tours.datesCheckpoint.body": "As datas importantes podem ajudá-lo a manter-se no seu percurso.",
-  "tours.datesCheckpoint.title": "Mantenha-se a par das principais datas",
-  "tours.outlineCheckpoint.body": "Pode explorar secções do curso utilizando o esquema abaixo.",
-  "tours.outlineCheckpoint.title": "Faça o curso!",
-  "tours.tabNavigationCheckpoint.body": "Estes separadores podem ser utilizados para aceder a outros materiais do curso, tais como o seu progresso, programa de estudos, etc.",
-  "tours.tabNavigationCheckpoint.title": "Recursos adicionais do curso",
+  "tours.datesCheckpoint.body": "As datas importantes podem ajudar-te a manteres-te no teu percurso.",
+  "tours.datesCheckpoint.title": "Mantém-te a par das principais datas",
+  "tours.outlineCheckpoint.body": "Podes explorar secções do curso utilizando o esquema abaixo.",
+  "tours.outlineCheckpoint.title": "Explore o recurso!",
+  "tours.tabNavigationCheckpoint.body": "Estes separadores podem ser utilizados para aceder a outros materiais do recurso, tais como o progresso, programa de estudos, etc.",
+  "tours.tabNavigationCheckpoint.title": "Recursos adicionais do recurso",
   "tours.upgradeCheckpoint.body": "Trabalhe para obter um certificado e tenha acesso total aos materiais do curso. Atualize agora!",
   "tours.upgradeCheckpoint.title": "Desbloqueie o seu curso",
   "tours.weeklyGoalsCheckpoint.body": "A definição de um objetivo aumenta a probabilidade de completar o seu curso.",
@@ -137,6 +137,7 @@
   "calculator.button.label": "Calculadora",
   "learn.honorCode.content": "Honestidade e integridade académica são importantes para {siteName} e as instituições que fornecem cursos e programas no site {siteName}. Ao clicar em \"Concordo\" abaixo, confirmo que li, compreendo e respeitarei o {link} do site {siteName}.",
   "learn.course.sequence.navigation.mobile.menu": "{current} de {total}",
+
   "learn.sequence.navigation.previous.button": "Anterior",
   "learn.sequence.navigation.next.button": "Próximo",
   "notes.button.show": "Ocultar notas",
@@ -150,6 +151,7 @@
   "roleSpecific": "Aluno específico",
   "masquerade.about": "Ver este recurso como",
 
+
   "progress.header": "O Teu Progresso",
   "progress.completion.header": "Conclusão do Recurso",
   "progress.completion.body": "Isto indica a percentagem do recurso que já completaste. Nota que alguns conteúdos podem ainda não estar disponíveis.",
@@ -159,6 +161,7 @@
   "progress.courseGrade.body": "Isto representa a tua nota ponderada em relação à nota necessária para seres aprovado neste curso.",
   "progress.courseGrade.label.currentGrade": "A tua classificação atual",
   "progress.courseGrade.label.passingGrade": "Classificação necessária para aprovação",
+
   "progress.courseGrade.footer.nonPassing": "É necessária uma classificação ponderada mínima de {passingGrade}% para aprovação neste recurso.",
 
   "progress.assignmentType": "Tipologia da tarefa",
@@ -175,5 +178,18 @@
   "progress.relatedLinks.outlineCard.description": "Visão geral do conteúdo do recurso."
 
 
+  "progress.courseGrade.footer.nonPassing": "É necessária uma classificação ponderada mínima de {passingGrade}% para aprovação neste recurso",
+  "progress.assignmentType": "Tipologia da tarefa",
+  "progress.weight": "Peso atribuído",
+  "progress.gradeSummary.grade": "Classificação",
+  "progress.weightedGrade": "Classificação ponderada",
+  "progress.weightedGradeSummary": "Resumo atual da tua classificação ponderada",
+  "progress.courseGrade.gradeSummary": "Sumário da Classificação",
+  "progress.detailedGrades": "Classificações Detalhadas",
+  "progress.relatedLinks": "Links relacionados",
 
+
+  "progress.relatedLinks.datesCard.description": "Visão geral das datas de entrega e tarefas futuras recurso.",
+  "progress.relatedLinks.courseOutline": "Estrutura do curso",
+  "progress.relatedLinks.outlineCard.description": "Visão geral do conteúdo do recurso."
 }

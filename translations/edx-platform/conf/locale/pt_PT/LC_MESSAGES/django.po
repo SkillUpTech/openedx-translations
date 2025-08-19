@@ -666,7 +666,7 @@ msgstr "{platform_name} Níveis de Suporte:"
 #: lms/djangoapps/discussion/templates/discussion/discussion_profile_page.html:48
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:24
 msgid "Discussion"
-msgstr "Fórum"
+msgstr "Discussão"
 
 #: cms/djangoapps/contentstore/views/component.py:261
 #: openedx/core/djangoapps/content_libraries/constants.py:10
@@ -3937,14 +3937,14 @@ msgstr "Objetivo do curso atualizado com sucesso."
 #: lms/djangoapps/course_wiki/views.py:125 lms/templates/wiki/base.html:6
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:27
 msgid "Wiki"
-msgstr "Wiki"
+msgstr "Colaboração"
 
 #: lms/djangoapps/course_wiki/plugins/course_app.py:32
 msgid ""
 "Enable learners to access, and collaborate on course-related information."
 msgstr ""
-"Permitir aos alunos o acesso, e colaborar na informação relacionada com os "
-"cursos."
+"Permite que os alunos acedam e colaborem em informações relacionadas com o "
+"recurso."
 
 #. Translators: this string includes wiki markup.  Leave the ** and the _
 #. alone.
@@ -4265,7 +4265,7 @@ msgstr "Progresso"
 
 #: lms/djangoapps/courseware/plugins.py:28
 msgid "Keep learners engaged and on track throughout the course."
-msgstr "Manter os estudantes envolvidos e no rumo certo ao longo do curso."
+msgstr "Mantém os alunos envolvidos e no caminho certo no recurso educativo."
 
 #. #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 #. Translators: 'Textbooks' refers to the tab in the course that leads to the
@@ -4280,7 +4280,7 @@ msgstr "Livros Didáticos"
 #: lms/djangoapps/courseware/plugins.py:75
 msgid ""
 "Create and manage a library of course readings, textbooks, and chapters."
-msgstr "Criar e gerir uma biblioteca de textos, livros e capítulos de cursos."
+msgstr "Cria e gere uma biblioteca de leituras do recurso, livros didáticos e capítulos."
 
 #: lms/djangoapps/courseware/plugins.py:125
 msgid "Calculator"
@@ -4289,7 +4289,7 @@ msgstr "Calculadora"
 #: lms/djangoapps/courseware/plugins.py:126
 msgid "Provide an in-course calculator for simple and complex calculations."
 msgstr ""
-"Fornecer uma calculadora no decurso do curso para cálculos simples e "
+"Fornece uma calculadora integrada no recurso para cálculos simples e "
 "complexos."
 
 #: lms/djangoapps/courseware/plugins.py:173
@@ -4306,12 +4306,12 @@ msgstr ""
 #: lms/djangoapps/courseware/plugins.py:219 cms/templates/edit-tabs.html:12
 #: cms/templates/edit-tabs.html:55 cms/templates/edit-tabs.html:177
 msgid "Custom pages"
-msgstr "Páginas personalizadas"
+msgstr "Páginas personalizados"
 
 #: lms/djangoapps/courseware/plugins.py:220
 msgid "Provide additional course content and resources with custom pages"
 msgstr ""
-"Fornecer conteúdo e recursos adicionais do curso com páginas personalizadas"
+"Fornece conteúdos adicionais ao recurso com páginas personalizadas"
 
 #: lms/djangoapps/courseware/tabs.py:36
 #: lms/djangoapps/courseware/views/views.py:2198
@@ -4465,7 +4465,7 @@ msgid ""
 "{enroll_link_start}Enroll now{enroll_link_end}."
 msgstr ""
 "É necessário estar inscrito no curso para ver o conteúdo do curso. "
-"{enroll_link_start}Inscreva-se agora{enroll_link_end}."
+"{enroll_link_start}Inscreve-te agora{enroll_link_end}."
 
 #: lms/djangoapps/courseware/views/views.py:597
 msgid "You must be enrolled in the course to see course content."
@@ -4668,7 +4668,7 @@ msgstr "Notas"
 #: lms/djangoapps/edxnotes/plugins.py:58
 msgid ""
 "Allow learners to highlight passages and make notes right in the course."
-msgstr "Permitir aos alunos destacar passagens e tomar notas durante o curso."
+msgstr "Permite que os alunos destaquem passagens e façam anotações diretamente no recurso."
 
 #: lms/djangoapps/grades/rest_api/v1/gradebook_views.py:1147
 msgid ""
@@ -6124,7 +6124,7 @@ msgstr "Equipas"
 
 #: lms/djangoapps/teams/plugins.py:54
 msgid "Leverage teams to allow learners to connect by topic of interest."
-msgstr "Permitir que as equipas de alunos se liguem por tópico de interesse."
+msgstr "Aproveita as equipas para permitir que os alunos interajam por tópico de interesse."
 
 #: lms/djangoapps/teams/views.py:417
 msgid "course_id must be provided"
@@ -7453,7 +7453,7 @@ msgstr ""
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:47
 #: themes/stanford-style/lms/templates/index.html:26
 msgid "Search"
-msgstr "Procurar"
+msgstr "Pesquisar"
 
 #: lms/templates/wiki/plugins/attachments/index.html:65
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:9
@@ -7568,8 +7568,8 @@ msgstr "Ir para a Página Inicial de %(platform_name)s"
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:39
 #: lms/templates/navigation/navbar-authenticated.html:22
 #: lms/templates/navigation/navbar-not-authenticated.html:20
-msgid "Courses"
-msgstr "Cursos"
+msgid "Resources"
+msgstr "Recursos"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:108
 msgid "My Account"
@@ -8212,7 +8212,7 @@ msgstr "Ao vivo"
 #: openedx/core/djangoapps/course_live/plugins.py:26
 msgid "Enable in-platform video conferencing by configuring live"
 msgstr ""
-"Activar a videoconferência na plataforma através da configuração ao vivo"
+"Permite a videoconferência na plataforma através do modo ao vivo"
 
 #: openedx/core/djangoapps/credentials/apps.py:18
 msgid "Credentials"
@@ -8555,7 +8555,7 @@ msgstr ""
 #: openedx/core/djangoapps/discussions/plugins.py:24
 msgid ""
 "Encourage participation and engagement in your course with discussions."
-msgstr "Incentivar a participação e o empenho no seu curso com debates."
+msgstr "Incentiva a utilização e o envolvimento no teu recurso através de discussões sobre tópicos abordados."
 
 #: openedx/core/djangoapps/django_comment_common/models.py:25
 msgid "Administrator"
@@ -16149,7 +16149,7 @@ msgstr ""
 
 #: cms/templates/course_outline.html:306
 msgid "Learn more about the course outline"
-msgstr "Saiba mais sobre a estrutura geral do curso"
+msgstr "Saber mais sobre a estrutura geral do recurso"
 
 #: cms/templates/course_outline.html:310
 msgid "Setting release dates and grading policies"
@@ -16171,7 +16171,7 @@ msgstr "Saiba mais sobre as configurações da política de classificação"
 
 #: cms/templates/course_outline.html:317
 msgid "Changing the content learners see"
-msgstr "A alterar a visualização do conteúdo dos estudantes"
+msgstr "A alterar a visualização do conteúdo dos alunos"
 
 #: cms/templates/course_outline.html:318
 msgid ""
@@ -17573,16 +17573,16 @@ msgid "Taxonomies"
 msgstr "Taxonomias"
 
 #: cms/templates/index.html:383
-msgid "Are you staff on an existing {studio_name} course?"
-msgstr "Pertence à equipa de algum curso {studio_name} já existente?"
+msgid "Are you staff on an existing Learning Ecosystem - Studio course?"
+msgstr "Fazes parte da equipa de um recurso existente no Ecossistema de Aprendizagem - Estúdio?"
 
 #: cms/templates/index.html:385
 msgid ""
 "The course creator must give you access to the course. Contact the course "
 "creator or administrator for the course you are helping to author."
 msgstr ""
-"O criador do curso deve dar-lhe acesso ao curso. Contacte o criador ou "
-"administrador do curso que está a ajudar a criar."
+"O criador do recurso deve conceder-te acesso ao recurso. "
+"Entra em contacto com o criador ou administrador do recurso."
 
 #: cms/templates/index.html:393 cms/templates/index.html:401
 msgid "Create Your First Course"
@@ -18426,7 +18426,7 @@ msgid ""
 "You can manage this image along with all of your other {a_link_start}files "
 "and uploads{a_link_end}"
 msgstr ""
-"Pode gerir esta imagem junto com todos os seus outros ficheiros "
+"É possível gerir esta imagem juntamente com os outros ficheiros "
 "{a_link_start} e carregamentos{a_link_end}"
 
 #: cms/templates/settings.html:473
@@ -19321,12 +19321,12 @@ msgid "Label"
 msgstr "Etiqueta"
 
 #: cms/templates/widgets/sock.html:12
-msgid "Looking for help with {studio_name}?"
-msgstr "Precisas de ajuda com o {studio_name}?"
+msgid "Looking for help with Learning Ecosystem Studio?"
+msgstr "Precisas de ajuda com o Ecossistema de Aprendizagem - Estúdio?"
 
 #: cms/templates/widgets/sock.html:13
-msgid "Hide {studio_name} Help"
-msgstr "Ocultar Ajuda de {studio_name}"
+msgid "Hide Learning Ecosystem Studio Help"
+msgstr "Ocultar Ajuda de Ecossistema de Aprendizagem - Estúdio"
 
 #: cms/templates/widgets/sock.html:20
 msgid "{studio_name} Documentation"
@@ -19575,11 +19575,11 @@ msgstr "Ainda não está inscrito em nenhum curso."
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:32
 #: lms/templates/navigation/navbar-authenticated.html:16
 msgid "Explore courses"
-msgstr "Explorar cursos"
+msgstr "Explorar"
 
 #: lms/templates/header/navbar-not-authenticated.html:40
 msgid "Discover courses"
-msgstr "Explorar recursos"
+msgstr "Explorar"
 
 #: lms/templates/dashboard.html:249
 #: lms/templates/registration/account_activation_sidebar_notice.html:16
@@ -22149,7 +22149,7 @@ msgstr "Matrícula Encerrada"
 
 #: lms/templates/courseware/course_about.html:113
 msgid "Enroll Now"
-msgstr "Inscreva-se agora"
+msgstr "Inscreve-te agora"
 
 #: lms/templates/courseware/course_about.html:145
 msgid "View About Page in studio"
@@ -23745,8 +23745,8 @@ msgstr ""
 "suportado. Recomendamos a utilização de {chrome_link} ou {ff_link}."
 
 #: lms/templates/header/navbar-authenticated.html:51
-msgid "Discover New"
-msgstr "Explorar Novo"
+msgid "Discover"
+msgstr "Explorar"
 
 #: lms/templates/header/navbar-logo-header.html:24
 msgid "{name} Dashboard"
@@ -25452,7 +25452,7 @@ msgstr ""
 
 #: lms/templates/navigation/navbar-not-authenticated.html:33
 msgid "Explore Courses"
-msgstr "Explorar Cursos"
+msgstr "Explorar Recursos"
 
 #: lms/templates/navigation/navigation.html:44
 msgid "Global"
@@ -26224,7 +26224,7 @@ msgstr "Ainda não obteve quaisquer certificados."
 
 #: openedx/features/learner_profile/templates/learner_profile/learner-achievements-fragment.html:58
 msgid "Explore New Courses"
-msgstr "Explorar Novos Cursos"
+msgstr "Explorar Novos Recursos"
 
 #: openedx/features/learner_profile/templates/learner_profile/learner_profile.html:16
 msgid "Learner Profile"
