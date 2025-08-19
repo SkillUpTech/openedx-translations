@@ -149,11 +149,31 @@
   "roleStaff": "Equipa",
   "roleSpecific": "Aluno específico",
   "masquerade.about": "Ver este recurso como",
-  "progress.header": "O seu Progresso",
-  "progress.completion.header": "Conclusão do Curso",
-  "progress.courseGrade.grades": "Notas",
-  "progress.relatedLinks": "Links Relacionadas",
-  "progress.relatedLinks.outlineCard.link": "Estrutura do recurso",
-  "progress.creditInformation.completed": "Concluído"
+
+  "progress.header": "O Teu Progresso",
+  "progress.completion.header": "Conclusão do Recurso",
+  "progress.completion.body": "Isto indica a percentagem do recurso que já completaste. Nota que alguns conteúdos podem ainda não estar disponíveis.",
+  "progress.completion.donut.label": "concluído",
+
+  "progress.courseGrade.grades": "Classificações",
+  "progress.courseGrade.body": "Isto representa a tua nota ponderada em relação à nota necessária para seres aprovado neste curso.",
+  "progress.courseGrade.label.currentGrade": "A tua classificação atual",
+  "progress.courseGrade.label.passingGrade": "Classificação necessária para aprovação",
+  "progress.courseGrade.footer.nonPassing": "É necessária uma classificação ponderada mínima de {passingGrade}% para aprovação neste recurso.",
+
+  "progress.assignmentType": "Tipologia da tarefa",
+  "progress.weight": "Peso atribuído",
+  "progress.weightedGrade": "Classificação ponderada",
+  "progress.grade": "Classificação",
+
+  "progress.weightedGradeSummary": "Resumo atual da tua classificação ponderada",
+  "progress.gradeSummary": "Sumário da Classificação",
+  "progress.detailedGrade": "Classificações Detalhadas",
+  "progress.relatedLinks.datesCard.description": "Visão geral das datas de entrega e tarefas futuras recurso.",
+
+  "progress.relatedLinks.outlineCard.link": "Estrutura do curso",
+  "progress.relatedLinks.outlineCard.description": "Visão geral do conteúdo do recurso."
+
+
 
 }
