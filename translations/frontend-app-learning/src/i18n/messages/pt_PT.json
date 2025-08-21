@@ -161,23 +161,10 @@
   "progress.courseGrade.body": "Isto representa a tua nota ponderada em relação à nota necessária para seres aprovado neste curso.",
   "progress.courseGrade.label.currentGrade": "A tua classificação atual",
   "progress.courseGrade.label.passingGrade": "Classificação necessária para aprovação",
-
-  "progress.courseGrade.footer.nonPassing": "É necessária uma classificação ponderada mínima de {passingGrade}% para aprovação neste recurso.",
-
-  "progress.assignmentType": "Tipologia da tarefa",
-  "progress.weight": "Peso atribuído",
-  "progress.weightedGrade": "Classificação ponderada",
   "progress.grade": "Classificação",
-
-  "progress.weightedGradeSummary": "Resumo atual da tua classificação ponderada",
   "progress.gradeSummary": "Sumário da Classificação",
   "progress.detailedGrade": "Classificações Detalhadas",
-  "progress.relatedLinks.datesCard.description": "Visão geral das datas de entrega e tarefas futuras recurso.",
-
   "progress.relatedLinks.outlineCard.link": "Estrutura do curso",
-  "progress.relatedLinks.outlineCard.description": "Visão geral do conteúdo do recurso."
-
-
   "progress.courseGrade.footer.nonPassing": "É necessária uma classificação ponderada mínima de {passingGrade}% para aprovação neste recurso",
   "progress.assignmentType": "Tipologia da tarefa",
   "progress.weight": "Peso atribuído",
@@ -187,8 +174,6 @@
   "progress.courseGrade.gradeSummary": "Sumário da Classificação",
   "progress.detailedGrades": "Classificações Detalhadas",
   "progress.relatedLinks": "Links relacionados",
-
-
   "progress.relatedLinks.datesCard.description": "Visão geral das datas de entrega e tarefas futuras recurso.",
   "progress.relatedLinks.courseOutline": "Estrutura do curso",
   "progress.relatedLinks.outlineCard.description": "Visão geral do conteúdo do recurso."
