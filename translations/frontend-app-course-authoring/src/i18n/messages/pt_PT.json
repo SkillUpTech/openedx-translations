@@ -1151,7 +1151,7 @@
   "course-authoring.studio-home.collapsible.pending.state": "Pendente",
   "course-authoring.studio-home.collapsible.pending.action.text": "O teu pedido está a ser analisado pela equipa do Ecossistema de Aprendizagem e deverá ser atualizado em breve.",
   "course-authoring.studio-home.collapsible.unrequested.title": "Tornar-se um criador de recursos no Ecossistema de Aprendizagem - Estúdio",
-  "course-authoring.studio-home.collapsible.unrequested.description": "O Ecossistema de Aprendizagem é uma solução alojada para os nossos parceiros xConsortium e convidados selecionados. Os recursos nos quais colaboras aparecem acima para que possas editar, enquanto os privilégios de criador de recursos são concedidos pelo administrador do Ecossistema. A nossa equipa avaliará o teu pedido e dar-te-á feedback no prazo de 24 horas úteis.",
+  "course-authoring.studio-home.collapsible.unrequested.description": "O Ecossistema de Aprendizagem - Estúdio é uma solução alojada para os nossos parceiros xConsortium e convidados selecionados. Os recursos nos quais colaboras aparecem acima para que possas editar, enquanto os privilégios de criador de recursos são concedidos pelo administrador do Estúdio. A nossa equipa avaliará o teu pedido e dar-te-á feedback no prazo de 24 horas úteis.",
   "course-authoring.studio-home.collapsible.unrequested.button.default": "Solicitar a possibilidade de criar um recurso ",
   "course-authoring.studio-home.collapsible.unrequested.button.pending": "Apresentar o seu pedido",
   "course-authoring.studio-home.collapsible.unrequested.button.failed": "Lamentamos, mas houve um erro no seu pedido",
