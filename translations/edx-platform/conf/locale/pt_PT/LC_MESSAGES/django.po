@@ -7573,7 +7573,7 @@ msgstr "Recursos"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:108
 msgid "My Account"
-msgstr "Minha conta"
+msgstr "A Minha conta"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:156
 #: themes/red-theme/lms/templates/ace_common/edx_ace/common/base_body.html:100
@@ -19802,7 +19802,7 @@ msgstr "Revela o teu potencial: descobre novos conteúdos!"
 
 #: lms/templates/courseware/courses.html:43
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
-msgstr "Explora um mundo de conhecimento e desenvolve as tuas competências com uma grande variedade de recursos educativos"
+msgstr "Explora um mundo de conhecimento e desenvolve as tuas competências com uma grande variedade de recursos educativos."
 
 #: lms/templates/courseware/courses.html:53
 msgid "Filters"
