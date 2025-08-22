@@ -199,7 +199,7 @@
   "course-authoring.studio-home.page-load.failed.message": "โหลด Studio home ไม่สำเร็จ กรุณาลองใหม่อีกครั้งในภายหลัง.",
   "course-authoring.studio-home.email-staff.btn.text": "Email staff to create course",
   "course-authoring.studio-home.default-section-1.title": "คุณเป็นพนักงานในหลักสูตร {studioShortName} ที่มีอยู่หรือไม่",
-  "course-authoring.studio-home.default-section-1.description": "The course creator must give you access to the course. Contact the course creator or administrator for the course you are helping to author.",
+  "course-authoring.studio-home.default-section-1.description": "O criador do recurso deve conceder-te acesso ao recurso. Entra em contacto com o criador ou administrador do recurso.",
   "course-authoring.studio-home.default-section-2.title": "สร้างหลักสูตรแรกของคุณ",
   "course-authoring.studio-home.default-section-2.description": "Your new course is just a click away!",
   "course-authoring.studio-home.btn.add-new-course.text": "สร้างหลักสูตรแรกของคุณ",
