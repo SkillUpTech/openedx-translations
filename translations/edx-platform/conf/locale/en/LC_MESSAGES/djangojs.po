@@ -3216,8 +3216,8 @@ msgstr ""
 #, javascript-format
 msgid "Viewing %s course"
 msgid_plural "Viewing %s courses"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Viewing %s resource"
+msgstr[1] "Viewing %s resources"
 
 #: lms/static/js/discovery/views/search_form.js:57
 #, javascript-format

@@ -7019,7 +7019,7 @@ msgstr ""
 #: lms/templates/navigation/navbar-authenticated.html:22
 #: lms/templates/navigation/navbar-not-authenticated.html:20
 msgid "Courses"
-msgstr "Courses"
+msgstr "Resources"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:108
 msgid "My Account"
@@ -17237,7 +17237,7 @@ msgstr ""
 #: lms/templates/header/user_dropdown.html:48
 #: lms/templates/user_dropdown.html:31 lms/templates/user_dropdown.html:39
 msgid "Account"
-msgstr ""
+msgstr "My Account"
 
 #: cms/templates/widgets/header.html:346 cms/templates/widgets/header.html:361
 msgid "Account Navigation"
@@ -17381,7 +17381,7 @@ msgstr ""
 #: lms/templates/user_dropdown.html:32 lms/templates/user_dropdown.html:40
 #: lms/templates/user_dropdown.html:59
 msgid "Sign Out"
-msgstr ""
+msgstr "Logout"
 
 #: common/templates/emails/contact_us_feedback_email_body.txt:2
 msgid "Feedback Form"
@@ -17562,7 +17562,7 @@ msgstr ""
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:32
 #: lms/templates/navigation/navbar-authenticated.html:16
 msgid "Explore courses"
-msgstr ""
+msgstr "Explore new resources"
 
 #: lms/templates/dashboard.html:249
 #: lms/templates/registration/account_activation_sidebar_notice.html:16
@@ -17758,7 +17758,14 @@ msgid ""
 msgstr ""
 
 #: lms/templates/courseware/courses.html:42
-#: lms/templates/courseware/courses.html:43 lms/templates/index.html:26
+msgid "Unlock Your Potential: Discover New Courses Today!"
+msgstr "Unlock your potential: Discover new content!"
+
+#: lms/templates/courseware/courses.html:43
+msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
+msgstr "Explore a world of knowledge and develop your skills with a wide variety of resources."
+
+#: lms/templates/index.html:26
 #: lms/templates/index.html:27
 #: themes/stanford-style/lms/templates/index.html:22
 #: themes/stanford-style/lms/templates/index.html:23
