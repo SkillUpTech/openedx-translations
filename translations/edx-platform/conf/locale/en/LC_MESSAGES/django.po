@@ -17765,7 +17765,6 @@ msgstr "Unlock your potential: Discover new content!"
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
 msgstr "Explore a world of knowledge and develop your skills with a wide variety of resources."
 
-
 #: lms/templates/index.html:26
 #: lms/templates/index.html:27
 #: themes/stanford-style/lms/templates/index.html:22
