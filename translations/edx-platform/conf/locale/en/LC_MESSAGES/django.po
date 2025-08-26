@@ -17561,7 +17561,7 @@ msgstr ""
 #: lms/templates/header/navbar-not-authenticated.html:42
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:32
 #: lms/templates/navigation/navbar-authenticated.html:16
-msgid "Explore courses"
+msgid "Explore course"
 msgstr "Explore new resources"
 
 #: lms/templates/dashboard.html:249
