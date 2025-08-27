@@ -103,5 +103,11 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Não classificado",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Atualmente sendo avaliado por outra pessoa",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Classificação concluída",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Está atualmente a avaliar esta resposta"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Está atualmente a avaliar esta resposta",
+  "LearningEcosystemFooter.components.centerbar.text": "O Ecossistema de Aprendizagem é financiado pelo Plano de Recuperação e Resiliência e o NextGenerationEU.",
+  "LearningEcosystemFooter.components.links.terms": "Termos e Condições",
+  "LearningEcosystemFooter.components.links.privacy": "Política de Privacidade",
+  "LearningEcosystemFooter.components.links.cookies": "Preferências de Cookies",
+  "LearningEcosystemFooter.components.copyright": "Ecossistema de Aprendizagem. Direitos reservados"
+
 }

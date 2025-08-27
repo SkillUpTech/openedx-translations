@@ -87,5 +87,11 @@
   "bulk.email.scheduled.emails.table.sendTo": "Enviar para",
   "bulk.email.scheduled.emails.table.subject": "Assunto",
   "bulk.email.scheduled.emails.table.Author": "Autor",
-  "bulk.email.scheduled.emails.table.confirm.delete": "Está a apagar uma mensagem de correio eletrónico programada para ser enviada em {data}. O e-mail não será enviado e o agendamento será cancelado. Tem a certeza?"
+  "bulk.email.scheduled.emails.table.confirm.delete": "Está a apagar uma mensagem de correio eletrónico programada para ser enviada em {data}. O e-mail não será enviado e o agendamento será cancelado. Tem a certeza?",
+  "LearningEcosystemFooter.components.centerbar.text": "O Ecossistema de Aprendizagem é financiado pelo Plano de Recuperação e Resiliência e o NextGenerationEU.",
+  "LearningEcosystemFooter.components.links.terms": "Termos e Condições",
+  "LearningEcosystemFooter.components.links.privacy": "Política de Privacidade",
+  "LearningEcosystemFooter.components.links.cookies": "Preferências de Cookies",
+  "LearningEcosystemFooter.components.copyright": "Ecossistema de Aprendizagem. Direitos reservados"
+
 }

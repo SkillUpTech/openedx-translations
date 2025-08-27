@@ -322,5 +322,11 @@
   "id.verification.requirements.card.device.text": "É necessário um dispositivo que tenha uma câmara. Se receber um pedido de acesso à sua câmara através de um navegador, por favor, certifique-se de que clica em {allow}.",
   "id.verification.account.name.summary.alert": "As definições da sua conta são geridas por {managerTitle}. Se o nome visível na fotografia do seu documento de identificação não corresponder ao nome da sua conta, contacte o seu administrador {profileDataManager} ou {support} para obter ajuda.",
   "idv.submission.alert.error": "Encontrámos um erro técnico ao tentar submeter a verificação do ID. Este pode ser um problema temporário, pelo que deve tentar novamente dentro de alguns minutos. Se o problema persistir, aceda a {support_link} para obter ajuda.",
-  "id.verification.account.name.edit": "Editar {sr}"
+  "id.verification.account.name.edit": "Editar {sr}",
+  "LearningEcosystemFooter.components.centerbar.text": "O Ecossistema de Aprendizagem é financiado pelo Plano de Recuperação e Resiliência e o NextGenerationEU.",
+  "LearningEcosystemFooter.components.links.terms": "Termos e Condições",
+  "LearningEcosystemFooter.components.links.privacy": "Política de Privacidade",
+  "LearningEcosystemFooter.components.links.cookies": "Preferências de Cookies",
+  "LearningEcosystemFooter.components.copyright": "Ecossistema de Aprendizagem. Direitos reservados"
+
 }
