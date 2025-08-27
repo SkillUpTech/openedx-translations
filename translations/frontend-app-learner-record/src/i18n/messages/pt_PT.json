@@ -80,5 +80,11 @@
   "records.help.header": "Tem questões relativas aos 'Registos de Estudante'?",
   "records.help.description": "Para saber mais sobre os registos, pode",
   "records.help.link": "leia mais na nossa área de ajuda dos registos.",
-  "records.header": "Meus Registos de Estudante"
+  "records.header": "Meus Registos de Estudante",
+  "LearningEcosystemFooter.components.centerbar.text": "O Ecossistema de Aprendizagem é financiado pelo Plano de Recuperação e Resiliência e o NextGenerationEU.",
+  "LearningEcosystemFooter.components.links.terms": "Termos e Condições",
+  "LearningEcosystemFooter.components.links.privacy": "Política de Privacidade",
+  "LearningEcosystemFooter.components.links.cookies": "Preferências de Cookies",
+  "LearningEcosystemFooter.components.copyright": "Ecossistema de Aprendizagem. Direitos reservados"
+
 }
