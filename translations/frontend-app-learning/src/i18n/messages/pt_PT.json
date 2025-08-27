@@ -164,7 +164,7 @@
   "progress.grade": "Classificação",
   "progress.gradeSummary": "Sumário da Classificação",
   "progress.detailedGrade": "Classificações Detalhadas",
-  "progress.relatedLinks.outlineCard.link": "Estrutura do curso",
+  "progress.relatedLinks.outlineCard.link": "Estrutura do recurso",
   "progress.courseGrade.footer.nonPassing": "É necessária uma classificação ponderada mínima de {passingGrade}% para aprovação neste recurso",
   "progress.assignmentType": "Tipologia da tarefa",
   "progress.weight": "Peso atribuído",
@@ -175,12 +175,18 @@
   "progress.detailedGrades": "Classificações Detalhadas",
   "progress.relatedLinks": "Links relacionados",
   "progress.relatedLinks.datesCard.description": "Visão geral das datas de entrega e tarefas futuras recurso.",
-  "progress.relatedLinks.courseOutline": "Estrutura do curso",
+  "progress.relatedLinks.courseOutline": "Estrutura do recurso",
   "progress.relatedLinks.outlineCard.description": "Visão geral do conteúdo do recurso.",
   "LearningEcosystemFooter.components.centerbar.text": "O Ecossistema de Aprendizagem é financiado pelo Plano de Recuperação e Resiliência e o NextGenerationEU.",
   "LearningEcosystemFooter.components.links.terms": "Termos e Condições",
   "LearningEcosystemFooter.components.links.privacy": "Política de Privacidade",
   "LearningEcosystemFooter.components.links.cookies": "Preferências de Cookies",
-  "LearningEcosystemFooter.components.copyright": "Ecossistema de Aprendizagem. Direitos reservados"
+  "LearningEcosystemFooter.components.copyright": "Ecossistema de Aprendizagem. Direitos reservados",
+  "learning.outline.resumeBlurb": "Continua de onde paraste",
+  "learning.outline.resume": "Resumir recurso",
+  "tours.button.launchTour": "Evento de lançamento",
+  "learning.outline.dates.all": "Ver todas as datas do recurso",
+  "learn.course.license.allRightsReserved.text": "Todos os direitos reservados",
+  "learning.outline.collapseAll": "Ocultar tudo"
 
 }
