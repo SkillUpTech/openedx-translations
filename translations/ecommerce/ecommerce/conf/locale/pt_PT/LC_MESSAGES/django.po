@@ -1946,7 +1946,7 @@ msgstr "UTM Criado Às"
 #: templates/oscar/dashboard/refunds/refund_list.html:30
 #: templates/oscar/dashboard/users/detail.html:20
 msgid "Dashboard"
-msgstr "Painel principal"
+msgstr "Painel de Controlo"
 
 #: settings/_oscar.py:238
 msgid "Catalogue"
