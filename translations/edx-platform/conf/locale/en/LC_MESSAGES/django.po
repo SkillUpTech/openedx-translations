@@ -1041,7 +1041,7 @@ msgstr ""
 #: cms/djangoapps/maintenance/views.py:35
 #: cms/templates/maintenance/_force_publish_course.html:24
 msgid "Force Publish Course"
-msgstr ""
+msgstr "Force Publish Course"
 
 #: cms/djangoapps/maintenance/views.py:38
 msgid ""
@@ -1050,16 +1050,17 @@ msgid ""
 "point to the draft branch, effectively force publishing the course. This "
 "view dry runs the force publish command"
 msgstr ""
+"Sometimes the draft and published branches of a course can get out of sync. Force publish course command resets the published branch of a course to point to the draft branch, effectively force publishing the course. This view dry runs the force publish command"
 
 #: cms/djangoapps/maintenance/views.py:45
 msgid "Edit Announcements"
-msgstr ""
+msgstr "Edit Announcements"
 
 #: cms/djangoapps/maintenance/views.py:48
 msgid ""
 "This view shows the announcement editor to create or alter announcements "
 "that are shown on the rightside of the dashboard."
-msgstr ""
+msgstr "This view shows the announcement editor to create or alter announcements that are shown on the rightside of the dashboard."
 
 #: cms/djangoapps/maintenance/views.py:56
 msgid "Please provide course id."
