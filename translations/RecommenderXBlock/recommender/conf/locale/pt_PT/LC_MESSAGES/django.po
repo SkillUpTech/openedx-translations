@@ -26,19 +26,19 @@ msgstr "URL de localização inválido fornecido"
 
 #: recommender.py:328
 msgid "The resource you are attempting to provide already exists"
-msgstr "O recurso que está a tentar disponibilizar já existe"
+msgstr "O curso que está a tentar disponibilizar já existe"
 
 #: recommender.py:341
 msgid ""
 "The resource you are attempting to provide has been disallowed by the staff."
 " Reason: "
 msgstr ""
-"O recurso que está a tentar disponibilizar não foi aprovado pela equipa. "
+"O curso que está a tentar disponibilizar não foi aprovado pela equipa. "
 "Motivo:"
 
 #: recommender.py:358
 msgid "The selected resource does not exist"
-msgstr "O recurso selecionado não existe"
+msgstr "O curso selecionado não existe"
 
 #: recommender.py:406
 msgid "Size of uploaded file exceeds threshold"
@@ -50,33 +50,33 @@ msgstr "A configuração de pyfs não está definida corretamente"
 
 #: recommender.py:756
 msgid "Endorse resource without permission"
-msgstr "Aprovar recurso sem permissão"
+msgstr "Aprovar curso sem permissão"
 
 #: recommender.py:800
 msgid "You don't have the permission to remove this resource"
-msgstr "Não tem permissão para remover este recurso"
+msgstr "Não tem permissão para remover este curso"
 
 #: recommender.py:851
 msgid "Only staff can import resources"
-msgstr "Apenas a equipa pode importar recursos"
+msgstr "Apenas a equipa pode importar cursos"
 
 #: recommender.py:862 recommender.py:889
 msgid ""
 "Please submit the JSON file obtained with the download resources button"
 msgstr ""
-"Por favor, submeta o ficheiro JSON obtido com o botão de transferir recursos"
+"Por favor, submeta o ficheiro JSON obtido com o botão de transferir cursos"
 
 #: recommender.py:902
 msgid "Tried to access flagged resources without staff permission"
-msgstr "Tentou aceder a recursos sinalizados sem a permissão da equipa"
+msgstr "Tentou aceder a cursos sinalizados sem a permissão da equipa"
 
 #: templates/recommender.html:83
 msgid "This is a list of recommended resources. If you\\"
-msgstr "Esta é uma lista de recursos recomendados. Se você\\"
+msgstr "Esta é uma lista de cursos recomendados. Se você\\"
 
 #: templates/recommender.html:84 static/js/src/cats.js:158
 msgid "Show related resources"
-msgstr "Mostrar recursos relacionados"
+msgstr "Mostrar cursos relacionados"
 
 #: templates/recommender.html:91
 msgid ""
@@ -84,21 +84,21 @@ msgid ""
 "helpful, but it is empty currently. If you find useful resources, either on "
 "edx.org or elsewhere, please add it."
 msgstr ""
-"Esta será uma lista de recursos que os seus colegas consideraram úteis, mas "
-"neste momento ainda está vazia. Se encontrar recursos úteis, quer em edx.org"
+"Esta será uma lista de cursos que os seus colegas consideraram úteis, mas "
+"neste momento ainda está vazia. Se encontrar cursos úteis, quer em edx.org"
 " quer noutro sítio, adicione-os."
 
 #: templates/recommender.html:118
 msgid "Add new resource &gt;&gt;"
-msgstr "Adicionar novo recurso &gt;&gt;"
+msgstr "Adicionar novo curso &gt;&gt;"
 
 #: templates/recommender.html:119
 msgid "Download resources"
-msgstr "Transferir recursos"
+msgstr "Transferir cursos"
 
 #: templates/recommender.html:120 templates/recommender.html:146
 msgid "Upload resources"
-msgstr "Carregar recursos"
+msgstr "Carregar cursos"
 
 #: templates/recommender.html:122
 msgid "mode"
@@ -113,28 +113,28 @@ msgid ""
 "so helpful, downvote it. If it has issues (illegal material, incorrect, "
 "etc.), please flag it and let us know the reason."
 msgstr ""
-"Esta é uma lista de recursos que os seus colegas estudantes consideraram "
-"úteis. Se encontrar outro recurso útil, seja em edx.org ou noutro local, "
+"Esta é uma lista de cursos que os seus colegas estudantes consideraram "
+"úteis. Se encontrar outro curso útil, seja em edx.org ou noutro local, "
 "adicione-o. Se puderes melhorar a descrição ou a pré-visualização de um "
-"recurso, fá-lo também. Se considerar um recurso útil, dê-lhe um voto "
+"curso, fá-lo também. Se considerar um curso útil, dê-lhe um voto "
 "positivo. Se não for assim tão útil, vote-o para baixo. Se tiver problemas "
 "(material ilegal, incorreto, etc.), assinale-o e informe-nos do motivo."
 
 #: templates/recommender.html:139
 msgid "cancel and go back to resource list"
-msgstr "cancelar e voltar à lista de recursos"
+msgstr "cancelar e voltar à lista de cursos"
 
 #: templates/recommender.html:139
 msgid "&lt; Related resources"
-msgstr "&lt; Recursos relacionados"
+msgstr "&lt; Cursos relacionados"
 
 #: templates/recommender.html:145
 msgid "Resources (in JSON format):"
-msgstr "Recursos (em formato JSON):"
+msgstr "Cursos (em formato JSON):"
 
 #: templates/recommender.html:145
 msgid "Provide a file of resource list in JSON format"
-msgstr "Forneça um ficheiro com a lista de recursos em formato JSON"
+msgstr "Forneça um ficheiro com a lista de cursos em formato JSON"
 
 #: templates/recommender.html:151 templates/recommender.html:161
 #: templates/recommender.html:171
@@ -143,15 +143,15 @@ msgstr "Razão"
 
 #: templates/recommender.html:155
 msgid "Reason for why this resource should be removed"
-msgstr "Razão pela qual este recurso deve ser removido"
+msgstr "Razão pela qual este curso deve ser removido"
 
 #: templates/recommender.html:165
 msgid "Reason for why this resource should be endorsed"
-msgstr "Razão pela qual este recurso deve ser aprovado"
+msgstr "Razão pela qual este curso deve ser aprovado"
 
 #: templates/recommender.html:175
 msgid "Reason for why this resource should be flagged"
-msgstr "Motivo pelo qual este recurso deve ser assinalado"
+msgstr "Motivo pelo qual este curso deve ser assinalado"
 
 #: templates/recommender.html:181 templates/recommender.html:206
 msgid "Title"
@@ -159,14 +159,14 @@ msgstr "Título"
 
 #: templates/recommender.html:183 templates/recommender.html:208
 msgid "Provide a resource title, required"
-msgstr "Fornecer um título de recurso, obrigatório"
+msgstr "Fornecer um título de curso, obrigatório"
 
 #: templates/recommender.html:185 templates/recommender.html:210
 msgid ""
 "Provide a meaningful title so other students know whether this is useful to "
 "them"
 msgstr ""
-"Forneça um título relevante para que os outros alunos saibam se este recurso"
+"Forneça um título relevante para que os outros alunos saibam se este curso"
 " é útil para eles"
 
 #: templates/recommender.html:187
@@ -175,7 +175,7 @@ msgstr "Local"
 
 #: templates/recommender.html:189 templates/recommender.html:214
 msgid "Provide a resource location in url, required"
-msgstr "Fornecer uma localização de recurso em url, obrigatório"
+msgstr "Fornecer uma localização de curso em url, obrigatório"
 
 #: templates/recommender.html:193 templates/recommender.html:218
 msgid "Description"
@@ -187,7 +187,7 @@ msgid ""
 "useful to them"
 msgstr ""
 "Forneça uma descrição relevante para que os outros alunos saibam se este "
-"recurso é útil para eles"
+"curso é útil para eles"
 
 #: templates/recommender.html:200
 msgid "Preview screenshot:"
@@ -195,7 +195,7 @@ msgstr "Pré-visualização da captura de ecrã:"
 
 #: templates/recommender.html:200
 msgid "Provide a resource screenshot"
-msgstr "Forneça uma captura de ecrã do recurso"
+msgstr "Forneça uma captura de ecrã do curso"
 
 #: templates/recommender.html:201
 msgid "Save change"
@@ -203,15 +203,15 @@ msgstr "Guardar alterações"
 
 #: templates/recommender.html:220
 msgid "Provide a resource description"
-msgstr "Forneça uma descrição do recurso"
+msgstr "Forneça uma descrição do curso"
 
 #: templates/recommender.html:225
 msgid "Provide a file of resource screenshot"
-msgstr "Forneça um ficheiro com a captura de ecrã do recurso"
+msgstr "Forneça um ficheiro com a captura de ecrã do curso"
 
 #: templates/recommender.html:226
 msgid "Add resource"
-msgstr "Adicionar recurso"
+msgstr "Adicionar curso"
 
 #: templates/recommenderstudio.html:6
 msgid "Configuration setting"
@@ -248,7 +248,7 @@ msgstr ""
 #: templates/recommenderstudio.html:36
 msgid "How many resources you want to show in each page of the resource list?"
 msgstr ""
-"Quantos recursos pretende mostrar em cada página da lista de recursos?"
+"Quantos cursos pretende mostrar em cada página da lista de cursos?"
 
 #: templates/recommenderstudio.html:46
 msgid ""
@@ -265,20 +265,20 @@ msgid ""
 "Recommend a new resource which may be helpful to other students solving this"
 " problem"
 msgstr ""
-"Recomendar um novo recurso que possa ser útil a outros estudantes que "
+"Recomendar um novo curso que possa ser útil a outros estudantes que "
 "estejam a resolver este problema"
 
 #: static/js/src/cats.js:66
 msgid "Edit this resource"
-msgstr "Editar este recurso"
+msgstr "Editar este curso"
 
 #: static/js/src/cats.js:67
 msgid "Upvote if the resource is helpful"
-msgstr "Votar positivamente se o recurso for útil"
+msgstr "Votar positivamente se o curso for útil"
 
 #: static/js/src/cats.js:68
 msgid "Downvote if the resource is not helpful"
-msgstr "Votar negativamente se o recurso não for útil"
+msgstr "Votar negativamente se o curso não for útil"
 
 #: static/js/src/cats.js:69
 msgid "Votes"
@@ -286,11 +286,11 @@ msgstr "Votos"
 
 #: static/js/src/cats.js:70
 msgid "Resource title"
-msgstr "Título do recurso"
+msgstr "Título do curso"
 
 #: static/js/src/cats.js:71
 msgid "Remove this resource and give the reason why you do that"
-msgstr "Remover este recurso e indicar a razão "
+msgstr "Remover este curso e indicar a razão "
 
 #: static/js/src/cats.js:72
 msgid "Preview image (typically, a screenshot)"
@@ -302,20 +302,20 @@ msgid ""
 " concise, but give enough detail to let students know whether this resources"
 " is useful to them"
 msgstr ""
-"Apresente um breve resumo (1-3 frases) do recurso; idealmente, deve ser "
+"Apresente um breve resumo (1-3 frases) do curso; idealmente, deve ser "
 "conciso, mas com pormenores suficientes para que os alunos saibam se o "
-"recurso lhes é útil"
+"curso lhes é útil"
 
 #: static/js/src/cats.js:74 static/js/src/cats.js:78
 msgid "Cut-and-paste the URL of the resource."
-msgstr "Copiar e colar o URL do recurso."
+msgstr "Copiar e colar o URL do curso."
 
 #: static/js/src/cats.js:75 static/js/src/cats.js:79
 msgid ""
 "Give a paragraph of summary of the resource; the summary should be more "
 "detailed than you gave in Title"
 msgstr ""
-"Apresente um parágrafo de resumo do recurso; o resumo deve ser mais "
+"Apresente um parágrafo de resumo do curso; o resumo deve ser mais "
 "pormenorizado do que o apresentado no título"
 
 #: static/js/src/cats.js:76 static/js/src/cats.js:80
@@ -324,7 +324,7 @@ msgid ""
 "should let students know whether this resources is useful to them"
 msgstr ""
 "Carregue uma captura de ecrã de pré-visualização (em GIF/PNG/JPG) do "
-"recurso; idealmente, esta deve permitir aos alunos saber se este recurso é "
+"curso; idealmente, esta deve permitir aos alunos saber se este curso é "
 "útil para eles"
 
 #: static/js/src/cats.js:81
@@ -333,19 +333,19 @@ msgstr "Voltar à lista principal"
 
 #: static/js/src/cats.js:82
 msgid "Give a meaningful reason for why this resource should be removed"
-msgstr "Apresente uma razão válida para remover este recurso"
+msgstr "Apresente uma razão válida para remover este curso"
 
 #: static/js/src/cats.js:83
 msgid "Flag this resource as problematic and give your reason"
-msgstr "Assinale este recurso como problemático e indique a sua razão"
+msgstr "Assinale este curso como problemático e indique a sua razão"
 
 #: static/js/src/cats.js:84
 msgid "Delete this resource"
-msgstr "Eliminar este recurso"
+msgstr "Eliminar este curso"
 
 #: static/js/src/cats.js:85
 msgid "Show a list of student-recommented related resources"
-msgstr "Mostrar uma lista de recursos recomendados por alunos relacionados "
+msgstr "Mostrar uma lista de cursos recomendados por alunos relacionados "
 
 #: static/js/src/cats.js:86
 msgid "Hide the recommendations list"
@@ -353,25 +353,25 @@ msgstr "Ocultar a lista de recomendações"
 
 #: static/js/src/cats.js:87
 msgid "Check the icon to endorse this resource"
-msgstr "Assinale o ícone para apoiar este recurso"
+msgstr "Assinale o ícone para apoiar este curso"
 
 #: static/js/src/cats.js:88
 msgid "This resource is endorsed by staff"
-msgstr "Este recurso é aprovado pelo staff"
+msgstr "Este curso é aprovado pelo staff"
 
 #: static/js/src/cats.js:89
 msgid "Click to view resources for removal"
-msgstr "Clique para ver os recursos para remoção"
+msgstr "Clique para ver os cursos para remoção"
 
 #: static/js/src/cats.js:90
 msgid "Click to view resources in ordinary decreasing-vote order"
-msgstr "Clique para ver os recursos por ordem decrescente de votos"
+msgstr "Clique para ver os cursos por ordem decrescente de votos"
 
 #: static/js/src/cats.js:93
 msgid ""
 "Here is a list of reasons why students think this resource problematic:"
 msgstr ""
-"Aqui está uma lista de razões pelas quais os alunos consideram este recurso "
+"Aqui está uma lista de razões pelas quais os alunos consideram este curso "
 "problemático:"
 
 #: static/js/src/cats.js:94
@@ -380,7 +380,7 @@ msgstr "A razão pela qual é aprovado é:"
 
 #: static/js/src/cats.js:95
 msgid "Resource: "
-msgstr "Recurso:"
+msgstr "Curso:"
 
 #: static/js/src/cats.js:96
 msgid "votes"
@@ -395,38 +395,38 @@ msgstr ""
 
 #: static/js/src/cats.js:107 static/js/src/cats.js:199
 msgid "Import resources"
-msgstr "Importar recursos"
+msgstr "Importar cursos"
 
 #: static/js/src/cats.js:108
 msgid "Suggest resource"
-msgstr "Sugerir recursos"
+msgstr "Sugerir cursos"
 
 #: static/js/src/cats.js:109 static/js/src/cats.js:207
 msgid "Edit existing resource"
-msgstr "Editar recurso existente"
+msgstr "Editar curso existente"
 
 #: static/js/src/cats.js:110
 msgid "Flag Resource"
-msgstr "Assinalar Recurso"
+msgstr "Assinalar Curso"
 
 #: static/js/src/cats.js:111
 msgid "Endorse Resource"
-msgstr "Aprovar recurso"
+msgstr "Aprovar curso"
 
 #: static/js/src/cats.js:112
 msgid "Remove Resource"
-msgstr "Remover recurso"
+msgstr "Remover curso"
 
 #: static/js/src/cats.js:116
 msgid "Upload resources in JSON format to the database."
-msgstr "Carregar recursos em formato JSON para a base de dados."
+msgstr "Carregar cursos em formato JSON para a base de dados."
 
 #: static/js/src/cats.js:117
 msgid ""
 "Suggest a resource which can help other students with this problem. Please "
 "do not give the answer directly."
 msgstr ""
-"Sugira um recurso que possa ajudar outros estudantes com este problema. Por "
+"Sugira um curso que possa ajudar outros estudantes com este problema. Por "
 "favor, não dê a resposta diretamente."
 
 #: static/js/src/cats.js:118
@@ -434,7 +434,7 @@ msgid ""
 "Edit the resource and make it more helpful for other students with this "
 "problem. Please do not give the answer directly."
 msgstr ""
-"Edite o recurso e torne-o mais útil para outros estudantes com este "
+"Edite o curso e torne-o mais útil para outros estudantes com este "
 "problema. Por favor, não dê a resposta diretamente."
 
 #: static/js/src/cats.js:119
@@ -443,22 +443,22 @@ msgid ""
 "resources, and remove inappropriate ones (spam, incorrect, abusive, etc.). "
 "Giving a clear reason will help us do this efficiently."
 msgstr ""
-"Por que razão gostaria de assinalar este recurso? A equipa analisará todos "
-"os recursos assinalados e removerá os inadequados (spam, incorrectos, "
+"Por que razão gostaria de assinalar este curso? A equipa analisará todos "
+"os cursos assinalados e removerá os inadequados (spam, incorrectos, "
 "abusivos, etc.). Se nos der uma razão clara, ajudará a tornar o processo "
 "mais eficiente."
 
 #: static/js/src/cats.js:120
 msgid "Endorse this resource and give the reason why you do that."
-msgstr "Aprove este recurso e indique a razão pela qual o faz."
+msgstr "Aprove este curso e indique a razão pela qual o faz."
 
 #: static/js/src/cats.js:121
 msgid "Remove this resource and give the reason why you do that."
-msgstr "Remova este recurso e indique a razão pela qual o faz."
+msgstr "Remova este curso e indique a razão pela qual o faz."
 
 #: static/js/src/cats.js:157
 msgid "Hide related resources"
-msgstr "Ocultar recursos relacionados"
+msgstr "Ocultar cursos relacionados"
 
 #: static/js/src/cats.js:191
 msgid "From page {fromPage} To page {toPage}"
@@ -466,31 +466,31 @@ msgstr "Da página {fromPage} Para a página {toPage}"
 
 #: static/js/src/cats.js:196
 msgid "Export resources"
-msgstr "Exportar recursos"
+msgstr "Exportar cursos"
 
 #: static/js/src/cats.js:198
 msgid "Entering import resource mode"
-msgstr "A entrar no modo de importação de recursos"
+msgstr "A entrar no modo de importação de cursos"
 
 #: static/js/src/cats.js:202
 msgid "Entering add resource mode"
-msgstr "A entrar no modo de adicionar recurso"
+msgstr "A entrar no modo de adicionar curso"
 
 #: static/js/src/cats.js:203
 msgid "Add new resource"
-msgstr "Adicionar novo recurso"
+msgstr "Adicionar novo curso"
 
 #: static/js/src/cats.js:206
 msgid "Entering edit resource mode"
-msgstr "A entrar no modo de edição de recurso"
+msgstr "A entrar no modo de edição de curso"
 
 #: static/js/src/cats.js:210
 msgid "Entering flag resource mode"
-msgstr "A entrar no modo de assinalar o recurso"
+msgstr "A entrar no modo de assinalar o curso"
 
 #: static/js/src/cats.js:211
 msgid "Flag resource"
-msgstr "Assinalar recurso"
+msgstr "Assinalar curso"
 
 #: static/js/src/cats.js:212
 msgid "Unflag resource"
@@ -498,24 +498,24 @@ msgstr "Retirar assinalação do curso"
 
 #: static/js/src/cats.js:215
 msgid "Endorse resource"
-msgstr "Aprovar recurso"
+msgstr "Aprovar curso"
 
 #: static/js/src/cats.js:216
 msgid "Unendorse resource"
-msgstr "Retirar aprovação de recurso"
+msgstr "Retirar aprovação de curso"
 
 #: static/js/src/cats.js:218
 msgid "Remove resource"
-msgstr "Remover recurso"
+msgstr "Remover curso"
 
 #: static/js/src/cats.js:219
 msgid "Hovering resource"
-msgstr "Pairar recurso"
+msgstr "Pairar curso"
 
 #: static/js/src/cats.js:220
 msgid "A resource was clicked"
-msgstr "Um recurso foi clicado"
+msgstr "Um curso foi clicado"
 
 #: static/js/src/cats.js:221
 msgid "Back to resource list mode"
-msgstr "Voltar ao modo de lista de recursos"
+msgstr "Voltar ao modo de lista de cursos"
