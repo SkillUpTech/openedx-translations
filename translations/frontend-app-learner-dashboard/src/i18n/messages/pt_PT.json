@@ -122,8 +122,6 @@
   "learner-dash.courseCardMenu.unenroll": "Cancelar matrícula",
   "learner-dash.courseCardMenu.dropdownAlt": "Menu suspenso de ações do curso",
   "learner-dash.courseCardMenu.emailSettings": "Definições de e-mail",
-  "learner-dash.courseCardMenu.shareToFacebook": "Partilhar no Facebook",
-  "learner-dash.courseCardMenu.shareToTwitter": "Partilhar no Twitter",
   "learner-dash.courseCardMenu.shareQuote": "Estou a frequentar o {courseName} online com a {socialBrand}. Veja!",
   "learner-dash.courseCard.banners.credit.error": "Ocorreu um erro com esta transação. Para obter ajuda, contacte {supportEmailLink}.",
   "learner-dash.courseCard.banners.credit.errorNoEmail": "Ocorreu um erro com esta transação.",
