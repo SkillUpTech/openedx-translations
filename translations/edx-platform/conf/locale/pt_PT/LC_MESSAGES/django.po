@@ -17573,7 +17573,7 @@ msgid "Taxonomies"
 msgstr "Taxonomias"
 
 #: cms/templates/index.html:383
-msgid "Are you staff on an existing Learning Ecosystem - Studio course?"
+msgid "Are you staff on an existing Studio course?"
 msgstr "Fazes parte da equipa de um recurso existente no Ecossistema de Aprendizagem - Estúdio?"
 
 #: cms/templates/index.html:385
