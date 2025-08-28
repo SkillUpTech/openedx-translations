@@ -17579,7 +17579,7 @@ msgstr "Fazes parte da equipa de um recurso existente no {studio_name} - Estúdi
 #: cms/templates/index.html:385
 msgid ""
 "The course creator must give you access to the course. Contact the course"
-"creator or administrator for the course you are helping to author."
+"creator or administrator for the course you are helping to author. "
 msgstr ""
 "O criador do recurso deve conceder-te acesso ao recurso. "
 "Entra em contacto com o criador ou administrador do recurso."
