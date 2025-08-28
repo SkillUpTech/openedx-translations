@@ -4332,7 +4332,7 @@ msgstr "Programa"
 
 #: lms/djangoapps/courseware/tabs.py:307
 msgid "Dates"
-msgstr "Calendário"
+msgstr "Datas"
 
 #: lms/djangoapps/courseware/views/index.py:231
 #, python-brace-format
@@ -18025,12 +18025,12 @@ msgstr ""
 
 #: cms/templates/settings.html:4
 msgid "Schedule & Details Settings"
-msgstr "Configurações de Calendário e Detalhes"
+msgstr "Configurações de Datas e Detalhes"
 
 #: cms/templates/settings.html:55 cms/templates/widgets/header.html:164
 #: cms/templates/widgets/header.html:169
 msgid "Schedule & Details"
-msgstr "Calendário e Detalhes"
+msgstr "Datas e Detalhes"
 
 #: cms/templates/settings.html:66
 msgid "Basic Information"
@@ -18165,7 +18165,7 @@ msgstr ""
 
 #: cms/templates/settings.html:217
 msgid "Course Schedule"
-msgstr "Calendário do Curso"
+msgstr "Datas do Curso"
 
 #: cms/templates/settings.html:218
 msgid "Dates that control when your course can be viewed"
