@@ -68,7 +68,17 @@
 "LearningEcosystemHeader.components.menu.profile": "O meu Perfil",
 "LearningEcosystemHeader.components.menu.logout": "Sair",
 "LearningEcosystemHeader.components.language.pt": "Português",
-"LearningEcosystemHeader.components.language.en": "English"
+"LearningEcosystemHeader.components.language.en": "English",
+  "consent.actions.manage_preferences.dialog.form.functional": "Desempenho",
+  "consent.actions.manage_preferences.dialog.form.essential": "Essenciais",
+  "consent.actions.manage_preferences.dialog.form.marketing": "Publicidade",
+  "consent.actions.manage_preferences.dialog.form.analytics": "Analíticos",
+  "consent.actions.manage_preferences.dialog.form.unclassified": "Sem classificação",
+  "preferences.essential.accordion.content": "Cookies necessários para permitir as funcionalidades básicas do Ecossistema de Aprendizagem.",
+  "preferences.functional.accordion.content": "Cookies utilizados para melhorar a funcionalidade do Ecossistema de Aprendizagem.",
+  "preferences.marketing.accordion.content": "Cookies utilizados para apresentar anúncios mais relevantes para ti e para os teus interesses.",
+  "preferences.analytics.accordion.content": "Cookies utilizados para compreender o funcionamento do Ecossistema de Aprendizagem.",
+  "preferences.unclassified.accordion.content": "Cookies que ainda não foram categorizados."
 
 }
   
