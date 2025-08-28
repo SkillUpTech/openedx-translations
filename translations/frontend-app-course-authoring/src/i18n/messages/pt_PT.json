@@ -1140,7 +1140,7 @@
   "course-authoring.schedule.schedule-section.description": "Datas que definem o momento em que o curso pode ser visualizado",
   "course-authoring.schedule.schedule-section.course-start.date.label": "Data de início do curso",
   "course-authoring.schedule.schedule-section.course-start.date.help-text": "Primeiro dia do seu curso",
-  "course-authoring.schedule.schedule-section.course-start.time.label": "Hora de início do Recurso",
+  "course-authoring.schedule.schedule-section.course-start.time.label": "Hora de início do Curso",
   "course-authoring.schedule.schedule-section.course-end.date.label": "Data de fim do curso",
   "course-authoring.schedule.schedule-section.course-end.date.help-text": "Último dia do seu curso",
   "course-authoring.schedule.schedule-section.course-end.time.label": "Hora de fim do curso",
@@ -1872,11 +1872,7 @@
   "course-authoring.pages-resources.card.textbooks": "Livros Didáticos",
   "course-authoring.pages-resources.description.textbooks": "Cria e gere uma biblioteca de leituras do curso, livros didáticos e capítulos.",
   "course-authoring.pages-resources.card.custom-pages": "Páginas personalizados",
-<<<<<<< HEAD
   "course-authoring.pages-resources.description.custom-pages": "Fornece conteúdos adicionais ao curso com páginas personalizadas ",
-=======
-  "course-authoring.pages-resources.description.custom-pages": "Fornece conteúdos adicionais ao curso com páginas personalizadas ",
->>>>>>> dev
   "progress.header": "O Teu Progresso",
   "progress.completion.header": "Conclusão do Curso",
   "progress.completion.body": "Isto indica a percentagem do curso que já completaste. Nota que alguns conteúdos podem ainda não estar disponíveis.",
