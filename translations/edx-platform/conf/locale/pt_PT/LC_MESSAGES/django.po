@@ -3143,6 +3143,7 @@ msgstr "Termos de Serviço & Código de Honra"
 #: themes/red-theme/lms/templates/footer.html:101
 #: themes/stanford-style/lms/templates/footer.html:19
 #: themes/stanford-style/lms/templates/static_templates/tos.html:15
+#: themes/indigo/lms/templates/dge_footer.html:112
 msgid "Privacy Policy"
 msgstr "Politica de Privacidade"
 
@@ -3180,6 +3181,7 @@ msgid "Open edX"
 msgstr "Open edX"
 
 #: lms/djangoapps/branding/api.py:393
+#: themes/indigo/lms/templates/dge_footer.html:157
 msgid "Cookie Policy"
 msgstr "Política de Cookies"
 
@@ -5478,8 +5480,9 @@ msgid "Data Download"
 msgstr "Transferir Dados"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:751
+#: themes/indigo/lms/templates/dge_footer.html:149
 msgid "Analytics"
-msgstr "Análise"
+msgstr "Analíticos"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:799
 msgid "Open Responses"
@@ -26549,10 +26552,6 @@ msgstr "Sair"
 msgid "Terms and Conditions"
 msgstr "Termos e Condições"
 
-#: themes/indigo/lms/templates/dge_footer.html:112
-msgid "Privacy Policy"
-msgstr "Política de Privacidade"
-
 #: themes/indigo/lms/templates/dge_footer.html:116
 msgid "Cookie Preferences"
 msgstr "Preferências de Cookies"
@@ -26572,10 +26571,6 @@ msgstr "Desempenho"
 #: themes/indigo/lms/templates/dge_footer.html:148
 msgid "Marketing"
 msgstr "Publicidade"
-
-#: themes/indigo/lms/templates/dge_footer.html:149
-msgid "Analytics"
-msgstr "Analíticos"
 
 #: themes/indigo/lms/templates/dge_footer.html:150
 msgid "Unclassified"
@@ -26604,7 +26599,3 @@ msgstr "Cookies que ainda não foram categorizados."
 #: themes/indigo/lms/templates/dge_footer.html:156
 msgid "We use cookies to improve your experience on this website. You may choose which types of cookies to allow and change your preferences at any time. Disabling cookies may impact your experience on this website. You can learn more by viewing our"
 msgstr "Usamos cookies para melhorar a tua experiência de navegação. Podes escolher os tipos de cookies que permites e alterar as tuas preferências em qualquer altura. A desativação dos cookies pode afetar a tua experiência neste Ecossistema de Aprendizagem. Para saberes mais, consulta a nossa"
-
-#: themes/indigo/lms/templates/dge_footer.html:157
-msgid "Cookie Policy"
-msgstr "Política de Cookies"
