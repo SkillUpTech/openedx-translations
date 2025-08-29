@@ -4265,7 +4265,7 @@ msgstr "Progresso"
 
 #: lms/djangoapps/courseware/plugins.py:28
 msgid "Keep learners engaged and on track throughout the course."
-msgstr "Mantém os alunos envolvidos e no caminho certo no recurso educativo."
+msgstr "Mantém os alunos envolvidos e no caminho certo no curso educativo."
 
 #. #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 #. Translators: 'Textbooks' refers to the tab in the course that leads to the
@@ -4280,7 +4280,7 @@ msgstr "Livros Didáticos"
 #: lms/djangoapps/courseware/plugins.py:75
 msgid ""
 "Create and manage a library of course readings, textbooks, and chapters."
-msgstr "Cria e gere uma biblioteca de leituras do recurso, livros didáticos e capítulos."
+msgstr "Cria e gere uma biblioteca de leituras do curso, livros didáticos e capítulos."
 
 #: lms/djangoapps/courseware/plugins.py:125
 msgid "Calculator"
@@ -4289,7 +4289,7 @@ msgstr "Calculadora"
 #: lms/djangoapps/courseware/plugins.py:126
 msgid "Provide an in-course calculator for simple and complex calculations."
 msgstr ""
-"Fornece uma calculadora integrada no recurso para cálculos simples e "
+"Fornece uma calculadora integrada no curso para cálculos simples e "
 "complexos."
 
 #: lms/djangoapps/courseware/plugins.py:173
@@ -4311,7 +4311,7 @@ msgstr "Páginas personalizados"
 #: lms/djangoapps/courseware/plugins.py:220
 msgid "Provide additional course content and resources with custom pages"
 msgstr ""
-"Fornece conteúdos adicionais ao recurso com páginas personalizadas"
+"Fornece conteúdos adicionais ao curso com páginas personalizadas"
 
 #: lms/djangoapps/courseware/tabs.py:36
 #: lms/djangoapps/courseware/views/views.py:2198
@@ -4323,7 +4323,7 @@ msgstr ""
 #: lms/templates/courseware/courseware.html:215
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:21
 msgid "Course"
-msgstr "Recurso"
+msgstr "Curso"
 
 #: lms/djangoapps/courseware/tabs.py:63
 #: lms/templates/courseware/syllabus.html:21
@@ -4668,7 +4668,7 @@ msgstr "Notas"
 #: lms/djangoapps/edxnotes/plugins.py:58
 msgid ""
 "Allow learners to highlight passages and make notes right in the course."
-msgstr "Permite que os alunos destaquem passagens e façam anotações diretamente no recurso."
+msgstr "Permite que os alunos destaquem passagens e façam anotações diretamente no curso."
 
 #: lms/djangoapps/grades/rest_api/v1/gradebook_views.py:1147
 msgid ""
@@ -8555,7 +8555,7 @@ msgstr ""
 #: openedx/core/djangoapps/discussions/plugins.py:24
 msgid ""
 "Encourage participation and engagement in your course with discussions."
-msgstr "Incentiva a utilização e o envolvimento no teu recurso através de discussões sobre tópicos abordados."
+msgstr "Incentiva a utilização e o envolvimento no teu curso através de discussões sobre tópicos abordados."
 
 #: openedx/core/djangoapps/django_comment_common/models.py:25
 msgid "Administrator"
@@ -15878,7 +15878,7 @@ msgstr "Código do Curso"
 
 #: lms/templates/courseware/course_about.html:157
 msgid "Course Summary"
-msgstr "Resumo do Recurso"
+msgstr "Resumo do Curso"
 
 #. Translators: This is an example for the number used to identify a course,
 #. seen when filling out the form to create a new course. The number here is
@@ -25452,7 +25452,7 @@ msgstr ""
 
 #: lms/templates/navigation/navbar-not-authenticated.html:33
 msgid "Explore Courses"
-msgstr "Explorar Recursos"
+msgstr "Explorar Cursos"
 
 #: lms/templates/navigation/navigation.html:44
 msgid "Global"
@@ -26224,7 +26224,7 @@ msgstr "Ainda não obteve quaisquer certificados."
 
 #: openedx/features/learner_profile/templates/learner_profile/learner-achievements-fragment.html:58
 msgid "Explore New Courses"
-msgstr "Explorar Novos Recursos"
+msgstr "Explorar Novos Cursos"
 
 #: openedx/features/learner_profile/templates/learner_profile/learner_profile.html:16
 msgid "Learner Profile"
