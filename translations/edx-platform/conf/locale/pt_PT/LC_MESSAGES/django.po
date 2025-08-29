@@ -26592,7 +26592,7 @@ msgstr "Cookies utilizados para apresentar anúncios mais relevantes para ti e p
 msgid "Cookies used to understand how the website is being used."
 msgstr "Cookies utilizados para compreender o funcionamento do Ecossistema de Aprendizagem."
 
-#: themes/indigo/lms/templates/dge_footer.html:154
+#: themes/indigo/lms/templates/dge_footer.html:155
 msgid "Cookies that have not yet been categorized."
 msgstr "Cookies que ainda não foram categorizados."
 
