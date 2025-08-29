@@ -1916,5 +1916,7 @@
   "preferences.functional.accordion.content": "Cookies utilizados para melhorar a funcionalidade do Ecossistema de Aprendizagem.",
   "preferences.marketing.accordion.content": "Cookies utilizados para apresentar anúncios mais relevantes para ti e para os teus interesses.",
   "preferences.analytics.accordion.content": "Cookies utilizados para compreender o funcionamento do Ecossistema de Aprendizagem.",
-  "preferences.unclassified.accordion.content": "Cookies que ainda não foram categorizados."
+  "preferences.unclassified.accordion.content": "Cookies que ainda não foram categorizados.",
+  "course-authoring.studio-home.default-section-1.title": "Fazes parte da equipa de um recurso existente no Ecossistema de Aprendizagem - Estúdio?",
+  "course-authoring.studio-home.default-section-1.description": "O criador do recurso deve conceder-te acesso ao recurso. Entra em contacto com o criador ou administrador do recurso."
 }
