@@ -26599,3 +26599,7 @@ msgstr "Cookies que ainda não foram categorizados."
 #: themes/indigo/lms/templates/dge_footer.html:156
 msgid "We use cookies to improve your experience on this website. You may choose which types of cookies to allow and change your preferences at any time. Disabling cookies may impact your experience on this website. You can learn more by viewing our"
 msgstr "Usamos cookies para melhorar a tua experiência de navegação. Podes escolher os tipos de cookies que permites e alterar as tuas preferências em qualquer altura. A desativação dos cookies pode afetar a tua experiência neste Ecossistema de Aprendizagem. Para saberes mais, consulta a nossa"
+
+#: themes/indigo/lms/templates/dge_footer.html:32
+msgid "The Learning Ecosystem is funded by the Recovery and Resilience Plan and NextGenerationEU."
+msgstr "O Ecossistema de Aprendizagem é financiado pelo Plano de Recuperação e Resiliência e o NextGenerationEU."
