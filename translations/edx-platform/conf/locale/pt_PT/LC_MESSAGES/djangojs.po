@@ -2694,7 +2694,7 @@ msgstr "Aderiu %(date)s"
 #. * relative timestamp (see: https://github.com/rmm5t/jquery-timeago)
 #: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:69
 msgid "Last Activity %(date)s"
-msgstr "Última actividade %(date)s"
+msgstr "Última atividade %(date)s"
 
 #: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:93
 msgid "Remove this team member?"
