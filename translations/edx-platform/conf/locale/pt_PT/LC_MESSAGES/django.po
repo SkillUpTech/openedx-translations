@@ -3143,6 +3143,7 @@ msgstr "Termos de Serviço & Código de Honra"
 #: themes/red-theme/lms/templates/footer.html:101
 #: themes/stanford-style/lms/templates/footer.html:19
 #: themes/stanford-style/lms/templates/static_templates/tos.html:15
+#: themes/indigo/lms/templates/dge_footer.html:112
 msgid "Privacy Policy"
 msgstr "Politica de Privacidade"
 
@@ -3180,6 +3181,7 @@ msgid "Open edX"
 msgstr "Open edX"
 
 #: lms/djangoapps/branding/api.py:393
+#: themes/indigo/lms/templates/dge_footer.html:157
 msgid "Cookie Policy"
 msgstr "Política de Cookies"
 
@@ -5478,8 +5480,9 @@ msgid "Data Download"
 msgstr "Transferir Dados"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:751
+#: themes/indigo/lms/templates/dge_footer.html:149
 msgid "Analytics"
-msgstr "Análise"
+msgstr "Analíticos"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:799
 msgid "Open Responses"
@@ -19555,6 +19558,7 @@ msgstr "Ver todos os Cursos"
 #: lms/templates/dashboard.html:29 lms/templates/header/user_dropdown.html:42
 #: lms/templates/header/user_dropdown.html:44
 #: lms/templates/user_dropdown.html:30 lms/templates/user_dropdown.html:38
+#: themes/indigo/lms/templates/dge_header.html:91
 msgid "Dashboard"
 msgstr "Painel principal"
 
@@ -26530,6 +26534,68 @@ msgstr "Coloque aqui o seu Texto de Direitos de Autor!"
 msgid "Code Editor"
 msgstr "Editor de Código"
 
-# themes/indigo/lms/templates/dge_header.html:58
+#: themes/indigo/lms/templates/dge_header.html:65
+#: themes/indigo/lms/templates/dge_header.html:109
 msgid "Courses"
 msgstr "Recursos"
+
+#: themes/indigo/lms/templates/dge_header.html:68
+#: themes/indigo/lms/templates/dge_header.html:112
+msgid "Explore New"
+msgstr "Explorar"
+
+# themes/indigo/lms/templates/dge_header.html:99
+msgid "Logout"
+msgstr "Sair"
+
+#: themes/indigo/lms/templates/dge_footer.html:108
+msgid "Terms and Conditions"
+msgstr "Termos e Condições"
+
+#: themes/indigo/lms/templates/dge_footer.html:116
+msgid "Cookie Preferences"
+msgstr "Preferências de Cookies"
+
+#: themes/indigo/lms/templates/dge_footer.html:121
+msgid "Learning Ecosystem. All rights reserved"
+msgstr "Ecossistema de Aprendizagem. Direitos reservados"
+
+#: themes/indigo/lms/templates/dge_footer.html:146
+msgid "Essential"
+msgstr "Essenciais"
+
+#: themes/indigo/lms/templates/dge_footer.html:147
+msgid "Functional"
+msgstr "Desempenho"
+
+#: themes/indigo/lms/templates/dge_footer.html:148
+msgid "Marketing"
+msgstr "Publicidade"
+
+#: themes/indigo/lms/templates/dge_footer.html:150
+msgid "Unclassified"
+msgstr "Sem classificação"
+
+#: themes/indigo/lms/templates/dge_footer.html:151
+msgid "Cookies required to enable basic website functionality."
+msgstr "Cookies necessários para permitir as funcionalidades básicas do Ecossistema de Aprendizagem."
+
+#: themes/indigo/lms/templates/dge_footer.html:152
+msgid "Cookies that are used to enhance the functionality of the website."
+msgstr "Cookies utilizados para melhorar a funcionalidade do Ecossistema de Aprendizagem."
+
+#: themes/indigo/lms/templates/dge_footer.html:153
+msgid "Cookies used to deliver advertising that is more relevant to your interests."
+msgstr "Cookies utilizados para apresentar anúncios mais relevantes para ti e para os teus interesses."
+
+#: themes/indigo/lms/templates/dge_footer.html:154
+msgid "Cookies used to understand how the website is being used."
+msgstr "Cookies utilizados para compreender o funcionamento do Ecossistema de Aprendizagem."
+
+#: themes/indigo/lms/templates/dge_footer.html:154
+msgid "Cookies that have not yet been categorized."
+msgstr "Cookies que ainda não foram categorizados."
+
+#: themes/indigo/lms/templates/dge_footer.html:156
+msgid "We use cookies to improve your experience on this website. You may choose which types of cookies to allow and change your preferences at any time. Disabling cookies may impact your experience on this website. You can learn more by viewing our"
+msgstr "Usamos cookies para melhorar a tua experiência de navegação. Podes escolher os tipos de cookies que permites e alterar as tuas preferências em qualquer altura. A desativação dos cookies pode afetar a tua experiência neste Ecossistema de Aprendizagem. Para saberes mais, consulta a nossa"
