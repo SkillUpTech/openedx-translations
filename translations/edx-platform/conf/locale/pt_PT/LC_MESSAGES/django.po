@@ -26529,3 +26529,7 @@ msgstr "Coloque aqui o seu Texto de Direitos de Autor!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Editor de Código"
+
+# themes/indigo/lms/templates/dge_header.html:58
+msgid "Courses"
+msgstr "Recursos"
