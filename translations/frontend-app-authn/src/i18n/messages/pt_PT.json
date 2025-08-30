@@ -6,7 +6,7 @@
   "logistration.register": "Registar",
   "logistration.welcome": "Entra ou regista-te para explorar novas formas de aprender e ensinar.",
   "logistration.new-sign.in": "Entrar",
-  "logistration.new-sign.up": "Registar",
+  "logistration.new-register": "Registar",
   "enterprisetpa.title.heading": "Gostaria de iniciar sessão usando as suas {providerName} credenciais?",
   "enterprisetpa.login.button.text": "Mostre-me outras formas de iniciar sessão ou registar-se",
   "enterprisetpa.login.button.text.public.account.creation.disabled": "Mostre-me outras formas de iniciar sessão",
