@@ -19802,7 +19802,7 @@ msgstr "Revela o teu potencial: descobre novos conteúdos!"
 
 #: lms/templates/courseware/courses.html:43
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
-msgstr "Explora um mundo de conhecimento e desenvolve as tuas competências com uma grande variedade de cursos educativos."
+msgstr "Explora um mundo de conhecimento e desenvolve as tuas competências com uma grande variedade de cursos."
 
 #: lms/templates/courseware/courses.html:53
 msgid "Filters"
@@ -19810,7 +19810,7 @@ msgstr "Filtros"
 
 #: lms/templates/courseware/courses.html:79
 msgid "Explore course"
-msgstr "Explorar recursos"
+msgstr "Explorar cursos"
 
 #: lms/templates/index_overlay.html:8
 msgid "Welcome to {platform_name}"
