@@ -2,7 +2,7 @@
   "course-authoring.search-manager.blockTagsFilter": "Etiquetas",
   "course-authoring.search-manager.blockTypeFilter": "Tipologia",
   "course-authoring.search-manager.inputPlaceholder": "Procurar",
-  "course-authoring.search-manager.searchTagsByKeywordPlaceholder": "Tags de pesquisa",
+  "course-authoring.search-manager.searchTagsByKeywordPlaceholder": "Etiquetas de pesquisa",
   "course-authoring.course-search.searchAllCourses": "Todos os cursos",
   "course-authoring.course-search.searchThisCourse": "Este curso",
   "course-authoring.course-search.title": "Procurar",
@@ -10,7 +10,7 @@
   "course-authoring.course-search.showMoreResults": "Mostrar mais resultados",
   "course-authoring.course-search.loadingMoreResults": "Carregando mais resultados",
   "course-authoring.course-search.emptySearchTitle": "Comece a pesquisar para encontrar conteúdo",
-  "course-authoring.course-search.emptySearchSubtitle": "Encontre seções, subseções, unidades e componentes",
+  "course-authoring.course-search.emptySearchSubtitle": "Encontra secções, subsecções, unidades e componentes dos recursos",
   "course-authoring.course-search.noResultsTitle": "Não encontramos nada que corresponda à sua pesquisa",
   "course-authoring.course-search.noResultsSubtitle": "Por favor, tente um termo de pesquisa ou filtro diferente",
   "course-authoring.course-search.openInNewWindow": "Abrir em nova janela",
@@ -1919,4 +1919,4 @@
   "preferences.unclassified.accordion.content": "Cookies que ainda não foram categorizados.",
   "course-authoring.studio-home.default-section-1.title": "Fazes parte da equipa de um recurso existente no Ecossistema de Aprendizagem - Estúdio?",
   "course-authoring.studio-home.default-section-1.description": "O criador do recurso deve conceder-te acesso ao recurso. Entra em contacto com o criador ou administrador do recurso."
-}
+
