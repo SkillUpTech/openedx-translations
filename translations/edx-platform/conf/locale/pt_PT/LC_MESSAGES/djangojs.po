@@ -2694,7 +2694,7 @@ msgstr "Aderiu %(date)s"
 #. * relative timestamp (see: https://github.com/rmm5t/jquery-timeago)
 #: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:69
 msgid "Last Activity %(date)s"
-msgstr "Última actividade %(date)s"
+msgstr "Última atividade %(date)s"
 
 #: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:93
 msgid "Remove this team member?"
@@ -3460,9 +3460,9 @@ msgstr ""
 #, javascript-format
 msgid "Viewing %s course"
 msgid_plural "Viewing %s courses"
-msgstr[0] "visualizar %s recurso"
-msgstr[1] "visualizar %s recursos"
-msgstr[2] "visualizar %s recursos"
+msgstr[0] "Vizualizando %s curso"
+msgstr[1] "Vizualizando %s cursos"
+msgstr[2] "Vizualizando %s cursos"
 
 #: lms/static/js/discovery/views/search_form.js:57
 #, javascript-format

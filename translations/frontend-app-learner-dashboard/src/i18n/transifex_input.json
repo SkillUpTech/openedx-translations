@@ -122,8 +122,6 @@
   "learner-dash.courseCardMenu.unenroll": "Unenroll",
   "learner-dash.courseCardMenu.dropdownAlt": "Course actions dropdown",
   "learner-dash.courseCardMenu.emailSettings": "Email settings",
-  "learner-dash.courseCardMenu.shareToFacebook": "Share to Facebook",
-  "learner-dash.courseCardMenu.shareToTwitter": "Share to Twitter",
   "learner-dash.courseCardMenu.shareQuote": "I'm taking {courseName} online with {socialBrand}. Check it out!",
   "learner-dash.courseCard.banners.credit.error": "An error occurred with this transaction. For help, contact {supportEmailLink}.",
   "learner-dash.courseCard.banners.credit.errorNoEmail": "An error occurred with this transaction.",

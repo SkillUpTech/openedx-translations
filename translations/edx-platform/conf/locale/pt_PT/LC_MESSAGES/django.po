@@ -3143,6 +3143,7 @@ msgstr "Termos de Serviço & Código de Honra"
 #: themes/red-theme/lms/templates/footer.html:101
 #: themes/stanford-style/lms/templates/footer.html:19
 #: themes/stanford-style/lms/templates/static_templates/tos.html:15
+#: themes/indigo/lms/templates/dge_footer.html:112
 msgid "Privacy Policy"
 msgstr "Politica de Privacidade"
 
@@ -3180,6 +3181,7 @@ msgid "Open edX"
 msgstr "Open edX"
 
 #: lms/djangoapps/branding/api.py:393
+#: themes/indigo/lms/templates/dge_footer.html:157
 msgid "Cookie Policy"
 msgstr "Política de Cookies"
 
@@ -3496,7 +3498,7 @@ msgid ""
 "awarded for course activities that {platform_name} students complete."
 msgstr ""
 "{platform_name} reconhece as realizações através de certificados, que são "
-"atribuídos para actividades de curso que os alunos {platform_name} concluem."
+"atribuídos para atividades de curso que os alunos {platform_name} concluem."
 
 #. Translators:  'All rights reserved' is a legal term used in copyrighting to
 #. protect published content
@@ -4096,7 +4098,7 @@ msgid ""
 "active."
 msgstr ""
 "Após o fim do curso, o conteúdo do mesmo será arquivado e deixará de estar "
-"activo."
+"ativo."
 
 #: lms/djangoapps/courseware/date_summary.py:304
 msgid ""
@@ -4265,7 +4267,7 @@ msgstr "Progresso"
 
 #: lms/djangoapps/courseware/plugins.py:28
 msgid "Keep learners engaged and on track throughout the course."
-msgstr "Mantém os alunos envolvidos e no caminho certo no recurso educativo."
+msgstr "Mantém os alunos envolvidos e no caminho certo no curso educativo."
 
 #. #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 #. Translators: 'Textbooks' refers to the tab in the course that leads to the
@@ -4280,7 +4282,7 @@ msgstr "Livros Didáticos"
 #: lms/djangoapps/courseware/plugins.py:75
 msgid ""
 "Create and manage a library of course readings, textbooks, and chapters."
-msgstr "Cria e gere uma biblioteca de leituras do recurso, livros didáticos e capítulos."
+msgstr "Cria e gere uma biblioteca de leituras do curso, livros didáticos e capítulos."
 
 #: lms/djangoapps/courseware/plugins.py:125
 msgid "Calculator"
@@ -4289,7 +4291,7 @@ msgstr "Calculadora"
 #: lms/djangoapps/courseware/plugins.py:126
 msgid "Provide an in-course calculator for simple and complex calculations."
 msgstr ""
-"Fornece uma calculadora integrada no recurso para cálculos simples e "
+"Fornece uma calculadora integrada no curso para cálculos simples e "
 "complexos."
 
 #: lms/djangoapps/courseware/plugins.py:173
@@ -4311,7 +4313,7 @@ msgstr "Páginas personalizados"
 #: lms/djangoapps/courseware/plugins.py:220
 msgid "Provide additional course content and resources with custom pages"
 msgstr ""
-"Fornece conteúdos adicionais ao recurso com páginas personalizadas"
+"Fornece conteúdos adicionais ao curso com páginas personalizadas"
 
 #: lms/djangoapps/courseware/tabs.py:36
 #: lms/djangoapps/courseware/views/views.py:2198
@@ -4323,7 +4325,7 @@ msgstr ""
 #: lms/templates/courseware/courseware.html:215
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:21
 msgid "Course"
-msgstr "Recurso"
+msgstr "Curso"
 
 #: lms/djangoapps/courseware/tabs.py:63
 #: lms/templates/courseware/syllabus.html:21
@@ -4332,7 +4334,7 @@ msgstr "Programa"
 
 #: lms/djangoapps/courseware/tabs.py:307
 msgid "Dates"
-msgstr "Calendário"
+msgstr "Datas"
 
 #: lms/djangoapps/courseware/views/index.py:231
 #, python-brace-format
@@ -4668,7 +4670,7 @@ msgstr "Notas"
 #: lms/djangoapps/edxnotes/plugins.py:58
 msgid ""
 "Allow learners to highlight passages and make notes right in the course."
-msgstr "Permite que os alunos destaquem passagens e façam anotações diretamente no recurso."
+msgstr "Permite que os alunos destaquem passagens e façam anotações diretamente no curso."
 
 #: lms/djangoapps/grades/rest_api/v1/gradebook_views.py:1147
 msgid ""
@@ -5478,8 +5480,9 @@ msgid "Data Download"
 msgstr "Transferir Dados"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:751
+#: themes/indigo/lms/templates/dge_footer.html:149
 msgid "Analytics"
-msgstr "Análise"
+msgstr "Analíticos"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:799
 msgid "Open Responses"
@@ -8555,7 +8558,7 @@ msgstr ""
 #: openedx/core/djangoapps/discussions/plugins.py:24
 msgid ""
 "Encourage participation and engagement in your course with discussions."
-msgstr "Incentiva a utilização e o envolvimento no teu recurso através de discussões sobre tópicos abordados."
+msgstr "Incentiva a utilização e o envolvimento no teu curso através de discussões sobre tópicos abordados."
 
 #: openedx/core/djangoapps/django_comment_common/models.py:25
 msgid "Administrator"
@@ -15878,7 +15881,7 @@ msgstr "Código do Curso"
 
 #: lms/templates/courseware/course_about.html:157
 msgid "Course Summary"
-msgstr "Resumo do Recurso"
+msgstr "Resumo do Curso"
 
 #. Translators: This is an example for the number used to identify a course,
 #. seen when filling out the form to create a new course. The number here is
@@ -17573,13 +17576,13 @@ msgid "Taxonomies"
 msgstr "Taxonomias"
 
 #: cms/templates/index.html:383
-msgid "Fazes parte da equipa de um recurso existente no Ecossistema de Aprendizagem - Estúdio?"
-msgstr "Fazes parte da equipa de um recurso existente no Ecossistema de Aprendizagem - Estúdio?"
+msgid "Are you staff on an existing {studio_name} course?"
+msgstr "Fazes parte da equipa de um recurso existente no {studio_name} - Estúdio?"
 
 #: cms/templates/index.html:385
 msgid ""
-"The course creator must give you access to the course. Contact the course "
-"creator or administrator for the course you are helping to author."
+"The course creator must give you access to the course. Contact the course"
+"creator or administrator for the course you are helping to author. "
 msgstr ""
 "O criador do recurso deve conceder-te acesso ao recurso. "
 "Entra em contacto com o criador ou administrador do recurso."
@@ -18025,12 +18028,12 @@ msgstr ""
 
 #: cms/templates/settings.html:4
 msgid "Schedule & Details Settings"
-msgstr "Configurações de Calendário e Detalhes"
+msgstr "Configurações de Datas e Detalhes"
 
 #: cms/templates/settings.html:55 cms/templates/widgets/header.html:164
 #: cms/templates/widgets/header.html:169
 msgid "Schedule & Details"
-msgstr "Calendário e Detalhes"
+msgstr "Datas e Detalhes"
 
 #: cms/templates/settings.html:66
 msgid "Basic Information"
@@ -18165,7 +18168,7 @@ msgstr ""
 
 #: cms/templates/settings.html:217
 msgid "Course Schedule"
-msgstr "Calendário do Curso"
+msgstr "Datas do Curso"
 
 #: cms/templates/settings.html:218
 msgid "Dates that control when your course can be viewed"
@@ -19243,7 +19246,7 @@ msgstr "Escolher Idioma"
 #: lms/templates/header/user_dropdown.html:48
 #: lms/templates/user_dropdown.html:31 lms/templates/user_dropdown.html:39
 msgid "Account"
-msgstr "Conta"
+msgstr "A minha conta"
 
 #: cms/templates/widgets/header.html:346 cms/templates/widgets/header.html:361
 msgid "Account Navigation"
@@ -19321,8 +19324,8 @@ msgid "Label"
 msgstr "Etiqueta"
 
 #: cms/templates/widgets/sock.html:12
-msgid "Looking for help with Learning Ecosystem Studio?"
-msgstr "Precisas de ajuda com o Ecossistema de Aprendizagem - Estúdio?"
+msgid "Looking for help with {studio_name}?"
+msgstr "Precisas de ajuda com o {studio_name} - Estúdio?"
 
 #: cms/templates/widgets/sock.html:13
 msgid "Hide Learning Ecosystem Studio Help"
@@ -19555,8 +19558,9 @@ msgstr "Ver todos os Cursos"
 #: lms/templates/dashboard.html:29 lms/templates/header/user_dropdown.html:42
 #: lms/templates/header/user_dropdown.html:44
 #: lms/templates/user_dropdown.html:30 lms/templates/user_dropdown.html:38
+#: themes/indigo/lms/templates/dge_header.html:91
 msgid "Dashboard"
-msgstr "Painel de Controlo"
+msgstr "Painel principal"
 
 #: lms/templates/dashboard.html:230
 msgid "results successfully populated,"
@@ -19802,7 +19806,7 @@ msgstr "Revela o teu potencial: descobre novos conteúdos!"
 
 #: lms/templates/courseware/courses.html:43
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
-msgstr "Explora um mundo de conhecimento e desenvolve as tuas competências com uma grande variedade de recursos educativos."
+msgstr "Explora um mundo de conhecimento e desenvolve as tuas competências com uma grande variedade de cursos educativos."
 
 #: lms/templates/courseware/courses.html:53
 msgid "Filters"
@@ -22023,7 +22027,7 @@ msgid ""
 "Get {start_bold}access to all course activities{end_bold}, including both "
 "graded and non-graded assignments, while the course is running"
 msgstr ""
-"Obter {start_bold}acesso a todas as actividades do curso{end_bold}, "
+"Obter {start_bold}acesso a todas as atividades do curso{end_bold}, "
 "incluindo trabalhos classificados e não classificados, enquanto o curso está"
 " a decorrer."
 
@@ -22057,7 +22061,7 @@ msgid ""
 "Get temporary access to  {start_bold}non-graded{end_bold} activities, "
 "including discussion forums and non-graded assignments"
 msgstr ""
-"Obter acesso temporário às actividades {start_bold}não classificadas "
+"Obter acesso temporário às atividades {start_bold}não classificadas "
 "{end_bold}, incluindo fóruns de debate e tarefas não classificadas"
 
 #: lms/templates/course_modes/fbe.html:57
@@ -24454,7 +24458,7 @@ msgid ""
 msgstr ""
 "Repor o prazo limite de um problema anula a extensão do prazo limite que "
 "possa ter sido atribuído a um estudante numa subsecção. Isto vai reverter o "
-"prazo limite para o prazo original do problema."
+"prazo limite para o prazo original definido."
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:105
 msgid "Reason for reset"
@@ -24576,7 +24580,7 @@ msgstr "Painel do Formador"
 
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:120
 msgid "View Course in Studio"
-msgstr "Ver Curso no Studio"
+msgstr "Ver Curso no Estúdio"
 
 #: lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html:5
 #: lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html:17
@@ -25452,7 +25456,7 @@ msgstr ""
 
 #: lms/templates/navigation/navbar-not-authenticated.html:33
 msgid "Explore Courses"
-msgstr "Explorar Recursos"
+msgstr "Explorar Cursos"
 
 #: lms/templates/navigation/navigation.html:44
 msgid "Global"
@@ -25687,7 +25691,7 @@ msgid ""
 "The page that you were looking for was not found. Go back to the "
 "{link_start}homepage{link_end} ."
 msgstr ""
-"A página que estava procurando não foi encontrada. Volte para a "
+"A página que procurava não foi encontrada. Volte para a "
 "{link_start}página inicial{link_end} ."
 
 #: lms/templates/static_templates/429.html:9
@@ -26224,7 +26228,7 @@ msgstr "Ainda não obteve quaisquer certificados."
 
 #: openedx/features/learner_profile/templates/learner_profile/learner-achievements-fragment.html:58
 msgid "Explore New Courses"
-msgstr "Explorar Novos Recursos"
+msgstr "Explorar Novos Cursos"
 
 #: openedx/features/learner_profile/templates/learner_profile/learner_profile.html:16
 msgid "Learner Profile"
@@ -26529,3 +26533,73 @@ msgstr "Coloque aqui o seu Texto de Direitos de Autor!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Editor de Código"
+
+#: themes/indigo/lms/templates/dge_header.html:65
+#: themes/indigo/lms/templates/dge_header.html:109
+msgid "Courses"
+msgstr "Recursos"
+
+#: themes/indigo/lms/templates/dge_header.html:68
+#: themes/indigo/lms/templates/dge_header.html:112
+msgid "Explore New"
+msgstr "Explorar"
+
+# themes/indigo/lms/templates/dge_header.html:99
+msgid "Logout"
+msgstr "Sair"
+
+#: themes/indigo/lms/templates/dge_footer.html:108
+msgid "Terms and Conditions"
+msgstr "Termos e Condições"
+
+#: themes/indigo/lms/templates/dge_footer.html:116
+msgid "Cookie Preferences"
+msgstr "Preferências de Cookies"
+
+#: themes/indigo/lms/templates/dge_footer.html:121
+msgid "Learning Ecosystem. All rights reserved"
+msgstr "Ecossistema de Aprendizagem. Direitos reservados"
+
+#: themes/indigo/lms/templates/dge_footer.html:146
+msgid "Essential"
+msgstr "Essenciais"
+
+#: themes/indigo/lms/templates/dge_footer.html:147
+msgid "Functional"
+msgstr "Desempenho"
+
+#: themes/indigo/lms/templates/dge_footer.html:148
+msgid "Marketing"
+msgstr "Publicidade"
+
+#: themes/indigo/lms/templates/dge_footer.html:150
+msgid "Unclassified"
+msgstr "Sem classificação"
+
+#: themes/indigo/lms/templates/dge_footer.html:151
+msgid "Cookies required to enable basic website functionality."
+msgstr "Cookies necessários para permitir as funcionalidades básicas do Ecossistema de Aprendizagem."
+
+#: themes/indigo/lms/templates/dge_footer.html:152
+msgid "Cookies that are used to enhance the functionality of the website."
+msgstr "Cookies utilizados para melhorar a funcionalidade do Ecossistema de Aprendizagem."
+
+#: themes/indigo/lms/templates/dge_footer.html:153
+msgid "Cookies used to deliver advertising that is more relevant to your interests."
+msgstr "Cookies utilizados para apresentar anúncios mais relevantes para ti e para os teus interesses."
+
+#: themes/indigo/lms/templates/dge_footer.html:154
+msgid "Cookies used to understand how the website is being used."
+msgstr "Cookies utilizados para compreender o funcionamento do Ecossistema de Aprendizagem."
+
+#: themes/indigo/lms/templates/dge_footer.html:155
+msgid "Cookies that have not yet been categorized."
+msgstr "Cookies que ainda não foram categorizados."
+
+#: themes/indigo/lms/templates/dge_footer.html:156
+msgid "We use cookies to improve your experience on this website. You may choose which types of cookies to allow and change your preferences at any time. Disabling cookies may impact your experience on this website. You can learn more by viewing our"
+msgstr "Usamos cookies para melhorar a tua experiência de navegação. Podes escolher os tipos de cookies que permites e alterar as tuas preferências em qualquer altura. A desativação dos cookies pode afetar a tua experiência neste Ecossistema de Aprendizagem. Para saberes mais, consulta a nossa"
+
+#: themes/indigo/lms/templates/dge_footer.html:32
+msgid "The Learning Ecosystem is funded by the Recovery and Resilience Plan and NextGenerationEU."
+msgstr "O Ecossistema de Aprendizagem é financiado pelo Plano de Recuperação e Resiliência e o NextGenerationEU."
