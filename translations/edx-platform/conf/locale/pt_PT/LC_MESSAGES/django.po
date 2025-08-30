@@ -19328,7 +19328,7 @@ msgid "Looking for help with {studio_name}?"
 msgstr "Precisas de ajuda com o Ecossistema de Aprendizagem - Estúdio?"
 
 #: cms/templates/widgets/sock.html:13
-msgid ""Hide {studio_name} Help""
+msgid "Hide {studio_name} Help"
 msgstr "Ocultar Ajuda de Ecossistema de Aprendizagem - Estúdio"
 
 #: cms/templates/widgets/sock.html:20
