@@ -3460,9 +3460,9 @@ msgstr ""
 #, javascript-format
 msgid "Viewing %s course"
 msgid_plural "Viewing %s courses"
-msgstr[0] "Vizualizando %s curso"
-msgstr[1] "Vizualizando %s cursos"
-msgstr[2] "Vizualizando %s cursos"
+msgstr[0] "Visualizando %s curso"
+msgstr[1] "Visualizando %s cursos"
+msgstr[2] "Visualizando %s cursos"
 
 #: lms/static/js/discovery/views/search_form.js:57
 #, javascript-format
