@@ -207,5 +207,7 @@
   "preferences.functional.accordion.content": "Cookies utilizados para melhorar a funcionalidade do Ecossistema de Aprendizagem.",
   "preferences.marketing.accordion.content": "Cookies utilizados para apresentar anúncios mais relevantes para ti e para os teus interesses.",
   "preferences.analytics.accordion.content": "Cookies utilizados para compreender o funcionamento do Ecossistema de Aprendizagem.",
-  "preferences.unclassified.accordion.content": "Cookies que ainda não foram categorizados."
+  "preferences.unclassified.accordion.content": "Cookies que ainda não foram categorizados.",
+  "masquerade-widget.userName.input.placeholder": "Nome de utilizador ou e-mail",
+  "progress.link.studio": "Ver classificação no estúdio"
 }
