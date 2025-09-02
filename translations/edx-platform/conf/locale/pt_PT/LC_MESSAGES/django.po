@@ -26541,7 +26541,7 @@ msgstr "Cursos"
 
 #: themes/indigo/lms/templates/dge_header.html:68
 #: themes/indigo/lms/templates/dge_header.html:112
-msgid "Explore New"
+msgid "Explore"
 msgstr "Explorar"
 
 # themes/indigo/lms/templates/dge_header.html:99
