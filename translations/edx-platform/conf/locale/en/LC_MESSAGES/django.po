@@ -23790,3 +23790,8 @@ msgstr ""
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr ""
+
+#: themes/indigo/lms/templates/dge_header.html:65
+#: themes/indigo/lms/templates/dge_header.html:109
+msgid "DGECourses"
+msgstr "Courses"
