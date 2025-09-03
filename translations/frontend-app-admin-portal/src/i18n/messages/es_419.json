@@ -462,7 +462,7 @@
   "adminPortal.LPR.moduleActivityReport.table.header.course": "Título del curso",
   "adminPortal.LPR.moduleActivityReport.table.header.module": "Módulo",
   "adminPortal.LPR.moduleActivityReport.table.header.moduleGrade": "Calificación",
-  "adminPortal.LPR.moduleActivityReport.table.header.percentageCompletedActivities": "% Actividades completadas",
+  "adminPortal.LPR.moduleActivityReport.table.header.percentageCompletedActivities": "% Atividades completadas",
   "adminPortal.LPR.moduleActivityReport.table.header.extensionsRequested": "Solicitudes de extensión",
   "adminPortal.LPR.moduleActivityReport.table.header.hoursOnline": "Horas de aprendizaje",
   "adminPortal.LPR.moduleActivityReport.table.header.logViewed": "Vistas de registro",
