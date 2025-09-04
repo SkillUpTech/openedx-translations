@@ -351,5 +351,6 @@
   "account.settings.delete.account.dge-secondmessage": ", indicando os seguintes dados:",
   "account.settings.delete.account.dge-thirdmessage": "E solicitando expressamente a eliminação da conta.",
   "account.settings.delete.account.dge-listitem-one": "Nome de utilizador (username)",
-  "account.settings.delete.account.dge-listitem-two": "Endereço de e-mail associado à conta"
+  "account.settings.delete.account.dge-listitem-two": "Endereço de e-mail associado à conta",
+  "account.settings.delete.account.dge-fulltext": "Caso deseje prosseguir com a eliminação da conta, deverá contactar a DGE através do endereço de e-mail epd@dge.mec.pt, indicando os seguintes dados:"
 }
