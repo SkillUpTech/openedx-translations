@@ -22147,6 +22147,10 @@ msgstr "Ver Curso"
 msgid "Enrollment in this course is by invitation only"
 msgstr "A matrícula neste curso é apenas por convite"
 
+#: lms/templates/courseware/course_about.html:92
+msgid "Already Enrolled"
+msgstr "Já inscrito"
+
 #: lms/templates/courseware/course_about.html:94
 msgid "Enrollment is Closed"
 msgstr "Matrícula Encerrada"
