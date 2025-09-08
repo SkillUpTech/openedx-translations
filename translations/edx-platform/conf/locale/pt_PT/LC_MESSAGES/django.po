@@ -26524,12 +26524,12 @@ msgstr "Coloque aqui o seu Texto de Direitos de Autor!"
 msgid "Code Editor"
 msgstr "Editor de Código"
 
-#: themes/indigo/lms/templates/dge_header.html:65
+#: themes/indigo/lms/templates/dge_header.html:68
 #: themes/indigo/lms/templates/dge_header.html:112
 msgid "DGECourses"
 msgstr "Cursos"
 
-#: themes/indigo/lms/templates/dge_header.html:68
+#: themes/indigo/lms/templates/dge_header.html:71
 #: themes/indigo/lms/templates/dge_header.html:115
 msgid "Explore"
 msgstr "Explorar"
