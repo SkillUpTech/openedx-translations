@@ -8929,7 +8929,8 @@ msgid "Maintenance Dashboard"
 msgstr "Painel de manutenção"
 
 #: cms/djangoapps/maintenance/views.py:35
-#: cms/templates/maintenance/_force_publish_course.html:24
+#: cms/templates/maintenance/_force_publish_course.html:25
+#: themes/indigo/cms/templates/maintenance/index.html:13
 msgid "Force Publish Course"
 msgstr "Forçar publicação do recurso"
 
@@ -8943,6 +8944,7 @@ msgstr ""
 "Às vezes, as versões preliminares e publicadas de um recurso podem ficar descoordenadas. O comando “Forçar publicação do recurso” redefine a versão publicada de um recurso para apontar para a versão preliminar, forçando efetivamente a publicação do recurso. Esta vista executa este comando."
 
 #: cms/djangoapps/maintenance/views.py:45
+#: themes/indigo/cms/templates/maintenance/index.html:17
 msgid "Edit Announcements"
 msgstr "Editar anúncios"
 
@@ -26607,3 +26609,11 @@ msgstr "Usamos cookies para melhorar a tua experiência de navegação. Podes es
 #: themes/indigo/lms/templates/dge_footer.html:32
 msgid "The Learning Ecosystem is funded by the Recovery and Resilience Plan and NextGenerationEU."
 msgstr "O Ecossistema de Aprendizagem é financiado pelo Plano de Recuperação e Resiliência e o NextGenerationEU."
+
+#: themes/indigo/cms/templates/maintenance/index.html:32
+msgid "Sometimes the draft and published branches of a course can get out of sync. Force publish course command resets the published branch of a course to point to the draft branch, effectively force publishing the course. This view dry runs the force publish command"
+msgstr "Às vezes, as versões preliminares e publicadas de um recurso podem ficar descoordenadas. O comando “Forçar publicação do recurso” redefine a versão publicada de um recurso para apontar para a versão preliminar, forçando efetivamente a publicação do recurso. Esta vista executa este comando."
+
+#: themes/indigo/cms/templates/maintenance/index.html:18
+msgid "This view shows the announcement editor to create or alter announcements that are shown on the rightside of the dashboard."
+msgstr "Esta vista mostra o editor de anúncios para criar ou alterar anúncios que são exibidos no lado direito do painel."
