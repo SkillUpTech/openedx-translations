@@ -211,5 +211,6 @@
   "masquerade-widget.userName.input.placeholder": "Nome de utilizador ou e-mail",
   "progress.link.studio": "Ver classificação no estúdio",
   "instructor.viewCourse": "Ver curso no:",
-  "instructor.studio": "Estúdio"
+  "instructor.studio": "Estúdio",
+  "learn.sequence.no.content": "Não há conteúdo disponível."
 }
