@@ -8939,13 +8939,6 @@ msgstr "Forçar publicação do recurso"
 msgid "Edit Announcements"
 msgstr "Editar anúncios"
 
-#: cms/djangoapps/maintenance/views.py:48
-msgid ""
-"This view shows the announcement editor to create or alter announcements "
-"that are shown on the rightside of the dashboard."
-msgstr "Esta vista mostra o editor de anúncios para criar ou alterar anúncios que são exibidos no lado direito do painel."
-
-
 #: openedx/core/djangoapps/schedules/models.py:23
 msgid "Indicates if this schedule is actively used"
 msgstr "Indica se este programa é utilizado ativamente"
@@ -26607,5 +26600,6 @@ msgid "Sometimes the draft and published branches of a course can get out of syn
 msgstr "Às vezes, as versões preliminares e publicadas de um recurso podem ficar descoordenadas. O comando “Forçar publicação do recurso” redefine a versão publicada de um recurso para apontar para a versão preliminar, forçando efetivamente a publicação do recurso. Esta vista executa este comando."
 
 #: themes/indigo/cms/templates/maintenance/index.html:18
+#: cms/djangoapps/maintenance/views.py:48
 msgid "This view shows the announcement editor to create or alter announcements that are shown on the rightside of the dashboard."
 msgstr "Esta vista mostra o editor de anúncios para criar ou alterar anúncios que são exibidos no lado direito do painel."
