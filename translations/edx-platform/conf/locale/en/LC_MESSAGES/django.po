@@ -23799,4 +23799,4 @@ msgstr "Courses"
 #: themes/indigo/lms/templates/dge_header.html:71
 #: themes/indigo/lms/templates/dge_header.html:115
 msgid "Explore"
-msgstr "Explorar"
+msgstr "Explore"
