@@ -7576,7 +7576,7 @@ msgstr "Recursos"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:108
 msgid "My Account"
-msgstr "A Minha Conta"
+msgstr "A minha conta"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:156
 #: themes/red-theme/lms/templates/ace_common/edx_ace/common/base_body.html:100
@@ -19232,7 +19232,7 @@ msgstr "Escolher Idioma"
 #: lms/templates/header/user_dropdown.html:48
 #: lms/templates/user_dropdown.html:31 lms/templates/user_dropdown.html:39
 msgid "Account"
-msgstr "A minha Conta"
+msgstr "A minha conta"
 
 #: cms/templates/widgets/header.html:346 cms/templates/widgets/header.html:361
 msgid "Account Navigation"
@@ -20199,7 +20199,7 @@ msgstr "Eu concordo com o {link_start}Código de Honra{link_end}"
 #: lms/templates/signup_modal.html:152
 #: themes/stanford-style/lms/templates/register-form.html:272
 msgid "Create My Account"
-msgstr "Criar a Minha Conta"
+msgstr "Criar a minha conta"
 
 #: lms/templates/signup_modal.html:159
 msgid "Already have an account?"
@@ -26402,7 +26402,7 @@ msgstr ""
 
 #: themes/stanford-style/lms/templates/register-shib.html:190
 msgid "Update My Account"
-msgstr "Atualizar a Minha Conta"
+msgstr "Atualizar a minha conta"
 
 #: themes/stanford-style/lms/templates/register-sidebar.html:9
 msgid "Registration Help"
