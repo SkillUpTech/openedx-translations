@@ -23229,7 +23229,7 @@ msgstr "Anotações dos Estudantes"
 
 #: lms/templates/edxnotes/edxnotes.html:28
 msgid "Highlights and notes you've made in course content"
-msgstr "Apontamentos e anotações que fizeste ao longo do recurso."
+msgstr "Apontamentos e anotações que fizeste ao longo do cursos."
     
 #: lms/templates/edxnotes/edxnotes.html:35
 msgid "Search notes for:"
@@ -23265,7 +23265,7 @@ msgid ""
 "Highlight important information to review later in the course or in future "
 "courses."
 msgstr ""
-"Destacar informações importantes para rever mais tarde ou em recursos futuros"
+"Destacar informações importantes para rever mais tarde ou em cursos futuros"
 
 #: lms/templates/edxnotes/edxnotes.html:82
 msgid ""
