@@ -686,6 +686,10 @@ msgstr "Arraste e Solte"
 msgid "Blank"
 msgstr "Vazio"
 
+#: cms/envs/common.py:182
+msgid "Studio"
+msgstr "Ecossistema de Aprendizagem"
+
 #: cms/djangoapps/contentstore/views/component.py:302
 msgid "Peer Assessment Only"
 msgstr "Somente Avaliação por Pares"
