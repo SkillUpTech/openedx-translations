@@ -23800,7 +23800,3 @@ msgstr "Courses"
 #: themes/indigo/lms/templates/dge_header.html:115
 msgid "Explore"
 msgstr "Explore"
-
-#: themes/indigo/lms/templates/dge_footer.html:158
-msgid "Your Cookie Preferences"
-msgstr "As tuas preferências de Cookies"
