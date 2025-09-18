@@ -26607,3 +26607,19 @@ msgstr "Às vezes, as versões preliminares e publicadas de um recurso podem fic
 #: cms/djangoapps/maintenance/views.py:48
 msgid "This view shows the announcement editor to create or alter announcements that are shown on the rightside of the dashboard."
 msgstr "Esta vista mostra o editor de anúncios para criar ou alterar anúncios que são exibidos no lado direito do painel."
+
+#: themes/indigo/lms/templates/dge_footer.html:158
+msgid "Your Cookie Preferences"
+msgstr "As tuas preferências de Cookies"
+
+#: themes/indigo/lms/templates/dge_footer.html:159
+msgid "Back"
+msgstr "Voltar"
+
+#: themes/indigo/lms/templates/dge_footer.html:160
+msgid "Accept All Cookies"
+msgstr "Aceitar todos os cookies"
+
+#: themes/indigo/lms/templates/dge_footer.html:161
+msgid "Save Preferences"
+msgstr "Guardar Preferências"
