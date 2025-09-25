@@ -85,6 +85,7 @@
   "LearningEcosystemFooter.components.acceptAllCookies": "Aceitar todos os cookies",
   "LearningEcosystemFooter.components.savePreferences": "Guardar Preferências",
   "LearningEcosystemFooter.components.backCookies": "Voltar",
+  "LearningEcosystemFooter.components.links.cookiePolicy": "Política de Cookies",
   "consent.actions.manage_preferences.dialog.form.functional": "Desempenho",
   "consent.actions.manage_preferences.dialog.form.essential": "Essenciais",
   "consent.actions.manage_preferences.dialog.form.marketing": "Publicidade",
