@@ -200,6 +200,8 @@
   "LearningEcosystemHeader.components.navigation.explore": "Explorar",
   "LearningEcosystemHeader.components.navigation.discover": "Descobrir novos",
   "LearningEcosystemHeader.components.menu.dashboard": "Painel principal",
+  "LearningEcosystemFooter.components.showDetails": "Mostrar",
+  "LearningEcosystemFooter.components.hideDetails": "Esconder",
   "LearningEcosystemHeader.components.menu.account": "A minha conta",
   "LearningEcosystemHeader.components.menu.profile": "O meu Perfil",
   "LearningEcosystemHeader.components.menu.logout": "Sair",

@@ -87,6 +87,8 @@
   "LearningEcosystemFooter.components.backCookies": "Voltar",
   "LearningEcosystemFooter.components.links.cookiePolicy": "Política de Cookies",
   "consent.actions.manage_preferences.dialog.form.functional": "Desempenho",
+  "LearningEcosystemFooter.components.showDetails": "Mostrar",
+  "LearningEcosystemFooter.components.hideDetails": "Esconder",
   "consent.actions.manage_preferences.dialog.form.essential": "Essenciais",
   "consent.actions.manage_preferences.dialog.form.marketing": "Publicidade",
   "consent.actions.manage_preferences.dialog.form.analytics": "Analíticos",

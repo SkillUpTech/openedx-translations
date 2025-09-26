@@ -173,6 +173,8 @@
   "LearningEcosystemHeader.components.menu.logout": "Sair",
   "LearningEcosystemHeader.components.language.pt": "Português",
   "LearningEcosystemHeader.components.language.en": "English",
+  "LearningEcosystemFooter.components.showDetails": "Mostrar",
+  "LearningEcosystemFooter.components.hideDetails": "Esconder",
   "consent.actions.manage_preferences.dialog.form.functional": "Desempenho",
   "consent.actions.manage_preferences.dialog.form.essential": "Essenciais",
   "consent.actions.manage_preferences.dialog.form.marketing": "Publicidade",
