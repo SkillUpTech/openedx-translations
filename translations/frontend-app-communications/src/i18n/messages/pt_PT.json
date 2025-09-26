@@ -100,6 +100,8 @@
   "LearningEcosystemFooter.components.acceptAllCookies": "Aceitar todos os cookies",
   "LearningEcosystemFooter.components.savePreferences": "Guardar Preferências",
   "LearningEcosystemFooter.components.backCookies": "Voltar",
+  "LearningEcosystemFooter.components.showDetails": "Mostrar",
+  "LearningEcosystemFooter.components.hideDetails": "Esconder",
   "LearningEcosystemHeader.components.navigation.courses": "Cursos",
   "LearningEcosystemHeader.components.navigation.explore": "Explorar",
   "LearningEcosystemHeader.components.navigation.discover": "Descobrir novos",

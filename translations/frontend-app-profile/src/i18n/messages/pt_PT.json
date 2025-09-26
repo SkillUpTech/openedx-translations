@@ -66,6 +66,8 @@
   "LearningEcosystemFooter.components.acceptAllCookies": "Aceitar todos os cookies",
   "LearningEcosystemFooter.components.savePreferences": "Guardar Preferências",
   "LearningEcosystemFooter.components.backCookies": "Voltar",
+  "LearningEcosystemFooter.components.showDetails": "Mostrar",
+  "LearningEcosystemFooter.components.hideDetails": "Esconder",
   "LearningEcosystemFooter.components.links.cookiePolicy": "Política de Cookies",
   "LearningEcosystemHeader.components.navigation.courses": "Cursos",
   "LearningEcosystemHeader.components.navigation.explore": "Explorar",

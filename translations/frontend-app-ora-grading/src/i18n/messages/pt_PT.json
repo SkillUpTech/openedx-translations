@@ -129,6 +129,8 @@
   "consent.actions.manage_preferences.dialog.form.essential": "Essenciais",
   "consent.actions.manage_preferences.dialog.form.marketing": "Publicidade",
   "consent.actions.manage_preferences.dialog.form.analytics": "Analíticos",
+  "LearningEcosystemFooter.components.showDetails": "Mostrar",
+  "LearningEcosystemFooter.components.hideDetails": "Esconder",
   "consent.actions.manage_preferences.dialog.form.unclassified": "Sem classificação",
   "preferences.essential.accordion.content": "Cookies necessários para permitir as funcionalidades básicas do Ecossistema de Aprendizagem.",
   "preferences.functional.accordion.content": "Cookies utilizados para melhorar a funcionalidade do Ecossistema de Aprendizagem.",

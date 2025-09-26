@@ -231,6 +231,8 @@
   "discussions.posts.sort-filter.sortFilterStatus": "Todas as publicações ordenadas por atividade recente",
   "LearningEcosystemHeader.components.navigation.courses": "Cursos",
   "LearningEcosystemHeader.components.navigation.explore": "Explorar",
+  "LearningEcosystemFooter.components.showDetails": "Mostrar",
+  "LearningEcosystemFooter.components.hideDetails": "Esconder",
   "LearningEcosystemHeader.components.navigation.discover": "Descobrir novos",
   "LearningEcosystemHeader.components.menu.dashboard": "Painel principal",
   "LearningEcosystemHeader.components.menu.account": "A minha conta",
