@@ -221,5 +221,21 @@
   "progress.link.studio": "Ver classificação no estúdio",
   "instructor.viewCourse": "Ver curso no:",
   "instructor.studio": "Estúdio",
-  "learn.sequence.no.content": "Não há conteúdo disponível."
+  "learn.sequence.no.content": "Não há conteúdo disponível.",
+  "learning.outline.lastDayToStudy": "Hoje é a tua última oportunidade para estudares este conteúdo. Faz boa gestão do teu tempo. Depois desta data, não terás mais acesso ao curso.",
+  "learning.outline.seeAllDates": "Ver todas as datas",
+  "learning.outline.courseTools": "Ferramentas do curso",
+  "learning.outline.whatISaved": "O que guardei",
+  "learning.outline.howToUseTheCourse": "Como fazer este curso",
+  "learning.outline.updates": "Atualizações",
+  "learning.outline.courseSummary": "Resumo do Curso",
+  "learning.outline.courseHandouts": "Material de apoio",
+  "learning.outline.learningPath": "O meu caminho",
+  "learning.outline.home": "Início",
+  "learning.outline.course": "Curso",
+  "learning.outline.continueCourse": "Avança com o estudo já hoje",
+  "learning.outline.discoverCourse": "Continuar o curso",
+  "learning.outline.dontForgetCalendarReminder": "Marca já no teu calendário!",
+  "learning.outline.finished": "Terminado",
+  "learning.outline.inProgress": "Em curso"
 }
