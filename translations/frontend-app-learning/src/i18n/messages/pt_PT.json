@@ -27,7 +27,6 @@
   "learning.goals.unsubscribe.errorDescription": "Não foi possível cancelar a sua inscrição dos emails de lembrete de objetivo. Tente novamente mais tarde ou {contactSupport} para obter ajuda.",
   "learning.outline.sequence-due-date-set": "{description} previsto {assignmentDue}",
   "learning.outline.sequence-due-date-not-set": "{description}",
-  "learn.breadcrumb.navigation.course.home": "Curso",
   "learn.course.tabs.navigation.overflow.menu": "Mais...",
   "learning.upgradeButton.buttonText": "Actualizar para {pricing}",
   "learning.upgradeNowButton.buttonText": "Actualizar agora para {pricing}",
@@ -237,5 +236,12 @@
   "learning.outline.discoverCourse": "Continuar o curso",
   "learning.outline.dontForgetCalendarReminder": "Marca já no teu calendário!",
   "learning.outline.finished": "Terminado",
-  "learning.outline.inProgress": "Em curso"
+  "learning.outline.inProgress": "Em curso",
+  "learn.breadcrumb.navigation.course.home": "Curso",
+  "learn.breadcrumb.navigation.course.progress": "Progresso",
+  "learn.breadcrumb.navigation.course.dates": "Datas",
+  "learn.breadcrumb.navigation.course.discussion": "Fórum",
+  "learn.breadcrumb.navigation.course.notes": "Notas",
+  "learn.breadcrumb.navigation.course.wiki": "Wiki",
+  "learn.breadcrumb.navigation.course.instructor": "Professor"
 }
