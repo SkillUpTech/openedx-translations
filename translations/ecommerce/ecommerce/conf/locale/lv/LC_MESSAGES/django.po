@@ -4215,7 +4215,7 @@ msgstr "Apstiprināt kredītu un atsaukt"
 msgid "Approve Credit Only"
 msgstr "Apstiprināt tikai kredītu"
 
-#: templates/oscar/dashboard/partials/refund_buttons.html:14
+#: templates/oscar/dashboard/partials/refund_s.html:14
 msgid "Deny"
 msgstr "Noliegt"
 
