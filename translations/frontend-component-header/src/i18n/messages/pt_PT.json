@@ -1,9 +1,9 @@
 {
-  "header.links.courses": "Cursos",
+  "header.links.courses": "Recursos",
   "header.links.programs": "Programas",
   "header.links.content.search": "Explorar Novo",
   "header.links.schools": "Escolas & Parceiros",
-  "header.user.menu.dashboard": "Painel de Cursos",
+  "header.user.menu.dashboard": "Painel de Recursos",
   "header.user.menu.profile": "Perfil",
   "header.user.menu.account.settings": "Conta",
   "header.user.menu.order.history": "Histórico de Compras",
@@ -23,7 +23,7 @@
   "header.label.app.nav": "App",
   "general.register.sentenceCase": "Registe-se",
   "general.signIn.sentenceCase": "Iniciar sessão",
-  "header.menu.dashboard.label": "Painel de Cursos",
+  "header.menu.dashboard.label": "Painel de Recursos",
   "header.help.label": "Ajuda",
   "header.menu.profile.label": "Perfil",
   "header.menu.account.label": "Conta",
@@ -32,6 +32,6 @@
   "header.menu.signOut.label": "Terminar Sessão",
   "header.user.menu.studio": "Início do Studio ",
   "header.user.menu.maintenance": "",
-  "header.label.courseOutline": "Voltar ao resumo do curso no Studio",
+  "header.label.courseOutline": "Voltar ao resumo do recurso no Studio",
   "header.label.search.nav": "Pesquisar conteúdo"
 }
