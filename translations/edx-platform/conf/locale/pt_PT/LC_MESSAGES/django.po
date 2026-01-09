@@ -4329,7 +4329,7 @@ msgstr ""
 #: lms/templates/courseware/courseware.html:215
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:21
 msgid "Course"
-msgstr "Curso"
+msgstr "Recurso"
 
 #: lms/djangoapps/courseware/tabs.py:63
 #: lms/templates/courseware/syllabus.html:21
