@@ -79,6 +79,7 @@ pull requests.
 Retry merging Transifex pull requests
 =====================================
 
+
 If GitHub Actions has an outage or any other issues there will be a backlog
 of stale unmerged Transifex bot pull requests. To re-run tests and merge the
 pull requests, run the following command:
