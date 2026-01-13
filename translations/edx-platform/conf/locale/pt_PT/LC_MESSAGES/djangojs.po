@@ -5568,7 +5568,7 @@ msgstr "Pontuação geral"
 
 #: openedx/features/course_bookmarks/static/course_bookmarks/js/views/bookmark_button.js:9
 msgid "Bookmark this page"
-msgstr "Marcar esta página como favorita"
+msgstr "Guardar esta página"
 
 #: openedx/features/course_bookmarks/static/course_bookmarks/js/views/bookmark_button.js:10
 #: xmodule/js/src/sequence/display.js:445

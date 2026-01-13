@@ -19522,7 +19522,7 @@ msgstr "Marcado como favorito"
 
 #: lms/templates/bookmark_button.html:13
 msgid "Bookmark this page"
-msgstr "Marcar esta página como favorita"
+msgstr "Guardar esta página"
 
 #: lms/templates/conditional_block.html:21
 msgid "You do not have access to this dependency block."
@@ -20012,9 +20012,9 @@ msgstr "Mostrar resposta"
 #: lms/templates/problem.html:93
 msgid "You have used {num_used} of {num_total} attempt"
 msgid_plural "You have used {num_used} of {num_total} attempts"
-msgstr[0] "Usou {num_used} de {num_total} tentativa"
-msgstr[1] "Usou {num_used} de {num_total} tentativas"
-msgstr[2] "Usou {num_used} de {num_total} tentativas"
+msgstr[0] "Usaste {num_used} de {num_total} tentativa"
+msgstr[1] "Usaste {num_used} de {num_total} tentativas"
+msgstr[2] "Usaste {num_used} de {num_total} tentativas"
 
 #: lms/templates/problem.html:96
 msgid "Grading method: {grading_method}"
@@ -20235,7 +20235,7 @@ msgstr "Informação de Depuração para a Equipa"
 
 #: lms/templates/staff_problem_info.html:31
 msgid "Submission history"
-msgstr "História de submissões"
+msgstr "Histórico de submissões"
 
 #: lms/templates/staff_problem_info.html:39
 msgid "{platform_name} Content Quality Assessment"
