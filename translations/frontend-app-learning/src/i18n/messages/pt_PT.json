@@ -156,6 +156,8 @@
   "progress.completion.header": "Estado do recurso",
   "progress.completion.body": "Este valor representa a percentagem do recurso que já completaste. Alguns conteúdos podem ainda não estar disponíveis.",
   "progress.completion.donut.label": "Completo",
+  "progress.completion.tooltip.completed": "Conteúdo que concluíste",
+  "progress.completion.tooltip.notCompleted": "Conteúdo por concluir ao qual tens acesso",
   "progress.courseGrade.grades": "Avaliação",
   "progress.courseGrade.body": "Esta é a tua nota ponderada em relação ao mínimo para concluir o recurso.",
   "progress.courseGrade.label.currentGrade": "Nota atual",
