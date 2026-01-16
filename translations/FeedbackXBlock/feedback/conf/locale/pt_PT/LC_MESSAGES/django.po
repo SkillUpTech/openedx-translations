@@ -45,7 +45,7 @@ msgid ""
 msgstr ""
 "Reserve um pouco de tempo para refletir aqui. A investigação mostra que uma "
 "síntese significativa ajudá-lo-á a compreender melhor e a recordar o "
-"material deste curso."
+"material deste recurso."
 
 #: feedback.py:43 feedback.py:164
 msgid "Excellent"
@@ -182,7 +182,7 @@ msgid ""
 "chance to reflect on what they have done."
 msgstr ""
 "Este XBlock permite-lhe recolher o feedback dos alunos sobre partes do "
-"curso. Isto pode ser útil para melhorar o curso ou para dar aos alunos a "
+"Recurso. Isto pode ser útil para melhorar o recurso ou para dar aos alunos a "
 "oportunidade de refletir sobre o que fizeram."
 
 #: templates/html/studio_view.html:9

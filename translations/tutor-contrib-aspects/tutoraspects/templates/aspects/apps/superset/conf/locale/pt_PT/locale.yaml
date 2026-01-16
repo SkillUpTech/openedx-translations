@@ -59,33 +59,33 @@ en:
   Count of Passing Grades: Contagem das notas de aprovação
   Count of unique users who performed an action in Superset over the selected time period.: Contagem de utilizadores únicos que realizaram uma ação no Superset durante o período de tempo selecionado.
   Count over time of unique users who performed an action in Superset over the selected time period.: Contagem ao longo do tempo de utilizadores únicos que realizaram uma ação no Superset durante o período de tempo selecionado.
-  Course Comparison Dashboard: Painel de comparação de cursos
+  Course Comparison Dashboard: Painel de comparação de recursos
   Course Dashboard: Painel de controlo da disciplina
   Course Data JSON: Dados da disciplina JSON
-  Course End: Data de Fim do Curso
-  Course Enrollment Mode Status Cnt: Num de Estado do Modo de Inscrição no Curso
-  Course Enrollments Over Time: Inscrições nos cursos ao longo do tempo
-  Course Grade: Classificação do Curso
-  Course Grade %: Classificação do Curso %
-  Course ID: ID do Curso
-  Course Info: Informações do curso
-  Course Information: Informações sobre os cursos
-  Course Key: Chave do Curso
-  Course Key Short: Chave do curso curto
-  Course Metrics: Métricas do curso
-  Course Name: Nome do Curso
-  Course Order: Ordem do curso
-  Course Run: Edição do Curso
-  Course Start: Data de Início do Curso
-  Course Tag: Etiqueta do curso
-  Course grade: Nota do curso
-  Course name: Nome do curso
-  Course run: Edição do curso
-  Courses: Cursos
-  Courses Cnt: Num Cursos
-  Courses Per Organization: Cursos por organização
-  Coursewide % Correct: '% correta em todo o curso'
-  Coursewide Percent Correct: Percentagem correta em todo o curso
+  Course End: Data de Fim do Recurso
+  Course Enrollment Mode Status Cnt: Num de Estado do Modo de Inscrição no reCurso
+  Course Enrollments Over Time: Inscrições nos recursos ao longo do tempo
+  Course Grade: Classificação do recurso
+  Course Grade %: Classificação do recurso %
+  Course ID: ID do recurso
+  Course Info: Informações do recurso
+  Course Information: Informações sobre os recursos
+  Course Key: Chave do recurso
+  Course Key Short: Chave do recurso curto
+  Course Metrics: Métricas do recurso
+  Course Name: Nome do recurso
+  Course Order: Ordem do recurso
+  Course Run: Edição do recurso
+  Course Start: Data de Início do recurso
+  Course Tag: Etiqueta do recurso
+  Course grade: Nota do recurso
+  Course name: Nome do recurso
+  Course run: Edição do recurso
+  Courses: Recursos
+  Courses Cnt: Num Recursos
+  Courses Per Organization: Recursos por organização
+  Coursewide % Correct: '% correta em todo o recurso'
+  Coursewide Percent Correct: Percentagem correta em todo o recurso
   Created: Criado
   Created By Fk: Criado por Fk
   Created On: Criado em
@@ -102,8 +102,8 @@ en:
   Date: Data
   Description: Descrição
   Display Name: Nome a Exibir
-  Distribution of Course Grades: Distribuição das notas dos cursos
-  Distribution of Current Course Grade: Distribuição da nota atual do curso
+  Distribution of Course Grades: Distribuição das notas dos recursos
+  Distribution of Current Course Grade: Distribuição da nota atual do recurso
   Dump ID: ID do depósito
   Duration (Seconds): Duração (segundos)
   Email: Email
@@ -143,11 +143,11 @@ en:
   Last Name: Apelido
   Last Received Event: Último evento recebido
   Last Visited: Última visita
-  Last course syncronized: Último curso sincronizado
+  Last course syncronized: Último recurso sincronizado
   Learner Summary: Resumo do aluno
   Learners with Passing Grade: Estudantes com classificados para aprovação
   Login Count: Contagem de registos
-  Median Course Grade: Classificação mediana do curso
+  Median Course Grade: Classificação mediana do recurso
   Memory Usage (KB): Uso de memória (KB)
   Modified: Modificado
   Most-used Charts: Gráficos mais utilizados

@@ -49,7 +49,7 @@ msgid ""
 "Superset is only visible to course staff and instructors. Please contact "
 "your system administrator."
 msgstr ""
-"O Superset só é visível para os funcionários e instrutores do curso. "
+"O Superset só é visível para os funcionários e instrutores do recurso. "
 "Contacte o administrador do sistema."
 
 #: utils.py:162
@@ -72,12 +72,12 @@ msgstr ""
 #: views.py:83
 #, python-brace-format
 msgid "Invalid course id: '{course_id}'"
-msgstr "ID de curso inválido: '{course_id}'"
+msgstr "ID de recurso inválido: '{course_id}'"
 
 #: views.py:95
 #, python-brace-format
 msgid "Course not found: '{course_id}'"
-msgstr "Curso não encontrado: '{course_id}'"
+msgstr "recurso não encontrado: '{course_id}'"
 
 #: xblock.py:47 xblock.py:48
 msgid "Display name"
