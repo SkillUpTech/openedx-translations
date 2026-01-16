@@ -543,7 +543,7 @@ msgstr ""
 msgid ""
 "The specified LTI ID is not configured in this course's Advanced Settings."
 msgstr ""
-"O ID LTI indicado não está configurado nas Definições Avançadas deste curso."
+"O ID LTI indicado não está configurado nas Definições Avançadas deste recurso."
 
 #: lti_xblock.py:850 lti_xblock.py:1128
 msgid "Could not get user data for current request"
@@ -664,7 +664,7 @@ msgid ""
 "Please check that you have course staff permissions and double check this "
 "block's LTI settings."
 msgstr ""
-"Verifique se você tem permissões de equipe do curso e verifique novamente as"
+"Verifique se você tem permissões de equipe do recurso e verifique novamente as"
 " configurações de LTI deste bloco."
 
 #: templates/html/lti-dl/dl_response_error.html:6
@@ -767,8 +767,8 @@ msgstr "Ocorreu um erro no lançamento da ferramenta LTI:"
 msgid ""
 "If you're seeing this on a live course, please contact the course staff."
 msgstr ""
-"Se estiver a ver isto num curso ao vivo, por favor contacte a equipa do "
-"curso."
+"Se estiver a ver isto num recurso ao vivo, por favor contacte a equipa do "
+"recurso."
 
 #: templates/html/lti_proctoring_start_error.html:10
 msgid "There was an error while starting your LTI proctored assessment."
