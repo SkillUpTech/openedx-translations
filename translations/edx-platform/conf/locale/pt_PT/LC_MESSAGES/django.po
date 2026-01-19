@@ -21658,7 +21658,7 @@ msgstr "Por favor insira um nome CCX válido."
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:13
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:103
 msgid "Email Addresses/Usernames"
-msgstr "Endereços de email/Utilizadores"
+msgstr "Utilizadores"
 
 #: lms/templates/ccx/enrollment.html:14
 msgid ""
