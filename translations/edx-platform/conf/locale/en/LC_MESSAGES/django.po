@@ -19289,7 +19289,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:13
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:103
 msgid "Email Addresses/Usernames"
-msgstr ""
+msgstr "Usernames"
 
 #: lms/templates/ccx/enrollment.html:14
 msgid ""
