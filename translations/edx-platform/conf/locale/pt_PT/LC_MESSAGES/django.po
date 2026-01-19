@@ -43,27 +43,27 @@ msgstr ""
 
 #: cms/djangoapps/api/v1/serializers/course_runs.py:49
 msgid "Course team user does not exist"
-msgstr "O utilizador da equipa do recurso não existe"
+msgstr "O utilizador da equipa do curso não existe"
 
 #: cms/djangoapps/contentstore/admin.py:45
 #, python-brace-format
 msgid ""
 "Number of course outline regenerations successfully requested: {regenerates}"
 msgstr ""
-"Número de regenerações de esboço de recurso solicitadas com sucesso: "
+"Número de regenerações de esboço de curso solicitadas com sucesso: "
 "{regenerates}"
 
 #: cms/djangoapps/contentstore/admin.py:49
 msgid "Regenerate selected course outlines"
-msgstr "Regenerar os contornos seleccionados do recurso"
+msgstr "Regenerar os contornos seleccionados do curso"
 
 #: cms/djangoapps/contentstore/admin.py:57
 msgid "All course outline regenerations successfully requested."
-msgstr "Todas as regenerações do recurso foram solicitadas com sucesso."
+msgstr "Todas as regenerações do curso foram solicitadas com sucesso."
 
 #: cms/djangoapps/contentstore/admin.py:58
 msgid "Regenerate *all* course outlines"
-msgstr "Regenerar *todos* os contornos do recurso"
+msgstr "Regenerar *todos* os contornos do curso"
 
 #: cms/djangoapps/contentstore/asset_storage_handlers.py:548
 msgid "Upload completed"
@@ -110,11 +110,11 @@ msgstr "não foi possível carregar este tipo de configuração de grupo"
 #: cms/djangoapps/contentstore/course_info_model.py:74
 #: cms/djangoapps/contentstore/course_info_model.py:159
 msgid "Invalid course update id."
-msgstr "Id de atualização do recurso inválido."
+msgstr "Id de atualização do curso inválido."
 
 #: cms/djangoapps/contentstore/course_info_model.py:126
 msgid "Course update not found."
-msgstr "Atualização do recurso não encontrada."
+msgstr "Atualização do curso não encontrada."
 
 #: cms/djangoapps/contentstore/courseware_index.py:246
 msgid "Could not index item: {}"
@@ -130,11 +130,11 @@ msgstr "(Sem  nome)"
 
 #: cms/djangoapps/contentstore/errors.py:6
 msgid "Aborting import because a course with this id: {} already exists."
-msgstr "Importação abortada porque já existe um recurso com este id: {}."
+msgstr "Importação abortada porque já existe um curso com este id: {}."
 
 #: cms/djangoapps/contentstore/errors.py:7
 msgid "Permission denied. You do not have write access to this course."
-msgstr "Permissão negada. Não tem acesso por escrito a este recurso."
+msgstr "Permissão negada. Não tem acesso por escrito a este curso."
 
 #: cms/djangoapps/contentstore/errors.py:8
 #, python-brace-format
@@ -157,7 +157,7 @@ msgstr ""
 
 #: cms/djangoapps/contentstore/errors.py:12
 msgid "Course olx validation failed. Please check your email."
-msgstr "A validação do recurso olx falhou. Por favor, verifique o seu e-mail."
+msgstr "A validação do curso olx falhou. Por favor, verifique o seu e-mail."
 
 #: cms/djangoapps/contentstore/errors.py:13
 msgid "Permission denied"
@@ -165,7 +165,7 @@ msgstr "Acesso negado"
 
 #: cms/djangoapps/contentstore/errors.py:14
 msgid "Unknown error while importing course."
-msgstr "Erro desconhecido durante a importação do recurso."
+msgstr "Erro desconhecido durante a importação do curso."
 
 #: cms/djangoapps/contentstore/errors.py:15
 msgid "An Unknown error occurred during the unpacking step."
@@ -219,7 +219,7 @@ msgstr "Não foi possível atualizar ou clonar repositório git."
 
 #: cms/djangoapps/contentstore/git_export_utils.py:46
 msgid "Unable to export course to xml."
-msgstr "Não foi possível exportar o recurso para XML."
+msgstr "Não foi possível exportar o curso para XML."
 
 #: cms/djangoapps/contentstore/git_export_utils.py:47
 msgid "Unable to configure git username and password"
@@ -244,7 +244,7 @@ msgstr ""
 
 #: cms/djangoapps/contentstore/git_export_utils.py:52
 msgid "Bad course location provided"
-msgstr "Indicou uma localização errada do recurso"
+msgstr "Indicou uma localização errada do curso"
 
 #: cms/djangoapps/contentstore/git_export_utils.py:53
 msgid "Missing branch on fresh clone"
@@ -289,8 +289,8 @@ msgid ""
 "Take the specified course and attempt to export it to a git repository\n"
 ". Course directory must already be a git repository. Usage:  git_export <course_loc> <git_url>"
 msgstr ""
-"Faça o recurso em particular e tente exportá-lo para um repositório git\n"
-". O diretório do recurso já deve ser um repositório git. Utilizar: git_export <course_loc> <git_url>"
+"Faça o curso em particular e tente exportá-lo para um repositório git\n"
+". O diretório do curso já deve ser um repositório git. Utilizar: git_export <course_loc> <git_url>"
 
 #: cms/djangoapps/contentstore/rest_api/v0/serializers/advanced_settings.py:47
 msgid "Marks a field as deprecated."
@@ -314,11 +314,11 @@ msgstr "Nome por defeito para o separador apresentado aos utilizadores"
 
 #: cms/djangoapps/contentstore/rest_api/v0/serializers/tabs.py:18
 msgid "True if it's possible to hide the tab for a course"
-msgstr "Verdadeiro se for possível esconder o separador para um recurso"
+msgstr "Verdadeiro se for possível esconder o separador para um curso"
 
 #: cms/djangoapps/contentstore/rest_api/v0/serializers/tabs.py:21
 msgid "True the tab is hidden for the course"
-msgstr "Verdadeiro o separador está escondido para o recurso"
+msgstr "Verdadeiro o separador está escondido para o curso"
 
 #: cms/djangoapps/contentstore/rest_api/v0/serializers/tabs.py:25
 msgid "True if it's possible to reorder the tab in the list of tabs"
@@ -356,7 +356,7 @@ msgstr "Verdadeiro para esconder a aba, e Falso para a mostrar."
 
 #: cms/djangoapps/contentstore/rest_api/v0/views/tabs.py:117
 msgid "Change the visibility of tabs in a course."
-msgstr "Alterar a visibilidade dos separadores num recurso."
+msgstr "Alterar a visibilidade dos separadores num curso."
 
 #: cms/djangoapps/contentstore/transcript_storage_handlers.py:116
 msgid "The information you entered is incorrect."
@@ -423,7 +423,7 @@ msgstr "Duplicado de '{0}'"
 
 #: cms/djangoapps/contentstore/utils.py:1309
 msgid "Invalid prerequisite course key"
-msgstr "Chave do recurso de pré-requisitos inválida"
+msgstr "Chave do curso de pré-requisitos inválida"
 
 #: cms/djangoapps/contentstore/utils.py:1879
 msgid "Set Date"
@@ -499,7 +499,7 @@ msgstr "Desconhecido"
 #. transcription in progress on servers
 #: cms/djangoapps/contentstore/video_storage_handlers.py:143
 msgid "Transcription in Progress"
-msgstr "Transcrição em Recurso"
+msgstr "Transcrição em Curso"
 
 #. Translators: This is the status for a video whose transcription is complete
 #: cms/djangoapps/contentstore/video_storage_handlers.py:145
@@ -706,30 +706,30 @@ msgstr "Avançado"
 
 #: cms/djangoapps/contentstore/views/course.py:360
 msgid "Course has been successfully reindexed."
-msgstr "O recurso foi reindexado com sucesso."
+msgstr "O curso foi reindexado com sucesso."
 
 #: cms/djangoapps/contentstore/views/course.py:892
 msgid ""
 "Special characters not allowed in organization, course number, and course "
 "run."
 msgstr ""
-"Não são permitidos caracteres especiais na organização, no número do recurso e"
-" na execução do recurso."
+"Não são permitidos caracteres especiais na organização, no número do curso e"
+" na execução do curso."
 
 #: cms/djangoapps/contentstore/views/course.py:928
 msgid ""
 "There is already a course defined with the same organization and course "
 "number. Please change either organization or course number to be unique."
 msgstr ""
-"Já existe um recurso definido com a mesma organização e o mesmo número de "
-"recurso. Por favor, altere o número da organização ou do recurso para ser único."
+"Já existe um curso definido com a mesma organização e o mesmo número de "
+"curso. Por favor, altere o número da organização ou do curso para ser único."
 
 #: cms/djangoapps/contentstore/views/course.py:933
 #: cms/djangoapps/contentstore/views/course.py:936
 msgid ""
 "Please change either the organization or course number so that it is unique."
 msgstr ""
-"Por favor, altere o nome da organização ou o número do recurso para que seja "
+"Por favor, altere o nome da organização ou o número do curso para que seja "
 "único."
 
 #: cms/djangoapps/contentstore/views/course.py:941
@@ -739,7 +739,7 @@ msgid ""
 "\n"
 "{err}"
 msgstr ""
-"Não é possível criar o recurso '{name}'.\n"
+"Não é possível criar o curso '{name}'.\n"
 "\n"
 "{err}"
 
@@ -748,8 +748,8 @@ msgid ""
 "User does not have the permission to create courses in this organization or "
 "course creation is disabled"
 msgstr ""
-"O utilizador não tem a permissão para criar recursos nesta organização ou a "
-"criação de recursos está desactivada"
+"O utilizador não tem a permissão para criar cursos nesta organização ou a "
+"criação de cursos está desactivada"
 
 #: cms/djangoapps/contentstore/views/course.py:970
 msgid ""
@@ -757,7 +757,7 @@ msgid ""
 "Organization you selected does not exist in the system, you will need to add"
 " it to the system"
 msgstr ""
-"Este recurso deve ser associado a uma organização para poder continuar. A "
+"Este curso deve ser associado a uma organização para poder continuar. A "
 "organização que selecionou não existe no sistema, por isso precisará de a "
 "adicionar"
 
@@ -790,11 +790,11 @@ msgstr "Exame de Admissão - Subsecção"
 
 #: cms/djangoapps/contentstore/views/entrance_exam.py:253
 msgid "Completed Course Entrance Exam"
-msgstr "Exame de Admissão do Recurso Concluído"
+msgstr "Exame de Admissão do Curso Concluído"
 
 #: cms/djangoapps/contentstore/views/export_git.py:47
 msgid "Course successfully exported to git repository"
-msgstr "Recurso exportado com sucesso para o repositório git"
+msgstr "Curso exportado com sucesso para o repositório git"
 
 #: cms/djangoapps/contentstore/views/import_export.py:150
 #, python-brace-format
@@ -821,7 +821,7 @@ msgid ""
 "course creation is disabled"
 msgstr ""
 "O utilizador não tem a permissão para criar biblioteca nesta organização ou "
-"a criação de recursos está desactivada"
+"a criação de cursos está desactivada"
 
 #: cms/djangoapps/contentstore/views/library.py:247
 #, python-brace-format
@@ -1019,7 +1019,7 @@ msgid ""
 "Students must score {score}{pct_sign} or higher to access course materials."
 msgstr ""
 "Os estudantes devem uma pontuação {score}{pct_sign} ou superior para poderem"
-" aceder aos materiais do recurso."
+" aceder aos materiais do curso."
 
 #. Translators: This is the percent sign. It will be used to represent
 #. a percent value out of 100, e.g. "58%" means "58/100".
@@ -1058,7 +1058,7 @@ msgstr "A data da última atualização do estado"
 
 #: cms/djangoapps/course_creators/models.py:50
 msgid "Current course creator state"
-msgstr "Estado atual do autor do recurso"
+msgstr "Estado atual do autor do curso"
 
 #: cms/djangoapps/course_creators/models.py:51
 msgid ""
@@ -1066,17 +1066,17 @@ msgid ""
 "denied)"
 msgstr ""
 "Notas opcionais sobre este utilizador (por exemplo, a razão pela qual o "
-"acesso à criação do recurso foi negado)"
+"acesso à criação do curso foi negado)"
 
 #: cms/djangoapps/course_creators/models.py:54
 msgid "Organizations under which the user is allowed to create courses."
 msgstr ""
-"Organizações sob as quais o utilizador está autorizado a criar recursos."
+"Organizações sob as quais o utilizador está autorizado a criar cursos."
 
 #: cms/djangoapps/course_creators/models.py:57
 msgid "Grant the user the permission to create courses in ALL organizations"
 msgstr ""
-"Conceder ao utilizador a permissão para criar recursos em TODAS as "
+"Conceder ao utilizador a permissão para criar cursos em TODAS as "
 "organizações"
 
 #: cms/djangoapps/models/settings/course_metadata.py:225
@@ -1196,7 +1196,7 @@ msgid ""
 msgstr ""
 "OPCIONAL: Após esta data/hora, os utilizadores não poderão inscrever-se "
 "neste módulo. Deixe em branco se deseja permitir que os utilizadores possam "
-"inscrever-se neste módulo até a inscrição fechar para o recurso."
+"inscrever-se neste módulo até a inscrição fechar para o curso."
 
 #: common/djangoapps/course_modes/models.py:94
 msgid "Lock upgrade deadline date"
@@ -1219,7 +1219,7 @@ msgid ""
 " to the ecommerce service."
 msgstr ""
 "OPCIONAL: Este é o SKU (número de referência) deste modo no serviço de "
-"comércio eletrónico externo. Deixe em branco se o recurso ainda não tiver "
+"comércio eletrónico externo. Deixe em branco se o curso ainda não tiver "
 "migrado para o serviço de comércio eletrónico."
 
 #: common/djangoapps/course_modes/models.py:133
@@ -1229,7 +1229,7 @@ msgid ""
 "ecommerce service."
 msgstr ""
 "OPCIONAL: Este é o SKU Android registado na loja de jogos para este modo do "
-"recurso. Deixe isto em branco se o recurso ainda não tiver sido migrado para o "
+"curso. Deixe isto em branco se o curso ainda não tiver sido migrado para o "
 "serviço de comércio electrónico."
 
 #: common/djangoapps/course_modes/models.py:145
@@ -1239,7 +1239,7 @@ msgid ""
 "ecommerce service."
 msgstr ""
 "OPCIONAL: Este é o iOS SKU registado na App Store para esta modalidade do "
-"recurso. Deixe isto em branco se o recurso ainda não tiver sido migrado para o "
+"curso. Deixe isto em branco se o curso ainda não tiver sido migrado para o "
 "serviço de comércio electrónico."
 
 #: common/djangoapps/course_modes/models.py:158
@@ -1288,7 +1288,7 @@ msgstr "Gratuito"
 msgid ""
 "The time period before a course ends in which a course mode will expire"
 msgstr ""
-"Período de tempo antes do fim de um recurso em que o modo de recurso expirará"
+"Período de tempo antes do fim de um curso em que o modo de curso expirará"
 
 #: common/djangoapps/course_modes/views.py:308
 msgid "Enrollment is closed"
@@ -1485,19 +1485,19 @@ msgstr "Outra educação"
 #, python-brace-format
 msgid "{platform_name} Honor Code Certificate for {course_name}"
 msgstr ""
-"Código de Certificado de Honra de {platform_name} para o recurso {course_name}"
+"Código de Certificado de Honra de {platform_name} para o curso {course_name}"
 
 #: common/djangoapps/student/models/user.py:1332
 #, python-brace-format
 msgid "{platform_name} Verified Certificate for {course_name}"
-msgstr "Certificado Validado de {platform_name} para o recurso {course_name}"
+msgstr "Certificado Validado de {platform_name} para o curso {course_name}"
 
 #: common/djangoapps/student/models/user.py:1333
 #: common/djangoapps/student/models/user.py:1334
 #, python-brace-format
 msgid "{platform_name} Professional Certificate for {course_name}"
 msgstr ""
-"Certificado Profissional de {platform_name} para o recurso {course_name}"
+"Certificado Profissional de {platform_name} para o curso {course_name}"
 
 #: common/djangoapps/student/models/user.py:1340
 msgid ""
@@ -1638,24 +1638,24 @@ msgstr ""
 #: common/djangoapps/student/views/dashboard.py:755
 #, python-brace-format
 msgid "The course you are looking for does not start until {date}."
-msgstr "O recurso que está à procura não começa antes de {date}."
+msgstr "O curso que está à procura não começa antes de {date}."
 
 #: common/djangoapps/student/views/dashboard.py:759
 #, python-brace-format
 msgid "The course you are looking for is closed for enrollment as of {date}."
-msgstr "O recurso que está à procura está encerrado para matrículas até {date}."
+msgstr "O curso que está à procura está encerrado para matrículas até {date}."
 
 #: common/djangoapps/student/views/management.py:367
 msgid "Course id not specified"
-msgstr "ID do recurso não especificada"
+msgstr "ID do curso não especificada"
 
 #: common/djangoapps/student/views/management.py:378
 msgid "Invalid course id"
-msgstr "ID do recurso inválida"
+msgstr "ID do curso inválida"
 
 #: common/djangoapps/student/views/management.py:393
 msgid "Course id is invalid"
-msgstr "ID do recurso inválida"
+msgstr "ID do curso inválida"
 
 #: common/djangoapps/student/views/management.py:426
 msgid "Could not enroll"
@@ -1667,11 +1667,11 @@ msgstr "A inscrição está actualmente desactivada"
 
 #: common/djangoapps/student/views/management.py:450
 msgid "You are not enrolled in this course"
-msgstr "Não está matriculado neste recurso"
+msgstr "Não está matriculado neste curso"
 
 #: common/djangoapps/student/views/management.py:454
 msgid "Your certificate prevents you from unenrolling from this course"
-msgstr "O seu certificado não o deixa cancelar a matrícula deste recurso"
+msgstr "O seu certificado não o deixa cancelar a matrícula deste curso"
 
 #: common/djangoapps/student/views/management.py:465
 msgid "Enrollment action is invalid"
@@ -1738,7 +1738,7 @@ msgid ""
 msgstr ""
 "{html_start}Sucesso! {account_or_email} foi "
 "{activated_or_confirmed}.{html_end}A partir de agora irá receber emails com "
-"atualizações e alertas relativos aos recursos em que está inscrito. Inicie "
+"atualizações e alertas relativos aos cursos em que está inscrito. Inicie "
 "sessão para continuar."
 
 #: common/djangoapps/student/views/management.py:727
@@ -2572,7 +2572,7 @@ msgid ""
 msgstr ""
 "As combinações ativadas do modelo/XBlock com suporte total ou provisório "
 "podem ser sempre criadas no Studio. As combinações de modelo/XBlock não "
-"suportadas requerem um processo de ativação por parte do autor do recurso."
+"suportadas requerem um processo de ativação por parte do autor do curso."
 
 #: common/djangoapps/xblock_django/models.py:27
 msgid "show deprecation messaging in Studio"
@@ -2637,7 +2637,7 @@ msgid ""
 "engaging, high-quality %(platform_name)s courses. Note that you will not be "
 "able to log back into your account until you have activated it."
 msgstr ""
-"Está quase lá! Use o link para ativar a sua conta e aceder a recursos "
+"Está quase lá! Use o link para ativar a sua conta e aceder a cursos "
 "interessantes e de alta qualidade da %(platform_name)s. Tenha em atenção que"
 " não poderá iniciar sessão novamente na sua conta até a ativar."
 
@@ -2681,7 +2681,7 @@ msgid ""
 "engaging, high-quality %(platform_name)s courses. Note that you will not be "
 "able to log back into your account until you have activated it."
 msgstr ""
-"Está quase lá! Use o link para ativar a sua conta e aceder a recursos "
+"Está quase lá! Use o link para ativar a sua conta e aceder a cursos "
 "interessantes e de alta qualidade da %(platform_name)s. Tenha em atenção que"
 " não poderá iniciar sessão novamente na sua conta até a ativar."
 
@@ -2859,7 +2859,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                    Está matriculado em %(course_name)s em %(platform_name)s. Este recurso contém exames supervisionados.\n"
+"                    Está matriculado em %(course_name)s em %(platform_name)s. Este curso contém exames supervisionados.\n"
 "                "
 
 #: common/templates/student/edx_ace/proctoringrequirements/email/body.html:38
@@ -2870,7 +2870,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                    Os exames supervisionados são exames cronometrados que você faz enquanto o software de supervisão monitoriza a sua área de trabalho, o vídeo e o áudio do seu computador. O seu recurso usa o software %(proctoring_provider)s para essa supervisão.\n"
+"                    Os exames supervisionados são exames cronometrados que você faz enquanto o software de supervisão monitoriza a sua área de trabalho, o vídeo e o áudio do seu computador. O seu curso usa o software %(proctoring_provider)s para essa supervisão.\n"
 "                "
 
 #: common/templates/student/edx_ace/proctoringrequirements/email/body.html:46
@@ -2928,7 +2928,7 @@ msgid ""
 "You are enrolled in %(course_name)s at %(platform_name)s. This course "
 "contains proctored exams."
 msgstr ""
-"Está matriculado em %(course_name)s em %(platform_name)s. Este recurso contém "
+"Está matriculado em %(course_name)s em %(platform_name)s. Este curso contém "
 "exames supervisionados."
 
 #: common/templates/student/edx_ace/proctoringrequirements/email/body.txt:5
@@ -2940,7 +2940,7 @@ msgid ""
 msgstr ""
 "Os exames supervisionado são exames cronometrados que você faz enquanto o "
 "software de supervisão monitoriza a sua área de trabalho, o vídeo e o áudio "
-"do seu computador. O seu recurso usa o software %(proctoring_provider)s para "
+"do seu computador. O seu curso usa o software %(proctoring_provider)s para "
 "essa supervisão."
 
 #: common/templates/student/edx_ace/proctoringrequirements/email/body.txt:7
@@ -3011,13 +3011,13 @@ msgid ""
 "Completed the course \"{course_name}\" ({course_mode}, {start_date} - "
 "{end_date})"
 msgstr ""
-"Concluiu o recurso \"{course_name}\" ({course_mode}, {start_date} - "
+"Concluiu o curso \"{course_name}\" ({course_mode}, {start_date} - "
 "{end_date})"
 
 #: lms/djangoapps/badges/events/course_complete.py:50
 #, python-brace-format
 msgid "Completed the course \"{course_name}\" ({course_mode})"
-msgstr "Concluiu o recurso \"{course_name}\" ({course_mode})"
+msgstr "Concluiu o curso \"{course_name}\" ({course_mode})"
 
 #: lms/djangoapps/badges/models.py:15
 msgid "The badge image must be square."
@@ -3035,7 +3035,7 @@ msgstr "Este valor deve ser em letra minúscula."
 #. as a callback to edX. Please do not translate `edX.org`
 #: lms/djangoapps/branding/api.py:117
 msgid "Take free online courses at edX.org"
-msgstr "Faça recursos gratuitos online em edX.org"
+msgstr "Faça cursos gratuitos online em edX.org"
 
 #. Translators: 'edX' and 'Open edX' are trademarks of 'edX Inc.'.
 #. Please do not translate any of these trademarks and company names.
@@ -3212,7 +3212,7 @@ msgstr "Transfira a aplicação móvel {platform_name} da Google Play"
 #: lms/djangoapps/bulk_email/tasks.py:384
 #, python-brace-format
 msgid "\"{course_title}\" Course Staff"
-msgstr "\"{course_title}\" Pessoal do Recurso"
+msgstr "\"{course_title}\" Pessoal do Curso"
 
 #: lms/djangoapps/ccx/plugins.py:22
 msgid "CCX Coach"
@@ -3223,13 +3223,13 @@ msgid ""
 "A CCX can only be created on this course through an external service. "
 "Contact a course admin to give you access."
 msgstr ""
-"Um CCX só pode ser criado neste recurso através de um serviço externo. Entre "
-"em contacto com um administrador do recurso para lhe dar acesso."
+"Um CCX só pode ser criado neste curso através de um serviço externo. Entre "
+"em contacto com um administrador do curso para lhe dar acesso."
 
 #: lms/djangoapps/ccx/utils.py:267
 #, python-brace-format
 msgid "The course is full: the limit is {max_student_enrollments_allowed}"
-msgstr "O recurso está completo: o limite é {max_student_enrollments_allowed}"
+msgstr "O curso está completo: o limite é {max_student_enrollments_allowed}"
 
 #: lms/djangoapps/ccx/views.py:97
 msgid "You must be a CCX Coach to access this view."
@@ -3244,8 +3244,8 @@ msgid ""
 "You cannot create a CCX from a course using a deprecated id. Please create a"
 " rerun of this course in the studio to allow this action."
 msgstr ""
-"Não pode criar um CCX de um recurso utilizando um ID descontinuado. Crie uma "
-"nova edição deste recurso no estúdio para permitir esta ação."
+"Não pode criar um CCX de um curso utilizando um ID descontinuado. Crie uma "
+"nova edição deste curso no estúdio para permitir esta ação."
 
 #. Translators: This is a past-tense verb that is used for task action
 #. messages.
@@ -3343,7 +3343,7 @@ msgstr "Organização do template."
 
 #: lms/djangoapps/certificates/models.py:1163
 msgid "The course mode for this template."
-msgstr "Modo de recurso para este modelo."
+msgstr "Modo de curso para este modelo."
 
 #: lms/djangoapps/certificates/models.py:1166
 msgid "On/Off switch."
@@ -3377,12 +3377,12 @@ msgstr "utilizador '{user}' não existe"
 #: lms/djangoapps/certificates/views/support.py:114
 #, python-brace-format
 msgid "Course id '{course_id}' is not valid"
-msgstr "A ID do recurso '{course_id}' não é válida"
+msgstr "A ID do curso '{course_id}' não é válida"
 
 #: lms/djangoapps/certificates/views/support.py:118
 #, python-brace-format
 msgid "The course does not exist against the given key '{course_key}'"
-msgstr "O recurso não existe com a chave fornecida '{course_key}'"
+msgstr "O curso não existe com a chave fornecida '{course_key}'"
 
 #: lms/djangoapps/certificates/views/support.py:144
 #, python-brace-format
@@ -3392,18 +3392,18 @@ msgstr "O utilizador {username} não existe"
 #: lms/djangoapps/certificates/views/support.py:151
 #, python-brace-format
 msgid "{course_key} is not a valid course key"
-msgstr "{course_key} não é uma chave de recurso válida"
+msgstr "{course_key} não é uma chave de curso válida"
 
 #: lms/djangoapps/certificates/views/support.py:192
 #: lms/djangoapps/certificates/views/support.py:257
 #, python-brace-format
 msgid "The course {course_key} does not exist"
-msgstr "O recurso {course_key} não existe"
+msgstr "O curso {course_key} não existe"
 
 #: lms/djangoapps/certificates/views/support.py:197
 #, python-brace-format
 msgid "User {user_id} is not enrolled in the course {course_key}"
-msgstr "O utilizador {user_id} não está inscrito no recurso {course_key}"
+msgstr "O utilizador {user_id} não está inscrito no curso {course_key}"
 
 #: lms/djangoapps/certificates/views/support.py:218
 msgid "An unexpected error occurred while regenerating certificates."
@@ -3412,7 +3412,7 @@ msgstr "Ocorreu um erro inesperado ao regenerar os certificados."
 #: lms/djangoapps/certificates/views/support.py:262
 #, python-brace-format
 msgid "User {username} is not enrolled in the course {course_key}"
-msgstr "O utilizador {username} não está inscrito no recurso {course_key}"
+msgstr "O utilizador {username} não está inscrito no curso {course_key}"
 
 #. Translators:  This text describes the 'Honor' course certificate type.
 #: lms/djangoapps/certificates/views/webview.py:72
@@ -3424,7 +3424,7 @@ msgid ""
 msgstr ""
 "Um certificado {cert_type} significa que um estudante concordou em cumprir o"
 " código de honra estabelecido por {platform_name} e completou todas as "
-"tarefas necessárias para este recurso de acordo com as suas directrizes."
+"tarefas necessárias para este curso de acordo com as suas directrizes."
 
 #. Translators:  This text describes the 'ID Verified' course certificate
 #. type, which is a higher level of
@@ -3439,7 +3439,7 @@ msgid ""
 msgstr ""
 "Um certificado {cert_type} significa que um estudante concordou em cumprir o"
 " código de honra estabelecido por {platform_name} e completou todas as "
-"tarefas necessárias para este recurso de acordo com as suas directrizes."
+"tarefas necessárias para este curso de acordo com as suas directrizes."
 
 #: lms/djangoapps/certificates/views/webview.py:86
 #, python-brace-format
@@ -3502,7 +3502,7 @@ msgid ""
 "awarded for course activities that {platform_name} students complete."
 msgstr ""
 "{platform_name} reconhece as realizações através de certificados, que são "
-"atribuídos para atividades de recurso que os alunos {platform_name} concluem."
+"atribuídos para atividades de curso que os alunos {platform_name} concluem."
 
 #. Translators:  'All rights reserved' is a legal term used in copyrighting to
 #. protect published content
@@ -3870,7 +3870,7 @@ msgstr ""
 "Estes definem o contexto para desactivar a página de progressão da "
 "aprendizagem de frontend-app. Se não forem definidos valores, então a "
 "configuração aplica-se globalmente. Se for definido um único valor, então a "
-"configuração aplica-se a todos os recursos dentro desse contexto. No máximo "
+"configuração aplica-se a todos os cursos dentro desse contexto. No máximo "
 "pode ser definido um valor de cada vez. <br>Se múltiplos contextos se "
 "aplicarem a um curso (por exemplo, se a configuração for indicada "
 "especificamente para o curso, e para a organização em que o curso está, "
@@ -4080,11 +4080,11 @@ msgstr "Data de Inscrição"
 
 #: lms/djangoapps/courseware/date_summary.py:273
 msgid "Course starts"
-msgstr "Início do recurso"
+msgstr "Início do curso"
 
 #: lms/djangoapps/courseware/date_summary.py:281
 msgid "Course ends"
-msgstr "Fim do recurso"
+msgstr "Fim do curso"
 
 #: lms/djangoapps/courseware/date_summary.py:298
 msgid ""
@@ -4101,7 +4101,7 @@ msgid ""
 "After the course ends, the course content will be archived and no longer "
 "active."
 msgstr ""
-"Após o fim do recurso, o conteúdo do mesmo será arquivado e deixará de estar "
+"Após o fim do curso, o conteúdo do mesmo será arquivado e deixará de estar "
 "ativo."
 
 #: lms/djangoapps/courseware/date_summary.py:304
@@ -4260,7 +4260,7 @@ msgstr ""
 
 #: lms/djangoapps/courseware/models.py:565
 msgid "Percentage of courses allowed to use edx-financial-assistance"
-msgstr "Percentagem de recursos autorizados a utilizar edx-financial-assistance"
+msgstr "Percentagem de cursos autorizados a utilizar edx-financial-assistance"
 
 #: lms/djangoapps/courseware/plugins.py:27
 #: lms/djangoapps/courseware/tabs.py:81
@@ -4396,7 +4396,7 @@ msgid ""
 "link to it will appear here and on your Dashboard when it is ready."
 msgstr ""
 "Estamos a criar o seu certificado. Pode continuar a trabalhar nos seus "
-"recursos e um link para o certificado aparecerá aqui e no seu Painel de "
+"cursos e um link para o certificado aparecerá aqui e no seu Painel de "
 "Controlo quando estiver pronto."
 
 #: lms/djangoapps/courseware/views/views.py:206
@@ -6735,7 +6735,7 @@ msgstr ""
 #: lms/templates/instructor/edx_ace/removebetatester/email/body.html:33
 #: lms/templates/instructor/edx_ace/removebetatester/email/body.txt:5
 msgid "Your other courses have not been affected."
-msgstr "Os seus outros recursos não foram afetados."
+msgstr "Os seus outros cursos não foram afetados."
 
 #: lms/templates/instructor/edx_ace/enrolledunenroll/email/body.html:35
 #: lms/templates/instructor/edx_ace/enrolledunenroll/email/body.txt:8
@@ -6875,7 +6875,7 @@ msgid ""
 "These permissions will be granted for data from your courses associated with"
 " the following content providers:"
 msgstr ""
-"Estas permissões serão concedidas para os dados dos seus recursos associados "
+"Estas permissões serão concedidas para os dados dos seus cursos associados "
 "aos seguintes fornecedores de conteúdo:"
 
 #: lms/templates/oauth2_provider/authorize.html:40
@@ -7818,7 +7818,7 @@ msgid ""
 "Username created for Course Catalog Integration, e.g. "
 "lms_catalog_service_user."
 msgstr ""
-"Nome de utilizador criado para a integração do catálogo de recursos, p.ex. "
+"Nome de utilizador criado para a integração do catálogo de cursos, p.ex. "
 "lms_catalog_service_user."
 
 #: openedx/core/djangoapps/catalog/models.py:58
@@ -7846,7 +7846,7 @@ msgid ""
 msgstr ""
 "Isto define o contexto para ativar esta configuração. Se nenhum valor for "
 "definido, a configuração aplica-se globalmente. Se um único valor for "
-"definido, a configuração aplica-se a todos os recursos dentro desse contexto. "
+"definido, a configuração aplica-se a todos os cursos dentro desse contexto. "
 "Apenas pode existir um valor ao mesmo tempo. {br} Se vários contextos se "
 "aplicam a um curso (por exemplo, se a configuração for especificamente para "
 "o curso, e para a organização em que o curso se encontra, então o contexto "
@@ -7924,7 +7924,7 @@ msgstr "Estado de Erro"
 
 #: openedx/core/djangoapps/content/learning_sequences/admin.py:31
 msgid "Courses with Errors"
-msgstr "Rcursos Com Erros"
+msgstr "Cursos Com Erros"
 
 #: openedx/core/djangoapps/content/learning_sequences/apps.py:10
 msgid "Learning Sequences and Outlines"
@@ -7938,7 +7938,7 @@ msgid ""
 msgstr ""
 "ID numérico para cada contexto de Curso/Biblioteca. Este ID geralmente "
 "requer menos bits do que a chave completa do Contexto de Aprendizagem, "
-"permitindo representar mais recursos e bibliotecas nos filtros de pesquisa de "
+"permitindo representar mais cursos e bibliotecas nos filtros de pesquisa de "
 "conteúdo."
 
 #: openedx/core/djangoapps/content_libraries/api.py:571
@@ -8608,7 +8608,7 @@ msgid ""
 "from excluded countries."
 msgstr ""
 "Permitir que os utilizadores que se inscreveram num país autorizado possam "
-"aceder a recursos restritos de países excluídos."
+"aceder a cursos restritos de países excluídos."
 
 #: openedx/core/djangoapps/embargo/models.py:380
 msgid "Two character ISO country code."
@@ -8990,7 +8990,7 @@ msgid ""
 " spend time with the course each week. Your focused attention will pay off "
 "in the end!"
 msgstr ""
-"Nos recursos de ritmo-próprio, pode estudar no seu ritmo e no horário que "
+"Nos cursos de ritmo-próprio, pode estudar no seu ritmo e no horário que "
 "quiser. Encorajamos a que dedique tempo ao curso todas as semanas. O seu "
 "empenho será recompensado no final!"
 
@@ -9102,7 +9102,7 @@ msgid ""
 "%(platform_name)s? We do, and we’re glad to have you! Come see what everyone"
 " is learning."
 msgstr ""
-"Lembra-se de quando se inscreveu em %(course_name)s, e outros recursos em "
+"Lembra-se de quando se inscreveu em %(course_name)s, e outros cursos em "
 "%(platform_name)s? Nós lembramo-nos, e estamos contentes por tê-lo connosco!"
 " Venha ver o que todos estão a estudar."
 
@@ -9130,7 +9130,7 @@ msgid ""
 "see what everyone is learning."
 msgstr ""
 "Lembra-se quando se matriculou em {start_strong}{course_name}{end_strong}, e"
-" outros recursos em {platform_name}? Estamos felizes por tê-lo connosco! Venha"
+" outros cursos em {platform_name}? Estamos felizes por tê-lo connosco! Venha"
 " ver o que todos estão a aprender."
 
 #: openedx/core/djangoapps/schedules/templates/schedules/edx_ace/recurringnudge_day3/email/body.html:37
@@ -9232,7 +9232,7 @@ msgstr ""
 
 #: openedx/core/djangoapps/schedules/templates/schedules/edx_ace/upgradereminder/email/body.html:63
 msgid "You are eligible to upgrade in these courses:"
-msgstr "É elegível para fazer um upgrade nestes recursos:"
+msgstr "É elegível para fazer um upgrade nestes cursos:"
 
 #: openedx/core/djangoapps/schedules/templates/schedules/edx_ace/upgradereminder/email/body.html:76
 #: openedx/features/content_type_gating/templates/content_type_gating/access_denied_message.html:21
@@ -10079,7 +10079,7 @@ msgstr "Nome de utilizador público"
 msgid ""
 "The name that will identify you in your courses. It cannot be changed later."
 msgstr ""
-"O nome que o irá identificar nos seus recursos. Não pode ser alterado mais "
+"O nome que o irá identificar nos seus cursos. Não pode ser alterado mais "
 "tarde."
 
 #: openedx/core/djangoapps/user_authn/views/registration_form.py:698
@@ -10288,7 +10288,7 @@ msgid ""
 "course from your instructor will be automatically reflected. You can remove "
 "the course from your calendar at any time."
 msgstr ""
-"Uma vez sincronizado o seu calendário de recursos, quaisquer actualizações do "
+"Uma vez sincronizado o seu calendário de cursos, quaisquer actualizações do "
 "curso por parte do seu formador serão automaticamente reflectidas. Pode "
 "retirar o curso do seu calendário em qualquer altura."
 
@@ -10302,7 +10302,7 @@ msgid ""
 "You have successfully shifted your course schedule and your calendar is up "
 "to date."
 msgstr ""
-"Mudou com sucesso a sua programação de recursos e o seu calendário já se "
+"Mudou com sucesso a sua programação de cursos e o seu calendário já se "
 "encontra atualizado."
 
 #: openedx/features/content_type_gating/models.py:27
@@ -10461,7 +10461,7 @@ msgid ""
 msgstr ""
 "Estes definem o contexto para desativar descontos controlados pelo LMS. Se "
 "nenhum valor for definido, a configuração aplica-se globalmente. Se um único"
-" valor for definido, a configuração aplica-se a todos os recursos dentro desse"
+" valor for definido, a configuração aplica-se a todos os cursos dentro desse"
 " contexto. No máximo um valor pode ser definido por vez.<br>Se vários "
 "contextos se aplicam a um curso (por exemplo, se a configuração for "
 "especificamente para o curso, e para a organização em que o curso se "
@@ -10521,7 +10521,7 @@ msgid ""
 "{link_start}visit the {enterprise_name} dashboard{link_end}."
 msgstr ""
 "Tem acesso ao painel {bold_start}{enterprise_name}{bold_end}. Para aceder "
-"aos recursos à sua disposição através de {enterprise_name}, {link_start} "
+"aos cursos à sua disposição através de {enterprise_name}, {link_start} "
 "visite o painel {enterprise_name}{link_end}."
 
 #: openedx/features/enterprise_support/api.py:1004
@@ -10544,7 +10544,7 @@ msgstr "Início"
 
 #: openedx/features/enterprise_support/templates/enterprise_support/admin/enrollment_attributes_override.html:17
 msgid "Enterprise Course Enrollments"
-msgstr "Matrículas em recursos corporativos"
+msgstr "Matrículas em cursos corporativos"
 
 #: openedx/features/enterprise_support/templates/enterprise_support/admin/enrollment_attributes_override.html:18
 msgid "Override Enrollment Attributes"
@@ -11407,7 +11407,7 @@ msgstr ""
 "Digite a chave da API fornecida pelo MathWorks para aceder ao serviço "
 "hospedado pelo MATLAB. Esta chave é concedida para uso exclusivo por este "
 "curso durante a duração especificada. Não compartilhe a chave da API com "
-"outros recursos e notifique o MathWorks imediatamente se acreditar que a chave"
+"outros cursos e notifique o MathWorks imediatamente se acreditar que a chave"
 " está exposta ou comprometida. Para obter uma chave para o seu curso ou para"
 " reportar um problema, entre em contacto com moocsupport@mathworks.com"
 
@@ -11741,7 +11741,7 @@ msgid ""
 "will be displayed instead of this one."
 msgstr ""
 "Preço exibido para os estudantes se inscreverem no curso. Se o administrador"
-" definir um preço diferente para os recursos pagos na base de dados, esse será"
+" definir um preço diferente para os cursos pagos na base de dados, esse será"
 " o preço exibido."
 
 #: xmodule/course_block.py:363
@@ -11760,7 +11760,7 @@ msgstr ""
 
 #: xmodule/course_block.py:372
 msgid "Pre-Requisite Courses"
-msgstr "Recursos pré-requeridos"
+msgstr "Cursos pré-requeridos"
 
 #: xmodule/course_block.py:373
 msgid "Pre-Requisite Course key if this course has a pre-requisite course"
@@ -11785,7 +11785,7 @@ msgstr ""
 
 #: xmodule/course_block.py:388
 msgid "Enter the name of the course as it should appear in the course list."
-msgstr "Digite o nome do curso como deve aparecer na lista de recursos."
+msgstr "Digite o nome do curso como deve aparecer na lista de cursos."
 
 #: xmodule/course_block.py:390
 msgid "Course Display Name"
@@ -11906,7 +11906,7 @@ msgid ""
 " and a New! badge temporarily appears next to the course image."
 msgstr ""
 "Digite verdadeiro ou falso. Se verdadeiro, o curso aparece na lista de novos"
-" recursos, e um Novo! crachá aparece temporariamente ao lado da imagem do "
+" cursos, e um Novo! crachá aparece temporariamente ao lado da imagem do "
 "curso."
 
 #: xmodule/course_block.py:465
@@ -12009,10 +12009,10 @@ msgid ""
 "manage Custom Courses on {platform_name}. When false, Custom Courses cannot "
 "be created, but existing Custom Courses will be preserved."
 msgstr ""
-"Permitir que os formadores de recursos atribuam funções de treinador CCX, e "
-"permitir que os formadores administrem recursos personalizados em "
-"{platform_name}. Quando falso, os recursos Personalizados não podem ser "
-"criados, mas os recursos Personalizados existentes serão preservados."
+"Permitir que os formadores de cursos atribuam funções de treinador CCX, e "
+"permitir que os formadores administrem cursos personalizados em "
+"{platform_name}. Quando falso, os Cursos Personalizados não podem ser "
+"criados, mas os Cursos Personalizados existentes serão preservados."
 
 #. Translators: Custom Courses for edX (CCX) is an edX feature for re-using
 #. course content.
@@ -12232,7 +12232,7 @@ msgid ""
 "Allows courses to share the same css class across runs even if they have "
 "different numbers."
 msgstr ""
-"Permite que várias edições dos recursos partilhem a mesma classe css, mesmo "
+"Permite que várias edições dos cursos partilhem a mesma classe css, mesmo "
 "que tenham códigos diferentes."
 
 #: xmodule/course_block.py:692
@@ -12406,7 +12406,7 @@ msgid ""
 "sites can link to. URLs must be fully qualified. For example: "
 "http://www.edx.org/course/Introduction-to-MOOCs-ITM001"
 msgstr ""
-"Se o painel de instrumentos de partilha social e URLs de recursos "
+"Se o painel de instrumentos de partilha social e URLs de cursos "
 "personalizados estiverem activados, pode fornecer um URL (tal como o URL "
 "para uma página Sobre) a que os sítios de meios de comunicação social podem "
 "ligar-se. Os URLs devem ser totalmente qualificados. Por exemplo: "
@@ -12548,7 +12548,7 @@ msgid ""
 " course at any rate before the course ends."
 msgstr ""
 "Defina isto como verdadeiro para assinalar este curso como livre, sem limite"
-" temporal. Estes recursos não têm datas limite para as tarefas e os estudantes"
+" temporal. Estes cursos não têm datas limite para as tarefas e os estudantes"
 " podem progredir no curso a qualquer velocidade, até ao final do curso."
 
 #: xmodule/course_block.py:945
@@ -12638,7 +12638,7 @@ msgid ""
 msgstr ""
 "Introduza verdadeiro ou falso. Se for verdadeiro, pode adicionar problemas e"
 " ferramentas não suportadas no Studio do seu curso. Não se recomenda a "
-"utilização de problemas e ferramentas não suportados nos recursos por não "
+"utilização de problemas e ferramentas não suportados nos cursos por não "
 "cumprirem com um ou mais dos requisitos básicos, como testes, "
 "acessibilidade, internacionalização e documentação."
 
@@ -13329,7 +13329,7 @@ msgid ""
 msgstr ""
 "Introduza a chave API fornecida pela MathWorks para aceder ao MATLAB Hosted "
 "Service. Esta chave é concedida para uso exclusivo neste curso durante a "
-"duração especificada. Não partilhe a chave API com outros recursos  Notifique "
+"duração especificada. Não partilhe a chave API com outros cursos. Notifique "
 "imediatamente a MathWorks se acreditar que a chave está exposta ou "
 "comprometida. Para obter uma chave para o seu curso, ou para comunicar um "
 "problema, contacte moocsupport@mathworks.com"
@@ -16404,7 +16404,7 @@ msgstr ""
 
 #: cms/templates/export.html:68
 msgid "About Exporting Courses"
-msgstr "Sobre a Exportação de recursos"
+msgstr "Sobre a Exportação de Cursos"
 
 #. Translators: ".tar.gz" is a file extension, and should not be translated
 #: cms/templates/export.html:71
@@ -16414,9 +16414,9 @@ msgid ""
 "contains the course structure and content. You can also re-import courses "
 "that you've exported."
 msgstr ""
-"Pode exportar recursos e editá-los fora de {studio_name}. O ficheiro exportado"
+"Pode exportar cursos e editá-los fora de {studio_name}. O ficheiro exportado"
 " é um ficheiro .tar.gz (ou seja, um ficheiro .tar comprimido com GNU zip) "
-"que contém a estrutura e o conteúdo da curso. Também pode re-importar recursos"
+"que contém a estrutura e o conteúdo da curso. Também pode re-importar cursos"
 " que já tenha exportado."
 
 #: cms/templates/export.html:74
@@ -16663,7 +16663,7 @@ msgstr "Saiba mais sobre como exportar um curso"
 
 #: cms/templates/export_git.html:9
 msgid "Export Course to Git"
-msgstr "Exportar recursos para o Git"
+msgstr "Exportar Cursos para o Git"
 
 #: cms/templates/export_git.html:17 cms/templates/export_git.html:44
 #: cms/templates/widgets/header.html:252
@@ -16761,7 +16761,7 @@ msgid ""
 "content that particular cohorts see in your course."
 msgstr ""
 "Se tiver grupos activados no seu curso, pode utilizar grupos de conteúdo "
-"para criar recursos específicos de grupo. Por outras palavras, pode "
+"para criar cursos específicos de grupo. Por outras palavras, pode "
 "personalizar o conteúdo que os grupos em particular vêem no seu curso."
 
 #: cms/templates/group_configurations.html:98
@@ -16833,7 +16833,7 @@ msgid ""
 "{studio_name} helps manage your online courses, so you can focus on teaching"
 " them"
 msgstr ""
-"{studio_name} ajuda a gerir os seus recursos online, para que se possa "
+"{studio_name} ajuda a gerir os seus cursos online, para que se possa "
 "concentrar no seu ensino"
 
 #: cms/templates/howitworks.html:33
@@ -16842,7 +16842,7 @@ msgstr "Diversos Recursos do {studio_name}"
 
 #: cms/templates/howitworks.html:40 cms/templates/howitworks.html:41
 msgid "{studio_name} Helps You Keep Your Courses Organized"
-msgstr "{studio_name} Ajuda-o a Manter os Seus recursos Organizados"
+msgstr "{studio_name} Ajuda-o a Manter os Seus Cursos Organizados"
 
 #: cms/templates/howitworks.html:43 cms/templates/howitworks.html:88
 #: cms/templates/howitworks.html:122
@@ -17015,7 +17015,7 @@ msgid ""
 "course better through a team effort."
 msgstr ""
 "Os co-autores têm acesso ilimitado a todas as ferramentas de criação dos "
-"recursos. Torne o seu curso ainda melhor através do trabalho em equipa. "
+"cursos. Torne o seu curso ainda melhor através do trabalho em equipa. "
 
 #: cms/templates/howitworks.html:161
 msgid "Sign Up for {studio_name} Today!"
@@ -17249,7 +17249,7 @@ msgid ""
 "longer with larger courses."
 msgstr ""
 "Integrar o seu conteúdo importado para este curso. Esse processo pode levar "
-"mais tempo com recursos maiores."
+"mais tempo com cursos maiores."
 
 #: cms/templates/import.html:182
 msgid "Your imported content has now been integrated into this library"
@@ -17284,7 +17284,7 @@ msgstr ""
 #: cms/templates/import.html:214
 msgid "Note: Library content is not automatically updated in courses"
 msgstr ""
-"Nota: o conteúdo da Biblioteca não é atualizado automaticamente nos recursos"
+"Nota: o conteúdo da Biblioteca não é atualizado automaticamente nos cursos"
 
 #: cms/templates/import.html:215
 msgid ""
@@ -17294,7 +17294,7 @@ msgid ""
 "bring them up to date with the latest library content."
 msgstr ""
 "Se alterar e importar uma biblioteca referenciada por blocos de conteúdo "
-"aleatorizados num ou mais recursos, esses recursos não utilizarão "
+"aleatorizados num ou mais cursos, esses cursos não utilizarão "
 "automaticamente o conteúdo atualizado. Caso deseje atualizar, deve fazê-lo "
 "manualmente com o conteúdo da biblioteca mais recente."
 
@@ -17483,7 +17483,7 @@ msgstr "Organização e Configurações da Biblioteca"
 
 #: cms/templates/index.html:212
 msgid "Show all courses in organization:"
-msgstr "Mostrar todos os recursos em organização:"
+msgstr "Mostrar todos os cursos em organização:"
 
 #: cms/templates/index.html:214
 msgid "For example, MITx"
@@ -17491,7 +17491,7 @@ msgstr "Por exemplo, MITx"
 
 #: cms/templates/index.html:228
 msgid "Courses Being Processed"
-msgstr "Os recursos Estão a Ser Processados"
+msgstr "Os Cursos Estão a Ser Processados"
 
 #: cms/templates/index.html:241 cms/templates/index.html:287
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:93
@@ -17527,9 +17527,9 @@ msgid ""
 "this page or {link_start}refresh it{link_end} to update the course list. The"
 " new course will need some manual configuration."
 msgstr ""
-"O novo curso será adicionado à sua lista de recursos em 5-10 minutos. Volte a "
+"O novo curso será adicionado à sua lista de cursos em 5-10 minutos. Volte a "
 "esta página ou {link_start}atualize-a{link_end} para renovar a lista de "
-"recursos. O novo curso vai necessitar de alguma configuração manual."
+"cursos. O novo curso vai necessitar de alguma configuração manual."
 
 #. Translators: This is a status message for the course re-runs feature.
 #. When a course admin indicates that a course should be re-run, the system
@@ -17555,7 +17555,7 @@ msgstr ""
 
 #: cms/templates/index.html:343 cms/templates/index.html:345
 msgid "Archived Courses"
-msgstr "Recursos Arquivados"
+msgstr "Cursos Arquivados"
 
 #: cms/templates/index.html:353 cms/templates/index.html:355
 msgid "Libraries"
@@ -17587,7 +17587,7 @@ msgstr "O seu novo curso está a um clique de distância! "
 
 #: cms/templates/index.html:414
 msgid "Becoming a Course Creator in {studio_name}"
-msgstr "Torne-se um Autor de recursos na {studio_name}"
+msgstr "Torne-se um Autor de Cursos na {studio_name}"
 
 #: cms/templates/index.html:419
 msgid ""
@@ -17598,7 +17598,7 @@ msgid ""
 "during the work week."
 msgstr ""
 "{studio_name} é uma solução alojada para os nossos parceiros xConsortium e "
-"convidados pré-definidos. Os recursos, nos quais é um elemento da equipa, "
+"convidados pré-definidos. Os cursos, nos quais é um elemento da equipa, "
 "aparecem em cima para os poder editar. As permissões para ser autor do curso"
 " são concedidos pela {platform_name}. A nossa equipa irá avaliar o seu "
 "pedido e dar-lhe-emos uma resposta dentro de 24 horas dos dias úteis de "
@@ -17611,7 +17611,7 @@ msgstr "Estado do seu Pedido para Autor do Curso: "
 
 #: cms/templates/index.html:428
 msgid "Request the Ability to Create Courses"
-msgstr "Pedir Autorização para Criar recursos"
+msgstr "Pedir Autorização para Criar Cursos"
 
 #: cms/templates/index.html:438 cms/templates/index.html:466
 msgid "Your Course Creator Request Status"
@@ -17625,7 +17625,7 @@ msgid ""
 "team is has completed evaluating your request."
 msgstr ""
 "{studio_name} é uma solução alojada para os nossos parceiros xConsortium e "
-"convidados pré-definidos. Os recursos, nos quais é um elemento da equipa, "
+"convidados pré-definidos. Os cursos, nos quais é um elemento da equipa, "
 "aparecem em cima para os poder editar. As permissões para ser autor do curso"
 " são concedidos pela {platform_name}. A nossa equipa concluiu a avaliação do"
 " seu pedido."
@@ -17650,7 +17650,7 @@ msgid ""
 "team is currently  evaluating your request."
 msgstr ""
 "{studio_name} é uma solução alojada para os nossos parceiros xConsortium e "
-"convidados pré-definidos. Os recursos, nos quais é um elemento da equipa, "
+"convidados pré-definidos. Os cursos, nos quais é um elemento da equipa, "
 "aparecem em cima para os poder editar. As permissões para ser autor do curso"
 " são concedidos pela {platform_name}. A nossa equipa está atualmente a "
 "avaliar o seu pedido."
@@ -17685,7 +17685,7 @@ msgid ""
 "courses. Create your first library with the click of a button!"
 msgstr ""
 "As bibliotecas dispõem de um conjunto de componentes que podem ser "
-"reutilizados em vários recursos. Crie a sua primeira biblioteca, clicando no "
+"reutilizados em vários cursos. Crie a sua primeira biblioteca, clicando no "
 "botão!"
 
 #: cms/templates/index.html:557
@@ -19543,7 +19543,7 @@ msgstr "Inicia: {date}"
 
 #: lms/templates/courses_list.html:22
 msgid "View all Courses"
-msgstr "Ver todos os recursos"
+msgstr "Ver todos os Cursos"
 
 #: lms/templates/dashboard.html:29 lms/templates/header/user_dropdown.html:42
 #: lms/templates/header/user_dropdown.html:44
@@ -19558,7 +19558,7 @@ msgstr "resultados preenchidos com sucesso,"
 
 #: lms/templates/dashboard.html:232
 msgid "Click to load all enrolled courses"
-msgstr "Clique para carregar todos os recursos em que está inscrito"
+msgstr "Clique para carregar todos os cursos em que está inscrito"
 
 #: lms/templates/dashboard.html:239
 msgid "You are not enrolled in any courses yet."
@@ -19586,7 +19586,7 @@ msgstr "Erros de carregamento do curso"
 
 #: lms/templates/dashboard.html:283
 msgid "Search Your Courses"
-msgstr "Pesquise os seus recursos"
+msgstr "Pesquise os seus cursos"
 
 #: lms/templates/courseware/courseware.html:190
 #: lms/templates/dashboard.html:289
@@ -19796,7 +19796,7 @@ msgstr "Revela o teu potencial: descobre novos conteúdos!"
 
 #: lms/templates/courseware/courses.html:43
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
-msgstr "Explora um mundo de conhecimento e desenvolve as tuas competências com uma grande variedade de recursos educativos."
+msgstr "Explora um mundo de conhecimento e desenvolve as tuas competências com uma grande variedade de cursos educativos."
 
 #: lms/templates/courseware/courses.html:53
 msgid "Filters"
@@ -19804,7 +19804,7 @@ msgstr "Filtros"
 
 #: lms/templates/courseware/courses.html:79
 msgid "Explore course"
-msgstr "Explorar recursos"
+msgstr "Explorar cursos"
 
 #: lms/templates/index_overlay.html:8
 msgid "Welcome to {platform_name}"
@@ -20570,7 +20570,7 @@ msgid ""
 "denied. If you think this is an error, or for other questions about using "
 "this API, contact {api_support_email_link}."
 msgstr ""
-"O seu pedido de acesso à API do Catálogo de recursos {platform_name} foi "
+"O seu pedido de acesso à API do Catálogo de cursos {platform_name} foi "
 "recusado. Se considera que isto é um erro, ou para outras perguntas sobre o "
 "uso desta API, entre em contacto com {api_support_email_link}."
 
@@ -20579,7 +20579,7 @@ msgid ""
 "Your request to access the {platform_name} Course Catalog API has been "
 "approved."
 msgstr ""
-"O seu pedido de acesso à API do catálogo de recursos {platform_name} foi "
+"O seu pedido de acesso à API do catálogo de cursos {platform_name} foi "
 "aprovado."
 
 #: lms/templates/api_admin/status.html:39
@@ -21433,7 +21433,7 @@ msgstr "Nota:"
 #: lms/templates/bulk_email/confirm_unsubscribe.html:35
 msgid ""
 "You will still receive course emails from other courses you are enrolled in."
-msgstr "Continuará a receber e-mails de outros recursos em que está inscrito."
+msgstr "Continuará a receber e-mails de outros cursos em que está inscrito."
 
 #: lms/templates/bulk_email/unsubscribe_success.html:25
 msgid "You have successfully unsubscribed from {org} {course} emails."
@@ -21658,7 +21658,7 @@ msgstr "Por favor insira um nome CCX válido."
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:13
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:103
 msgid "Email Addresses/Usernames"
-msgstr "Endereços de email/Utilizadores"
+msgstr "Utilizadores"
 
 #: lms/templates/ccx/enrollment.html:14
 msgid ""
@@ -21997,11 +21997,11 @@ msgstr "Desculpe, não foi possível inscrevê-lo em"
 
 #: lms/templates/course_modes/error.html:29
 msgid "Explore all courses on edX"
-msgstr "Explorar todos os recursos no edX"
+msgstr "Explorar todos os cursos no edX"
 
 #: lms/templates/course_modes/error.html:30
 msgid "Explore all courses"
-msgstr "Explorar todos os recursos"
+msgstr "Explorar todos os cursos"
 
 #: lms/templates/course_modes/fbe.html:15
 #: lms/templates/course_modes/unfbe.html:19
@@ -22088,7 +22088,7 @@ msgid ""
 " and motivated{end_bold} to complete their courses"
 msgstr ""
 "Estudos mostram que aqueles que escolhem esta opção estão {start_bold}mais "
-"empenhados e motivados{end_bold} para completar os seus recursos"
+"empenhados e motivados{end_bold} para completar os seus cursos"
 
 #: lms/templates/course_modes/track_selection.html:151
 msgid "Access this course"
@@ -22252,7 +22252,7 @@ msgstr "Exibir Atualizações anteriores do Curso"
 
 #: lms/templates/courseware/courses.html:60
 msgid "List of Courses"
-msgstr "Lista de recursos"
+msgstr "Lista de Cursos"
 
 #: lms/templates/courseware/courses.html:72
 #: lms/templates/courseware/courses.html:73
@@ -22374,7 +22374,7 @@ msgstr "Vídeo YouTube"
 
 #: lms/templates/courseware/program_marketing.html:140
 msgid "View Courses"
-msgstr "Ver Recursos"
+msgstr "Ver Cursos"
 
 #: lms/templates/courseware/program_marketing.html:145
 msgid "Meet the Instructors"
@@ -22419,11 +22419,11 @@ msgstr ""
 
 #: lms/templates/courseware/program_marketing.html:238
 msgid "Number of Courses"
-msgstr "Número de recursos"
+msgstr "Número de Cursos"
 
 #: lms/templates/courseware/program_marketing.html:241
 msgid "{number_of_courses} courses in program"
-msgstr "{number_of_courses} recursos no programa"
+msgstr "{number_of_courses} cursos no programa"
 
 #: lms/templates/courseware/program_marketing.html:249
 msgid "Price (USD)"
@@ -22443,7 +22443,7 @@ msgstr "${full_program_price} pelo programa completo"
 
 #: lms/templates/courseware/program_marketing.html:290
 msgid "Courses in the {}"
-msgstr "recursos em {}"
+msgstr "Cursos em {}"
 
 #: lms/templates/courseware/program_marketing.html:324
 msgid "Starts on {}"
@@ -22657,7 +22657,7 @@ msgid ""
 "We hope you enjoyed the course, and we hope to see you in future "
 "{platform_name} courses!"
 msgstr ""
-"Esperamos que tenha gostado do curso, e esperamos vê-lo em futuros recursos de"
+"Esperamos que tenha gostado do curso, e esperamos vê-lo em futuros cursos de"
 " {platform_name}!"
 
 #: lms/templates/credit_notifications/credit_eligibility_email.html:90
@@ -23035,11 +23035,11 @@ msgstr "O preço é demasiado elevado para mim"
 
 #: lms/templates/dashboard/_entitlement_reason_survey.html:32
 msgid "I was not satisfied with my experience taking the courses"
-msgstr "Não estava satisfeito/a com a minha experiência em fazer os recursos"
+msgstr "Não estava satisfeito/a com a minha experiência em fazer os cursos"
 
 #: lms/templates/dashboard/_entitlement_reason_survey.html:55
 msgid "Content of the courses was too difficult"
-msgstr "O conteúdo dos recursos era demasiado difícil"
+msgstr "O conteúdo dos cursos era demasiado difícil"
 
 #: lms/templates/dashboard/_entitlement_reason_survey.html:78
 msgid "I did not have enough time to complete the courses"
@@ -23071,7 +23071,7 @@ msgstr "Regressar ao Painel de Controlo"
 #: lms/templates/dashboard/_entitlement_reason_survey.html:145
 #: lms/templates/dashboard/_reason_survey.html:31
 msgid "Browse Courses"
-msgstr "Procurar recursos"
+msgstr "Procurar Cursos"
 
 #: lms/templates/dashboard/_reason_survey.html:7
 msgid ""
@@ -23233,7 +23233,7 @@ msgstr "Anotações dos Estudantes"
 
 #: lms/templates/edxnotes/edxnotes.html:28
 msgid "Highlights and notes you've made in course content"
-msgstr "Apontamentos e anotações que fizeste ao longo do recursos."
+msgstr "Apontamentos e anotações que fizeste ao longo do cursos."
     
 #: lms/templates/edxnotes/edxnotes.html:35
 msgid "Search notes for:"
@@ -23269,7 +23269,7 @@ msgid ""
 "Highlight important information to review later in the course or in future "
 "courses."
 msgstr ""
-"Destacar informações importantes para rever mais tarde ou em recursos futuros."
+"Destacar informações importantes para rever mais tarde ou em cursos futuros."
 
 #: lms/templates/edxnotes/edxnotes.html:82
 msgid ""
@@ -24702,14 +24702,14 @@ msgstr "Remover utilizadores beta"
 #. users can be added to.
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:145
 msgid "Course Team Management"
-msgstr "Gestão da Equipa do Reurso"
+msgstr "Gestão da Equipa do Curso"
 
 #. Translators: an "Administrator Group" is a group, such as Course Staff,
 #. that
 #. users can be added to.
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:151
 msgid "Select a course team role:"
-msgstr "Selecione uma função na equipa do recurso:"
+msgstr "Selecione uma função na equipa do curso:"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:153
 msgid "Getting available lists..."
@@ -24734,10 +24734,10 @@ msgid ""
 "Insights. Any users not yet enrolled in the course will be automatically "
 "enrolled when added as Staff."
 msgstr ""
-"Membros da equipa de recurso com o papel de Staff ajudam a gerir o seu recurso. "
+"Membros da equipa de curso com o papel de Staff ajudam a gerir o seu curso. "
 "O Staff pode inscrever e desinscrever alunos, bem como modificar as suas "
-"notas e aceder a todos os dados do recurso. O Staff também tem acesso ao seu "
-"recurso no Studio e no Insights. Qualquer utilizador não inscrito no recurso "
+"notas e aceder a todos os dados do curso. O Staff também tem acesso ao seu "
+"curso no Studio e no Insights. Qualquer utilizador não inscrito no curso "
 "será automaticamente inscrito quando adicionado como Staff."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:179
@@ -24756,11 +24756,11 @@ msgid ""
 "course in Studio. Any users not yet enrolled in the course will be "
 "automatically enrolled when added as Limited Staff."
 msgstr ""
-"Membros da equipa de recurso com o papel de Staff Limitado ajudam a gerir o "
-"seu recurso. O Staff Limitado pode inscrever e desinscrever alunos, bem como "
-"modificar as suas notas e aceder a todos os dados do recurso. O Staff Limitado"
-" não tem acesso ao seu recurso no Studio. Qualquer utilizador não inscrito no "
-"recurso será automaticamente inscrito quando adicionado como Staff Limitado."
+"Membros da equipa de curso com o papel de Staff Limitado ajudam a gerir o "
+"seu curso. O Staff Limitado pode inscrever e desinscrever alunos, bem como "
+"modificar as suas notas e aceder a todos os dados do curso. O Staff Limitado"
+" não tem acesso ao seu curso no Studio. Qualquer utilizador não inscrito no "
+"curso será automaticamente inscrito quando adicionado como Staff Limitado."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:193
 msgid "Add Limited Staff"
@@ -24778,11 +24778,11 @@ msgid ""
 " to manage course team membership. Any users not yet enrolled in the course "
 "will be automatically enrolled when added as Admin."
 msgstr ""
-"Membros da equipa do recurso com o papel de Admin ajudam a gerir o recurso. "
+"Membros da equipa do curso com o papel de Admin ajudam a gerir o curso. "
 "Podem realizar as mesmas tarefas do Staff, e podem ainda adicionar e remover"
 " os papéis de Staff e Admin, os papéis de moderação de debate e o de beta "
-"tester para gerir a adesão da equipa do recurso. Qualquer utilizador será "
-"automaticamente inscrito no recurso quando adicionados como Admin."
+"tester para gerir a adesão da equipa do curso. Qualquer utilizador será "
+"automaticamente inscrito no curso quando adicionados como Admin."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:208
 msgid "Add Admin"
@@ -24799,9 +24799,9 @@ msgid ""
 "not yet enrolled in the course will be automatically enrolled when added as "
 "Beta Tester."
 msgstr ""
-"Beta Testers podem ver o conteúdo do recurso antes dos outros alunos. Devem "
+"Beta Testers podem ver o conteúdo do curso antes dos outros alunos. Devem "
 "garantir que o conteúdo funciona, mas não têm privilégios adicionais. "
-"Qualquer utilizador será automaticamente inscrito no recurso quando adicionado"
+"Qualquer utilizador será automaticamente inscrito no curso quando adicionado"
 " como Beta Tester."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:222
@@ -24818,7 +24818,7 @@ msgstr "Adicionar Administrador de Debate"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:242
 msgid "Course Data Researcher"
-msgstr "Investigador de Dados do Recurso"
+msgstr "Investigador de Dados do Curso"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:244
 msgid ""
@@ -24827,12 +24827,12 @@ msgid ""
 "Data Researcher."
 msgstr ""
 "Course Data Researchers can access the data download tab. Qualquer "
-"utilizador será automaticamente inscrito no recurso quando adicionado como "
-"Investigador de Dados do Recurso."
+"utilizador será automaticamente inscrito no curso quando adicionado como "
+"Investigador de Dados do Curso."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:248
 msgid "Add Course Data Researcher"
-msgstr "Adicionar Investigador de Dados do Recurso"
+msgstr "Adicionar Investigador de Dados do Curso"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:256
 msgid "Discussion Moderators"
@@ -24864,9 +24864,9 @@ msgid ""
 "course, which they can use to provide personalized instruction to their own "
 "students based in this course material."
 msgstr ""
-"Os tutores CCX são capazes de criar os seus próprios Recurso personalizados "
-"com base neste recurso, que podem usar para fornecer instrução personalizada "
-"aos seus próprios estudantes com base no material deste recurso."
+"Os tutores CCX são capazes de criar os seus próprios Cursos personalizados "
+"com base neste curso, que podem usar para fornecer instrução personalizada "
+"aos seus próprios estudantes com base no material deste curso."
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:306
 msgid "Add CCX Coach"
@@ -24987,7 +24987,7 @@ msgid ""
 "To see the status for all email tasks submitted for this course, click this "
 "button:"
 msgstr ""
-"Para ver o estado de todas as tarefas de email enviadas para este recurso, "
+"Para ver o estado de todas as tarefas de email enviadas para este curso, "
 "clique neste botão:"
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:148
@@ -24997,15 +24997,15 @@ msgstr "Exibir Histórico de Tarefas de Email"
 #: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:7
 #: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:19
 msgid "Set Course Mode Price"
-msgstr "Definir o Preço para a Modalidade de Recurso"
+msgstr "Definir o Preço para a Modalidade de Curso"
 
 #: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:24
 msgid "Please enter Course Mode detail below"
-msgstr "Por favor insira os detalhes da Modalidade de Recurso abaixo"
+msgstr "Por favor insira os detalhes da Modalidade de Curso abaixo"
 
 #: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:34
 msgid "Course Price"
-msgstr "Preço do Recurso"
+msgstr "Preço do Curso"
 
 #: lms/templates/instructor/instructor_dashboard_2/set_course_mode_price_modal.html:38
 msgid "Currency"
@@ -25049,7 +25049,7 @@ msgid ""
 "Note: This feature is available only to courses with a small number of "
 "enrolled learners."
 msgstr ""
-"Nota: Esta funcionalidade está disponível apenas para recursos com um pequeno "
+"Nota: Esta funcionalidade está disponível apenas para cursos com um pequeno "
 "número de estudantes matriculados."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:22
@@ -25094,7 +25094,7 @@ msgstr "Ajustar a classificação do estudante num problema específico"
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:74
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:202
 msgid "Location of problem in course"
-msgstr "Localização do problema em recurso"
+msgstr "Localização do problema em curso"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:75
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:203
@@ -25309,9 +25309,9 @@ msgid ""
 "course                 (such as exams and problem sets), and can be changed "
 "on the 'Grading'                 page (under 'Settings') in Studio."
 msgstr ""
-"Clique para exibir a configuração de classificação para o recurso. A "
+"Clique para exibir a configuração de classificação para o curso. A "
 "configuração de classificação é a repartição de subsecções classificáveis do"
-" recurso (como exames e conjuntos de problemas) e pode ser alterada na página "
+" curso (como exames e conjuntos de problemas) e pode ser alterada na página "
 "'Classificações' (em 'Configurações') no Studio."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html:74
@@ -25327,7 +25327,7 @@ msgid ""
 " navigate away from this page while your report is                 "
 "generating."
 msgstr ""
-"Para recursos de grande dimensão, criar alguns relatórios pode levar várias "
+"Para cursos de grande dimensão, criar alguns relatórios pode levar várias "
 "horas. Quando a criação de relatórios estiver completa, um link que inclui a"
 " data e a hora da criação aparece na tabela abaixo. Estes relatórios são "
 "criados em segundo plano, o que significa que não há problema em navegar "
@@ -25348,7 +25348,7 @@ msgid ""
 "For smaller courses, click to list                 profile information for "
 "enrolled students directly on this page:"
 msgstr ""
-"Para recursos menores, clique para listar informações de perfil para alunos "
+"Para cursos menores, clique para listar informações de perfil para alunos "
 "matriculados diretamente nesta página:"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html:91
@@ -25358,7 +25358,7 @@ msgid ""
 "                 username:"
 msgstr ""
 "Clique para gerar um ficheiro CSV de todos os alunos matriculados neste "
-"recurso, juntamente com informações de perfil, como endereço de e-mail e nome "
+"curso, juntamente com informações de perfil, como endereço de e-mail e nome "
 "de utilizador:"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html:95
@@ -25367,7 +25367,7 @@ msgid ""
 "enroll in the course but have not yet done so."
 msgstr ""
 "Clique para gerar um ficheiro CSV que lista os alunos que podem se inscrever"
-" no recurso, mas ainda não o fizeram."
+" no curso, mas ainda não o fizeram."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html:98
 msgid ""
@@ -25375,14 +25375,14 @@ msgid ""
 "in this course."
 msgstr ""
 "Clique para gerar um ficheiro CSV de todos os resultados do exame "
-"supervisionado neste recurso."
+"supervisionado neste curso."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html:101
 msgid ""
 "Click to generate a CSV file of                 survey results for this "
 "course."
 msgstr ""
-"Clique para gerar um ficheiro CSV de resultados de pesquisa para este recurso."
+"Clique para gerar um ficheiro CSV de resultados de pesquisa para este curso."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html:103
 msgid ""
@@ -25450,7 +25450,7 @@ msgstr ""
 
 #: lms/templates/navigation/navbar-not-authenticated.html:33
 msgid "Explore Courses"
-msgstr "Explorar Recursos"
+msgstr "Explorar Cursos"
 
 #: lms/templates/navigation/navigation.html:44
 msgid "Global"
@@ -25472,7 +25472,7 @@ msgstr ""
 "{p_tag}Atualmente, não tem nenhuma avaliação de pares pendente. Para ter uma avaliação de pares:\n"
 "{ul_tag}\n"
 "{li_tag}Deve ter submetido uma resposta a um problema de avaliação de pares.{end_li_tag}\n"
-"{li_tag}A equipa do recurso tem de classificar os ensaios que são usados para ajudá-lo a entender melhor os critérios de\n"
+"{li_tag}A equipa do curso tem de classificar os ensaios que são usados para ajudá-lo a entender melhor os critérios de\n"
 "avaliação.{end_li_tag}\n"
 "{li_tag}Têm de existir submissões que aguardam avaliação.{end_li_tag}\n"
 "{end_ul_tag}\n"
@@ -25489,7 +25489,7 @@ msgid ""
 "Here is a list of problems that need to be peer graded for this course."
 msgstr ""
 "Aqui está uma lista de problemas que necessitam de avaliação de pares para "
-"este recurso."
+"este curso."
 
 #: lms/templates/peer_grading/peer_grading.html:36
 msgid "Problem Name"
@@ -25723,10 +25723,10 @@ msgid ""
 "with export controls, we cannot allow you to access this course at this "
 "time."
 msgstr ""
-"O nosso sistema indica que está a tentar aceder a este recurso {platform_name}"
+"O nosso sistema indica que está a tentar aceder a este curso {platform_name}"
 " de um país ou região actualmente sujeito a sanções económicas e comerciais "
 "dos EUA. Infelizmente, porque o {platform_name} é exigido para cumprir com "
-"os controlos de exportação, não podemos permitir-lhe o acesso a este recurso "
+"os controlos de exportação, não podemos permitir-lhe o acesso a este curso "
 "neste momento."
 
 #: lms/templates/static_templates/faq.html:5
@@ -25819,7 +25819,7 @@ msgstr "Controlo do Tipo de Conteúdo"
 
 #: lms/templates/support/feature_based_enrollments.html:34
 msgid "Course Duration Limits"
-msgstr "Limites de Duração de Recurso"
+msgstr "Limites de Duração de Curso"
 
 #: lms/templates/support/feature_based_enrollments.html:39
 #: lms/templates/support/feature_based_enrollments.html:42
@@ -25853,7 +25853,7 @@ msgid ""
 " use of {platform_name} only. It will not be linked to your public profile "
 "in any way."
 msgstr ""
-"Pode iniciar o seu recurso assim que completar o seguinte formulário. Os "
+"Pode iniciar o seu curso assim que completar o seguinte formulário. Os "
 "campos obrigatórios são assinalados com um asterisco (*). Esta informação é "
 "apenas para o uso de {platform_name}. Não estará, de forma alguma, vinculado"
 " ao seu perfil público."
@@ -25876,10 +25876,10 @@ msgid ""
 "and future students. The more we know about your specific needs, the better "
 "we can make your course experience."
 msgstr ""
-"Utilizamos as informações fornecidas por si para melhorar o nosso recurso para"
+"Utilizamos as informações fornecidas por si para melhorar o nosso curso para"
 " os estudantes atuais e futuros. Quanto mais soubermos sobre as suas "
 "necessidades específicas, mais poderemos fazer para melhorar a sua "
-"experiência no recurso."
+"experiência no curso."
 
 #: lms/templates/survey/survey.html:65
 msgid "Who can I contact if I have questions?"
@@ -25890,7 +25890,7 @@ msgid ""
 "If you have any questions about this course or this form, you can contact "
 "{link_start}{mail_to_link}{link_end}."
 msgstr ""
-"Se tiver alguma questão acerca deste recurso ou deste formulário, pode "
+"Se tiver alguma questão acerca deste curso ou deste formulário, pode "
 "contactar {link_start}{mail_to_link}{link_end}."
 
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:39
@@ -25899,11 +25899,11 @@ msgstr "Página Esqueleto"
 
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:45
 msgid "Search the course"
-msgstr "Pesquisar no recurso"
+msgstr "Pesquisar no curso"
 
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:51
 msgid "Start Course"
-msgstr "Iniciar Recurso"
+msgstr "Iniciar Curso"
 
 #: lms/templates/verify_student/_verification_help.html:9
 msgid "Have questions?"
@@ -25942,7 +25942,7 @@ msgid ""
 "The deadline to upgrade to a verified certificate for this course has "
 "passed."
 msgstr ""
-"O prazo para actualizar para um certificado validado para este recurso já "
+"O prazo para actualizar para um certificado validado para este curso já "
 "passou."
 
 #: lms/templates/verify_student/pay_and_verify.html:16
@@ -26032,7 +26032,7 @@ msgstr "{span_start}ativo{span_end}"
 
 #: lms/templates/wiki/includes/breadcrumbs.html:10
 msgid "Course Wiki"
-msgstr "Wiki do Recurso"
+msgstr "Wiki do Curso"
 
 #: openedx/core/djangoapps/dark_lang/templates/dark_lang/preview-language-fragment.html:16
 msgid "Preview Language Setting"
@@ -26084,7 +26084,7 @@ msgstr "Próximas Datas"
 
 #: openedx/features/course_experience/templates/course_experience/course-dates-fragment.html:18
 msgid "View all course dates"
-msgstr "Ver todas as datas dos recursos"
+msgstr "Ver todas as datas dos cursos"
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html:20
 msgid "Learn About Verified Certificates"
@@ -26108,14 +26108,14 @@ msgstr "Certificado de partilha fácil"
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html:29
 msgid "Proven motivator to complete the course"
-msgstr "Incentivo para concluir o recurso"
+msgstr "Incentivo para concluir o curso"
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html:30
 msgid ""
 "Certificate purchases help {platform_name} continue to offer free courses"
 msgstr ""
 "A compra de Certificados ajuda a {platform_name} a continuar a oferecer "
-"recursos gratuitos"
+"cursos gratuitos"
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html:32
 msgid "How it works"
@@ -26133,7 +26133,7 @@ msgstr ""
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html:36
 msgid "Study hard and pass the course"
-msgstr "Estude muito e passe no recurso"
+msgstr "Estude muito e passe no curso"
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html:37
 msgid "Share your certificate with friends, employers, and others"
@@ -26176,7 +26176,7 @@ msgstr "Atualização ({course_price})"
 
 #: openedx/features/course_experience/templates/course_experience/course-updates-fragment.html:49
 msgid "This course does not have any updates."
-msgstr "Este recurso não tem nenhuma atualização."
+msgstr "Este curso não tem nenhuma atualização."
 
 #. Translators: this section lists all the third-party authentication
 #. providers
@@ -26222,7 +26222,7 @@ msgstr "Ainda não obteve quaisquer certificados."
 
 #: openedx/features/learner_profile/templates/learner_profile/learner-achievements-fragment.html:58
 msgid "Explore New Courses"
-msgstr "Explorar Novos recursos"
+msgstr "Explorar Novos Cursos"
 
 #: openedx/features/learner_profile/templates/learner_profile/learner_profile.html:16
 msgid "Learner Profile"
@@ -26430,7 +26430,7 @@ msgstr ""
 "Irá receber um email de ativação. Deve clicar no link de ativação para "
 "completar o processo. Não vê o email? Verifique a sua pasta de spam e "
 "assinale emails de class.stanford.edu como \"não spam\", para que consiga "
-"receber os emails dos seus recursos."
+"receber os emails dos seus cursos."
 
 #: themes/stanford-style/lms/templates/register-sidebar.html:32
 msgid "Need Help?"
@@ -26450,7 +26450,7 @@ msgid ""
 "discussion forums or through the FAQs."
 msgstr ""
 "Uma vez registada, a maioria das perguntas pode ser respondida nos fóruns de"
-" discussão específicos do recurso ou através das FAQs."
+" discussão específicos do curso ou através das FAQs."
 
 #: themes/stanford-style/lms/templates/emails/activation_email.txt:2
 msgid "Thank you for signing up for {platform_name}."
@@ -26475,7 +26475,7 @@ msgid ""
 msgstr ""
 "Se não solicitou isto, não precisa fazer nada; não receberá mais emails "
 "nossos relativamente a esta questão. Por favor não responda a este email; se"
-" precisar de assistência, verifique a secção sobre o site dos Recursos de "
+" precisar de assistência, verifique a secção sobre o site dos Cursos de "
 "{platform_name}."
 
 #: themes/stanford-style/lms/templates/emails/confirm_email_change.txt:2
@@ -26504,7 +26504,7 @@ msgid ""
 "name from {old_name} to {new_name}. If you need further assistance, please "
 "e-mail the tech support at {email}"
 msgstr ""
-"Lamentamos. A equipa do nosso recurso não aprovou o pedido para alterar o seu "
+"Lamentamos. A equipa do nosso curso não aprovou o pedido para alterar o seu "
 "nome de {old_name} para {new_name}. Se precisar de mais assistência, por "
 "favor envie um email para o suporte técnico em {email}"
 
@@ -26531,7 +26531,7 @@ msgstr "Editor de Código"
 #: themes/indigo/lms/templates/dge_header.html:68
 #: themes/indigo/lms/templates/dge_header.html:112
 msgid "DGECourses"
-msgstr "Recursos"
+msgstr "Cursos"
 
 #: themes/indigo/lms/templates/dge_header.html:71
 #: themes/indigo/lms/templates/dge_header.html:115
