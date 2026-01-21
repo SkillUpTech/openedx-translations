@@ -24574,7 +24574,7 @@ msgstr "Painel do Formador"
 
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:120
 msgid "View Course in Studio"
-msgstr "Ver Curso no Estúdio"
+msgstr "Ver Recurso no Estúdio"
 
 #: lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html:5
 #: lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html:17
@@ -24702,7 +24702,7 @@ msgstr "Remover utilizadores beta"
 #. users can be added to.
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:145
 msgid "Course Team Management"
-msgstr "Gestão da Equipa do Reurso"
+msgstr "Gestão da Equipa do Recurso"
 
 #. Translators: an "Administrator Group" is a group, such as Course Staff,
 #. that
