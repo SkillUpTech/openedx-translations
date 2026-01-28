@@ -22071,7 +22071,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:11
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:101
 msgid ""
-"Enter email addresses and/or usernames separated by new lines or commas."
+"Enter the usernames separated by new lines or commas."
 msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:12

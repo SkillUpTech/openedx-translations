@@ -361,5 +361,19 @@
   "account.settings.delete.account.dge-thirdmessage": "E solicitando expressamente a eliminação da conta.",
   "account.settings.delete.account.dge-listitem-one": "Nome de utilizador (username)",
   "account.settings.delete.account.dge-listitem-two": "Endereço de e-mail associado à conta",
-  "account.settings.delete.account.dge-fulltext": "Caso deseje prosseguir com a eliminação da conta, deverá contactar a DGE através do endereço de e-mail epd@dge.mec.pt, indicando os seguintes dados:"
+  "account.settings.delete.account.dge-fulltext": "Caso deseje prosseguir com a eliminação da conta, deverá contactar a DGE através do endereço de e-mail epd@dge.mec.pt, indicando os seguintes dados:",
+  "LearningEcosystemHeader.components.logo.alt": "Ecossistema de Aprendizagem",
+  "LearningEcosystemHeader.components.navigation.home": "Início",
+  "LearningEcosystemHeader.components.navigation.calendar": "Calendário",
+  "LearningEcosystemHeader.components.navigation.communication": "Comunicação",
+  "LearningEcosystemHeader.components.navigation.digitalLibrary": "Biblioteca Digital",
+  "LearningEcosystemHeader.components.navigation.gameZone": "Zona de Jogos",
+  "LearningEcosystemHeader.components.navigation.notificationHub": "Centro de Notificações",
+  "LearningEcosystemHeader.components.navigation.recommendations": "Recomendado para mim",
+  "LearningEcosystemHeader.components.navigation.notifications": "Notificações",
+  "LearningEcosystemHeader.components.navigation.dashboard": "Painel de controlo",
+  "LearningEcosystemHeader.components.navigation.children": "Crianças",
+  "LearningEcosystemHeader.components.navigation.settings": "Definições",
+  "LearningEcosystemHeader.components.menu": "Menu",
+  "LearningEcosystemHeader.components.menu.language": "Idioma"
 }
