@@ -10920,3 +10920,71 @@ msgstr ""
 #: openedx/features/learner_profile/static/learner_profile/templates/section_two.underscore:7
 msgid "This learner is currently sharing a limited profile."
 msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Home"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Calendar"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Grades"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Feedback"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Communication"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Digital Library"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Book Catalog"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Reading Clubs"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Reading Plans"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Recommended for me"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Gamification"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Notifications Hub"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Book Clubs (Settings)"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Books (Settings)"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Banners (Settings)"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Reports"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "CMS"
+msgstr ""
