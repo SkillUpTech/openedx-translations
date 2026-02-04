@@ -11895,3 +11895,71 @@ msgstr "O seu perfil está atualmente a ser partilhado com restrições."
 #: openedx/features/learner_profile/static/learner_profile/templates/section_two.underscore:7
 msgid "This learner is currently sharing a limited profile."
 msgstr "Este estudante está atualmente a partilhar um perfil com restrições."
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Home"
+msgstr "Início"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Calendar"
+msgstr "Calendário"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Grades"
+msgstr "Notas"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Feedback"
+msgstr "Comentários"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Communication"
+msgstr "Comunicação"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Digital Library"
+msgstr "Biblioteca Digital"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Book Catalog"
+msgstr "Catálogo de Livros"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Reading Clubs"
+msgstr "Clubes de Leitura"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Reading Plans"
+msgstr "Planos de Leitura"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Recommended for me"
+msgstr "Recomendado para mim"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Gamification"
+msgstr "Gamificação"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Notifications Hub"
+msgstr "Centro de Notificações"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Book Clubs (Settings)"
+msgstr "Clubes de Livros (Configurações)"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Books (Settings)"
+msgstr "Livros (Configurações)"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Banners (Settings)"
+msgstr "Banners (Configurações)"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "Reports"
+msgstr "Relatórios"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "CMS"
+msgstr "CMS"
