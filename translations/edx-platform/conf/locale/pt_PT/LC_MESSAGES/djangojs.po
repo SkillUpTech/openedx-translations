@@ -11901,6 +11901,10 @@ msgid "Home"
 msgstr "Início"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "My Learning"
+msgstr "AnMinha Aprendizagem"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "Calendar"
 msgstr "Calendário"
 
@@ -11934,7 +11938,7 @@ msgstr "Planos de Leitura"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "Recommended for me"
-msgstr "Recomendado para mim"
+msgstr "Recomendado"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "Gamification"

@@ -10926,6 +10926,10 @@ msgid "Home"
 msgstr ""
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "My Learning"
+msgstr ""
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "Calendar"
 msgstr ""
 
