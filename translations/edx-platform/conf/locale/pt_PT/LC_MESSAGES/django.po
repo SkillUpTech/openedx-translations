@@ -666,7 +666,7 @@ msgstr "{platform_name} Níveis de Suporte:"
 #: lms/djangoapps/discussion/templates/discussion/discussion_profile_page.html:48
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:24
 msgid "Discussion"
-msgstr "Discussão"
+msgstr "Forum"
 
 #: cms/djangoapps/contentstore/views/component.py:261
 #: openedx/core/djangoapps/content_libraries/constants.py:10
