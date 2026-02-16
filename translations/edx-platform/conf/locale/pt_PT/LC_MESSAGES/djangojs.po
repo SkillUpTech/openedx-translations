@@ -11902,7 +11902,7 @@ msgstr "Início"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "My Learning"
-msgstr "AnMinha Aprendizagem"
+msgstr "As Minhas Aprendizagens"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "Calendar"
@@ -11950,7 +11950,7 @@ msgstr "Centro de Notificações"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "Book Clubs (Settings)"
-msgstr "Clubes de Livros (Configurações)"
+msgstr "Clubes de Leitura (Configurações)"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "Books (Settings)"
@@ -11967,3 +11967,7 @@ msgstr "Relatórios"
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "CMS"
 msgstr "CMS"
+
+#: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
+msgid "My Extra Learning"
+msgstr "As Minhas Aprendizagens Adicionais"
