@@ -259,9 +259,7 @@
   "LearningEcosystemHeader.components.logo.alt": "Ecossistema de Aprendizagem",
   "LearningEcosystemHeader.components.menu": "Menu",
   "LearningEcosystemHeader.components.menu.language": "Idioma",
-  
-  // COMPLETE MENU TRANSLATIONS:
-  "LearningEcosystemHeader.components.navigation.home": "Início",
+    "LearningEcosystemHeader.components.navigation.home": "Início",
   "LearningEcosystemHeader.components.navigation.myLearning": "As Minhas Aprendizagens",
   "LearningEcosystemHeader.components.navigation.calendar": "Calendário",
   "LearningEcosystemHeader.components.navigation.grades": "Notas",
@@ -281,8 +279,6 @@
   "LearningEcosystemHeader.components.navigation.myExtraLearning": "As Minhas Aprendizagens Adicionais",
   "LearningEcosystemHeader.components.navigation.cms": "CMS",
   "LearningEcosystemHeader.components.navigation.reports": "Relatórios",
-
-  // TO REVIEW
   "LearningEcosystemHeader.components.navigation.courses": "Recursos",
   "LearningEcosystemHeader.components.navigation.explore": "Explorar",
   "LearningEcosystemHeader.components.navigation.discover": "Descobrir novos",
