@@ -79,6 +79,7 @@
   "progress.creditInformation.creditEligible": "Cumpriu os requisitos para obter créditos neste recurso. Aceda ao seu {dashboardLink} para adquirir créditos para o recurso. Ou saiba mais sobre {creditLink}.",
   "progress.creditInformation.creditPartialEligible": "Ainda não cumpriu os requisitos de crédito. Saiba mais sobre {creditLink}.",
   "progress.relatedLinks.datesCard.link": "Datas",
+  "progress.certificateStatus.requestableHeader": "Situação do Certificado",
   "progress.certificateStatus.requestableBody": "Parabéns, o seu certificado está disponível. Clique abaixo para ver o seu certificado",
   "progress.certificateStatus.requestableButton": "Ver Certificado",
   "progress.certificateStatus.notPassingHeader": "Situação do Certificado",
