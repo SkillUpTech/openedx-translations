@@ -7580,7 +7580,7 @@ msgstr "Recursos"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:108
 msgid "My Account"
-msgstr "A minha conta"
+msgstr "Informação pessoal"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:156
 #: themes/red-theme/lms/templates/ace_common/edx_ace/common/base_body.html:100
@@ -19236,7 +19236,7 @@ msgstr "Escolher Idioma"
 #: lms/templates/header/user_dropdown.html:48
 #: lms/templates/user_dropdown.html:31 lms/templates/user_dropdown.html:39
 msgid "Account"
-msgstr "A minha conta"
+msgstr "Informação pessoal"
 
 #: cms/templates/widgets/header.html:346 cms/templates/widgets/header.html:361
 msgid "Account Navigation"
