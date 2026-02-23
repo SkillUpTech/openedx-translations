@@ -6900,6 +6900,15 @@ msgstr ""
 msgid "Show All"
 msgstr ""
 
+msgid "Show all"
+msgstr "Mostrar todos"
+
+msgid "Show essential only"
+msgstr "Mostrar apenas essenciais"
+
+msgid "Show supplemental only"
+msgstr "Mostrar apenas suplementares"
+
 #: cms/templates/js/asset-library.underscore:57
 #: cms/templates/js/basic-modal.underscore:24
 #: cms/templates/js/course-outline.underscore:201
