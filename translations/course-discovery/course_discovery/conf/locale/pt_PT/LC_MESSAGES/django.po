@@ -2333,11 +2333,11 @@ msgstr "O estado ativo/inativo deste Trajeto."
 
 #: apps/learner_pathway/models.py:119
 msgid "Learner Pathway"
-msgstr "Trajeto do Estudante"
+msgstr "Trajeto do Aluno"
 
 #: apps/learner_pathway/models.py:120
 msgid "Learner Pathways"
-msgstr "Trajetos do Estudante"
+msgstr "Trajetos do Aluno"
 
 #: apps/learner_pathway/models.py:166
 msgid "Minimum number of nodes to complete this step of the pathway"
@@ -2345,27 +2345,27 @@ msgstr "Número mínimo de nós para concluir esta etapa do trajeto"
 
 #: apps/learner_pathway/models.py:170
 msgid "Learner Pathway Step"
-msgstr "Etapa do Trajeto do Estudante"
+msgstr "Etapa do Trajeto do Aluno"
 
 #: apps/learner_pathway/models.py:171
 msgid "Learner Pathway Steps"
-msgstr "Etapas do Trajeto do Estudante"
+msgstr "Etapas do Trajeto do Aluno"
 
 #: apps/learner_pathway/models.py:238
 msgid "Learner Pathway Course"
-msgstr "Curso do Trajeto do Estudante"
+msgstr "Curso do Trajeto do Aluno"
 
 #: apps/learner_pathway/models.py:239
 msgid "Learner Pathway Courses"
-msgstr "Cursos do Trajeto do Estudante"
+msgstr "Cursos do Trajeto do Aluno"
 
 #: apps/learner_pathway/models.py:276
 msgid "Learner Pathway Program"
-msgstr "Programa do Trajeto do Estudante"
+msgstr "Programa do Trajeto do Aluno"
 
 #: apps/learner_pathway/models.py:277
 msgid "Learner Pathway Programs"
-msgstr "Programas do Trajeto do Estudante"
+msgstr "Programas do Trajeto do Aluno"
 
 #: apps/publisher/models.py:34
 msgid "Organization Role"

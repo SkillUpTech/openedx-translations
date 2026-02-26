@@ -3556,7 +3556,7 @@ msgstr "Sobre os certificados de {platform_name}"
 #: lms/djangoapps/certificates/views/webview.py:210
 #, python-brace-format
 msgid "How {platform_name} Validates Student Certificates"
-msgstr "Como {platform_name} valida os Certificados de Estudante"
+msgstr "Como {platform_name} valida os Certificados de Aluno"
 
 #. Translators:  This text describes the validation mechanism for a
 #. certificate file (known as GPG security)
@@ -5289,14 +5289,14 @@ msgid ""
 "Student {user} is already on the certificate invalidation list and cannot be"
 " added to the certificate exception list."
 msgstr ""
-"o Estudante {user} já consta da lista de revogação de certificados e não "
+"o Aluno {user} já consta da lista de revogação de certificados e não "
 "pode ser adicionado à lista de excepção de certificados."
 
 #: lms/djangoapps/instructor/views/api.py:3397
 #, python-brace-format
 msgid "Student (username/email={user}) already in certificate exception list."
 msgstr ""
-"Estudante (username/email={user}) já se encontra na lista de exceções de "
+"Aluno (username/email={user}) já se encontra na lista de exceções de "
 "certificado."
 
 #: lms/djangoapps/instructor/views/api.py:3433
@@ -5360,7 +5360,7 @@ msgid ""
 "{course}. Please remove them from the Certificate Exception list before "
 "attempting to invalidate their certificate."
 msgstr ""
-"o Estudante {student} consta da lista de Excepções de Certificados no curso "
+"o Aluno {student} consta da lista de Excepções de Certificados no curso "
 "{course}. Por favor, retire-os da lista de Excepção de Certificado antes de "
 "tentar invalidar o certificado."
 
@@ -5473,7 +5473,7 @@ msgstr "Debates"
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:570
 #: lms/templates/ccx/coach_dashboard.html:66
 msgid "Student Admin"
-msgstr "Admin de Estudantes"
+msgstr "Admin de Alunos"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:616
 msgid "Extensions"
@@ -6705,7 +6705,7 @@ msgstr ""
 
 #: lms/templates/instructor/edx_ace/allowedunenroll/email/body.txt:1
 msgid "Dear Student,"
-msgstr "Caro Estudante,"
+msgstr "Caro Aluno,"
 
 #: lms/templates/instructor/edx_ace/enrolledunenroll/email/body.html:12
 #, python-format
@@ -8235,7 +8235,7 @@ msgstr "URL do Serviço Público"
 
 #: openedx/core/djangoapps/credentials/models.py:46
 msgid "Enable Learner Issuance"
-msgstr "Permitir a Emissão de Estudantes"
+msgstr "Permitir a Emissão de Alunos"
 
 #: openedx/core/djangoapps/credentials/models.py:49
 msgid "Enable issuance of credentials via Credential Service."
@@ -8583,7 +8583,7 @@ msgstr "Assistente de Ensino da Comunidade"
 
 #: openedx/core/djangoapps/django_comment_common/models.py:29
 msgid "Student"
-msgstr "Estudante"
+msgstr "Aluno"
 
 #: openedx/core/djangoapps/embargo/forms.py:46
 msgid "COURSE NOT FOUND.  Please check that the course ID is valid."
@@ -11302,7 +11302,7 @@ msgstr "A Redefinir"
 
 #: xmodule/capa_block.py:281
 msgid "Per Student"
-msgstr "Por Estudante"
+msgstr "Por Aluno"
 
 #: xmodule/capa_block.py:285
 msgid "XML data for the problem"
@@ -12284,7 +12284,7 @@ msgstr ""
 
 #: xmodule/course_block.py:730
 msgid "Course Maximum Student Enrollment"
-msgstr "Número Máximo de Estudantes Inscritos no Curso"
+msgstr "Número Máximo de Alunos Inscritos no Curso"
 
 #: xmodule/course_block.py:732
 msgid ""
@@ -12574,7 +12574,7 @@ msgstr "Especifique o que os estudantes podem aprender neste curso."
 
 #: xmodule/course_block.py:963
 msgid "Course Visibility For Unenrolled Learners"
-msgstr "Visibilidade do Curso para Estudantes Não Matriculados"
+msgstr "Visibilidade do Curso para Alunos Não Matriculados"
 
 #. Translators: the quoted words 'private', 'public_outline', and 'public'
 #. must be left untranslated.  Leave them as English words.
@@ -12816,7 +12816,7 @@ msgstr "Puro"
 
 #: xmodule/html_block.py:396
 msgid "Hide Page From Learners"
-msgstr "Página Oculta Dos Estudantes"
+msgstr "Página Oculta Dos Alunos"
 
 #: xmodule/html_block.py:397
 msgid ""
@@ -13412,14 +13412,14 @@ msgstr ""
 
 #: xmodule/modulestore/inheritance.py:211
 msgid "Enable Student Notes"
-msgstr "Activar Notas do Estudante"
+msgstr "Activar Notas do Aluno"
 
 #: xmodule/modulestore/inheritance.py:212
 msgid ""
 "Enter true or false. If true, students can use the Student Notes feature."
 msgstr ""
 "Introduza verdadeiro ou falso. Se falso, os estudantes podem utilizar a "
-"funcionalidade Notas do Estudante."
+"funcionalidade Notas do Aluno."
 
 #: xmodule/modulestore/inheritance.py:218
 msgid ""
@@ -15579,7 +15579,7 @@ msgstr ""
 
 #: cms/templates/certificates.html:97
 msgid "Issuing Certificates to Learners"
-msgstr "Emissão de Certificados para Estudantes"
+msgstr "Emissão de Certificados para Alunos"
 
 #: cms/templates/certificates.html:98
 msgid ""
@@ -18143,7 +18143,7 @@ msgstr ""
 
 #: cms/templates/settings.html:206
 msgid "Self-Paced"
-msgstr "Ritmo Definido pelo Estudante"
+msgstr "Ritmo Definido pelo Aluno"
 
 #: cms/templates/settings.html:207
 msgid ""
@@ -19000,7 +19000,7 @@ msgstr "Selecione um tipo de grupo"
 
 #: cms/templates/visibility_editor.html:87
 msgid "All Learners and Staff"
-msgstr "Todos os Estudantes e Elementos da Equipa"
+msgstr "Todos os Alunos e Elementos da Equipa"
 
 #: cms/templates/visibility_editor.html:101
 msgid "Select one or more groups:"
@@ -19680,7 +19680,7 @@ msgstr "Não matricular"
 
 #: lms/templates/enroll_students.html:4
 msgid "Student Enrollment Form"
-msgstr "Formulário de Inscrição do Estudante"
+msgstr "Formulário de Inscrição do Aluno"
 
 #: lms/templates/enroll_students.html:6
 msgid "Course: "
@@ -19692,7 +19692,7 @@ msgstr "Adicionar novos estudantes"
 
 #: lms/templates/enroll_students.html:16
 msgid "Existing students:"
-msgstr "Estudantes existentes:"
+msgstr "Alunos existentes:"
 
 #: lms/templates/enroll_students.html:20
 msgid "New students added: "
@@ -19700,7 +19700,7 @@ msgstr "Novos estudantes adicionados: "
 
 #: lms/templates/enroll_students.html:23
 msgid "Students rejected: "
-msgstr "Estudantes rejeitados: "
+msgstr "Alunos rejeitados: "
 
 #: lms/templates/enroll_students.html:26
 msgid "Debug: "
@@ -19920,7 +19920,7 @@ msgstr "Remover imagem de perfil"
 
 #: lms/templates/manage_user_standing.html:43
 msgid "Students whose accounts have been disabled"
-msgstr "Estudantes cujas contas foram desativadas"
+msgstr "Alunos cujas contas foram desativadas"
 
 #: lms/templates/manage_user_standing.html:44
 msgid "(reload your page to refresh)"
@@ -19963,15 +19963,15 @@ msgstr "Equipa"
 
 #: lms/templates/preview_menu.html:62
 msgid "Learner"
-msgstr "Estudante"
+msgstr "Aluno"
 
 #: lms/templates/preview_menu.html:63
 msgid "Specific learner"
-msgstr "Estudante específico"
+msgstr "Aluno específico"
 
 #: lms/templates/preview_menu.html:68
 msgid "Learner in {content_group}"
-msgstr "Estudante em {content_group}"
+msgstr "Aluno em {content_group}"
 
 #: lms/templates/preview_menu.html:75
 msgid "Username or email:"
@@ -20275,18 +20275,18 @@ msgstr "Pontuação (apenas para substituição)"
 
 #: lms/templates/staff_problem_info.html:81
 msgid "Reset Learner's Attempts to Zero"
-msgstr "Reiniciar Tentativas do Estudante para Zero"
+msgstr "Reiniciar Tentativas do Aluno para Zero"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:120
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:176
 #: lms/templates/staff_problem_info.html:84
 msgid "Delete Learner's State"
-msgstr "Apagar Estado do Estudante"
+msgstr "Apagar Estado do Aluno"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:93
 #: lms/templates/staff_problem_info.html:87
 msgid "Rescore Learner's Submission"
-msgstr "Reavaliar a Submissão do Estudante"
+msgstr "Reavaliar a Submissão do Aluno"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:94
 #: lms/templates/staff_problem_info.html:89
@@ -21479,7 +21479,7 @@ msgid ""
 msgstr ""
 "Para informação mais detalhada, veja {math_link_start}Inserindo Expressões "
 "Matemáticas e Científicas{math_link_end} no {guide_link_start}Guia edX para "
-"Estudantes{guide_link_end}."
+"Alunos{guide_link_end}."
 
 #: lms/templates/calculator/toggle_calculator.html:36
 msgid "Tips"
@@ -21648,7 +21648,7 @@ msgstr "Matrículas em Série"
 #: lms/templates/ccx/coach_dashboard.html:78
 #: lms/templates/ccx/student_admin.html:5
 msgid "Student Grades"
-msgstr "Classificações de Estudantes"
+msgstr "Classificações de Alunos"
 
 #: lms/templates/ccx/coach_dashboard.html:154
 msgid "Please enter a valid CCX name."
@@ -21736,7 +21736,7 @@ msgstr "Matricular"
 
 #: lms/templates/ccx/enrollment.html:71
 msgid "Student List Management"
-msgstr "Gestão da Lista de Estudantes"
+msgstr "Gestão da Lista de Alunos"
 
 #: lms/templates/ccx/enrollment.html:73
 msgid "CCX student list management response message"
@@ -23229,7 +23229,7 @@ msgstr "por maior nº de votos"
 
 #: lms/templates/edxnotes/edxnotes.html:13
 msgid "Student Notes"
-msgstr "Anotações dos Estudantes"
+msgstr "Anotações dos Alunos"
 
 #: lms/templates/edxnotes/edxnotes.html:28
 msgid "Highlights and notes you've made in course content"
@@ -23665,12 +23665,12 @@ msgstr "Pedido de Assistência Financeira"
 
 #: lms/templates/financial-assistance/financial-assistance.html:23
 msgid "A Note to Learners"
-msgstr "Uma nota aos Estudantes"
+msgstr "Uma nota aos Alunos"
 
 #. Translators: This string will not be used in Open edX installations.
 #: lms/templates/financial-assistance/financial-assistance.html:25
 msgid "Dear edX Learner,"
-msgstr "Caro Estudante edX,"
+msgstr "Caro Aluno edX,"
 
 #. Translators: This string will not be used in Open edX installations.
 #: lms/templates/financial-assistance/financial-assistance.html:28
@@ -23837,16 +23837,16 @@ msgstr "Atualizar Estado"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:60
 msgid "Student-Generated Certificates"
-msgstr "Certificados Gerados por Estudantes"
+msgstr "Certificados Gerados por Alunos"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:65
 msgid "Disable Student-Generated Certificates"
-msgstr "Desativar Certificados Gerados por Estudantes"
+msgstr "Desativar Certificados Gerados por Alunos"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:71
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:77
 msgid "Enable Student-Generated Certificates"
-msgstr "Ativar Certificados Gerados por Estudantes"
+msgstr "Ativar Certificados Gerados por Alunos"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:75
 msgid ""
@@ -24139,7 +24139,7 @@ msgstr "Clique para transferir um ficheiro CSV de IDs anónimas de estudantes:"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:41
 msgid "Get Student Anonymized IDs CSV"
-msgstr "Obter IDs CSV  de Estudantes Anonimizadas"
+msgstr "Obter IDs CSV  de Alunos Anonimizadas"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:44
 msgid ""
@@ -24381,7 +24381,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:72
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:95
 msgid "Student Email or Username"
-msgstr "E-mail ou Nome de Utilizador do Estudante"
+msgstr "E-mail ou Nome de Utilizador do Aluno"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:20
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:55
@@ -24638,7 +24638,7 @@ msgstr "Razão"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:64
 msgid "Register/Enroll Students"
-msgstr "Registar/Inscrever Estudantes"
+msgstr "Registar/Inscrever Alunos"
 
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:65
 msgid ""
@@ -24895,7 +24895,7 @@ msgstr "Equipa e Administradores"
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:35
 msgid "All Learners"
-msgstr "Todos os Estudantes"
+msgstr "Todos os Alunos"
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:44
 msgid "Cohort: "
@@ -24903,11 +24903,11 @@ msgstr "Grupo: "
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:48
 msgid "(Learners not explicitly assigned to a cohort)"
-msgstr "(Estudantes não explicitamente designados a um grupo)"
+msgstr "(Alunos não explicitamente designados a um grupo)"
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:63
 msgid "Learners in the {track_name} Track"
-msgstr "Estudantes no Modo {track_name}"
+msgstr "Alunos no Modo {track_name}"
 
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:73
 msgid "Subject: "
@@ -25029,7 +25029,7 @@ msgstr "Estatuto do Aluno Integrado "
 
 #: lms/templates/instructor/instructor_dashboard_2/special_exams.html:28
 msgid "Student Special Exam Attempts"
-msgstr "Tentativas do Estudante para Exame Especial"
+msgstr "Tentativas do Aluno para Exame Especial"
 
 #: lms/templates/instructor/instructor_dashboard_2/special_exams.html:33
 msgid "Review Dashboard"
@@ -25537,7 +25537,7 @@ msgstr "Ocultar Questão"
 
 #: lms/templates/peer_grading/peer_grading_problem.html:33
 msgid "Student Response"
-msgstr "Resposta do Estudante"
+msgstr "Resposta do Aluno"
 
 #: lms/templates/peer_grading/peer_grading_problem.html:47
 msgid "Written Feedback"
@@ -25795,11 +25795,11 @@ msgstr "Iniciar Sessão ou Registar"
 #: lms/templates/support/certificates.html:21
 #: lms/templates/support/index.html:12 lms/templates/support/index.html:17
 msgid "Student Support"
-msgstr "Suporte ao Estudante"
+msgstr "Suporte ao Aluno"
 
 #: lms/templates/support/certificates.html:26
 msgid "Student Support: Certificates"
-msgstr "Suporte ao Estudante: Certificados"
+msgstr "Suporte ao Aluno: Certificados"
 
 #: lms/templates/support/contact_us.html:16
 msgid "Contact {platform_name} Support"
@@ -25807,11 +25807,11 @@ msgstr "Contacte o Suporte de {platform_name}"
 
 #: lms/templates/support/enrollment.html:27
 msgid "Student Support: Enrollment"
-msgstr "Suporte ao Estudante: Inscrição"
+msgstr "Suporte ao Aluno: Inscrição"
 
 #: lms/templates/support/feature_based_enrollments.html:16
 msgid "Student Support: Feature Based Enrollments"
-msgstr "Apoio ao Estudante: Matrículas Baseadas em Características"
+msgstr "Apoio ao Aluno: Matrículas Baseadas em Características"
 
 #: lms/templates/support/feature_based_enrollments.html:33
 msgid "Content Type Gating"
@@ -25832,7 +25832,7 @@ msgstr "Sem resultados"
 
 #: lms/templates/support/manage_user.html:28
 msgid "Student Support: Manage User"
-msgstr "Apoio ao Estudantes: Gestão de Utilizador"
+msgstr "Apoio ao Alunos: Gestão de Utilizador"
 
 #: lms/templates/support/program_enrollments_inspector.html:19
 msgid "Program Enrollments Inspector"
@@ -26226,7 +26226,7 @@ msgstr "Explorar Novos recursos"
 
 #: openedx/features/learner_profile/templates/learner_profile/learner_profile.html:16
 msgid "Learner Profile"
-msgstr "Perfil do Estudante"
+msgstr "Perfil do Aluno"
 
 #: openedx/features/learner_profile/templates/learner_profile/learner_profile.html:32
 msgid "View My Records"

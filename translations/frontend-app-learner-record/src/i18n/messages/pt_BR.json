@@ -57,7 +57,7 @@
   "last.updated.date": "Última atualização {date}",
   "learner.username": "{username}",
   "learner.email": "{email}",
-  "help.section.header": "Perguntas sobre o Registro do Estudante?",
+  "help.section.header": "Perguntas sobre o Registro do Aluno?",
   "help.section.content.with.link": "Para saber mais sobre registros, você pode {link}",
   "earned.status.badge": "Conquistados",
   "not.earned.status.badge": "Não conquistados",
@@ -77,7 +77,7 @@
   "records.subheader": "Registros do Programa",
   "records.description": "Um registro de programa é criado quando você ganha pelo menos um certificado de curso em um programa.",
   "records.record.view.link": "Ver Registro do Programa",
-  "records.help.header": "Perguntas sobre o Registro do Estudante?",
+  "records.help.header": "Perguntas sobre o Registro do Aluno?",
   "records.help.description": "Para saber mais sobre registros você pode",
   "records.help.link": "leia mais em nossa área de ajuda de registros.",
   "records.header": "Meus registros de estudante"

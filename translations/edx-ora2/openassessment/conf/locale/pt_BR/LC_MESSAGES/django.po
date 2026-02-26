@@ -345,7 +345,7 @@ msgstr "Etapa: Avaliação da Equipe"
 
 #: templates/legacy/edit/oa_edit_student_training.html:9
 msgid "Step: Learner Training"
-msgstr "Etapa: Treinamento do Estudante"
+msgstr "Etapa: Treinamento do Aluno"
 
 #: templates/legacy/edit/oa_edit_student_training.html:32
 msgid "Add Sample Response"

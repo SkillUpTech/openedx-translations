@@ -2127,7 +2127,7 @@ msgstr ""
 
 #: templates/courses/menu_options.html:8
 msgid "Student Dashboard"
-msgstr "Painel do Estudante"
+msgstr "Painel do Aluno"
 
 #: templates/courses/menu_options.html:11
 msgid "Course Admin Tool"

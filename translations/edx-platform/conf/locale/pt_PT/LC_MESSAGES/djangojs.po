@@ -1184,7 +1184,7 @@ msgstr "Partilhar a subsecção {display_name}"
 
 #: cms/static/js/views/modals/course_outline_modals.js:973
 msgid "All Learners and Staff"
-msgstr "Todos os Estudantes e Equipa"
+msgstr "Todos os Alunos e Equipa"
 
 #. #-#-#-#-#  djangojs.po (0.1a)  #-#-#-#-#
 #. Translators: this is a message from the raw HTML editor displayed in the
@@ -1336,20 +1336,20 @@ msgstr "A Rejeitar Alterações"
 
 #: cms/static/js/views/pages/container_subviews.js:283
 msgid "Hiding from Students"
-msgstr "Ocultar dos Estudantes"
+msgstr "Ocultar dos Alunos"
 
 #: cms/static/js/views/pages/container_subviews.js:286
 msgid "Explicitly Hiding from Students"
-msgstr "Ocultar Explicitamente dos Estudantes"
+msgstr "Ocultar Explicitamente dos Alunos"
 
 #: cms/static/js/views/pages/container_subviews.js:289
 msgid "Inheriting Student Visibility"
-msgstr "Obter Visibilidade do Estudante"
+msgstr "Obter Visibilidade do Aluno"
 
 #: cms/static/js/views/pages/container_subviews.js:292
 #: cms/static/js/views/pages/container_subviews.js:294
 msgid "Make Visible to Students"
-msgstr "Tornar Visível para os Estudantes"
+msgstr "Tornar Visível para os Alunos"
 
 #: cms/static/js/views/pages/container_subviews.js:293
 msgid ""
@@ -1363,7 +1363,7 @@ msgstr ""
 
 #: cms/static/js/views/pages/container_subviews.js:296
 msgid "Making Visible to Students"
-msgstr "Tornar Visível para os Estudantes"
+msgstr "Tornar Visível para os Alunos"
 
 #: cms/static/js/views/pages/course_outline.js:248
 msgid "Course Index"
@@ -2385,7 +2385,7 @@ msgstr "Apoio financeiro"
 
 #: lms/djangoapps/support/static/support/js/views/enrollment.js:17
 msgid "Upset Learner"
-msgstr "Estudante desapontado"
+msgstr "Aluno desapontado"
 
 #: lms/djangoapps/support/static/support/js/views/enrollment.js:18
 msgid "Teaching Assistant"
@@ -3207,7 +3207,7 @@ msgstr ""
 #: lms/static/js/certificates/views/certificate_allowlist.js:59
 msgid "Student Removed from certificate allowlist successfully."
 msgstr ""
-"Estudante removido com sucesso da lista com permissão para obter "
+"Aluno removido com sucesso da lista com permissão para obter "
 "certificados."
 
 #: lms/static/js/certificates/views/certificate_allowlist.js:69
@@ -8692,7 +8692,7 @@ msgstr "com %(section_or_subsection)s"
 
 #: cms/templates/js/publish-xblock.underscore:98
 msgid "Staff and Learners"
-msgstr "Elementos da Equipa e Estudantes"
+msgstr "Elementos da Equipa e Alunos"
 
 #: cms/templates/js/publish-xblock.underscore:108
 #: cms/templates/js/staff-lock-editor.underscore:37
@@ -10477,7 +10477,7 @@ msgstr "Anular Certificado"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore:28
 msgid "Student"
-msgstr "Estudante"
+msgstr "Aluno"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore:29
 msgid "Invalidated By"
@@ -10497,7 +10497,7 @@ msgstr "Dividido"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:5
 msgid "Manage Learners"
-msgstr "Gerir Estudantes"
+msgstr "Gerir Alunos"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:12
 msgid "Add learners to this cohort"
@@ -10538,7 +10538,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:39
 msgid "Add Learners"
-msgstr "Adicionar Estudantes"
+msgstr "Adicionar Alunos"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:5
 msgid "Add a New Cohort"

@@ -600,7 +600,7 @@ msgid ""
 "Steps tab."
 msgstr ""
 "Adicionou um critério. Terá de selecionar uma opção para o critério na etapa"
-" de Formação do Estudante. Para o fazer, clique no separador Passos de "
+" de Formação do Aluno. Para o fazer, clique no separador Passos de "
 "Avaliação."
 
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:25
@@ -617,7 +617,7 @@ msgid ""
 "select a new option for the criterion."
 msgstr ""
 "Eliminou uma opção. Esta opção foi removida do seu critério nos exemplos de "
-"respostas da etapa Formação do Estudante. Deve selecionar uma nova opção "
+"respostas da etapa Formação do Aluno. Deve selecionar uma nova opção "
 "para esse critério."
 
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:25
@@ -627,7 +627,7 @@ msgid ""
 "removed from the sample responses in the Learner Training step."
 msgstr ""
 "Eliminou todas as opções para este critério. O critério foi removido dos "
-"exemplos de resposta da etapa de Formação do Estudante."
+"exemplos de resposta da etapa de Formação do Aluno."
 
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:25
 #: xblock/static/js/src/studio/oa_edit_listeners.js:214
@@ -641,7 +641,7 @@ msgid ""
 "example responses in the Learner Training step."
 msgstr ""
 "Eliminou um critério. O critério foi removido dos exemplos de resposta da "
-"etapa de Formação do Estudante."
+"etapa de Formação do Aluno."
 
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:25
 #: xblock/static/js/src/studio/oa_edit_listeners.js:394

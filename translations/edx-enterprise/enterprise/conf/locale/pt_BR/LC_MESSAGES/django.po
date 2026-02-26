@@ -2250,7 +2250,7 @@ msgstr "Consentimento claro de compartilhamento de dados"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:65
 msgid "Manage Learners"
-msgstr "Gerenciar Estudantes"
+msgstr "Gerenciar Alunos"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:68
 msgid "Search Term: "
