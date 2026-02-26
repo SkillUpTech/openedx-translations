@@ -153,7 +153,7 @@ msgid ""
 "Defines the number of times a student can try to answer this problem. If the"
 " value is not set, infinite attempts are allowed."
 msgstr ""
-"Define o número de tentativas que os estudantes podem fazer para resolver "
+"Define o número de tentativas que os alunos podem fazer para resolver "
 "este problema. Se o valor não for definido, infinitas tentativas serão "
 "permitidas."
 
@@ -254,7 +254,7 @@ msgstr ""
 msgid ""
 "Keeps maximum score achieved by student as a raw value between 0 and 1."
 msgstr ""
-"Mantém a pontuação máxima alcançada pelo estudante como um valor cru entre 0"
+"Mantém a pontuação máxima alcançada pelo aluno como um valor cru entre 0"
 " e 1."
 
 #: drag_and_drop_v2.py:568

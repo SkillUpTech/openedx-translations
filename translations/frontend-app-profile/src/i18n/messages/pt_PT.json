@@ -1,7 +1,7 @@
 {
   "profile.page.title": "Perfil | {siteName}",
   "profile.age.cannotShare": "O seu perfil não pode ser partilhado.",
-  "profile.age.details": "Para partilhar o seu perfil com outros estudantes da plataforma {siteName}, tem de confirmar que tem mais de 13 anos de idade.",
+  "profile.age.details": "Para partilhar o seu perfil com outros alunos da plataforma {siteName}, tem de confirmar que tem mais de 13 anos de idade.",
   "profile.age.set.date": "Indique a sua data de nascimento",
   "profile.datejoined.member.since": "Utilizador desde {year}",
   "profile.notfound.message": "A página que procura não está disponível ou há um erro no URL. Por favor, verifique o URL e tente novamente.",

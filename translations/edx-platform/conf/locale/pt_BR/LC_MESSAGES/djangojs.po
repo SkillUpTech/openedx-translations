@@ -1431,7 +1431,7 @@ msgid ""
 " to this cohort below."
 msgstr ""
 "O grupo {cohortGroupName}  foi criado.Você pode adicionar manualmente os "
-"estudantes para o curso abaixo."
+"alunos para o curso abaixo."
 
 #: lms/static/js/groups/views/cohorts.js:269
 msgid "Assign students to cohorts by uploading a CSV file."
@@ -1466,16 +1466,16 @@ msgstr "Agrupamento desabilitado"
 
 #: lms/static/js/instructor_dashboard/certificates.js:20
 msgid "Allow students to generate certificates for this course?"
-msgstr "Permitir que os estudantes possam gerar certificados deste curso?"
+msgstr "Permitir que os alunos possam gerar certificados deste curso?"
 
 #: lms/static/js/instructor_dashboard/certificates.js:22
 msgid "Prevent students from generating certificates in this course?"
-msgstr "Evitar que os estudantes possam gerar certificados deste curso?"
+msgstr "Evitar que os alunos possam gerar certificados deste curso?"
 
 #: lms/static/js/instructor_dashboard/certificates.js:45
 msgid "Start generating certificates for all students in this course?"
 msgstr ""
-"Iniciar a geração de certificados para todos os estudantes deste curso?"
+"Iniciar a geração de certificados para todos os alunos deste curso?"
 
 #: lms/static/js/instructor_dashboard/certificates.js:61
 msgid "Error while generating certificates. Please try again."
@@ -1484,7 +1484,7 @@ msgstr "Erro durante a geração de certificados. Por favor, tente novamente."
 #: lms/static/js/instructor_dashboard/certificates.js:71
 msgid "Start regenerating certificates for students in this course?"
 msgstr ""
-"Iniciar a recuperação dos certificados para os estudantes deste curso?"
+"Iniciar a recuperação dos certificados para os alunos deste curso?"
 
 #: lms/static/js/instructor_dashboard/certificates.js:98
 msgid "Error while regenerating certificates. Please try again."
@@ -1516,7 +1516,7 @@ msgstr "Erro ao gerar resultados de pesquisa. Tente novamente."
 #: lms/static/js/instructor_dashboard/data_download_2.js:47
 msgid "Error generating student profile information. Please try again."
 msgstr ""
-"Ocorreu um erro ao gerar as informações do perfil do estudante. Por favor, "
+"Ocorreu um erro ao gerar as informações do perfil do aluno. Por favor, "
 "tente novamente."
 
 #: lms/static/js/instructor_dashboard/data_download.js:227
@@ -1534,7 +1534,7 @@ msgstr "Ocorreu um erro ao obter a lista de alunos."
 #: lms/static/js/instructor_dashboard/data_download_2.js:50
 msgid "Error generating list of students who may enroll. Please try again."
 msgstr ""
-"Ocorreu um erro ao gerar a lista de estudantes que podem matricular-se. "
+"Ocorreu um erro ao gerar a lista de alunos que podem matricular-se. "
 "Tente novamente."
 
 #: lms/static/js/instructor_dashboard/data_download.js:333
@@ -1778,7 +1778,7 @@ msgid ""
 "the student identifier is spelled correctly."
 msgstr ""
 "Erro ao obter o url de progresso do aluno '<%- student_id %>'. Certifique-se"
-" que o identificador de estudante esteja escrito corretamente."
+" que o identificador de aluno esteja escrito corretamente."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:149
 #: lms/static/js/instructor_dashboard/student_admin.js:191
@@ -1826,7 +1826,7 @@ msgid ""
 "Do you want to allow this student ('{student_id}') to skip the entrance "
 "exam?"
 msgstr ""
-"Você deseja permitir que o estudante ('{student_id}') pule o teste de "
+"Você deseja permitir que o aluno ('{student_id}') pule o teste de "
 "admissão?"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:333
@@ -1834,7 +1834,7 @@ msgid ""
 "An error occurred. Make sure that the student's username or email address is"
 " correct and try again."
 msgstr ""
-"Ocorreu um erro. Verifique se o nome de usuário do estudante ou o endereço "
+"Ocorreu um erro. Verifique se o nome de usuário do aluno ou o endereço "
 "de e-mail estão corretos e tente novamente."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:359
@@ -2863,7 +2863,7 @@ msgid ""
 "Name of the groups that students will be assigned to, for example, Control, "
 "Video, Problems. You must have two or more groups."
 msgstr ""
-"Nome dos grupos aos quais os estudantes serão associados, por exemplo, "
+"Nome dos grupos aos quais os alunos serão associados, por exemplo, "
 "Controle, Vídeo, Problemas. Você deverá ter dois ou mais grupos."
 
 #: cms/templates/js/group-configuration-editor.underscore:33
@@ -3108,7 +3108,7 @@ msgid ""
 "Titles more than 100 characters may prevent students from printing their "
 "certificate on a single page."
 msgstr ""
-"Títulos com mais de 100 caracteres podem impedir que os estudantes imprimam "
+"Títulos com mais de 100 caracteres podem impedir que os alunos imprimam "
 "seu certificado em uma única página."
 
 #: cms/templates/js/signatory-editor.underscore:29
@@ -3271,7 +3271,7 @@ msgid ""
 "another version. These URLs cannot be YouTube URLs. The first listed video "
 "that's compatible with the student's computer will play."
 msgstr ""
-"Para garantir que todos os estudantes poderão acessar o video, nós "
+"Para garantir que todos os alunos poderão acessar o video, nós "
 "recomendamos providenciar versões em .mp4 e .webm do video. Clique abaixo "
 "para adicionar um URL  para outra versão. Esses URLs não podem ser do "
 "YouTube. O primeiro vídeo que for compatível com o computador dos alunos "
@@ -3664,7 +3664,7 @@ msgid ""
 "characteristics for your team. Choose carefully, because fewer people might "
 "be interested in joining your team if it seems too restrictive."
 msgstr ""
-"Ajude outros estudantes decidir se entram em sua equipe especificando "
+"Ajude outros alunos decidir se entram em sua equipe especificando "
 "algumas características dela. Escolha com atenção porque menos pessoas se "
 "interessarão em entrar em sua equipe se ela parecer muito restritiva."
 
@@ -4008,7 +4008,7 @@ msgstr "Manual"
 msgid ""
 "There must be one cohort to which students can automatically be assigned."
 msgstr ""
-"Deve haver um grupo no qual os estudantes sejam automaticamente designados."
+"Deve haver um grupo no qual os alunos sejam automaticamente designados."
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:62
 msgid "Associated Content Group"

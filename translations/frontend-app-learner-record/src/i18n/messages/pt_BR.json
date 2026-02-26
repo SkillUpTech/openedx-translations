@@ -1,6 +1,6 @@
 {
   "PageTitle": "Meus registros do aluno | {siteName}",
-  "learnerRecords": "Meus registros de estudante",
+  "learnerRecords": "Meus registros de aluno",
   "verifiableCredentials": "Credenciais verificáveis",
   "certificate.card.name": "Certificado do programa",
   "certificate.card.organization.label": "De",
@@ -80,5 +80,5 @@
   "records.help.header": "Perguntas sobre o Registro do Aluno?",
   "records.help.description": "Para saber mais sobre registros você pode",
   "records.help.link": "leia mais em nossa área de ajuda de registros.",
-  "records.header": "Meus registros de estudante"
+  "records.header": "Meus registros de aluno"
 }

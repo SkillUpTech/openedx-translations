@@ -79,7 +79,7 @@
   "bulk.email.form.recipients.staff": "Funcionários/Administradores",
   "bulk.email.form.mode.label": "Alunos do curso {courseModeName}",
   "bulk.email.form.cohort.label": "Coorte: {cohort}",
-  "bulk.email.form.recipients.learners": "Todos os estudantes",
+  "bulk.email.form.recipients.learners": "Todos os alunos",
   "bulk.email.form.recipients.error": "É necessário pelo menos um destinatário",
   "bulk.email.scheduled.emails.table.error.header": "Erro",
   "bulk.email.scheduled.emails.table.error": "Ocorreu um erro ao recuperar informações de e-mail agendadas. Por favor, tente novamente mais tarde.",

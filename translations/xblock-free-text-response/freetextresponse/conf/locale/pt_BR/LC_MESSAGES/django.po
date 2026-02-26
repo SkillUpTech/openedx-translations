@@ -67,7 +67,7 @@ msgid ""
 "for the student's answer to receive full credit"
 msgstr ""
 "Esta é uma lista de palavras ou frases, uma das quais deve estar presente na"
-" resposta do estudante para obter os créditos totais"
+" resposta do aluno para obter os créditos totais"
 
 #: models.py:81
 msgid "Half-Credit Key Phrases"
@@ -79,7 +79,7 @@ msgid ""
 "for the student's answer to receive half credit"
 msgstr ""
 "Esta é uma lista de palavras ou frases, uma das quais deve estar presente na"
-" resposta do estudante para obter metade dos créditos totais"
+" resposta do aluno para obter metade dos créditos totais"
 
 #: models.py:91
 msgid "Maximum Number of Attempts"
@@ -90,7 +90,7 @@ msgid ""
 "This is the maximum number of times a student is allowed to attempt the "
 "problem"
 msgstr ""
-"Este é o número máximo de vezes em que é permitido ao estudante tentar "
+"Este é o número máximo de vezes em que é permitido ao aluno tentar "
 "resolver o problema"
 
 #: models.py:101
@@ -117,7 +117,7 @@ msgstr "Tema"
 msgid ""
 "This is the prompt students will see when asked to enter their response"
 msgstr ""
-"Esta é a mensagem que os estudantes verão quando solicitados a inserir sua "
+"Esta é a mensagem que os alunos verão quando solicitados a inserir sua "
 "resposta"
 
 #: models.py:131
@@ -126,7 +126,7 @@ msgstr "Mensagem de envio recebido"
 
 #: models.py:133
 msgid "This is the message students will see upon submitting their response"
-msgstr "Esta é a mensagem que os estudantes verão ao enviar suas respostas "
+msgstr "Esta é a mensagem que os alunos verão ao enviar suas respostas "
 
 #: models.py:140
 msgid "Weight"
@@ -143,7 +143,7 @@ msgstr "Rascunho de Mensagem Recebida "
 #: models.py:152
 msgid "This is the message students will see upon submitting a draft response"
 msgstr ""
-"Esta é a mensagem que os estudantes verão ao submeter um resposta rascunho"
+"Esta é a mensagem que os alunos verão ao submeter um resposta rascunho"
 
 #: templates/view.html:15
 msgid ""

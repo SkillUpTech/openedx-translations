@@ -30,7 +30,7 @@ msgid ""
 "If your assignment includes a learner training step, the rubric must have at"
 " least one criterion, and that criterion must have at least one option."
 msgstr ""
-"Se a sua tarefa incluir uma etapa de formação do estudante, a rúbrica deve "
+"Se a sua tarefa incluir uma etapa de formação do aluno, a rúbrica deve "
 "ter pelo menos um critério, e esse critério deve ter pelo menos uma opção."
 
 #: assessment/api/student_training.py:203
@@ -210,7 +210,7 @@ msgid ""
 "Specify whether learners must include a text based response to this "
 "problem's prompt."
 msgstr ""
-"Especifique se os estudantes devem incluir uma resposta de texto ao "
+"Especifique se os alunos devem incluir uma resposta de texto ao "
 "enunciado deste problema."
 
 #: templates/legacy/edit/oa_edit_basic_settings_list.html:25
@@ -234,7 +234,7 @@ msgid ""
 "Specify whether learners are able to upload files as a part of their "
 "response."
 msgstr ""
-"Especifique se os estudantes podem enviar ficheiros anexados às suas "
+"Especifique se os alunos podem enviar ficheiros anexados às suas "
 "respostas."
 
 #: templates/legacy/edit/oa_edit_basic_settings_list.html:50
@@ -303,7 +303,7 @@ msgid ""
 " able to upload. For example: pdf,doc,docx."
 msgstr ""
 "Determine as extensões de ficheiro, separadas por vírgulas, que pretende que"
-" os trabalhos dos estudantes sejam carregados. Por exemplo: PDF, Doc, docx."
+" os trabalhos dos alunos sejam carregados. Por exemplo: PDF, Doc, docx."
 
 #: templates/legacy/edit/oa_edit_basic_settings_list.html:84
 msgid ""
@@ -321,7 +321,7 @@ msgstr "Permitir respostas LaTeX"
 #: templates/legacy/edit/oa_edit_basic_settings_list.html:97
 msgid "Specify whether learners can write LaTeX formatted strings"
 msgstr ""
-"Especifique se os estudantes podem escrever sequências de caracteres "
+"Especifique se os alunos podem escrever sequências de caracteres "
 "formatados LaTeX"
 
 #: templates/legacy/edit/oa_edit_basic_settings_list.html:102
@@ -341,8 +341,8 @@ msgid ""
 "Top Responses section does not appear to learners."
 msgstr ""
 "Especificar o número de respostas de pontuação máxima a exibir após o "
-"estudante ter submetido uma resposta. Os números válidos são de 0 a 99. Se o"
-" número for 0, a secção de respostas de topo não aparece aos estudantes."
+"aluno ter submetido uma resposta. Os números válidos são de 0 a 99. Se o"
+" número for 0, a secção de respostas de topo não aparece aos alunos."
 
 #: templates/legacy/edit/oa_edit_basic_settings_list.html:122
 msgid "When Teams Enabled is set to true, Top Responses will be disabled."
@@ -535,7 +535,7 @@ msgid ""
 "Specify the number of peer assessments that each learner must complete. "
 "Valid numbers are 1 to 99."
 msgstr ""
-"Especifique o número de avaliações por pares que cada estudante deve "
+"Especifique o número de avaliações por pares que cada aluno deve "
 "concluir. Os números válidos são de 1 a 99."
 
 #: templates/legacy/edit/oa_edit_peer_assessment.html:36
@@ -547,7 +547,7 @@ msgid ""
 "Specify the number of learners that each response must be assessed by. Valid"
 " numbers are 1 to 99."
 msgstr ""
-"Especifique o número de estudantes que cada resposta deve ser avaliada. Os "
+"Especifique o número de alunos que cada resposta deve ser avaliada. Os "
 "números válidos são de 1 a 99."
 
 #: templates/legacy/edit/oa_edit_peer_assessment.html:43
@@ -559,7 +559,7 @@ msgstr "Habilitar média flexível de notas semelhantes"
 msgid ""
 "When enabled, learners who have received at least 30%% of the required \\"
 msgstr ""
-"Quando habilitado, os estudantes que receberam pelo menos 30%% necessários "
+"Quando habilitado, os alunos que receberam pelo menos 30%% necessários "
 "\\"
 
 #: templates/legacy/edit/oa_edit_peer_assessment.html:53
@@ -612,7 +612,7 @@ msgstr "Hora de início"
 #: templates/legacy/edit/oa_edit_peer_assessment_schedule.html:27
 msgid "The date and time when learners can begin assessing peer responses."
 msgstr ""
-"A data e a hora em que os estudantes podem começar a avaliar as respostas "
+"A data e a hora em que os alunos podem começar a avaliar as respostas "
 "dos pares."
 
 #: templates/legacy/edit/oa_edit_peer_assessment_schedule.html:31
@@ -678,7 +678,7 @@ msgid ""
 "Encourage learners to provide feedback on the response they have graded. You"
 " can replace the sample text with your own."
 msgstr ""
-"Incentive os estudantes a comentar sobre a resposta classificada por eles. "
+"Incentive os alunos a comentar sobre a resposta classificada por eles. "
 "Poderá substituir o texto de exemplo com o seu próprio."
 
 #: templates/legacy/edit/oa_edit_rubric.html:49
@@ -690,9 +690,9 @@ msgid ""
 "Enter feedback text that learners will see before they enter their own "
 "feedback. Use this text to show learners a good example peer assessment."
 msgstr ""
-"Introduza o texto do comentário que os estudantes vão ver antes de acederem "
+"Introduza o texto do comentário que os alunos vão ver antes de acederem "
 "aos seus próprios comentários. Utilize este texto para mostrar aos "
-"estudantes um bom exemplo de avaliação dos pares."
+"alunos um bom exemplo de avaliação dos pares."
 
 #: templates/legacy/edit/oa_edit_schedule.html:5
 msgid "Deadlines Configuration"
@@ -729,7 +729,7 @@ msgstr "Hora de Início de Resposta"
 #: templates/legacy/edit/oa_edit_schedule.html:62
 msgid "The date and time when learners can begin submitting responses."
 msgstr ""
-"A data e a hora em que os estudantes poderão começar a enviar as suas "
+"A data e a hora em que os alunos poderão começar a enviar as suas "
 "respostas."
 
 #: templates/legacy/edit/oa_edit_schedule.html:70
@@ -742,7 +742,7 @@ msgstr "Hora Limite da Resposta"
 
 #: templates/legacy/edit/oa_edit_schedule.html:92
 msgid "The date and time when learners can no longer submit responses."
-msgstr "A data e a hora limite para os estudantes enviarem as suas respostas."
+msgstr "A data e a hora limite para os alunos enviarem as suas respostas."
 
 #: templates/legacy/edit/oa_edit_self_assessment.html:8
 msgid "Step: Self Assessment"
@@ -779,7 +779,7 @@ msgid ""
 "other steps, though it can also be used as a standalone step."
 msgstr ""
 "Os portais de avaliação do pessoal estabelecem a nota final para os "
-"estudantes se estiverem habilitados com outras etapas, embora também possa "
+"alunos se estiverem habilitados com outras etapas, embora também possa "
 "ser utilizado como etapa autónoma."
 
 #: templates/legacy/edit/oa_edit_student_training.html:9
@@ -792,9 +792,9 @@ msgid ""
 "submission in order to train them on the rubric and ensure learner's "
 "understand the rubric for either Self or Peer Assessment steps."
 msgstr ""
-"A Formação de Alunos é utilizada para ajudar os estudantes a praticar a "
+"A Formação de Alunos é utilizada para ajudar os alunos a praticar a "
 "classificação de uma apresentação simulada por pares, a fim de os formar na "
-"rubrica e assegurar que os estudantes compreendem a rubrica para as etapas "
+"rubrica e assegurar que os alunos compreendem a rubrica para as etapas "
 "de Autoavaliação ou Avaliação por Pares."
 
 #: templates/legacy/edit/oa_edit_student_training.html:17
@@ -805,7 +805,7 @@ msgid ""
 "sample response."
 msgstr ""
 "Configuração: Para que este passo seja totalmente configurado, deve fornecer"
-" uma ou mais respostas de amostra classificadas. Os estudantes devem então "
+" uma ou mais respostas de amostra classificadas. Os alunos devem então "
 "igualar a pontuação do instrutor para avançar e recebem um comentário de "
 "retorno quando a sua pontuação não corresponde à resposta de exemplo."
 
@@ -1202,7 +1202,7 @@ msgid ""
 "This assignment is in progress. Learner training will close soon. Complete "
 "the learner training step to move on."
 msgstr ""
-"Esta tarefa está em andamento. A etapa de formação do estudante terminará em"
+"Esta tarefa está em andamento. A etapa de formação do aluno terminará em"
 " breve. Conclua esta etapa para poder avançar."
 
 #: templates/legacy/message/oa_message_incomplete.html:11
@@ -1210,7 +1210,7 @@ msgid ""
 "This assignment is in progress. Complete the learner training step to move "
 "on."
 msgstr ""
-"Esta tarefa está em andamento. Conclua a etapa de formação do estudante para"
+"Esta tarefa está em andamento. Conclua a etapa de formação do aluno para"
 " poder avançar."
 
 #: templates/legacy/message/oa_message_incomplete.html:15
@@ -1252,7 +1252,7 @@ msgid ""
 "                                "
 msgstr ""
 "\n"
-"                                    Esta tarefa está em curso. %(start_strong)sA etapa de avaliação dos pares terminará em breve.%(end_strong)s Todas as respostas dos pares já foram avaliadas. Volte mais tarde para verificar se existem novas respostas de estudantes. Ainda necessita de concluir a etapa de %(start_link)savaliação dos pares%(end_link)s.\n"
+"                                    Esta tarefa está em curso. %(start_strong)sA etapa de avaliação dos pares terminará em breve.%(end_strong)s Todas as respostas dos pares já foram avaliadas. Volte mais tarde para verificar se existem novas respostas de alunos. Ainda necessita de concluir a etapa de %(start_link)savaliação dos pares%(end_link)s.\n"
 "                             "
 
 #: templates/legacy/message/oa_message_incomplete.html:42
@@ -1263,7 +1263,7 @@ msgid ""
 "                                "
 msgstr ""
 "\n"
-"                                    Esta tarefa está em curso. Todas as respostas dos pares já foram avaliadas. Volte mais tarde para verificar se existem novas respostas de estudantes. Ainda necessita de concluir a etapa de %(start_link)savaliação dos pares%(end_link)s.\n"
+"                                    Esta tarefa está em curso. Todas as respostas dos pares já foram avaliadas. Volte mais tarde para verificar se existem novas respostas de alunos. Ainda necessita de concluir a etapa de %(start_link)savaliação dos pares%(end_link)s.\n"
 "                                "
 
 #: templates/legacy/message/oa_message_incomplete.html:46
@@ -1394,7 +1394,7 @@ msgid ""
 "been verified, screened, approved, reviewed, or endorsed by the site "
 "administrator. If you access the files, you do so at your own risk.)"
 msgstr ""
-"Atenção: estes ficheiros foram carregados por outro estudante do curso e "
+"Atenção: estes ficheiros foram carregados por outro aluno do curso e "
 "ainda não foram validados, selecionados, aprovados, revistos ou aprovados "
 "pela equipa do curso. Caso aceda aos ficheiros, as consequências serão da "
 "sua responsabilidade.)"
@@ -1534,7 +1534,7 @@ msgid ""
 "more learners have submitted responses."
 msgstr ""
 "Todas as respostas enviadas pelo pares foram avaliadas. Volte mais tarde "
-"para verificar se existem novas respostas de mais estudantes."
+"para verificar se existem novas respostas de mais alunos."
 
 #: templates/legacy/peer/oa_peer_unavailable.html:16
 #: templates/legacy/response/oa_response_unavailable.html:17
@@ -1562,7 +1562,7 @@ msgid ""
 " your response."
 msgstr ""
 "Todas as respostas de pares disponíveis foram avaliadas. Volte mais tarde "
-"para verificar se existem novas respostas de mais estudantes. Somente "
+"para verificar se existem novas respostas de mais alunos. Somente "
 "receberá a sua nota após a conclusão de todas as etapas deste problema e a "
 "avaliação das respostas pelos seus colegas."
 
@@ -2091,7 +2091,7 @@ msgstr "Gerir equipas"
 
 #: templates/legacy/staff_area/oa_staff_area.html:50
 msgid "Enter an individual learner's username or email"
-msgstr "Introduza o nome de utilizador ou o email de um estudante"
+msgstr "Introduza o nome de utilizador ou o email de um aluno"
 
 #: templates/legacy/staff_area/oa_staff_area.html:52
 msgid "Enter a team member's username or edX email"
@@ -2146,7 +2146,7 @@ msgstr "Dê a esta equipa uma nota usando a rúbrica do problema."
 #: templates/legacy/staff_area/oa_staff_grade_learners_assessment.html:16
 msgid "Give this learner a grade using the problem's rubric."
 msgstr ""
-"Comunique ao estudante uma classificação utilizando a rúbrica do problema."
+"Comunique ao aluno uma classificação utilizando a rúbrica do problema."
 
 #: templates/legacy/staff_area/oa_staff_grade_learners_assessment.html:26
 #, python-format
@@ -2184,7 +2184,7 @@ msgstr "A resposta das equipas ao enunciado acima"
 #: templates/legacy/staff_area/oa_staff_override_assessment.html:32
 #: templates/legacy/staff_area/oa_student_info.html:57
 msgid "The learner's response to the prompt above"
-msgstr "A resposta do estudante ao enunciado acima"
+msgstr "A resposta do aluno ao enunciado acima"
 
 #: templates/legacy/staff_area/oa_staff_grade_learners_assessment.html:64
 #: templates/legacy/staff_area/oa_staff_override_assessment.html:57
@@ -2209,7 +2209,7 @@ msgstr ""
 #: templates/legacy/staff_area/oa_staff_override_assessment.html:7
 msgid "Override this learner's current grade using the problem's rubric."
 msgstr ""
-"Substitua a classificação atual do estudante utilizando a rúbrica do "
+"Substitua a classificação atual do aluno utilizando a rúbrica do "
 "problema."
 
 #: templates/legacy/staff_area/oa_staff_override_assessment.html:9
@@ -2235,7 +2235,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                    Ver estudante: %(learner)s\n"
+"                    Ver aluno: %(learner)s\n"
 "                "
 
 #: templates/legacy/staff_area/oa_student_info.html:15
@@ -2265,7 +2265,7 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"                            Submissão do estudante eliminado por %(removed_by_username)s em %(removed_datetime)s\n"
+"                            Submissão do aluno eliminado por %(removed_by_username)s em %(removed_datetime)s\n"
 "                        "
 
 #: templates/legacy/staff_area/oa_student_info.html:43
@@ -2276,7 +2276,7 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"Submissão do estudante eliminado em %(removed_datetime)s "
+"Submissão do aluno eliminado em %(removed_datetime)s "
 
 #: templates/legacy/staff_area/oa_student_info.html:50
 #, python-format
@@ -2367,9 +2367,9 @@ msgid ""
 "receives a grade of zero unless you delete the learner's state for the "
 "problem to allow them to resubmit a response."
 msgstr ""
-"A submissão do estudante foi removida da avaliação dos pares. Nesta "
+"A submissão do aluno foi removida da avaliação dos pares. Nesta "
 "situação, o aluno receberá classificação zero, a menos que elimine o estado "
-"de resposta do estudante para o problema, permitindo que submeta uma nova "
+"de resposta do aluno para o problema, permitindo que submeta uma nova "
 "resposta."
 
 #: templates/legacy/staff_area/oa_student_info.html:172
@@ -2417,7 +2417,7 @@ msgid ""
 "allow them to resubmit."
 msgstr ""
 "Esta submissão foi cancelada e não pode receber uma nota. Consulte a "
-"documentação de como excluir o estado do estudante para este problema para "
+"documentação de como excluir o estado do aluno para este problema para "
 "permitir uma nova submissão."
 
 #: templates/legacy/staff_area/oa_student_info.html:230
@@ -2437,7 +2437,7 @@ msgid ""
 "Removing a learner's submission cannot be undone and should be done with "
 "caution."
 msgstr ""
-"A ação de remover da submissão de um estudante não poderá ser cancelada e "
+"A ação de remover da submissão de um aluno não poderá ser cancelada e "
 "deve ser feita com cautela."
 
 #: templates/legacy/staff_area/oa_student_info.html:246
@@ -2458,7 +2458,7 @@ msgstr "Remover submissão"
 
 #: templates/legacy/staff_area/oa_student_info.html:276
 msgid "A response was not found for this learner."
-msgstr "Não foi encontrada uma resposta para este estudante."
+msgstr "Não foi encontrada uma resposta para este aluno."
 
 #: templates/legacy/staff_area/oa_student_info_assessment_detail.html:16
 #, python-format
@@ -2776,7 +2776,7 @@ msgstr "Sem permissão para aceder à área da equipa de ORA"
 
 #: xblock/staff_area_mixin.py:70
 msgid "You do not have permission to access ORA learner information."
-msgstr "Sem permissão para aceder às informações do estudante de ORA."
+msgstr "Sem permissão para aceder às informações do aluno de ORA."
 
 #: xblock/staff_area_mixin.py:71
 msgid "You do not have permission to access ORA staff grading."
@@ -2804,16 +2804,16 @@ msgstr "Submetido"
 
 #: xblock/staff_area_mixin.py:341
 msgid "Error getting learner information."
-msgstr "Erro ao obter informações do estudante."
+msgstr "Erro ao obter informações do aluno."
 
 #: xblock/staff_area_mixin.py:384
 msgid "Error loading the checked out learner response."
-msgstr "Erro ao carregar a resposta do estudante já validada."
+msgstr "Erro ao carregar a resposta do aluno já validada."
 
 #: xblock/staff_area_mixin.py:385
 msgid "No other learner responses are available for grading at this time."
 msgstr ""
-"Neste momento, não existe outra resposta do estudante está disponível para "
+"Neste momento, não existe outra resposta do aluno está disponível para "
 "classificação."
 
 #: xblock/staff_area_mixin.py:387
@@ -2844,9 +2844,9 @@ msgid ""
 "receives a grade of zero unless you delete the learner's state for the "
 "problem to allow them to resubmit a response."
 msgstr ""
-"A submissão do estudante foi removida da avaliação dos pares. Nesta "
-"situação, o estudante receberá o grau zero, a menos que elimine o estado de "
-"resposta do estudante para o problema, permitindo que ele submeta uma nova "
+"A submissão do aluno foi removida da avaliação dos pares. Nesta "
+"situação, o aluno receberá o grau zero, a menos que elimine o estado de "
+"resposta do aluno para o problema, permitindo que ele submeta uma nova "
 "resposta."
 
 #: xblock/staff_area_mixin.py:788
@@ -2974,12 +2974,12 @@ msgstr ""
 msgid "You must provide at least one example response for learner training."
 msgstr ""
 "Deve fornecer, pelo menos, uma resposta de exemplo para o exercício do "
-"estudante."
+"aluno."
 
 #: xblock/utils/validation.py:153
 msgid "Each example response for learner training must be unique."
 msgstr ""
-"Cada resposta de exemplo para o exercício do estudante deve ser exclusiva."
+"Cada resposta de exemplo para o exercício do aluno deve ser exclusiva."
 
 #: xblock/utils/validation.py:160
 msgid "The \"required\" value must be true if staff assessment is the only step."

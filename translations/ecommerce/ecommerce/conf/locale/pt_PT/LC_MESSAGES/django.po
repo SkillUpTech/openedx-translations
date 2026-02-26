@@ -1092,7 +1092,7 @@ msgstr ""
 " sua organização.{li_end} {li_start}Cada código expirará no prazo de um ano "
 "a partir da data de compra ou, se antes, assim que o curso for "
 "encerrado.{li_end} {li_start}Se um curso não for marcado como ao ritmo do "
-"estudante, deverá confirmar que o curso está disponível antes de expirar. "
+"aluno, deverá confirmar que o curso está disponível antes de expirar. "
 "{li_end} {li_start} Não pode revender códigos a terceiros.{li_end} "
 "{li_start} Todos os edX para vendas comerciais são finais e não são "
 "elegíveis para reembolso.{li_end}{ul_end} {paragraph_start} Receberá um "
@@ -1109,7 +1109,7 @@ msgid ""
 msgstr ""
 "{strong_start}A comprar só para si?{strong_end}{paragraph_start}Se está a "
 "comprar um único código para outra pessoa, por favor continue com a "
-"finalização da compra. No entanto, se for o estudante {link_start}volte "
+"finalização da compra. No entanto, se for o aluno {link_start}volte "
 "atrás{link_end} para se inscrever diretamente.{paragraph_end}"
 
 #: extensions/basket/views.py:439
@@ -2875,7 +2875,7 @@ msgstr ""
 "corresponder a um ou mais registos numa lista de sanções do departamento do "
 "U.S. Treasury Department. Isto significa que não podemos concluir a sua "
 "transação ou disponibilizar serviços, e deve suspender a sua conta de "
-"estudante."
+"aluno."
 
 #: templates/oscar/checkout/sdn_failure.html:35
 #, python-brace-format
@@ -3111,7 +3111,7 @@ msgstr ""
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:34
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:9
 msgid "Distribute one code per learner before the expiration date."
-msgstr "Distribua um código por estudante antes da data expirar."
+msgstr "Distribua um código por aluno antes da data expirar."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:35
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:10
@@ -3121,7 +3121,7 @@ msgstr "Dica: Registe qual o código associado a cada pessoa."
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:36
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:11
 msgid "Learners sign-in/register with edX and enroll for the course."
-msgstr "Os estudantes assinam/registam-se na edX e inscrevem-se no curso."
+msgstr "Os alunos assinam/registam-se na edX e inscrevem-se no curso."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:39
 #, python-brace-format
@@ -3166,7 +3166,7 @@ msgstr ""
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:64
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:21
 msgid "You are responsible for distributing codes to your learners."
-msgstr "Você é responsável por distribuir os códigos aos estudantes."
+msgstr "Você é responsável por distribuir os códigos aos alunos."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:65
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:22
@@ -3183,7 +3183,7 @@ msgid ""
 "If a course is not designated as self-paced, you should confirm that a "
 "course run is available before expiration."
 msgstr ""
-"Se um curso não for designado como \"ritmo definido pelo estudante\", "
+"Se um curso não for designado como \"ritmo definido pelo aluno\", "
 "confirme que o curso está disponível, pelo menos, até o código expirar."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:67
@@ -4211,7 +4211,7 @@ msgid ""
 "enrollment?"
 msgstr ""
 "Tem certeza de que deseja emitir um reembolso total e revogar a inscrição do"
-" estudante?"
+" aluno?"
 
 #: templates/oscar/dashboard/partials/refund_action_modal.html:14
 msgid ""
@@ -4219,7 +4219,7 @@ msgid ""
 "enrollment?"
 msgstr ""
 "Tem certeza de que deseja emitir um reembolso total sem revogar a inscrição "
-"do estudante?"
+"do aluno?"
 
 #: templates/oscar/dashboard/partials/refund_action_modal.html:17
 msgid "Are you sure you want to deny this refund request?"

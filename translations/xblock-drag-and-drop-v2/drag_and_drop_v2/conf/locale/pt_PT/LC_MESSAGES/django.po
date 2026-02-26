@@ -119,7 +119,7 @@ msgid ""
 "The title of the drag and drop problem. The title is displayed to learners."
 msgstr ""
 "O título do problema de arrastar e soltar. O título é visível para os "
-"estudantes."
+"alunos."
 
 #: drag_and_drop_v2.py:86
 msgid "Drag and Drop"
@@ -137,7 +137,7 @@ msgid ""
 msgstr ""
 "Modo padrão: o problema dá feedback imediato cada vez que um aluno solta um "
 "item numa zona de destino. Modo de avaliação: o problema dá feedback apenas "
-"depois do estudante arrastar todos os itens disponíveis para as zonas de "
+"depois do aluno arrastar todos os itens disponíveis para as zonas de "
 "destino."
 
 #: drag_and_drop_v2.py:100
@@ -157,7 +157,7 @@ msgid ""
 "Defines the number of times a student can try to answer this problem. If the"
 " value is not set, infinite attempts are allowed."
 msgstr ""
-"Define o número de vezes que um estudante pode tentar responder a este "
+"Define o número de vezes que um aluno pode tentar responder a este "
 "problema. Se o valor não estiver definido, é permitido um número infinito de"
 " tentativas."
 
@@ -167,7 +167,7 @@ msgstr "Mostrar título"
 
 #: drag_and_drop_v2.py:120
 msgid "Display the title to the learner?"
-msgstr "Mostrar o título ao estudante?"
+msgstr "Mostrar o título ao aluno?"
 
 #: drag_and_drop_v2.py:127
 msgid "Problem text"
@@ -175,7 +175,7 @@ msgstr "Texto do problema"
 
 #: drag_and_drop_v2.py:128
 msgid "The description of the problem or instructions shown to the learner."
-msgstr "A descrição do problema ou instruções que o estudante vê."
+msgstr "A descrição do problema ou instruções que o aluno vê."
 
 #: drag_and_drop_v2.py:135
 msgid "Show \"Problem\" heading"
@@ -306,16 +306,16 @@ msgid ""
 "Information about current positions of items that a learner has dropped on "
 "the target image."
 msgstr ""
-"Informações sobre as posições atuais dos itens que um estudante descartou na"
+"Informações sobre as posições atuais dos itens que um aluno descartou na"
 " imagem de destino."
 
 #: drag_and_drop_v2.py:217
 msgid "Number of attempts learner used"
-msgstr "Número de tentativas utilizadas pelo estudante"
+msgstr "Número de tentativas utilizadas pelo aluno"
 
 #: drag_and_drop_v2.py:224
 msgid "Indicates whether a learner has completed the problem at least once"
-msgstr "Indica se um estudante concluiu o problema pelo menos uma vez"
+msgstr "Indica se um aluno concluiu o problema pelo menos uma vez"
 
 #: drag_and_drop_v2.py:231
 msgid ""

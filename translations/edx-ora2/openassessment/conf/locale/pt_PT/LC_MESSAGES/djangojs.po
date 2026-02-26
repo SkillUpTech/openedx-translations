@@ -429,7 +429,7 @@ msgstr "Erro do servidor."
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
 #: xblock/static/js/src/lms/oa_staff_area.js:147
 msgid "You must provide a learner name."
-msgstr "Deve indicar o nome de um estudante."
+msgstr "Deve indicar o nome de um aluno."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
 #: xblock/static/js/src/lms/oa_staff_area.js:214
@@ -520,7 +520,7 @@ msgid ""
 "There are currently {stuck_learners} learners in the waiting state, meaning "
 "they have not yet met all requirements for Peer Assessment. "
 msgstr ""
-"Existem atualmente {stuck_learners} estudantes no estado de espera, o que "
+"Existem atualmente {stuck_learners} alunos no estado de espera, o que "
 "significa que ainda não cumpriram todos os requisitos para a Avaliação por "
 "Colegas. "
 
@@ -529,13 +529,13 @@ msgid ""
 "However, {overwritten_count} of these students have received a grade through"
 " the staff grade override tool already."
 msgstr ""
-"No entanto, {overwritten_count} destes estudantes já receberam uma "
+"No entanto, {overwritten_count} destes alunos já receberam uma "
 "classificação através da ferramenta de substituição de classificações da "
 "equipa."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:383
 msgid "Error while fetching student data."
-msgstr "Erro ao ir buscar dados de estudantes."
+msgstr "Erro ao ir buscar dados de alunos."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:383
 #: xblock/static/js/src/lms/oa_base.js:441

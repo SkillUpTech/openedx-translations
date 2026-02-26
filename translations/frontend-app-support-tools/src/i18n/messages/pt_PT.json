@@ -1,5 +1,5 @@
 {
-  "supportTools.mainTab.description": "Conjunto de ferramentas utilizadas pela equipa de apoio para ajudar a fazer a triagem e resolver problemas selecionados dos estudantes.",
+  "supportTools.mainTab.description": "Conjunto de ferramentas utilizadas pela equipa de apoio para ajudar a fazer a triagem e resolver problemas selecionados dos alunos.",
   "pageTitle": "Ferramentas de apoio | {siteName}",
   "course.reset.alert.warning": "Tem a certeza? Isto irá apagar todos os dados deste aluno para este recurso. Isto só pode acontecer uma vez por aluno e por recurso.",
   "supportTools.learnerInformation.ssoHeader": "Registos de início de sessão único",
