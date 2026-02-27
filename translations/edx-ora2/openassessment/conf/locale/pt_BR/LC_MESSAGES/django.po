@@ -131,7 +131,7 @@ msgstr "Permitir respostas LaTeX"
 #: templates/legacy/edit/oa_edit_basic_settings_list.html:97
 msgid "Specify whether learners can write LaTeX formatted strings"
 msgstr ""
-"Especifique se os estudantes podem gravar as configurações formatadas do "
+"Especifique se os alunos podem gravar as configurações formatadas do "
 "LaTeX"
 
 #: templates/legacy/edit/oa_edit_basic_settings_list.html:102
@@ -307,7 +307,7 @@ msgid ""
 "Enter feedback text that learners will see before they enter their own "
 "feedback. Use this text to show learners a good example peer assessment."
 msgstr ""
-"Digite a sua opinião para que os estudantes vejam antes de digitarem a sua "
+"Digite a sua opinião para que os alunos vejam antes de digitarem a sua "
 "própria opinião. Use este texto para mostrar aos alunos um bom exemplo de "
 "avaliação pelos colegas."
 
@@ -345,7 +345,7 @@ msgstr "Etapa: Avaliação da Equipe"
 
 #: templates/legacy/edit/oa_edit_student_training.html:9
 msgid "Step: Learner Training"
-msgstr "Etapa: Treinamento do Estudante"
+msgstr "Etapa: Treinamento do Aluno"
 
 #: templates/legacy/edit/oa_edit_student_training.html:32
 msgid "Add Sample Response"
@@ -751,7 +751,7 @@ msgstr "Fechar"
 
 #: templates/legacy/staff_area/oa_staff_area.html:50
 msgid "Enter an individual learner's username or email"
-msgstr "Insira o nome do usuário ou e-mail do estudante individual"
+msgstr "Insira o nome do usuário ou e-mail do aluno individual"
 
 #: templates/legacy/staff_area/oa_staff_area.html:56
 msgid "Submit"
@@ -767,7 +767,7 @@ msgstr "Localização"
 
 #: templates/legacy/staff_area/oa_staff_area.html:90
 msgid "Learner Progress"
-msgstr "Progresso do estudante"
+msgstr "Progresso do aluno"
 
 #: templates/legacy/staff_area/oa_staff_area.html:94
 #: templates/legacy/staff_area/oa_staff_area.html:117
@@ -878,9 +878,9 @@ msgid ""
 "receives a grade of zero unless you delete the learner's state for the "
 "problem to allow them to resubmit a response."
 msgstr ""
-"O envio do estudante foi removido a partir da avaliação de pares. O "
-"estudante receberá a nota zero a menos que você apague o status do aluno "
-"para o problema e permita ao estudante reenviar uma resposta."
+"O envio do aluno foi removido a partir da avaliação de pares. O "
+"aluno receberá a nota zero a menos que você apague o status do aluno "
+"para o problema e permita ao aluno reenviar uma resposta."
 
 #: templates/legacy/staff_area/oa_student_info.html:177
 msgid "The problem has not been started."
@@ -1102,7 +1102,7 @@ msgid ""
 "receives a grade of zero unless you delete the learner's state for the "
 "problem to allow them to resubmit a response."
 msgstr ""
-"O envio do estudante foi removido da avaliação de pares. O estudante "
+"O envio do aluno foi removido da avaliação de pares. O aluno "
 "receberá uma nota zero a menos que você apague a declaração do aluno para o "
 "problema e autorize o reenvio da resposta."
 
@@ -1206,7 +1206,7 @@ msgstr ""
 
 #: xblock/utils/validation.py:153
 msgid "Each example response for learner training must be unique."
-msgstr "Cada resposta exemplo para o treinamento do estudante deve ser único."
+msgstr "Cada resposta exemplo para o treinamento do aluno deve ser único."
 
 #: xblock/utils/validation.py:160
 msgid "The \"required\" value must be true if staff assessment is the only step."

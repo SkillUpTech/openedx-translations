@@ -66,7 +66,7 @@ msgid ""
 "Enter the name that students see for this component. Analytics reports may "
 "also use the display name to identify this component."
 msgstr ""
-"Insira o nome que os estudantes veem para este componente. Os relatórios do "
+"Insira o nome que os alunos veem para este componente. Os relatórios do "
 "Analytics também podem usar o nome para identificar este componente."
 
 #: lti_xblock.py:268

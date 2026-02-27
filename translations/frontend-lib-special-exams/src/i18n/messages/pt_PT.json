@@ -1,5 +1,5 @@
 {
-  "exam.hiddenContent": "Este exame está oculto para o estudante.",
+  "exam.hiddenContent": "Este exame está oculto para o aluno.",
   "exam.apiError.supportText.withLink": "Se o problema persistir, contacte o {supportLink} para obter assistência e volte ao exame assim que receber mais instruções.",
   "exam.apiError.default": "Ocorreu um erro de sistema no seu exame.",
   "exam.apiError.supportText.withoutLink": "Se o problema persistir, contacte o apoio ao cliente para obter assistência e regresse ao exame assim que receber mais instruções.",

@@ -5,7 +5,7 @@
   "gradebook.BulkManagementHistoryView.successDialog": "Processamento de CSV. Os uploads de arquivos podem levar vários minutos para serem concluídos.",
   "gradebook.GradebookFilters.assignmentsFilterLabel": "atribuições",
   "gradebook.GradebookFilters.overallGradeFilterLabel": "Nota geral",
-  "gradebook.GradebookFilters.studentGroupsFilterLabel": "Grupos de Estudantes",
+  "gradebook.GradebookFilters.studentGroupsFilterLabel": "Grupos de Alunos",
   "gradebook.GradebookFilters.includeCourseTeamMembersFilterLabel": "Incluir membros da equipe do curso",
   "gradebook.GradebookFilters.assignmentFilterLabel": "Tarefa",
   "gradebook.GradebookFilters.assignmentTypesLabel": "Tipos de tarefas",

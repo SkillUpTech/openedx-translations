@@ -429,7 +429,7 @@ msgstr "Erro do servidor."
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
 #: xblock/static/js/src/lms/oa_staff_area.js:147
 msgid "You must provide a learner name."
-msgstr "Deve indicar o nome de um estudante."
+msgstr "Deve indicar o nome de um aluno."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
 #: xblock/static/js/src/lms/oa_staff_area.js:214
@@ -520,7 +520,7 @@ msgid ""
 "There are currently {stuck_learners} learners in the waiting state, meaning "
 "they have not yet met all requirements for Peer Assessment. "
 msgstr ""
-"Existem atualmente {stuck_learners} estudantes no estado de espera, o que "
+"Existem atualmente {stuck_learners} alunos no estado de espera, o que "
 "significa que ainda não cumpriram todos os requisitos para a Avaliação por "
 "Colegas. "
 
@@ -529,13 +529,13 @@ msgid ""
 "However, {overwritten_count} of these students have received a grade through"
 " the staff grade override tool already."
 msgstr ""
-"No entanto, {overwritten_count} destes estudantes já receberam uma "
+"No entanto, {overwritten_count} destes alunos já receberam uma "
 "classificação através da ferramenta de substituição de classificações da "
 "equipa."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:383
 msgid "Error while fetching student data."
-msgstr "Erro ao ir buscar dados de estudantes."
+msgstr "Erro ao ir buscar dados de alunos."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:383
 #: xblock/static/js/src/lms/oa_base.js:441
@@ -600,7 +600,7 @@ msgid ""
 "Steps tab."
 msgstr ""
 "Adicionou um critério. Terá de selecionar uma opção para o critério na etapa"
-" de Formação do Estudante. Para o fazer, clique no separador Passos de "
+" de Formação do Aluno. Para o fazer, clique no separador Passos de "
 "Avaliação."
 
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:25
@@ -617,7 +617,7 @@ msgid ""
 "select a new option for the criterion."
 msgstr ""
 "Eliminou uma opção. Esta opção foi removida do seu critério nos exemplos de "
-"respostas da etapa Formação do Estudante. Deve selecionar uma nova opção "
+"respostas da etapa Formação do Aluno. Deve selecionar uma nova opção "
 "para esse critério."
 
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:25
@@ -627,7 +627,7 @@ msgid ""
 "removed from the sample responses in the Learner Training step."
 msgstr ""
 "Eliminou todas as opções para este critério. O critério foi removido dos "
-"exemplos de resposta da etapa de Formação do Estudante."
+"exemplos de resposta da etapa de Formação do Aluno."
 
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:25
 #: xblock/static/js/src/studio/oa_edit_listeners.js:214
@@ -641,7 +641,7 @@ msgid ""
 "example responses in the Learner Training step."
 msgstr ""
 "Eliminou um critério. O critério foi removido dos exemplos de resposta da "
-"etapa de Formação do Estudante."
+"etapa de Formação do Aluno."
 
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:25
 #: xblock/static/js/src/studio/oa_edit_listeners.js:394

@@ -23,7 +23,7 @@ msgstr ""
 
 #: done.py:41
 msgid "Is the student done?"
-msgstr "O estudante acabou?"
+msgstr "O aluno acabou?"
 
 #: done.py:47
 msgid "Align left/right/center"

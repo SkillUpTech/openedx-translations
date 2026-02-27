@@ -196,12 +196,12 @@ msgstr "Cronometrado"
 #: static/proctoring/js/views/proctored_exam_attempt_view.js:214
 msgid "Are you sure you want to remove this student's exam attempt?"
 msgstr ""
-"Tem a certeza de que pretende eliminar a tentativa de exame deste estudante?"
+"Tem a certeza de que pretende eliminar a tentativa de exame deste aluno?"
 
 #: static/proctoring/js/views/proctored_exam_attempt_view.js:248
 msgid "Are you sure you want to resume this student's exam attempt?"
 msgstr ""
-"Tem a certeza de que pretende retomar a tentativa de exame deste estudante?"
+"Tem a certeza de que pretende retomar a tentativa de exame deste aluno?"
 
 #: static/proctoring/js/views/proctored_exam_info.js:13
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:29

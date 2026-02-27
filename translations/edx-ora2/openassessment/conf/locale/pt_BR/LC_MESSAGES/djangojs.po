@@ -197,7 +197,7 @@ msgid ""
 "select a new option for the criterion."
 msgstr ""
 "Você excluiu uma opção. Essa opção foi removida deste critério nas respostas"
-" de exemplo na etapa Treinamento do Estudante. Você pode ter que selecionar "
+" de exemplo na etapa Treinamento do Aluno. Você pode ter que selecionar "
 "uma nova opção para o critério."
 
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:25
@@ -207,7 +207,7 @@ msgid ""
 "removed from the sample responses in the Learner Training step."
 msgstr ""
 "Você excluiu todas as opções para este critério. O critério foi removido a "
-"partir das respostas de amostra na etapa de Treinamento do Estudante."
+"partir das respostas de amostra na etapa de Treinamento do Aluno."
 
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:25
 #: xblock/static/js/src/studio/oa_edit_listeners.js:214
@@ -221,7 +221,7 @@ msgid ""
 "example responses in the Learner Training step."
 msgstr ""
 "Você excluiu um critério. O critério foi removido do exemplo de respostas na"
-" etapa de Treinamento do Estudante."
+" etapa de Treinamento do Aluno."
 
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:25
 #: xblock/static/js/src/studio/oa_edit_listeners.js:394

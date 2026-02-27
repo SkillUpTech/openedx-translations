@@ -40,7 +40,7 @@
   "learning.generic.upgradeNotification.expirationMinutes": "Falta menos de 1 hora",
   "learning.generic.upgradeNotification.expiration": "O acesso ao recurso expirará {date}",
   "learning.generic.upgradeNotification.pastExpiration.banner": "Prazo de atualização expirado em {date}",
-  "learning.generic.upgradeNotification.firstTimeLearnerDiscount": "{percentage}% Desconto Para Novos Estudantes",
+  "learning.generic.upgradeNotification.firstTimeLearnerDiscount": "{percentage}% Desconto Para Novos Alunos",
   "learning.generic.upgradeNotification.accessExpiration": "Actualize o seu recurso hoje",
   "learning.generic.upgradeNotification.accessExpirationUrgent": "Validade do Acesso ao Recurso",
   "learning.generic.upgradeNotification.accessExpirationPast": "Validade do Acesso ao Recurso",

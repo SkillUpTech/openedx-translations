@@ -1,6 +1,6 @@
 {
   "PageTitle": "Мої учбові записи | {siteName}",
-  "learnerRecords": "Meus Registros de Estudante",
+  "learnerRecords": "Meus Registros de Aluno",
   "verifiableCredentials": "Верифіковані дипломи",
   "certificate.card.name": "Сертифікат програми",
   "certificate.card.organization.label": "Видано",
@@ -80,5 +80,5 @@
   "records.help.header": "Маєте запитання з документів щодо Вашої програми?",
   "records.help.description": "Щоб дізнатись більше, Ви можете",
   "records.help.link": "знайти потрібну інформацію у нашому розділі \"Допомога\".",
-  "records.header": "Meus Registros de Estudante"
+  "records.header": "Meus Registros de Aluno"
 }

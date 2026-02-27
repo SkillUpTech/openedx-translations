@@ -20,7 +20,7 @@ en:
   Action Date: Data da ação
   Active: Ativo
   Active Courses: Cursos ativos
-  Active Learner: Estudante Ativo
+  Active Learner: Aluno Ativo
   Active Learners: Alunos ativos
   Active Users Per Organization: Utilizadores ativos por organização
   Active Within Last 7 Days: Ativo nos últimos 7 dias
@@ -145,7 +145,7 @@ en:
   Last Visited: Última visita
   Last course syncronized: Último recurso sincronizado
   Learner Summary: Resumo do aluno
-  Learners with Passing Grade: Estudantes com classificados para aprovação
+  Learners with Passing Grade: Alunos com classificados para aprovação
   Login Count: Contagem de registos
   Median Course Grade: Classificação mediana do recurso
   Memory Usage (KB): Uso de memória (KB)
@@ -153,7 +153,7 @@ en:
   Most-used Charts: Gráficos mais utilizados
   Most-used Dashboards: Painéis mais utilizados
   Name: Nome
-  Number of Learners: Número de estudantes
+  Number of Learners: Número de alunos
   Object ID: ID do objeto
   Object Type: Tipo de Objeto
   Operator Dashboard: Painel do operador

@@ -494,7 +494,7 @@ msgstr "Ritmo definido pelo formador"
 #. schedule.
 #: apps/course_metadata/choices.py:26
 msgid "Self-paced"
-msgstr "Ritmo definido pelo estudante"
+msgstr "Ritmo definido pelo aluno"
 
 #: apps/course_metadata/choices.py:31 apps/learner_pathway/choices.py:6
 msgid "Active"
@@ -1074,7 +1074,7 @@ msgid ""
 "program."
 msgstr ""
 "Tipos de lugares que se qualificam para a conclusão de programas deste tipo."
-" Para os estudantes que realizarem os cursos associados, mas que estão "
+" Para os alunos que realizarem os cursos associados, mas que estão "
 "inscritos noutros tipos de lugares, NÃO será tida em consideração a "
 "realização dos cursos para a conclusão do programa."
 
@@ -1590,7 +1590,7 @@ msgid ""
 "Number of credits a learner will earn upon successful completion of the "
 "program"
 msgstr ""
-"Número de créditos que um estudante ganhará ao concluir com sucesso o "
+"Número de créditos que um aluno ganhará ao concluir com sucesso o "
 "programa"
 
 #: apps/course_metadata/models.py:3310
@@ -2319,7 +2319,7 @@ msgstr "Inativo"
 
 #: apps/learner_pathway/models.py:85
 msgid "Title of the learner pathway."
-msgstr "Título do percurso do estudante."
+msgstr "Título do percurso do aluno."
 
 #: apps/learner_pathway/models.py:88
 msgid "Course/Program associated pathways also appear in search results"
@@ -2333,11 +2333,11 @@ msgstr "O estado ativo/inativo deste Trajeto."
 
 #: apps/learner_pathway/models.py:119
 msgid "Learner Pathway"
-msgstr "Trajeto do Estudante"
+msgstr "Trajeto do Aluno"
 
 #: apps/learner_pathway/models.py:120
 msgid "Learner Pathways"
-msgstr "Trajetos do Estudante"
+msgstr "Trajetos do Aluno"
 
 #: apps/learner_pathway/models.py:166
 msgid "Minimum number of nodes to complete this step of the pathway"
@@ -2345,27 +2345,27 @@ msgstr "Número mínimo de nós para concluir esta etapa do trajeto"
 
 #: apps/learner_pathway/models.py:170
 msgid "Learner Pathway Step"
-msgstr "Etapa do Trajeto do Estudante"
+msgstr "Etapa do Trajeto do Aluno"
 
 #: apps/learner_pathway/models.py:171
 msgid "Learner Pathway Steps"
-msgstr "Etapas do Trajeto do Estudante"
+msgstr "Etapas do Trajeto do Aluno"
 
 #: apps/learner_pathway/models.py:238
 msgid "Learner Pathway Course"
-msgstr "Curso do Trajeto do Estudante"
+msgstr "Curso do Trajeto do Aluno"
 
 #: apps/learner_pathway/models.py:239
 msgid "Learner Pathway Courses"
-msgstr "Cursos do Trajeto do Estudante"
+msgstr "Cursos do Trajeto do Aluno"
 
 #: apps/learner_pathway/models.py:276
 msgid "Learner Pathway Program"
-msgstr "Programa do Trajeto do Estudante"
+msgstr "Programa do Trajeto do Aluno"
 
 #: apps/learner_pathway/models.py:277
 msgid "Learner Pathway Programs"
-msgstr "Programas do Trajeto do Estudante"
+msgstr "Programas do Trajeto do Aluno"
 
 #: apps/publisher/models.py:34
 msgid "Organization Role"
@@ -2391,7 +2391,7 @@ msgstr "O curso original, cuja recomendação é armazenada aqui."
 msgid ""
 "This is the course recommended after learner completes the original course."
 msgstr ""
-"Este é o curso recomendado após o estudante completar o curso original."
+"Este é o curso recomendado após o aluno completar o curso original."
 
 #: apps/taxonomy_support/models.py:32
 msgid "Ratio of number of common skills and total skill count."
