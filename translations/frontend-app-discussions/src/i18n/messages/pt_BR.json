@@ -63,7 +63,7 @@
   "discussions.learner.mostActivity": "A maioria das atividades",
   "discussions.learner.reportedActivity": "Atividade relatada",
   "discussions.learner.recentActivity": "Atividade recente",
-  "discussions.learner.sortFilterStatus": "Todos os alunos classificados por {classificar, selecionar, sinalizar {atividade relatada} atividade {mais atividade} outro { {sort} } }",
+  "discussions.learner.sortFilterStatus": "Todos os alunos classificados por {sort, select, flagged {atividade relatada} activity {mais atividade} recency {atividade recente} other {{sort}} }",
   "discussion.learner.allActivity": "Todas as atividades",
   "discussion.learner.posts": "Postagens",
   "discussions.comments.comment.addComment": "Adicionar comentário",
