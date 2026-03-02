@@ -64,7 +64,7 @@
   "discussions.learner.mostActivity": "Maior atividade",
   "discussions.learner.reportedActivity": "Atividade comunicada",
   "discussions.learner.recentActivity": "Atividade recente",
-  "discussions.learner.sortFilterStatus": "Todos os alunos ordenados por {sort, select, flagged {reported activity} activity {maior atividade} other {{sort}} }",
+  "discussions.learner.sortFilterStatus": "Todos os alunos ordenados por {sort, select, flagged {atividade comunicada} activity {maior atividade} recency {atividade recente} other {{sort}} }",
   "discussion.learner.allActivity": "Toda a atividade",
   "discussion.learner.posts": "Publicações",
   "discussions.comments.comment.addComment": "Adicionar comentário",
