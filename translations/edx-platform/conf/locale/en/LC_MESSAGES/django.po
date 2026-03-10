@@ -7018,7 +7018,7 @@ msgstr ""
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html:39
 #: lms/templates/navigation/navbar-authenticated.html:22
 #: lms/templates/navigation/navbar-not-authenticated.html:20
-msgid "Courses"
+msgid "Resources"
 msgstr "Resources"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_body.html:108
