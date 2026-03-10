@@ -11902,7 +11902,7 @@ msgstr "Início"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "My Learning"
-msgstr "As Minhas Aprendizagens"
+msgstr "As minhas Aprendizagens"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "Calendar"
@@ -11970,4 +11970,4 @@ msgstr "CMS"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "My Extra Learning"
-msgstr "As Minhas Aprendizagens Adicionais"
+msgstr "As minhas Aprendizagens Adicionais"
