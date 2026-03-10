@@ -11901,7 +11901,7 @@ msgid "Home"
 msgstr "Início"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
-msgid "My Learning"
+msgid "My Learnings"
 msgstr "As minhas Aprendizagens"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
