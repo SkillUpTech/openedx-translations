@@ -222,7 +222,7 @@ msgstr "Submeteu o teu exame de admissão."
 
 #: static/proctoring/js/views/proctored_exam_info.js:35
 msgid "Your onboarding exam has been approved in this course."
-msgstr "O teu exame de admissão foi aprovado neste curso."
+msgstr "O teu exame de admissão foi aprovado neste recurso."
 
 #: static/proctoring/js/views/proctored_exam_info.js:39
 msgid "Your onboarding exam has been rejected. Please retry onboarding."
@@ -239,11 +239,11 @@ msgstr ""
 #: static/proctoring/js/views/proctored_exam_info.js:46
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:32
 msgid "Approved in Another Course"
-msgstr "Aprovado Noutro Curso"
+msgstr "Aprovado Noutro Recurso"
 
 #: static/proctoring/js/views/proctored_exam_info.js:47
 msgid "Your onboarding exam has been approved in another course."
-msgstr "O teu exame de admissão foi aprovado noutro curso."
+msgstr "O teu exame de admissão foi aprovado noutro recurso."
 
 #: static/proctoring/js/views/proctored_exam_info.js:49
 msgid ""
@@ -252,7 +252,7 @@ msgid ""
 "requirements for proctoring."
 msgstr ""
 "Se o teu dispositivo tiver mudado, recomendamos que complete o exame de "
-"admissão deste curso a fim de garantir que a tua configuração ainda cumpre "
+"admissão deste recurso a fim de garantir que a tua configuração ainda cumpre "
 "os requisitos para o exame vigiado."
 
 #: static/proctoring/js/views/proctored_exam_info.js:55

@@ -77,7 +77,7 @@ msgid ""
 "has successfully completed all courses and received passing grades to earn a"
 " MicroBachelors program certificate in"
 msgstr ""
-"completou com sucesso todos os cursos e recebeu notas de aprovação para "
+"completou com sucesso todos os recursos e recebeu notas de aprovação para "
 "obter um certificado do programa MicroBachelors em"
 
 #. Translators: MicroBachelors should not be translated
@@ -101,10 +101,10 @@ msgid ""
 "included in the program."
 msgstr ""
 "Uma credencial de MicroBachelors edX significa que o aluno concluiu um grupo"
-" de cursos que contribuem para um conhecimento aprofundado de uma área de "
+" de recursos que contribuem para um conhecimento aprofundado de uma área de "
 "estudo. A conclusão dos programas MicroBachelors exige que os alunos "
 "obtenham {link_start}Certificados Verificados{link_end} de cada um dos "
-"cursos incluídos no programa."
+"recursos incluídos no programa."
 
 #. Translators: MicroMasters should not be translated
 #: templates/edx.org/credentials/programs/micromasters/certificate.html:8
@@ -123,7 +123,7 @@ msgid ""
 "has successfully completed all courses and received passing grades to earn a"
 " MicroMasters program certificate in"
 msgstr ""
-"completou com sucesso todos os cursos e recebeu notas de aprovação para "
+"completou com sucesso todos os recursos e recebeu notas de aprovação para "
 "obter um certificado do programa MicroMasters em"
 
 #. Translators: MicroMasters should not be translated
@@ -147,9 +147,9 @@ msgid ""
 "included in the Program."
 msgstr ""
 "Uma credencial de MicroMasters edX significa que o aluno concluiu um grupo "
-"de cursos que contribuem para um conhecimento aprofundado de uma área de "
+"de recursos que contribuem para um conhecimento aprofundado de uma área de "
 "estudo. A conclusão dos Programas MicroMasters exige que os alunos obtenham "
-"{link_start}Certificados Verificados{link_end} de cada um dos cursos "
+"{link_start}Certificados Verificados{link_end} de cada um dos recursos "
 "incluídos no Programa."
 
 #. Translators: This phrase is preceded by the learner's name and followed by
@@ -159,7 +159,7 @@ msgid ""
 "successfully completed all courses and received passing grades for a "
 "Professional Certificate in"
 msgstr ""
-"concluiu com sucesso todos os cursos e teve notas para receber um "
+"concluiu com sucesso todos os recursos e teve notas para receber um "
 "certificado profissional em"
 
 #: templates/edx.org/credentials/programs/professional-certificate/certificate.html:11
@@ -180,10 +180,10 @@ msgid ""
 "included in the Program."
 msgstr ""
 "Um Certificado Profissional edX significa que o aluno concluiu um grupo de "
-"cursos que contribuem para um conhecimento aprofundado de uma área de "
+"recursos que contribuem para um conhecimento aprofundado de uma área de "
 "estudo. A conclusão dos Programas de Certificado Profissional exige que os "
 "alunos obtenham {link_start}Certificados Verificados{link_end} de cada um "
-"dos cursos incluídos no Programa."
+"dos recursos incluídos no Programa."
 
 #. Translators: XSeries should not be translated
 #: templates/edx.org/credentials/programs/xseries/certificate.html:8
@@ -202,7 +202,7 @@ msgid ""
 "has successfully completed all courses and received passing grades for an "
 "XSeries Program certificate in"
 msgstr ""
-"completou com sucesso todos os cursos e recebeu notas de aprovação para "
+"completou com sucesso todos os recursos e recebeu notas de aprovação para "
 "obter um certificado do Programa XSeries em"
 
 #. Translators: XSeries should not be translated
@@ -226,7 +226,7 @@ msgid ""
 "included in the Program."
 msgstr ""
 "Um certificado do Programa XSeries edX significa que o aluno concluiu um "
-"grupo de cursos que contribuem para um conhecimento aprofundado de uma área "
+"grupo de recursos que contribuem para um conhecimento aprofundado de uma área "
 "de estudo. A conclusão dos Programas XSeries exige que os alunos obtenham "
-"{link_start}Certificados Verificados{link_end} de cada um dos cursos "
+"{link_start}Certificados Verificados{link_end} de cada um dos recursos "
 "incluídos no Programa."

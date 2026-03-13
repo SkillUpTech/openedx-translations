@@ -119,7 +119,7 @@ msgstr "Não foi possível remover a submissão da pool de classificação."
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:1
 #: xblock/static/js/src/oa_server.js:696
 msgid "Multiple teams returned for course"
-msgstr "Várias equipas voltaram para o curso"
+msgstr "Várias equipas voltaram para o recurso"
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:8
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:1
@@ -374,7 +374,7 @@ msgid ""
 msgstr ""
 "Falha no carregamento do ficheiro: tipo de ficheiro não suportado. Apenas os"
 " tipos de ficheiros suportados podem ser carregados. Se tiver dúvidas, entre"
-" em contato com a equipa de curso."
+" em contato com a equipa de recurso."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
 #: xblock/static/js/src/lms/oa_response.js:669

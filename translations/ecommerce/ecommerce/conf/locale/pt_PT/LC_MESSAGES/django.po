@@ -223,7 +223,7 @@ msgid ""
 "Enable the application of program offers to remaining unenrolled or "
 "unverified courses"
 msgstr ""
-"Ativar a aplicação de ofertas de programa para os restantes cursos não "
+"Ativar a aplicação de ofertas de programa para os restantes recursos não "
 "inscritos ou não verificados"
 
 #: core/models.py:187
@@ -330,7 +330,7 @@ msgid ""
 "Please choose from the courses selected by your organization to start "
 "learning."
 msgstr ""
-"Por favor, faça a tua escolha entre os cursos selecionados pela tua "
+"Por favor, faça a tua escolha entre os recursos selecionados pela tua "
 "organização e comece a aprender."
 
 #: coupons/views.py:168
@@ -362,7 +362,7 @@ msgid ""
 "support."
 msgstr ""
 "Este cupão não é válido para a compra de um programa. Tente utilizá-lo num "
-"curso individual do programa. Se precisar de assistência, contacte o apoio "
+"recurso individual do programa. Se precisar de assistência, contacte o apoio "
 "edX."
 
 #: coupons/views.py:245
@@ -382,7 +382,7 @@ msgstr "Foi aplicado um desconto, cortesia de {enterprise_customer_name}."
 #: coupons/views.py:299
 msgid "This coupon code is not valid for this course. Try a different course."
 msgstr ""
-"Este código de cupão não é válido para este curso. Tente um curso diferente."
+"Este código de cupão não é válido para este recurso. Tente um recurso diferente."
 
 #: courses/models.py:33 extensions/basket/models.py:20
 #: extensions/offer/models.py:238 extensions/payment/models.py:68
@@ -446,7 +446,7 @@ msgid ""
 " credit. Try the transaction again."
 msgstr ""
 "Ocorreu um erro. Não conseguimos confirmar se é elegível para o crédito de "
-"curso. Tente novamente."
+"recurso. Tente novamente."
 
 #: credit/views.py:61
 #, python-brace-format
@@ -457,7 +457,7 @@ msgid ""
 "Support Team."
 msgstr ""
 "Neste momento, o crédito para \"{course_name}\" não está disponível. Se está"
-" inscrito no curso, por favor tente novamente depois de toda a classificação"
+" inscrito no recurso, por favor tente novamente depois de toda a classificação"
 " estar completa. Se precisar de assistência adicional, entre em contacto com"
 " a Equipa de Suporte de {site_name}."
 
@@ -467,7 +467,7 @@ msgid ""
 "selected offers this course credit. Try the transaction again."
 msgstr ""
 "Ocorreu um erro. Não conseguimos confirmar se a instituição que selecionou "
-"oferece este crédito de curso. Tente novamente."
+"oferece este crédito de recurso. Tente novamente."
 
 #: enterprise/benefits.py:24
 #, python-format
@@ -885,7 +885,7 @@ msgstr "Os produtos devem ter um preço."
 #: extensions/api/serializers.py:715
 msgid "You need to provide a course UUID to create Course Entitlements."
 msgstr ""
-"É necessário disponibilizar um UUID de curso para criar Direitos de Curso."
+"É necessário disponibilizar um UUID de recurso para criar Direitos de Recurso."
 
 #: extensions/api/serializers.py:749
 msgid "Products must indicate whether ID verification is required."
@@ -903,7 +903,7 @@ msgid ""
 "[publish_course_modes_to_lms] is disabled. To avoid ghost SKUs, data has not"
 " been saved."
 msgstr ""
-"Curso [{course_id}] não foi publicado no LMS porque a opção "
+"Recurso [{course_id}] não foi publicado no LMS porque a opção "
 "[publish_course_modes_to_lms] está desativada. Para evitar SKUs fantasma, os"
 " dados não foram guardados."
 
@@ -986,7 +986,7 @@ msgid ""
 "Due to export controls, we cannot allow you to access this course at this "
 "time."
 msgstr ""
-"Neste momento, não podemos permitir que aceda ao curso devido aos controlos "
+"Neste momento, não podemos permitir que aceda ao recurso devido aos controlos "
 "de exportação."
 
 #: extensions/basket/utils.py:245
@@ -995,7 +995,7 @@ msgstr "Clique aqui para adquirir uma inscrição para si"
 
 #: extensions/basket/utils.py:248
 msgid "Click here to purchase multiple seats in this course"
-msgstr "Clique aqui para reservar vários lugares neste curso"
+msgstr "Clique aqui para reservar vários lugares neste recurso"
 
 #: extensions/basket/utils.py:498
 #, python-brace-format
@@ -1056,18 +1056,18 @@ msgid ""
 "verified track of the course."
 msgstr ""
 "Depois de concluir o teu pedido, será automaticamente inscrito no modo "
-"validado do curso."
+"validado do recurso."
 
 #: extensions/basket/views.py:316
 msgid "After you complete your order you will receive credit for your course."
-msgstr "Depois de concluir o teu pedido, receberá o crédito para o teu curso."
+msgstr "Depois de concluir o teu pedido, receberá o crédito para o teu recurso."
 
 #: extensions/basket/views.py:319
 msgid ""
 "After you complete your order you will be automatically enrolled in the "
 "course."
 msgstr ""
-"Depois de concluir o teu pedido, será automaticamente inscrito no curso."
+"Depois de concluir o teu pedido, será automaticamente inscrito no recurso."
 
 #: extensions/basket/views.py:323
 #, python-brace-format
@@ -1087,12 +1087,12 @@ msgid ""
 msgstr ""
 "{paragraph_start}Ao comprar, você e a tua organização concordam com os "
 "seguintes termos:{paragraph_end} {ul_start} {li_start}Cada código é válido "
-"para o curso abrangido e só pode ser utilizado uma vez.{li_end} "
+"para o recurso abrangido e só pode ser utilizado uma vez.{li_end} "
 "{li_start}Você é responsável pela distribuição de códigos aos teus alunos na"
 " tua organização.{li_end} {li_start}Cada código expirará no prazo de um ano "
-"a partir da data de compra ou, se antes, assim que o curso for "
-"encerrado.{li_end} {li_start}Se um curso não for marcado como ao ritmo do "
-"aluno, deverá confirmar que o curso está disponível antes de expirar. "
+"a partir da data de compra ou, se antes, assim que o recurso for "
+"encerrado.{li_end} {li_start}Se um recurso não for marcado como ao ritmo do "
+"aluno, deverá confirmar que o recurso está disponível antes de expirar. "
 "{li_end} {li_start} Não pode revender códigos a terceiros.{li_end} "
 "{li_start} Todos os edX para vendas comerciais são finais e não são "
 "elegíveis para reembolso.{li_end}{ul_end} {paragraph_start} Receberá um "
@@ -1270,7 +1270,7 @@ msgstr "Manual"
 
 #: extensions/offer/models.py:447
 msgid "Course Catalog ID from the Discovery Service."
-msgstr "ID do catálogo de cursos do Serviço Discovery."
+msgstr "ID do catálogo de recursos do Serviço Discovery."
 
 #: extensions/offer/models.py:458
 msgid "UUID for an EnterpriseCustomerCatalog from the Enterprise Service."
@@ -1350,7 +1350,7 @@ msgstr ""
 #: extensions/order/benefits.py:22
 #, python-format
 msgid "%d%% discount for manual course enrollment order"
-msgstr "%d%% desconto para pedido manual de inscrição no curso"
+msgstr "%d%% desconto para pedido manual de inscrição no recurso"
 
 #: extensions/order/models.py:39 extensions/payment/models.py:26
 msgid "Payment Processor"
@@ -1631,12 +1631,12 @@ msgstr "Consulta de Catálogo"
 #: extensions/voucher/utils.py:55 extensions/voucher/utils.py:285
 #: extensions/voucher/utils.py:340
 msgid "Redeemed For Course IDs"
-msgstr "Amortizado por IDs do Curso"
+msgstr "Amortizado por IDs do Recurso"
 
 #: extensions/voucher/utils.py:57 extensions/voucher/utils.py:284
 #: extensions/voucher/utils.py:331 extensions/voucher/utils.py:339
 msgid "Redeemed For Course ID"
-msgstr "Amortizado por ID do Curso"
+msgstr "Amortizado por ID do Recurso"
 
 #: extensions/voucher/utils.py:76 extensions/voucher/utils.py:318
 msgid "Redeemed"
@@ -1736,7 +1736,7 @@ msgstr "Preço"
 #: extensions/voucher/utils.py:327 extensions/voucher/utils.py:333
 #: templates/oscar/dashboard/partials/enrollment_table.html:8
 msgid "Course ID"
-msgstr "ID do Curso"
+msgstr "ID do Recurso"
 
 #: extensions/voucher/utils.py:188 extensions/voucher/utils.py:273
 #: extensions/voucher/utils.py:328 extensions/voucher/utils.py:334
@@ -1746,7 +1746,7 @@ msgstr "Organização"
 #: extensions/voucher/utils.py:193 extensions/voucher/utils.py:272
 #: extensions/voucher/utils.py:330 extensions/voucher/utils.py:338
 msgid "Course Seat Types"
-msgstr "Tipos de Lugares do Curso"
+msgstr "Tipos de Lugares do Recurso"
 
 #: extensions/voucher/utils.py:220 extensions/voucher/utils.py:265
 #: extensions/voucher/utils.py:321
@@ -2063,7 +2063,7 @@ msgid ""
 "Earn a verified certificate in one of our popular courses to advance your "
 "career, showcase your accomplishments or enhance your college application."
 msgstr ""
-"Ganhe um certificado verificado num dos nossos cursos mais populares para "
+"Ganhe um certificado verificado num dos nossos recursos mais populares para "
 "fazer avançar a tua carreira, mostrar as tuas realizações ou melhorar a tua "
 "candidatura à faculdade."
 
@@ -2080,9 +2080,9 @@ msgid ""
 "of the certificate."
 msgstr ""
 "Um certificado validado (digital) confirma que um utilizador concluiu o "
-"curso numa data especifica. O certificado inclui o logótipo da edX e o "
+"recurso numa data especifica. O certificado inclui o logótipo da edX e o "
 "logótipo da universidade, bem como as assinaturas dos elementos do corpo "
-"docente envolvidos na preparação do curso. Há um URL que pode ser usado para"
+"docente envolvidos na preparação do recurso. Há um URL que pode ser usado para"
 " verificar a autenticidade do certificado."
 
 #: templates/coupons/offer.html:30
@@ -2091,7 +2091,7 @@ msgid ""
 " the course material."
 msgstr ""
 "Um certificado validado demonstra aos futuros empregadores que adquiriu "
-"conhecimentos com o curso."
+"conhecimentos com o recurso."
 
 #: templates/coupons/offer.html:32
 msgid ""
@@ -2099,20 +2099,20 @@ msgid ""
 "offers the course."
 msgstr ""
 "O certificado é assinado oficialmente e carimbado pela instituição que "
-"oferece o curso."
+"oferece o recurso."
 
 #: templates/coupons/offer.html:34
 msgid ""
 "You're twelve times more likely to complete the course if you're working "
 "toward a verified certificate."
 msgstr ""
-"Tem doze vezes mais hipóteses de completar o curso se estiver empenhado em "
+"Tem doze vezes mais hipóteses de completar o recurso se estiver empenhado em "
 "obter um certificado validado."
 
 #: templates/courses/course_app.html:5
 #: templates/edx/partials/_administration_menu.html:5
 msgid "Courses"
-msgstr "Cursos"
+msgstr "Recursos"
 
 #: templates/courses/course_app.html:27
 #, python-format
@@ -2122,7 +2122,7 @@ msgid ""
 "                            "
 msgstr ""
 "\n"
-"                               %(platform_name)s Ferramenta de Administração do Curso\n"
+"                               %(platform_name)s Ferramenta de Administração do Recurso\n"
 "                              "
 
 #: templates/courses/menu_options.html:8
@@ -2131,7 +2131,7 @@ msgstr "Painel do Aluno"
 
 #: templates/courses/menu_options.html:11
 msgid "Course Admin Tool"
-msgstr "Ferramenta de Administração do Curso"
+msgstr "Ferramenta de Administração do Recurso"
 
 #: templates/courses/menu_options.html:14
 msgid "E-Commerce Dashboard"
@@ -2256,7 +2256,7 @@ msgstr "Total"
 
 #: templates/edx/checkout/receipt.html:194
 msgid "Get Your Course Credit"
-msgstr "Obter Crédito do Curso"
+msgstr "Obter Crédito do Recurso"
 
 #: templates/edx/checkout/receipt.html:196
 #, python-brace-format
@@ -2267,11 +2267,11 @@ msgid ""
 "{link_start}{lms_dashboard_url}{link_middle}dashboard{link_end}, next to the"
 " course name."
 msgstr ""
-"Para receber equivalência académica deste curso, deve pedir equivalência na "
-"organização que oferece o curso. Pode encontrar um link para o website da "
+"Para receber equivalência académica deste recurso, deve pedir equivalência na "
+"organização que oferece o recurso. Pode encontrar um link para o website da "
 "organização no teu "
 "{link_start}{lms_dashboard_url}{link_middle}dashboard{link_end}, ao lado do "
-"nome do curso."
+"nome do recurso."
 
 #: templates/edx/checkout/receipt.html:210
 msgid "Go to dashboard"
@@ -2279,7 +2279,7 @@ msgstr "Ir para Painel de Controlo"
 
 #: templates/edx/checkout/receipt.html:213
 msgid "Find more courses"
-msgstr "Encontrar mais cursos"
+msgstr "Encontrar mais recursos"
 
 #: templates/edx/checkout/receipt_not_found.html:7
 msgid "Order Not Found"
@@ -2369,7 +2369,7 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"                            Parabéns! É elegível para comprar crédito de curso académico para este curso. \n"
+"                            Parabéns! É elegível para comprar crédito de recurso académico para este recurso. \n"
 "                            Deve comprar teu crédito antes de %(date)s.\n"
 "                            Selecione uma das seguintes instituições para adquirir teu crédito.\n"
 "                            "
@@ -2396,7 +2396,7 @@ msgid ""
 "The hard work is over - you passed the course! Now get the credit you "
 "deserve to start or complete a degree."
 msgstr ""
-"O trabalho árduo acabou - passou o curso! Agora receba o crédito que merece "
+"O trabalho árduo acabou - passou o recurso! Agora receba o crédito que merece "
 "para começar ou completar um nível."
 
 #: templates/edx/credit/checkout.html:98
@@ -2494,7 +2494,7 @@ msgstr "Iniciar sessão"
 
 #: templates/edx/partials/_staff_navbar.html:9
 msgid "E-Commerce Course Administration"
-msgstr "Administração do Curso E-Commerce"
+msgstr "Administração do Recurso E-Commerce"
 
 #: templates/edx/partials/_staff_navbar.html:14
 msgid "E-Commerce Coupon Administration"
@@ -2922,7 +2922,7 @@ msgid ""
 "You can access your course and complete your verification (if required) on "
 "your %(platform_name)s dashboard. "
 msgstr ""
-"Pode aceder ao teu curso e concluir a validação (se necessário) no teu "
+"Pode aceder ao teu recurso e concluir a validação (se necessário) no teu "
 "painel de controlo %(platform_name)s."
 
 #: templates/oscar/communication/emails/commtype_course_purchased_body.html:14
@@ -2932,8 +2932,8 @@ msgid ""
 "To explore other great courses, visit the %(platform_name)s website. More "
 "courses are added every day!"
 msgstr ""
-"Para explorar outros cursos, visite o site %(platform_name)s. Todos os dias "
-"são adicionados mais cursos!"
+"Para explorar outros recursos, visite o site %(platform_name)s. Todos os dias "
+"são adicionados mais recursos!"
 
 #: templates/oscar/communication/emails/commtype_course_purchased_body.html:17
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.html:43
@@ -2943,7 +2943,7 @@ msgstr "Ver Confirmação de Pagamento"
 #: templates/oscar/communication/emails/commtype_course_purchased_body.html:20
 #: templates/oscar/communication/emails/commtype_course_purchased_body.txt:14
 msgid "Thank you. We hope you enjoy the course!"
-msgstr "Obrigado. Esperamos que goste do curso!"
+msgstr "Obrigado. Esperamos que goste do recurso!"
 
 #: templates/oscar/communication/emails/commtype_course_purchased_body.html:21
 #, python-format
@@ -2957,7 +2957,7 @@ msgid ""
 "%(platform_name)s course %(course_title)s."
 msgstr ""
 "Está a receber este email porque reservou um lugar na %(platform_name)s no "
-"curso %(course_title)s."
+"recurso %(course_title)s."
 
 #: templates/oscar/communication/emails/commtype_course_purchased_body.txt:2
 msgid "Receipt Confirmation for: "
@@ -3017,7 +3017,7 @@ msgid ""
 "%(credit_provider)s, or to see the status of your credit request, go to your"
 " %(platform_name)s dashboard."
 msgstr ""
-"Para receber o teu crédito de curso,  deve também solicitar crédito no site "
+"Para receber o teu crédito de recurso,  deve também solicitar crédito no site "
 "%(credit_provider)s. Para obter um link e pedir crédito de "
 "%(credit_provider)s, ou para ver o estado da tua solicitação de crédito, "
 "aceda ao painel de controlo %(platform_name)s."
@@ -3029,13 +3029,13 @@ msgid ""
 "To explore other credit-eligible courses, visit the %(platform_name)s "
 "website. We add new courses frequently!"
 msgstr ""
-"Para explorar outros cursos elegíveis para crédito, visite o site "
-"%(platform_name)s. Adicionamos novos cursos com frequência!"
+"Para explorar outros recursos elegíveis para crédito, visite o site "
+"%(platform_name)s. Adicionamos novos recursos com frequência!"
 
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.html:74
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.txt:15
 msgid "Thank you. We hope you enjoyed your course!"
-msgstr "Obrigado. Esperamos que tenha gostado do curso!"
+msgstr "Obrigado. Esperamos que tenha gostado do recurso!"
 
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.html:75
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.txt:16
@@ -3051,7 +3051,7 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"Recebeu esta mensagem porque comprou horas de crédito para %(course_title)s, um curso %(platform_name)s.\n"
+"Recebeu esta mensagem porque comprou horas de crédito para %(course_title)s, um recurso %(platform_name)s.\n"
 " "
 
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.txt:2
@@ -3077,7 +3077,7 @@ msgid ""
 "%(course_title)s, an %(platform_name)s course."
 msgstr ""
 "Recebeu esta mensagem porque comprou horas de crédito para %(course_title)s,"
-" um curso %(platform_name)s."
+" um recurso %(platform_name)s."
 
 #: templates/oscar/communication/emails/commtype_credit_receipt_subject.txt:2
 msgid "Order Receipt"
@@ -3121,7 +3121,7 @@ msgstr "Dica: Registe qual o código associado a cada pessoa."
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:36
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:11
 msgid "Learners sign-in/register with edX and enroll for the course."
-msgstr "Os alunos assinam/registam-se na edX e inscrevem-se no curso."
+msgstr "Os alunos assinam/registam-se na edX e inscrevem-se no recurso."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:39
 #, python-brace-format
@@ -3160,7 +3160,7 @@ msgstr "Ao comprar, você e tua organização concordam com os seguintes termos:
 msgid ""
 "Each code is valid for the one course covered and can be used only one time."
 msgstr ""
-"Cada código é válido para um respetivo curso e pode ser usado apenas uma "
+"Cada código é válido para um respetivo recurso e pode ser usado apenas uma "
 "vez."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:64
@@ -3175,7 +3175,7 @@ msgid ""
 " the course is closed."
 msgstr ""
 "Cada código expirará dentro de um ano a partir da data de compra ou antes, "
-"se o curso for fechado."
+"se o recurso for fechado."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:66
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:23
@@ -3183,8 +3183,8 @@ msgid ""
 "If a course is not designated as self-paced, you should confirm that a "
 "course run is available before expiration."
 msgstr ""
-"Se um curso não for designado como \"ritmo definido pelo aluno\", "
-"confirme que o curso está disponível, pelo menos, até o código expirar."
+"Se um recurso não for designado como \"ritmo definido pelo aluno\", "
+"confirme que o recurso está disponível, pelo menos, até o código expirar."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:67
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:24

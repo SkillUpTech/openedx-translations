@@ -41,7 +41,7 @@ msgstr "Os pontos têm de ser superiores a 0"
 
 #: api.py:347
 msgid "Wrong course id {} != {}"
-msgstr "ID do curso errado {} != {}"
+msgstr "ID do recurso errado {} != {}"
 
 #: api.py:366 api.py:368
 msgid "Repeated user_id: "

@@ -62,7 +62,7 @@
   "adminPortal.emailTemplateForm.support": "Apoio",
   "lcm.budget.detail.page.catalog.tab.course.card.next.steps": "Próximos passos para os alunos atribuídos",
   "lcm.budget.detail.page.catalog.tab.course.card.learners.will.be.notified": "Os alunos serão notificados desta atribuição de recurso por e-mail.",
-  "lcm.budget.detail.page.catalog.tab.course.card.learners.must.complete.enrollment": "Os alunos devem completar a inscrição para esta atribuição até {courseEnrollmentDeadline}.\n               Esta data limite é calculada com base na data limite de inscrição no curso ou {assignmentEnrollmentDeadlione}\n                dias após a data de atribuição, o que ocorrer primeiro.",
+  "lcm.budget.detail.page.catalog.tab.course.card.learners.must.complete.enrollment": "Os alunos devem completar a inscrição para esta atribuição até {courseEnrollmentDeadline}.\n               Esta data limite é calculada com base na data limite de inscrição no recurso ou {assignmentEnrollmentDeadlione}\n                dias após a data de atribuição, o que ocorrer primeiro.",
   "lcm.budget.detail.page.catalog.tab.course.card.impact.on.your.learner.credit.budget": "Impacto no teu orçamento de Crédito de Aluno",
   "lcm.budget.detail.page.catalog.tab.course.card.total.assignment.cost": "Custo total da atribuição",
   "lcm.budget.detail.page.catalog.tab.course.card.course.cost.will.convert": "O custo do recurso será automaticamente convertido de {doubleQoute}atribuído{doubleQoute} para {doubleQoute}gasto{doubleQoute}\n                quando os teus alunos completarem o registo.",
