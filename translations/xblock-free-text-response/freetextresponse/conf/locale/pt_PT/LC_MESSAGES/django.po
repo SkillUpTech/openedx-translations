@@ -30,7 +30,7 @@ msgid ""
 "after a student enters their response"
 msgstr ""
 "Esta é uma flag que indica se o ícone do indicador deve ser mostrado depois "
-"do aluno digitar a sua resposta"
+"do aluno digitar a tua resposta"
 
 #: models.py:49
 msgid "Display Other Student Responses"
@@ -41,7 +41,7 @@ msgid ""
 "This will display other student responses to the student after they submit "
 "their response."
 msgstr ""
-"Isto mostrará ao aluno respostas de outros colegas após o envio da sua "
+"Isto mostrará ao aluno respostas de outros colegas após o envio da tua "
 "resposta."
 
 #: models.py:60
@@ -210,9 +210,9 @@ msgstr[2] "Já utilizou {count_attempts} de {max_attempts} submissões"
 #, python-brace-format
 msgid "Your response must be between {min} and {max} word."
 msgid_plural "Your response must be between {min} and {max} words."
-msgstr[0] "A sua resposta deve ter entre {min} e {max} palavras."
-msgstr[1] "A sua resposta deve ter entre {min} e {max} palavras."
-msgstr[2] "A sua resposta deve ter entre {min} e {max} palavras."
+msgstr[0] "A tua resposta deve ter entre {min} e {max} palavras."
+msgstr[1] "A tua resposta deve ter entre {min} e {max} palavras."
+msgstr[2] "A tua resposta deve ter entre {min} e {max} palavras."
 
 #: views.py:267
 #, python-brace-format

@@ -177,7 +177,7 @@ msgid ""
 "Require users to activate their account before allowing them to redeem a "
 "coupon."
 msgstr ""
-"Exigir que os utilizadores ativem a sua conta antes de permitir que usem um "
+"Exigir que os utilizadores ativem a tua conta antes de permitir que usem um "
 "cupão."
 
 #: core/models.py:153
@@ -319,7 +319,7 @@ msgstr "O código de cupão é inválido."
 
 #: coupons/views.py:127
 msgid "The voucher is not applicable to your current basket."
-msgstr "O vale de desconto não é aplicável à sua compra atual."
+msgstr "O vale de desconto não é aplicável à tua compra atual."
 
 #: coupons/views.py:137
 msgid "Welcome to edX"
@@ -330,7 +330,7 @@ msgid ""
 "Please choose from the courses selected by your organization to start "
 "learning."
 msgstr ""
-"Por favor, faça a sua escolha entre os cursos selecionados pela sua "
+"Por favor, faça a tua escolha entre os cursos selecionados pela tua "
 "organização e comece a aprender."
 
 #: coupons/views.py:168
@@ -372,7 +372,7 @@ msgstr "Token de consentimento de partilha de dados inválido fornecido."
 #: coupons/views.py:265
 #, python-brace-format
 msgid "You have already purchased {course} seat."
-msgstr "Já reservou o seu lugar em {course}."
+msgstr "Já reservou o teu lugar em {course}."
 
 #: coupons/views.py:289
 #, python-brace-format
@@ -498,7 +498,7 @@ msgid ""
 msgstr ""
 "Este cupão foi disponibilizado através de {new_enterprise}. Para resgatar "
 "este cupão, primeiro é necessário fazer logout. Quando voltar a iniciar "
-"sessão, selecione {new_enterprise} como a sua empresa e tente novamente."
+"sessão, selecione {new_enterprise} como a tua empresa e tente novamente."
 
 #: enterprise/conditions.py:370
 msgid ""
@@ -506,8 +506,8 @@ msgid ""
 "assigned to the code or contact your Learning Manager for additional "
 "questions."
 msgstr ""
-"Este código não é válido com o seu email. Por favor, inicie sessão com o "
-"email correto atribuído ao código ou contacte o seu Gestor de Aprendizagem "
+"Este código não é válido com o teu email. Por favor, inicie sessão com o "
+"email correto atribuído ao código ou contacte o teu Gestor de Aprendizagem "
 "para questões adicionais."
 
 #: enterprise/forms.py:38
@@ -811,7 +811,7 @@ msgid ""
 "If you have concerns about sharing your data, please contact your "
 "administrator at {enterprise}."
 msgstr ""
-"Se tiver dúvidas acerca de partilhar os seus dados, entre em contacto com o "
+"Se tiver dúvidas acerca de partilhar os teus dados, entre em contacto com o "
 "administrador em {enterprise}."
 
 #: enterprise/utils.py:259
@@ -820,8 +820,8 @@ msgid ""
 "If you have concerns about sharing your data, please contact your "
 "administrator at {enterprise} at {contact_info}."
 msgstr ""
-"Se tiver dúvidas sobre como partilhar os seus dados, entre em contato com o "
-"seu administrador em {enterprise} em {contact_info}."
+"Se tiver dúvidas sobre como partilhar os teus dados, entre em contato com o "
+"teu administrador em {enterprise} em {contact_info}."
 
 #: enterprise/utils.py:265
 #, python-brace-format
@@ -846,7 +846,7 @@ msgid ""
 "products."
 msgstr ""
 "Não conseguimos localizar o código de identificação necessário para "
-"encontrar um dos seus produtos."
+"encontrar um dos teus produtos."
 
 #: extensions/api/exceptions.py:15
 msgid "We couldn't find one of the products you're looking for."
@@ -928,7 +928,7 @@ msgid ""
 "Your order {} can not be refunded as '{}' coupon are not supported to "
 "refund."
 msgstr ""
-"Seu pedido {} não pode ser reembolsado, pois o cupom '{}' não tem suporte "
+"Teu pedido {} não pode ser reembolsado, pois o cupom '{}' não tem suporte "
 "para reembolso."
 
 #: extensions/api/serializers.py:2164
@@ -1047,27 +1047,27 @@ msgid ""
 "After you complete your order you will be able to select course dates from "
 "your dashboard."
 msgstr ""
-"Depois de concluir o seu pedido, será capaz de selecionar datas a partir do "
-"seu painel de controlo."
+"Depois de concluir o teu pedido, será capaz de selecionar datas a partir do "
+"teu painel de controlo."
 
 #: extensions/basket/views.py:312
 msgid ""
 "After you complete your order you will be automatically enrolled in the "
 "verified track of the course."
 msgstr ""
-"Depois de concluir o seu pedido, será automaticamente inscrito no modo "
+"Depois de concluir o teu pedido, será automaticamente inscrito no modo "
 "validado do curso."
 
 #: extensions/basket/views.py:316
 msgid "After you complete your order you will receive credit for your course."
-msgstr "Depois de concluir o seu pedido, receberá o crédito para o seu curso."
+msgstr "Depois de concluir o teu pedido, receberá o crédito para o teu curso."
 
 #: extensions/basket/views.py:319
 msgid ""
 "After you complete your order you will be automatically enrolled in the "
 "course."
 msgstr ""
-"Depois de concluir o seu pedido, será automaticamente inscrito no curso."
+"Depois de concluir o teu pedido, será automaticamente inscrito no curso."
 
 #: extensions/basket/views.py:323
 #, python-brace-format
@@ -1085,18 +1085,18 @@ msgid ""
 "will receive an email at {user_email} with your enrollment code(s). "
 "{paragraph_end}"
 msgstr ""
-"{paragraph_start}Ao comprar, você e a sua organização concordam com os "
+"{paragraph_start}Ao comprar, você e a tua organização concordam com os "
 "seguintes termos:{paragraph_end} {ul_start} {li_start}Cada código é válido "
 "para o curso abrangido e só pode ser utilizado uma vez.{li_end} "
-"{li_start}Você é responsável pela distribuição de códigos aos seus alunos na"
-" sua organização.{li_end} {li_start}Cada código expirará no prazo de um ano "
+"{li_start}Você é responsável pela distribuição de códigos aos teus alunos na"
+" tua organização.{li_end} {li_start}Cada código expirará no prazo de um ano "
 "a partir da data de compra ou, se antes, assim que o curso for "
 "encerrado.{li_end} {li_start}Se um curso não for marcado como ao ritmo do "
 "aluno, deverá confirmar que o curso está disponível antes de expirar. "
 "{li_end} {li_start} Não pode revender códigos a terceiros.{li_end} "
 "{li_start} Todos os edX para vendas comerciais são finais e não são "
 "elegíveis para reembolso.{li_end}{ul_end} {paragraph_start} Receberá um "
-"e-mail em {user_email} com o(s) seu(s) código(s) de inscrição. "
+"e-mail em {user_email} com o(s) teu(s) código(s) de inscrição. "
 "{paragraph_end}"
 
 #: extensions/basket/views.py:361
@@ -1128,13 +1128,13 @@ msgstr "quantidade atualizada com sucesso"
 msgid ""
 "Your basket couldn't be updated. Please correct any validation errors below."
 msgstr ""
-"Não foi possível atualizar sua cesta. Corrija quaisquer erros de validação "
+"Não foi possível atualizar tua cesta. Corrija quaisquer erros de validação "
 "abaixo."
 
 #: extensions/basket/views.py:975
 #, python-brace-format
 msgid "You have already added coupon code '{code}' to your basket."
-msgstr "Já adicionou o código do cupão '{code}' ao seu cesto."
+msgstr "Já adicionou o código do cupão '{code}' ao teu cesto."
 
 #: extensions/basket/views.py:1051
 #, python-brace-format
@@ -1149,7 +1149,7 @@ msgstr "Nenhum cupom encontrado com id '%s'"
 #: extensions/basket/views.py:1140
 #, python-format
 msgid "Coupon code '%s' was removed from your basket."
-msgstr "O código do cupom '%s' foi removido da sua cesta."
+msgstr "O código do cupom '%s' foi removido da tua cesta."
 
 #: extensions/catalogue/models.py:70
 msgid "Last date/time on which this product can be purchased."
@@ -1443,7 +1443,7 @@ msgstr ""
 msgid ""
 "There was a problem retrieving your basket. Refresh the page to try again."
 msgstr ""
-"Houve um problema ao recuperar o seu cesto. Atualize a página para tentar "
+"Houve um problema ao recuperar o teu cesto. Atualize a página para tentar "
 "novamente."
 
 #: extensions/payment/forms.py:144
@@ -2064,7 +2064,7 @@ msgid ""
 "career, showcase your accomplishments or enhance your college application."
 msgstr ""
 "Ganhe um certificado verificado num dos nossos cursos mais populares para "
-"fazer avançar a sua carreira, mostrar as suas realizações ou melhorar a sua "
+"fazer avançar a tua carreira, mostrar as tuas realizações ou melhorar a tua "
 "candidatura à faculdade."
 
 #: templates/coupons/offer.html:22
@@ -2148,7 +2148,7 @@ msgstr "Recibo para %(order_number)s"
 
 #: templates/edx/checkout/receipt.html:43
 msgid "Thank you for your order!"
-msgstr "Obrigado pelo seu pedido!"
+msgstr "Obrigado pelo teu pedido!"
 
 #: templates/edx/checkout/receipt.html:53
 #, python-brace-format
@@ -2157,7 +2157,7 @@ msgid ""
 "enrollment code(s) at {link_start}{email}{link_end}. If you need a receipt, "
 "you can print this page."
 msgstr ""
-"Seu pedido está completo. Você receberá uma mensagem de confirmação e seu(s)"
+"Teu pedido está completo. Você receberá uma mensagem de confirmação e teu(s)"
 " código(s) de inscrição em {link_start}{email}{link_end}. Se precisar de um "
 "recibo, você pode imprimir esta página."
 
@@ -2169,16 +2169,16 @@ msgid ""
 "confirmation email from Get Smarter.{next_line} 2: Follow the instructions "
 "in the email to complete your registration."
 msgstr ""
-"O seu pedido está completo. Se precisar de um recibo, pode imprimir esta "
-"página. {next_start} Próximos passos:{next_end} 1. Verifique a sua caixa de "
+"O teu pedido está completo. Se precisar de um recibo, pode imprimir esta "
+"página. {next_start} Próximos passos:{next_end} 1. Verifique a tua caixa de "
 "correio electrónico de confirmação de encomenda de Get Smarter.{next_line} "
-"2: Siga as instruções no correio electrónico para completar o seu registo."
+"2: Siga as instruções no correio electrónico para completar o teu registo."
 
 #: templates/edx/checkout/receipt.html:68
 msgid ""
 "Your order is complete. If you need a receipt, you can print this page."
 msgstr ""
-"O seu pedido está completo. Se precisar de um recibo, pode imprimir esta "
+"O teu pedido está completo. Se precisar de um recibo, pode imprimir esta "
 "página."
 
 #: templates/edx/checkout/receipt.html:87
@@ -2238,7 +2238,7 @@ msgstr "Desconto do tipo %(type)s fornecido por %(enterprise_name)s"
 
 #: templates/edx/checkout/receipt.html:157
 msgid "Discount for your first upgrade"
-msgstr "Desconto para sua primeira atualização"
+msgstr "Desconto para tua primeira atualização"
 
 #: templates/edx/checkout/receipt.html:160
 #, python-format
@@ -2269,7 +2269,7 @@ msgid ""
 msgstr ""
 "Para receber equivalência académica deste curso, deve pedir equivalência na "
 "organização que oferece o curso. Pode encontrar um link para o website da "
-"organização no seu "
+"organização no teu "
 "{link_start}{lms_dashboard_url}{link_middle}dashboard{link_end}, ao lado do "
 "nome do curso."
 
@@ -2307,7 +2307,7 @@ msgid ""
 "              "
 msgstr ""
 "\n"
-"                Você também pode visualizar seus pedidos anteriores na página {link_start}{order_history_url}{link_middle}{link_end}Configurações da conta{link_end}.\n"
+"                Você também pode visualizar teus pedidos anteriores na página {link_start}{order_history_url}{link_middle}{link_end}Configurações da conta{link_end}.\n"
 "                "
 
 #: templates/edx/credit/_provider_detail.html:8
@@ -2370,8 +2370,8 @@ msgid ""
 msgstr ""
 "\n"
 "                            Parabéns! É elegível para comprar crédito de curso académico para este curso. \n"
-"                            Deve comprar seu crédito antes de %(date)s.\n"
-"                            Selecione uma das seguintes instituições para adquirir seu crédito.\n"
+"                            Deve comprar teu crédito antes de %(date)s.\n"
+"                            Selecione uma das seguintes instituições para adquirir teu crédito.\n"
 "                            "
 
 #: templates/edx/credit/checkout.html:51
@@ -2421,7 +2421,7 @@ msgid ""
 "path to success!"
 msgstr ""
 "Muitos dos trabalhos mais procurados de hoje requerem um diploma "
-"universitário. Comece hoje o seu percurso para o sucesso!"
+"universitário. Comece hoje o teu percurso para o sucesso!"
 
 #: templates/edx/credit/checkout.html:118
 msgid "Questions?"
@@ -2448,7 +2448,7 @@ msgid ""
 "An email has been sent to %(user_email)s with a link for you to activate "
 "your account."
 msgstr ""
-"Foi enviado um email para %(user_email)s com um link para ativar a sua "
+"Foi enviado um email para %(user_email)s com um link para ativar a tua "
 "conta."
 
 #: templates/edx/email_confirmation_required.html:29
@@ -2460,7 +2460,7 @@ msgid ""
 "We ask you to activate your account to ensure it is really you creating the "
 "account and to prevent fraud."
 msgstr ""
-"Pedimos-lhe que ative a sua conta para garantir que é realmente você a criar"
+"Pedimos-lhe que ative a tua conta para garantir que é realmente você a criar"
 " a conta e evitar fraudes."
 
 #: templates/edx/error.html:17
@@ -2506,7 +2506,7 @@ msgstr "Administração das Ofertas de Programa E-Commerce"
 
 #: templates/oscar/basket/basket.html:48
 msgid "Your basket is empty"
-msgstr "O seu cesto está vazio"
+msgstr "O teu cesto está vazio"
 
 #: templates/oscar/basket/basket.html:49
 #, python-brace-format
@@ -2517,12 +2517,12 @@ msgid ""
 "                            "
 msgstr ""
 "\n"
-"                               Se tentou fazer uma compra, não lhe foi cobrado. Volte ao seu {link_start}{link_middle}{homepage_url}dashboard{link_end} para tentar\n"
+"                               Se tentou fazer uma compra, não lhe foi cobrado. Volte ao teu {link_start}{link_middle}{homepage_url}dashboard{link_end} para tentar\n"
 "                               novamente, ou {link_start}{homepage_url}{link_middle}contacte suporte {platform_name}{link_end}."
 
 #: templates/oscar/basket/messages/new_total.html:7
 msgid "Your basket is now empty"
-msgstr "O seu cesto está agora vazio"
+msgstr "O teu cesto está agora vazio"
 
 #: templates/oscar/basket/messages/new_total.html:10
 #: templates/oscar/basket/messages/new_total.html:16
@@ -2534,8 +2534,8 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"               {strong_start}Atualizamos sua quantidade.{strong_end}\n"
-"               {paragraph_start}Seu carrinho inclui {num_items} códigos de inscrição a um custo total de {total}, que você receberá por e-mail.{paragraph_end}\n"
+"               {strong_start}Atualizamos tua quantidade.{strong_end}\n"
+"               {paragraph_start}Teu carrinho inclui {num_items} códigos de inscrição a um custo total de {total}, que você receberá por e-mail.{paragraph_end}\n"
 "              "
 
 #: templates/oscar/basket/messages/new_total.html:27
@@ -2556,11 +2556,11 @@ msgstr "Aplicar"
 
 #: templates/oscar/basket/partials/client_side_checkout_basket.html:16
 msgid "in your cart"
-msgstr "no seu carrinho"
+msgstr "no teu carrinho"
 
 #: templates/oscar/basket/partials/client_side_checkout_basket.html:17
 msgid "Your purchase contains the following"
-msgstr "A sua compra contém o seguinte"
+msgstr "A tua compra contém o seguinte"
 
 #: templates/oscar/basket/partials/client_side_checkout_basket.html:36
 #: templates/oscar/basket/partials/hosted_checkout_basket.html:57
@@ -2600,7 +2600,7 @@ msgid ""
 "                            "
 msgstr ""
 "\n"
-"                                   %(benefit)s%% desconto para sua primeira atualização aplicada.\n"
+"                                   %(benefit)s%% desconto para tua primeira atualização aplicada.\n"
 "                           "
 
 #: templates/oscar/basket/partials/client_side_checkout_basket.html:104
@@ -2688,7 +2688,7 @@ msgid ""
 "The three last digits in the signature area on the back of your card. For "
 "American Express, it is the four digits on the front of the card."
 msgstr ""
-"Os três últimos dígitos na área de assinatura na parte de trás do seu "
+"Os três últimos dígitos na área de assinatura na parte de trás do teu "
 "cartão. Para o American Express, são os quatro dígitos na parte da frente do"
 " cartão."
 
@@ -2758,7 +2758,7 @@ msgid ""
 "{strong_start}Note:{strong_end} To complete your enrollment, select Checkout"
 " or Checkout with PayPal."
 msgstr ""
-"{strong_start}Observação:{strong_end} Para concluir sua inscrição, selecione"
+"{strong_start}Observação:{strong_end} Para concluir tua inscrição, selecione"
 " Finalizar compra ou Finalizar compra com PayPal."
 
 #: templates/oscar/basket/partials/hosted_checkout_basket.html:185
@@ -2796,7 +2796,7 @@ msgid ""
 "        "
 msgstr ""
 "\n"
-"        A sua transacção foi cancelada. Se sente que ocorreu um erro, contacte o serviço de suporte através do e-mail: {start_link}\n"
+"        A tua transacção foi cancelada. Se sente que ocorreu um erro, contacte o serviço de suporte através do e-mail: {start_link}\n"
 "        {payment_support_email}{end_link}\n"
 "        "
 
@@ -2822,7 +2822,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"                    Por favor, tente submeter o seu pagamento novamente. Se este problema persistir, por favor consulte as {start_link}\n"
+"                    Por favor, tente submeter o teu pagamento novamente. Se este problema persistir, por favor consulte as {start_link}\n"
 "                    Perguntas Frequentes sobre Pagamentos {end_link} para obter algumas indicações.\n"
 "                    "
 
@@ -2837,7 +2837,7 @@ msgid ""
 "An error occurred while processing your payment. {strong_start}You have not "
 "been charged.{strong_end}"
 msgstr ""
-"Ocorreu um erro enquanto estava a ser processado o seu pagamento. "
+"Ocorreu um erro enquanto estava a ser processado o teu pagamento. "
 "{strong_start}O Pagamento não foi cobrado.{strong_end}"
 
 #: templates/oscar/checkout/payment_error.html:25
@@ -2871,10 +2871,10 @@ msgid ""
 " we cannot complete your transaction or provide you with services and must "
 "suspend your learner account."
 msgstr ""
-"Infelizmente, o seu perfil de conta ou informações de pagamento parecem "
+"Infelizmente, o teu perfil de conta ou informações de pagamento parecem "
 "corresponder a um ou mais registos numa lista de sanções do departamento do "
-"U.S. Treasury Department. Isto significa que não podemos concluir a sua "
-"transação ou disponibilizar serviços, e deve suspender a sua conta de "
+"U.S. Treasury Department. Isto significa que não podemos concluir a tua "
+"transação ou disponibilizar serviços, e deve suspender a tua conta de "
 "aluno."
 
 #: templates/oscar/checkout/sdn_failure.html:35
@@ -2887,7 +2887,7 @@ msgid ""
 msgstr ""
 "Se tiver dúvidas sobre a compensação de uma correspondência, contactar "
 "{ofac_email_link} ofac.reconsideration@treasury.gov{end_link} para "
-"informações sobre opções para a compensação de uma correspondência. A sua "
+"informações sobre opções para a compensação de uma correspondência. A tua "
 "conta será suspensa até que este assunto seja resolvido de forma "
 "satisfatória."
 
@@ -2912,7 +2912,7 @@ msgid ""
 "Thank you for purchasing %(course_title)s. A charge will appear on your "
 "credit or debit card statement with a company name of \"%(platform_name)s\"."
 msgstr ""
-"Obrigado por comprar %(course_title)s. Um débito aparecerá no extrato do seu"
+"Obrigado por comprar %(course_title)s. Um débito aparecerá no extrato do teu"
 " cartão de crédito ou débito com o nome da empresa '%(platform_name)s'."
 
 #: templates/oscar/communication/emails/commtype_course_purchased_body.html:13
@@ -2922,7 +2922,7 @@ msgid ""
 "You can access your course and complete your verification (if required) on "
 "your %(platform_name)s dashboard. "
 msgstr ""
-"Pode aceder ao seu curso e concluir a validação (se necessário) no seu "
+"Pode aceder ao teu curso e concluir a validação (se necessário) no teu "
 "painel de controlo %(platform_name)s."
 
 #: templates/oscar/communication/emails/commtype_course_purchased_body.html:14
@@ -2966,7 +2966,7 @@ msgstr "Confirmação de Recibo para: "
 #: templates/oscar/communication/emails/commtype_course_purchased_body.txt:11
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.txt:12
 msgid "To view your payment information, visit the following website."
-msgstr "Para ver as suas informações de pagamento, visite o seguinte site."
+msgstr "Para ver as tuas informações de pagamento, visite o seguinte site."
 
 #: templates/oscar/communication/emails/commtype_course_purchased_body.txt:16
 #, python-format
@@ -3017,9 +3017,9 @@ msgid ""
 "%(credit_provider)s, or to see the status of your credit request, go to your"
 " %(platform_name)s dashboard."
 msgstr ""
-"Para receber o seu crédito de curso,  deve também solicitar crédito no site "
+"Para receber o teu crédito de curso,  deve também solicitar crédito no site "
 "%(credit_provider)s. Para obter um link e pedir crédito de "
-"%(credit_provider)s, ou para ver o estado da sua solicitação de crédito, "
+"%(credit_provider)s, ou para ver o estado da tua solicitação de crédito, "
 "aceda ao painel de controlo %(platform_name)s."
 
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.html:71
@@ -3066,7 +3066,7 @@ msgid ""
 "credit or debit card statement with a company name of \"%(platform_name)s\"."
 msgstr ""
 "Obrigado por comprar %(credit_hours)s horas de crédito de "
-"%(credit_provider)s para %(course_title)s. A cobrança aparecerá no seu "
+"%(credit_provider)s para %(course_title)s. A cobrança aparecerá no teu "
 "extrato de cartão de crédito ou débito com o nome da empresa "
 "\"%(platform_name)s\"."
 
@@ -3094,7 +3094,7 @@ msgid ""
 "Thank you for purchasing access to %(course_name)s. Let's get your group "
 "ready to learn with edX:"
 msgstr ""
-"Obrigado por adquirir acesso a %(course_name)s. Vamos preparar o seu grupo "
+"Obrigado por adquirir acesso a %(course_name)s. Vamos preparar o teu grupo "
 "para começar a aprender com a edX:"
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:29
@@ -3131,7 +3131,7 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"                           Para ver as suas informações de pagamento, inicie sessão para ver o seu histórico de compras, em {link_start}{order_history_url}{link_middle}Definições de conta{link_end}.\n"
+"                           Para ver as tuas informações de pagamento, inicie sessão para ver o teu histórico de compras, em {link_start}{order_history_url}{link_middle}Definições de conta{link_end}.\n"
 "             "
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:45
@@ -3153,7 +3153,7 @@ msgstr "Obrigado"
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:61
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:18
 msgid "By purchasing, you and your organization agree to the following terms:"
-msgstr "Ao comprar, você e sua organização concordam com os seguintes termos:"
+msgstr "Ao comprar, você e tua organização concordam com os seguintes termos:"
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:63
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:20
@@ -3215,8 +3215,8 @@ msgid ""
 "To view your payment information, log in to see your Order History, under "
 "Account Settings at %(order_history_url)s."
 msgstr ""
-"Para visualizar as suas informações de pagamento, inicie sessão para ver o "
-"seu Histórico de Compras, nas Configurações de Conta em "
+"Para visualizar as tuas informações de pagamento, inicie sessão para ver o "
+"teu Histórico de Compras, nas Configurações de Conta em "
 "%(order_history_url)s."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:14
@@ -3778,7 +3778,7 @@ msgstr "O cliente fez o check-out como convidado."
 #: templates/oscar/dashboard/orders/order_detail.html:50
 #: templates/oscar/dashboard/refunds/refund_detail.html:61
 msgid "Customer has deleted their account."
-msgstr "O cliente eliminou a sua conta."
+msgstr "O cliente eliminou a tua conta."
 
 #: templates/oscar/dashboard/orders/order_detail.html:57
 msgid "Order information"
@@ -3950,7 +3950,7 @@ msgstr "Alterar estado"
 #: templates/oscar/dashboard/orders/order_detail.html:382
 #: templates/oscar/dashboard/orders/order_list.html:153
 msgid "This order can't have its status changed."
-msgstr "Este pedido não pode ter o seu estado alterado."
+msgstr "Este pedido não pode ter o teu estado alterado."
 
 #: templates/oscar/dashboard/orders/order_detail.html:390
 msgid "Status Changes"

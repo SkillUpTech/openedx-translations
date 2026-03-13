@@ -37,7 +37,7 @@ msgid ""
 "Something has gone wrong ending your exam. Please reload the page and start "
 "again."
 msgstr ""
-"Algo correu mal ao terminar o seu exame. Recarregue a página e comece de "
+"Algo correu mal ao terminar o teu exame. Recarregue a página e comece de "
 "novo."
 
 #: static/proctoring/js/exam_action_handler.js:159
@@ -66,7 +66,7 @@ msgid ""
 "Something has gone wrong ending your exam. Please double-check that the "
 "application is running."
 msgstr ""
-"Algo correu mal ao terminar o seu exame. Verifique novamente se a aplicação "
+"Algo correu mal ao terminar o teu exame. Verifique novamente se a aplicação "
 "está a funcionar."
 
 #: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:218
@@ -210,30 +210,30 @@ msgstr "Não Iniciado"
 
 #: static/proctoring/js/views/proctored_exam_info.js:14
 msgid "You have not started your onboarding exam."
-msgstr "Ainda não começou o seu exame de admissão."
+msgstr "Ainda não começou o teu exame de admissão."
 
 #: static/proctoring/js/views/proctored_exam_info.js:18
 msgid "You have started your onboarding exam."
-msgstr "Começou o seu exame de admissão."
+msgstr "Começou o teu exame de admissão."
 
 #: static/proctoring/js/views/proctored_exam_info.js:22
 msgid "You have submitted your onboarding exam."
-msgstr "Submeteu o seu exame de admissão."
+msgstr "Submeteu o teu exame de admissão."
 
 #: static/proctoring/js/views/proctored_exam_info.js:35
 msgid "Your onboarding exam has been approved in this course."
-msgstr "O seu exame de admissão foi aprovado neste curso."
+msgstr "O teu exame de admissão foi aprovado neste curso."
 
 #: static/proctoring/js/views/proctored_exam_info.js:39
 msgid "Your onboarding exam has been rejected. Please retry onboarding."
 msgstr ""
-"O seu exame de admissão foi rejeitado. Por favor, tente de novo a admissão."
+"O teu exame de admissão foi rejeitado. Por favor, tente de novo a admissão."
 
 #: static/proctoring/js/views/proctored_exam_info.js:43
 msgid ""
 "An error has occurred during your onboarding exam. Please retry onboarding."
 msgstr ""
-"Ocorreu um erro durante o seu exame de admissão. Por favor, tente de novo a "
+"Ocorreu um erro durante o teu exame de admissão. Por favor, tente de novo a "
 "admissão."
 
 #: static/proctoring/js/views/proctored_exam_info.js:46
@@ -243,7 +243,7 @@ msgstr "Aprovado Noutro Curso"
 
 #: static/proctoring/js/views/proctored_exam_info.js:47
 msgid "Your onboarding exam has been approved in another course."
-msgstr "O seu exame de admissão foi aprovado noutro curso."
+msgstr "O teu exame de admissão foi aprovado noutro curso."
 
 #: static/proctoring/js/views/proctored_exam_info.js:49
 msgid ""
@@ -251,8 +251,8 @@ msgid ""
 "onboarding exam in order to ensure that your setup still meets the "
 "requirements for proctoring."
 msgstr ""
-"Se o seu dispositivo tiver mudado, recomendamos que complete o exame de "
-"admissão deste curso a fim de garantir que a sua configuração ainda cumpre "
+"Se o teu dispositivo tiver mudado, recomendamos que complete o exame de "
+"admissão deste curso a fim de garantir que a tua configuração ainda cumpre "
 "os requisitos para o exame vigiado."
 
 #: static/proctoring/js/views/proctored_exam_info.js:55
@@ -265,7 +265,7 @@ msgid ""
 "is expiring soon. Please complete onboarding again to ensure that you will "
 "be able to continue taking proctored exams."
 msgstr ""
-"O seu perfil de bordo foi aprovado. No entanto, o seu estatuto de bordo "
+"O teu perfil de bordo foi aprovado. No entanto, o teu estatuto de bordo "
 "expira em breve. Por favor, complete novamente o embarque para se assegurar "
 "de que poderá continuar a fazer exames supervisionados."
 
@@ -279,7 +279,7 @@ msgid ""
 "Your onboarding status has expired. Please complete onboarding again to "
 "continue taking proctored exams."
 msgstr ""
-"O seu estatuto de embarque expirou. Por favor, complete novamente o embarque"
+"O teu estatuto de embarque expirou. Por favor, complete novamente o embarque"
 " para continuar a fazer exames de supervisionados."
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:30

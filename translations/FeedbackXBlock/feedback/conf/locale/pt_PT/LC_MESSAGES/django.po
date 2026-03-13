@@ -113,7 +113,7 @@ msgstr "Mensagem de feedback"
 
 #: feedback.py:125
 msgid "Thank you for your feedback!"
-msgstr "Obrigado/a pelo seu feedback!"
+msgstr "Obrigado/a pelo teu feedback!"
 
 #: feedback.py:130
 msgid "Show aggregate to students"
@@ -129,11 +129,11 @@ msgid ""
 " material."
 msgstr ""
 "Por favor, reserve algum tempo para refletir de forma significativa sobre a "
-"sua experiência com este material didático."
+"tua experiência com este material didático."
 
 #: feedback.py:163
 msgid "Please rate your overall experience"
-msgstr "Avalie a sua experiência global"
+msgstr "Avalie a tua experiência global"
 
 #: feedback.py:170
 msgid "Please take a moment to thoughtfully reflect."
@@ -256,7 +256,7 @@ msgstr "Questionário de Likert"
 
 #: templates/html/studio_view.html:76
 msgid "Example: Please rate your overall experience with this section."
-msgstr "Exemplo: Avalie a sua experiência global com esta secção."
+msgstr "Exemplo: Avalie a tua experiência global com esta secção."
 
 #: templates/html/studio_view.html:81
 msgid "Likert option 1"

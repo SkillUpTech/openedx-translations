@@ -1,7 +1,7 @@
 {
   "gradebook.page.title": "Pautas de notas | {siteName}",
   "gradebook.BulkManagementHistoryView.heading": "Histórico de gestão massiva",
-  "gradebook.BulkManagementHistoryView": "Abaixo encontra-se um registo das classificações prévias importadas. Para descarregar um CSV do seu livro de classificações e importar as classificações para substituição, volte ao Livro de Classificações. Por favor note que, após a importação das classificações, pode demorar alguns segundos a processar a substituição.",
+  "gradebook.BulkManagementHistoryView": "Abaixo encontra-se um registo das classificações prévias importadas. Para descarregar um CSV do teu livro de classificações e importar as classificações para substituição, volte ao Livro de Classificações. Por favor note que, após a importação das classificações, pode demorar alguns segundos a processar a substituição.",
   "gradebook.BulkManagementHistoryView.successDialog": "CSV em processamento. Os carregamentos de ficheiros podem demorar alguns minutos a concluir.",
   "gradebook.GradebookFilters.assignmentsFilterLabel": "Tarefas",
   "gradebook.GradebookFilters.overallGradeFilterLabel": "Classificação Global",
@@ -41,7 +41,7 @@
   "gradebook.GradesView.EditModal.title": "Editar Classificações",
   "gradebook.GradesView.EditModal.closeText": "Cancelar",
   "gradebook.GradesView.EditModal.contactSupport": "Mostrando as ações mais recentes (máximo 5). Para ver mais, por favor contacte o supporte",
-  "gradebook.GradesView.EditModal.saveVisibility": "Nota: Uma vez guardadas, as suas alterações serão visíveis para os alunos.",
+  "gradebook.GradesView.EditModal.saveVisibility": "Nota: Uma vez guardadas, as tuas alterações serão visíveis para os alunos.",
   "gradebook.GradesView.EditModal.saveGrade": "Guardar Classificações",
   "gradebook.GradesView.editFilterLabel": "Editar Filtros",
   "gradebook.GradesTab.usersVisibilityLabel": "Mostrar {filteredUsers} de {totalUsers} total de alunos",

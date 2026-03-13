@@ -38,7 +38,7 @@ msgstr "Política de Cookies"
 
 #: templates/edx.org/_footer.html:26
 msgid "Your Privacy Choices"
-msgstr "As suas opções de privacidade"
+msgstr "As tuas opções de privacidade"
 
 #: templates/edx.org/_footer.html:36
 msgid ""
@@ -113,7 +113,7 @@ msgid ""
 "You worked hard to earn your MicroMasters Credential from "
 "%(organization_name)s."
 msgstr ""
-"Trabalhou arduamente para obter a sua Credencial MicroMasters "
+"Trabalhou arduamente para obter a tua Credencial MicroMasters "
 "%(organization_name)s."
 
 #. Translators: MicroMasters should not be translated, this phrase is preceded
@@ -192,7 +192,7 @@ msgid ""
 "You worked hard to earn your XSeries Program certificate from "
 "%(organization_name)s."
 msgstr ""
-"Trabalhou arduamente para obter o seu certificado do Programa XSeries "
+"Trabalhou arduamente para obter o teu certificado do Programa XSeries "
 "%(organization_name)s."
 
 #. Translators: XSeries should not be translated, this phrase is preceded by
