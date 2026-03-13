@@ -84,7 +84,7 @@ msgid ""
 "helpful, but it is empty currently. If you find useful resources, either on "
 "edx.org or elsewhere, please add it."
 msgstr ""
-"Esta será uma lista de recursos que os seus colegas consideraram úteis, mas "
+"Esta será uma lista de recursos que os teus colegas consideraram úteis, mas "
 "neste momento ainda está vazia. Se encontrar recursos úteis, quer em edx.org"
 " quer noutro sítio, adicione-os."
 
@@ -113,7 +113,7 @@ msgid ""
 "so helpful, downvote it. If it has issues (illegal material, incorrect, "
 "etc.), please flag it and let us know the reason."
 msgstr ""
-"Esta é uma lista de recursos que os seus colegas alunos consideraram "
+"Esta é uma lista de recursos que os teus colegas alunos consideraram "
 "úteis. Se encontrar outro recurso útil, seja em edx.org ou noutro local, "
 "adicione-o. Se puderes melhorar a descrição ou a pré-visualização de um "
 "recurso, fá-lo também. Se considerar um recurso útil, dê-lhe um voto "
@@ -337,7 +337,7 @@ msgstr "Apresente uma razão válida para remover este recurso"
 
 #: static/js/src/cats.js:83
 msgid "Flag this resource as problematic and give your reason"
-msgstr "Assinale este recurso como problemático e indique a sua razão"
+msgstr "Assinale este recurso como problemático e indique a tua razão"
 
 #: static/js/src/cats.js:84
 msgid "Delete this resource"

@@ -108,7 +108,7 @@ msgstr "Especificar ambos editáveis=1 e um parâmetro q não são suportados."
 
 #: apps/api/v1/views/comments.py:34
 msgid "You must include a course_uuid in your query parameters."
-msgstr "Deve incluir um course_uuid nos seus parâmetros de consulta."
+msgstr "Deve incluir um course_uuid nos teus parâmetros de consulta."
 
 #: apps/api/v1/views/comments.py:58 apps/api/v1/views/courses.py:199
 #, python-brace-format
@@ -175,7 +175,7 @@ msgid ""
 "reach out to your project coordinator for additional help if necessary."
 msgstr ""
 "A mudança de tipos de direitos após revisão não é suportada. Por favor "
-"contacte o coordenador do seu projecto para obter ajuda adicional, se "
+"contacte o coordenador do teu projecto para obter ajuda adicional, se "
 "necessário."
 
 #: apps/api/v1/views/courses.py:401
@@ -341,7 +341,7 @@ msgid ""
 "The base URL of your publisher service, if used. Example: "
 "https://publisher.example.com/"
 msgstr ""
-"O URL da base do seu serviço de edição, se for utilizado. Exemplo: "
+"O URL da base do teu serviço de edição, se for utilizado. Exemplo: "
 "https://publisher.example.com/"
 
 #: apps/core/models.py:79
@@ -610,7 +610,7 @@ msgid ""
 "Existing course type {type} for {key} ({id}) doesn't match its own "
 "entitlements."
 msgstr ""
-"Tipo de curso existente {type} para {key} ({id}) não corresponde aos seus "
+"Tipo de curso existente {type} para {key} ({id}) não corresponde aos teus "
 "próprios direitos."
 
 #: apps/course_metadata/data_loaders/course_type.py:61
@@ -628,7 +628,7 @@ msgid ""
 "Existing run type {run_type} for {key} ({id}) doesn't match its own seats."
 msgstr ""
 "O tipo de execução existente {run_type} para {key} ({id}) não corresponde "
-"aos seus próprios lugares."
+"aos teus próprios lugares."
 
 #: apps/course_metadata/data_loaders/course_type.py:91
 #, python-brace-format
@@ -1487,7 +1487,7 @@ msgid ""
 " to your project coordinator for additional help if necessary."
 msgstr ""
 "A troca de tipos de vagas após revisão não é suportada. Por favor contacte o"
-" coordenador do seu projecto para obter ajuda adicional, se necessário."
+" coordenador do teu projecto para obter ajuda adicional, se necessário."
 
 #: apps/course_metadata/models.py:3000
 msgid "Change careers"
@@ -2302,7 +2302,7 @@ msgid ""
 "Request could not be completed due to an incorrect ElasticSearch query "
 "parameters"
 msgstr ""
-"O seu pedido não pôde ser concluído devido a um parâmetro de consulta "
+"O teu pedido não pôde ser concluído devido a um parâmetro de consulta "
 "ElasticSearch incorrecto"
 
 #: apps/ietf_language_tags/models.py:34

@@ -37,12 +37,12 @@ msgid ""
 "connection. Try refreshing the page or making sure you are online."
 msgstr ""
 "Ocorreu este problema provavelmente devido a um erro com o nosso servidor ou"
-" com a sua ligação à Internet. Atualize a página ou certifique-se que está "
+" com a tua ligação à Internet. Atualize a página ou certifique-se que está "
 "online."
 
 #: cms/static/cms/js/main.js:47
 msgid "Studio's having trouble saving your work"
-msgstr "O Studio está a ter problemas em gravar o seu trabalho"
+msgstr "O Studio está a ter problemas em gravar o teu trabalho"
 
 #: cms/static/cms/js/xblock/cms.runtime.v1.js:98
 msgid "OpenAssessment Save Error"
@@ -109,7 +109,7 @@ msgstr "Desactivando"
 
 #: cms/static/js/certificates/views/certificates_list.js:19
 msgid "Set up your certificate"
-msgstr "Configure o seu certificado"
+msgstr "Configure o teu certificado"
 
 #. Translators: This line refers to the initial state of the form when no data
 #. has been inserted
@@ -321,12 +321,12 @@ msgstr ""
 
 #: cms/static/js/features/import/factories/import.js:121
 msgid "Your import has failed."
-msgstr "A sua importação falhou."
+msgstr "A tua importação falhou."
 
 #: cms/static/js/features/import/views/import.js:66
 msgid "Your import is in progress; navigating away will abort it."
 msgstr ""
-"A sua importação está em progresso; se sair desta paginá, irá abortar o "
+"A tua importação está em progresso; se sair desta paginá, irá abortar o "
 "processo."
 
 #: cms/static/js/features/import/views/import.js:253
@@ -538,7 +538,7 @@ msgstr "Copiado"
 #: cms/static/js/views/active_video_upload.js:42
 #: cms/static/js/views/assets.js:213
 msgid "Your file could not be uploaded"
-msgstr "Não foi possível enviar o seu ficheiro"
+msgstr "Não foi possível enviar o teu ficheiro"
 
 #. #-#-#-#-#  djangojs.po (0.1a)  #-#-#-#-#
 #. Translators: this is a message from the raw HTML editor displayed in the
@@ -564,7 +564,7 @@ msgstr "Carregar Vídeos"
 
 #: cms/static/js/views/active_video_upload_list.js:30
 msgid "Drag and drop or {spanStart}browse your computer{spanEnd}."
-msgstr "Arraste e solte ou {spanStart}navegue no seu computador {spanEnd}."
+msgstr "Arraste e solte ou {spanStart}navegue no teu computador {spanEnd}."
 
 #: cms/static/js/views/active_video_upload_list.js:57
 msgid "Maximum file size: {maxFileSize} GB"
@@ -623,7 +623,7 @@ msgstr ""
 
 #: cms/static/js/views/asset.js:64
 msgid "Your file has been deleted."
-msgstr "O seu ficheiro foi eliminado."
+msgstr "O teu ficheiro foi eliminado."
 
 #. #-#-#-#-#  djangojs.po (0.1a)  #-#-#-#-#
 #. Translators: this is a message from the raw HTML editor displayed in the
@@ -888,8 +888,8 @@ msgid ""
 "to identify the failed component. Inspect your library to identify any "
 "problematic components and try again."
 msgstr ""
-"A sua biblioteca não pode ser exportada para XML. Não há informação "
-"suficiente que permita identificar a componente com falha. Verifique, na sua"
+"A tua biblioteca não pode ser exportada para XML. Não há informação "
+"suficiente que permita identificar a componente com falha. Verifique, na tua"
 " biblioteca, quaisquer componentes problemáticos e tente novamente."
 
 #: cms/static/js/views/export.js:339
@@ -902,8 +902,8 @@ msgid ""
 " identify the failed component. Inspect your course to identify any "
 "problematic components and try again."
 msgstr ""
-"O seu curso não pode ser exportado para XML. Não há informação suficiente "
-"que permita identificar a componente com falha. Inspeccione o seu curso para"
+"O teu curso não pode ser exportado para XML. Não há informação suficiente "
+"que permita identificar a componente com falha. Inspeccione o teu curso para"
 " identificar quaisquer componentes problemáticos e tente novamente."
 
 #: cms/static/js/views/export.js:344
@@ -916,7 +916,7 @@ msgstr "A mensagem de erro em bruto é:"
 
 #: cms/static/js/views/export.js:348
 msgid "There has been an error with your export."
-msgstr "Ocorreu um erro com a sua exportação."
+msgstr "Ocorreu um erro com a tua exportação."
 
 #. Translators: 'count' is number of groups that the group
 #. configuration contains.
@@ -952,7 +952,7 @@ msgstr "configuração de grupo"
 
 #: cms/static/js/views/group_configurations_list.js:20
 msgid "Add your first group configuration"
-msgstr "Adicionar a sua primeira configuração de grupo"
+msgstr "Adicionar a tua primeira configuração de grupo"
 
 #: cms/static/js/views/group_configurations_list.js:22
 msgid "You have not created any group configurations yet."
@@ -975,7 +975,7 @@ msgstr "Todos os Direitos Reservados"
 
 #: cms/static/js/views/license.js:9
 msgid "You reserve all rights for your work"
-msgstr "Reservam-se todos os direitos do seu trabalho"
+msgstr "Reservam-se todos os direitos do teu trabalho"
 
 #: cms/static/js/views/license.js:12
 msgid "Creative Commons"
@@ -984,7 +984,7 @@ msgstr "Creative Commons"
 #: cms/static/js/views/license.js:13
 msgid "You waive some rights for your work, such that others can use it too"
 msgstr ""
-"Renuncia a alguns direitos do seu trabalho, de modo a que outros também o "
+"Renuncia a alguns direitos do teu trabalho, de modo a que outros também o "
 "possam utilizar"
 
 #: cms/static/js/views/license.js:17
@@ -1001,7 +1001,7 @@ msgid ""
 "but only if they give credit the way you request. Currently, this option is "
 "required."
 msgstr ""
-"Permita que outros copiem, distribuam, exibam e executem o seu trabalho "
+"Permita que outros copiem, distribuam, exibam e executem o teu trabalho "
 "protegido por direitos de autor, mas apenas se derem crédito à forma como o "
 "solicita. Actualmente, esta opção é necessária."
 
@@ -1014,7 +1014,7 @@ msgid ""
 "Allow others to copy, distribute, display and perform your work - and "
 "derivative works based upon it - but for noncommercial purposes only."
 msgstr ""
-"Permita que outros copiem, distribuam, exibam e executem o seu trabalho - e "
+"Permita que outros copiem, distribuam, exibam e executem o teu trabalho - e "
 "trabalhos derivados baseados no mesmo - mas apenas para fins não comerciais."
 
 #: cms/static/js/views/license.js:35
@@ -1028,7 +1028,7 @@ msgid ""
 "incompatible with \"Share Alike\"."
 msgstr ""
 "Permita que outros copiem, distribuam, exibam e executem apenas cópias "
-"verbais da sua obra, e não obras derivadas baseadas nela. Esta opção é "
+"verbais da tua obra, e não obras derivadas baseadas nela. Esta opção é "
 "incompatível com \"Partilhar de igual modo\"."
 
 #: cms/static/js/views/license.js:42
@@ -1042,7 +1042,7 @@ msgid ""
 " Derivatives\"."
 msgstr ""
 "Permita que outros distribuam obras derivadas apenas sob uma licença "
-"idêntica à licença que rege a sua obra. Esta opção é incompatível com \"Sem "
+"idêntica à licença que rege a tua obra. Esta opção é incompatível com \"Sem "
 "Derivados\"."
 
 #. Translators: "item_display_name" is the name of the item to be deleted.
@@ -1244,7 +1244,7 @@ msgstr "Mover"
 
 #: cms/static/js/views/modals/move_xblock_modal.js:38
 msgid "Choose a location to move your component to"
-msgstr "Escolha uma localização para mover o seu componente para"
+msgstr "Escolha uma localização para mover o teu componente para"
 
 #: cms/static/js/views/modals/move_xblock_modal.js:66
 msgid "Move: {displayName}"
@@ -1438,7 +1438,7 @@ msgstr "grupo de conteúdo"
 
 #: cms/static/js/views/partition_group_list.js:23
 msgid "Add your first content group"
-msgstr "Adicione o seu primeiro grupo de conteúdo"
+msgstr "Adicione o teu primeiro grupo de conteúdo"
 
 #: cms/static/js/views/partition_group_list.js:25
 msgid "You have not created any content groups yet."
@@ -1469,7 +1469,7 @@ msgid ""
 "Your changes will not take effect until you save your progress. Take care "
 "with key and value formatting, as validation is not implemented."
 msgstr ""
-"As alterações não terão efeito até que você guarde o seu progresso. "
+"As alterações não terão efeito até que você guarde o teu progresso. "
 "Verifique a formatação da chave e valor pois a validação não está "
 "implementada."
 
@@ -1483,7 +1483,7 @@ msgid ""
 "difficulties, check your formatting."
 msgstr ""
 "Nenhuma validação é realizada sobre a política-chave ou pares-de-valores. Se"
-" tiver dificuldade, verifique a sua formatação."
+" tiver dificuldade, verifique a tua formatação."
 
 #: cms/static/js/views/settings/grader.js:58
 msgid ""
@@ -1510,15 +1510,15 @@ msgstr "{hours}: {minutes} (hora UTC atual)"
 
 #: cms/static/js/views/settings/main.js:460
 msgid "Upload your course image."
-msgstr "Faça upload da imagem do seu curso."
+msgstr "Faça upload da imagem do teu curso."
 
 #: cms/static/js/views/settings/main.js:466
 msgid "Upload your banner image."
-msgstr "Carregue a sua imagem de banner."
+msgstr "Carregue a tua imagem de banner."
 
 #: cms/static/js/views/settings/main.js:472
 msgid "Upload your video thumbnail image."
-msgstr "Carregue a sua imagem em miniatura do vídeo."
+msgstr "Carregue a tua imagem em miniatura do vídeo."
 
 #: cms/static/js/views/show_textbook.js:33
 msgid "Delete “<%- name %>”?"
@@ -1530,7 +1530,7 @@ msgid ""
 " your courseware's navigation will also be removed."
 msgstr ""
 "A ação de eliminar um livro didático não pode ser anulada. Assim que "
-"eliminado, qualquer referência dele na navegação pelo seu seu material "
+"eliminado, qualquer referência dele na navegação pelo teu teu material "
 "didático também será eliminada. "
 
 #: cms/static/js/views/tabs.js:160
@@ -1579,7 +1579,7 @@ msgid ""
 "Move cancelled. \"{sourceDisplayName}\" has been moved back to its original "
 "location."
 msgstr ""
-"Mudança cancelada. \"{sourceDisplayName}\" foi mudado de novo para a sua "
+"Mudança cancelada. \"{sourceDisplayName}\" foi mudado de novo para a tua "
 "localização original."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:76
@@ -1648,7 +1648,7 @@ msgstr "Fez algumas alterações"
 #: cms/static/js/views/validation.js:23
 msgid "Your changes will not take effect until you save your progress."
 msgstr ""
-"As suas alterações não terão efeito até que você guarde seu progresso."
+"As tuas alterações não terão efeito até que você guarde teu progresso."
 
 #: cms/static/js/views/validation.js:24
 msgid "You've made some changes, but there are some errors"
@@ -1658,7 +1658,7 @@ msgstr "Fez algumas alterações, mas há alguns erros"
 msgid ""
 "Please address the errors on this page first, and then save your progress."
 msgstr ""
-"Por favor, primeiro corrija os erros nesta página e depois guarde o seu "
+"Por favor, primeiro corrija os erros nesta página e depois guarde o teu "
 "progresso. "
 
 #: cms/static/js/views/validation.js:118
@@ -1670,7 +1670,7 @@ msgstr "Guardar Alterações"
 #: lms/static/js/discussions_management/views/divided_discussions_inline.js:143
 #: lms/static/js/views/fields.js:73
 msgid "Your changes have been saved."
-msgstr "As suas alterações foram guardadas."
+msgstr "As tuas alterações foram guardadas."
 
 #: cms/static/js/views/video/transcripts/file_uploader.js:115
 msgid "Please select a file in .srt format."
@@ -1968,7 +1968,7 @@ msgid ""
 "Your request could not be completed. Reload the page and try again. If the "
 "issue persists, click the Help tab to report the problem."
 msgstr ""
-"O seu pedido não pôde ser concluído. Atualize a página e tente de novo. Se o"
+"O teu pedido não pôde ser concluído. Atualize a página e tente de novo. Se o"
 " problema persistir, clique no separador de Ajuda para o reportar."
 
 #: common/static/common/js/components/views/paging_header.js:38
@@ -1986,7 +1986,7 @@ msgstr "Carregando conteúdo"
 #: common/static/common/js/discussion/utils.js:211
 msgid "Your request could not be processed. Refresh the page and try again."
 msgstr ""
-"O seu pedido não pôde ser processado. Atualize a página e tente de novo."
+"O teu pedido não pôde ser processado. Atualize a página e tente de novo."
 
 #: common/static/common/js/discussion/utils.js:484
 #: common/static/common/js/discussion/utils.js:506
@@ -2145,7 +2145,7 @@ msgstr ""
 
 #: common/static/common/js/discussion/views/discussion_thread_list_view.js:548
 msgid "No posts matched your query."
-msgstr "Nenhuma publicação corresponde à sua pesquisa."
+msgstr "Nenhuma publicação corresponde à tua pesquisa."
 
 #: common/static/common/js/discussion/views/discussion_thread_list_view.js:586
 msgid "Show posts by {username}."
@@ -2241,7 +2241,7 @@ msgstr "%(field)s pode conter apenas até%(count)d caracteres."
 
 #: common/static/common/js/utils/edx.utils.validate.js:31
 msgid "Please enter your %(field)s."
-msgstr "Por favor insira o seu %(field)s."
+msgstr "Por favor insira o teu %(field)s."
 
 #: common/static/js/capa/drag_and_drop/base_image.js:14
 msgid "Drop target image"
@@ -2349,11 +2349,11 @@ msgstr "Crie um relatório de respostas a problemas"
 
 #: lms/djangoapps/instructor/static/instructor/ProblemBrowser/components/ReportStatus/ReportStatus.jsx:13
 msgid "Your report is being generated..."
-msgstr "O seu relatório está a ser criado..."
+msgstr "O teu relatório está a ser criado..."
 
 #: lms/djangoapps/instructor/static/instructor/ProblemBrowser/components/ReportStatus/ReportStatus.jsx:20
 msgid "Your report has been successfully generated."
-msgstr "O seu relatório foi criado com sucesso."
+msgstr "O teu relatório foi criado com sucesso."
 
 #: lms/djangoapps/instructor/static/instructor/ProblemBrowser/components/ReportStatus/ReportStatus.jsx:25
 msgid "View Report"
@@ -2365,7 +2365,7 @@ msgstr "Houve um erro ao criar o link do relatório."
 
 #: lms/djangoapps/instructor/static/instructor/ProblemBrowser/data/actions/problemResponses.js:67
 msgid "There was an error generating your report."
-msgstr "Houve um erro ao criar o seu relatório."
+msgstr "Houve um erro ao criar o teu relatório."
 
 #: lms/djangoapps/instructor/static/instructor/ProblemBrowser/data/actions/problemResponses.js:70
 msgid "Unable to get report generation status."
@@ -2530,16 +2530,16 @@ msgid ""
 "Select a course or select \"Not specific to a course\" for your support "
 "request."
 msgstr ""
-"Selecione um recurso ou selecione \"Não é específico de um recurso\" para o seu "
+"Selecione um recurso ou selecione \"Não é específico de um recurso\" para o teu "
 "pedido de apoio."
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx:48
 msgid "Select a subject for your support request."
-msgstr "Selecione um assunto para o seu pedido de apoio."
+msgstr "Selecione um assunto para o teu pedido de apoio."
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx:49
 msgid "Enter some details for your support request."
-msgstr "Introduza detalhes para o seu pedido de apoio."
+msgstr "Introduza detalhes para o teu pedido de apoio."
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx:341
 #: lms/djangoapps/support/static/support/jsx/success.jsx:28
@@ -2565,8 +2565,8 @@ msgid ""
 "Thank you for submitting a request! We appreciate your patience while we "
 "work to review your request."
 msgstr ""
-"Obrigado por submeter o pedido! Agradecemos a sua paciência enquanto "
-"trabalhamos para rever seu pedido."
+"Obrigado por submeter o pedido! Agradecemos a tua paciência enquanto "
+"trabalhamos para rever teu pedido."
 
 #: lms/djangoapps/support/static/support/jsx/upload_progress.jsx:25
 msgid "Cancel upload"
@@ -2612,7 +2612,7 @@ msgstr "Nome de equipa (obrigatório) *"
 
 #: lms/djangoapps/teams/static/teams/js/views/edit_team.js:46
 msgid "A name that identifies your team (maximum 255 characters)."
-msgstr "Um nome que identifique a sua equipa (máximo de 255 caracteres)."
+msgstr "Um nome que identifique a tua equipa (máximo de 255 caracteres)."
 
 #: lms/djangoapps/teams/static/teams/js/views/edit_team.js:51
 msgid "Team Description (Required) *"
@@ -2768,7 +2768,7 @@ msgid ""
 "If you leave, you can no longer post in this team's discussions.Your place "
 "will be available to another learner."
 msgstr ""
-"Se você sair, não poderá publicar nas discussões desta equipa, o seu lugar "
+"Se você sair, não poderá publicar nas discussões desta equipa, o teu lugar "
 "ficará disponível para outro aluno."
 
 #: lms/djangoapps/teams/static/teams/js/views/team_profile.js:147
@@ -2820,7 +2820,7 @@ msgstr "Explorar"
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:206
 msgid "Your request could not be completed. Reload the page and try again."
 msgstr ""
-"Não foi possível completar o seu pedido. Atualize a página e tente "
+"Não foi possível completar o teu pedido. Atualize a página e tente "
 "novamente."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:210
@@ -2829,7 +2829,7 @@ msgid ""
 " and try again. If the issue persists, click the Help tab to report the "
 "problem."
 msgstr ""
-"Não foi possível completar o seu pedido devido a um problema no servidor. "
+"Não foi possível completar o teu pedido devido a um problema no servidor. "
 "Atualize a página e tente novamente. Se o problema persistir, clique no "
 "separador de Ajuda para o reportar."
 
@@ -2888,7 +2888,7 @@ msgid ""
 "by topic. Join an open public team to collaborate with other learners who "
 "are interested in the same topic as you are."
 msgstr ""
-"Veja todas as equipas a que pertence e todas as equipas públicas do seu "
+"Veja todas as equipas a que pertence e todas as equipas públicas do teu "
 "recurso, organizadas por tópico. Junte-se a uma equipa pública aberta para "
 "colaborar com outros alunos interessados no mesmo tópico."
 
@@ -2897,7 +2897,7 @@ msgid ""
 "See all teams you belong to and all public teams in your course, organized "
 "by topic."
 msgstr ""
-"Veja todas as equipas a que pertence e todas as equipas públicas do seu "
+"Veja todas as equipas a que pertence e todas as equipas públicas do teu "
 "recurso, organizadas por tópico."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:549
@@ -2988,7 +2988,7 @@ msgid ""
 "machine. (e.g. 'http://example.com/img/clouds.jpg')"
 msgstr ""
 "Insira um URL ou use o botão \"Escolher arquivo\" para carregar um ficheiro "
-"da sua máquina. (Por exemplo, \"http://example.com/img/clouds.jpg')"
+"da tua máquina. (Por exemplo, \"http://example.com/img/clouds.jpg')"
 
 #: lms/static/js/Markdown.Editor.js:37
 msgid "Image Description"
@@ -3131,9 +3131,9 @@ msgid ""
 "You have been logged out of your account. Click Okay to log in again now. "
 "Click Cancel to stay on this page (you must log in again to save your work)."
 msgstr ""
-"Foi desconectado da sua conta. Clique em Ok para iniciar sessão novamente "
+"Foi desconectado da tua conta. Clique em Ok para iniciar sessão novamente "
 "agora. Clique em Cancelar para permanecer nesta página (tem de iniciar "
-"sessão novamente para guardar o seu trabalho)."
+"sessão novamente para guardar o teu trabalho)."
 
 #: lms/static/js/api_admin/views/catalog_preview.js:25
 msgid "Preview this query"
@@ -3347,7 +3347,7 @@ msgid ""
 "running the grade for this learner."
 msgstr ""
 "O certificado para este aluno foi revalidado e o sistema encontra-se a "
-"processar a sua nota."
+"processar a tua nota."
 
 #: lms/static/js/certificates/views/certificate_invalidation_view.js:107
 msgid ""
@@ -3359,7 +3359,7 @@ msgstr ""
 
 #: lms/static/js/course_survey.js:76
 msgid "There has been an error processing your survey."
-msgstr "Ocorreu um erro ao processar o seu inquérito."
+msgstr "Ocorreu um erro ao processar o teu inquérito."
 
 #: lms/static/js/courseware/credit_progress.js:7
 #: lms/static/js/courseware/credit_progress.js:14
@@ -3391,7 +3391,7 @@ msgstr "Pré-visualizar"
 #: lms/static/js/customwmd.js:200
 #: common/static/common/templates/discussion/templates.underscore:470
 msgid "Your question or idea (required)"
-msgstr "A sua pergunta ou ideia (obrigatório)"
+msgstr "A tua pergunta ou ideia (obrigatório)"
 
 #: lms/static/js/dashboard/donation.js:174
 msgid "Please enter a valid donation amount."
@@ -3399,7 +3399,7 @@ msgstr "Por favor insira um valor válido de doação."
 
 #: lms/static/js/dashboard/donation.js:205
 msgid "Your donation could not be submitted."
-msgstr "Não foi possível submeter a sua doação."
+msgstr "Não foi possível submeter a tua doação."
 
 #: lms/static/js/dashboard/legacy.js:93 lms/static/js/dashboard/legacy.js:108
 msgid "You will be refunded the amount you paid."
@@ -3420,7 +3420,7 @@ msgstr ""
 #: lms/static/js/dashboard/legacy.js:100
 msgid "Are you sure you want to unenroll from {courseName} ({courseNumber})?"
 msgstr ""
-"Tem a certeza que quer desistir da sua inscrição no recurso {courseName} "
+"Tem a certeza que quer desistir da tua inscrição no recurso {courseName} "
 "({courseNumber})?"
 
 #: lms/static/js/dashboard/legacy.js:103 lms/static/js/dashboard/legacy.js:106
@@ -3428,7 +3428,7 @@ msgid ""
 "Are you sure you want to unenroll from the verified {certNameLong}  track of"
 " {courseName}  ({courseNumber})?"
 msgstr ""
-"Tem a certeza de que quer cancelar a sua inscrição em modo validado "
+"Tem a certeza de que quer cancelar a tua inscrição em modo validado "
 "{certNameLong} do recurso {courseName}  ({courseNumber})?"
 
 #: lms/static/js/dashboard/legacy.js:110
@@ -3436,7 +3436,7 @@ msgid ""
 "Are you sure you want to unenroll from the verified {certNameLong} track of "
 "{courseName} ({courseNumber})?"
 msgstr ""
-"Tem a certeza de que quer cancelar a sua inscrição em modo validado "
+"Tem a certeza de que quer cancelar a tua inscrição em modo validado "
 "{certNameLong} do recurso {courseName} ({courseNumber})?"
 
 #: lms/static/js/dashboard/legacy.js:112
@@ -3498,7 +3498,7 @@ msgid ""
 "see and respond to each others’ posts."
 msgstr ""
 "Use os modos de inscrição como base para dividir os debates. Todos os "
-"alunos, independentemente do seu modo de inscrição, vêem os mesmos "
+"alunos, independentemente do teu modo de inscrição, vêem os mesmos "
 "tópicos de debate mas, dentro de tópicos divididos, apenas os alunos que"
 " estão no mesmo modo veem e respondem às publicações dos outros."
 
@@ -3534,11 +3534,11 @@ msgstr ""
 
 #: lms/static/js/discussions_management/views/discussions.js:195
 msgid "Your changes have been saved. {details}"
-msgstr "As suas alterações foram guardadas. {details}"
+msgstr "As tuas alterações foram guardadas. {details}"
 
 #: lms/static/js/discussions_management/views/discussions.js:210
 msgid "We have encountered an error. Refresh your browser and then try again."
-msgstr "Foi encontrado um erro. Atualize o seu browser e tente novamente."
+msgstr "Foi encontrado um erro. Atualize o teu browser e tente novamente."
 
 #: lms/static/js/discussions_management/views/divided_discussions.js:63
 #: lms/static/js/discussions_management/views/divided_discussions_course_wide.js:80
@@ -3546,7 +3546,7 @@ msgstr "Foi encontrado um erro. Atualize o seu browser e tente novamente."
 #: lms/static/js/groups/views/cohort_form.js:163
 #: lms/static/js/groups/views/cohorts.js:137
 msgid "We've encountered an error. Refresh your browser and then try again."
-msgstr "Foi encontrado em erro. Atualize o seu browser e tente novamente."
+msgstr "Foi encontrado em erro. Atualize o teu browser e tente novamente."
 
 #: lms/static/js/edxnotes/views/notes_visibility_factory.js:14
 #: lms/static/js/edxnotes/views/search_box.js:19
@@ -3554,7 +3554,7 @@ msgid ""
 "An error has occurred. Make sure that you are connected to the Internet, and"
 " then try refreshing the page."
 msgstr ""
-"Ocorreu um erro. Verifique a sua ligação de internet e depois tente "
+"Ocorreu um erro. Verifique a tua ligação de internet e depois tente "
 "atualizar a página."
 
 #: lms/static/js/edxnotes/views/notes_visibility_factory.js:75
@@ -3630,7 +3630,7 @@ msgstr "Impossível apresentar a candidatura."
 #: lms/static/js/student_account/views/LoginView.js:220
 msgid "An error has occurred. Check your Internet connection and try again."
 msgstr ""
-"Ocorreu um erro. Verifique a sua ligação à internet e tente novamente."
+"Ocorreu um erro. Verifique a tua ligação à internet e tente novamente."
 
 #: lms/static/js/financial-assistance/views/financial_assistance_form_view.js:158
 msgid "Choose one"
@@ -3775,7 +3775,7 @@ msgstr "Enviar Ficheiro e Designar Alunos"
 msgid ""
 "Your file '{file}' has been uploaded. Allow a few minutes for processing."
 msgstr ""
-"O seu ficheiro '{file}' foi carregado. Aguarde uns minutos para concluir o "
+"O teu ficheiro '{file}' foi carregado. Aguarde uns minutos para concluir o "
 "processamento."
 
 #: lms/static/js/groups/views/course_cohort_settings_notification.js:31
@@ -3965,8 +3965,8 @@ msgid ""
 "Error: User '<%- username %>' has not yet activated their account. Users "
 "must create and activate their accounts before they can be assigned a role."
 msgstr ""
-"Erro: O utilizador   '<%- username %>' ainda não activou a sua conta. Os "
-"utilizadores devem criar e ativar as suas contas para lhes ser atribuída uma"
+"Erro: O utilizador   '<%- username %>' ainda não activou a tua conta. Os "
+"utilizadores devem criar e ativar as tuas contas para lhes ser atribuída uma"
 " função."
 
 #: lms/static/js/instructor_dashboard/membership.js:283
@@ -4020,7 +4020,7 @@ msgid ""
 "not yet activated:"
 msgstr ""
 "Estes utilizadores não foram adicionados como utilizadores beta porque as "
-"suas contas não foram ainda ativadas:"
+"tuas contas não foram ainda ativadas:"
 
 #. Translators: A list of users appears after this sentence;
 #: lms/static/js/instructor_dashboard/membership.js:545
@@ -4048,7 +4048,7 @@ msgid ""
 "Users must create and activate their account before they can be promoted to "
 "beta tester."
 msgstr ""
-"Os utilizadores devem criar e ativar a sua conta antes de serem promovidos a"
+"Os utilizadores devem criar e ativar a tua conta antes de serem promovidos a"
 " utilizadores beta."
 
 #: lms/static/js/instructor_dashboard/membership.js:617
@@ -4121,27 +4121,27 @@ msgstr "Os seguintes utilizadores já não estão inscritos no recurso:"
 msgid ""
 "These users were not affiliated with the course so could not be unenrolled:"
 msgstr ""
-"Estes utilizadores não foram inscritos no recurso por isso a sua inscrição não"
+"Estes utilizadores não foram inscritos no recurso por isso a tua inscrição não"
 " pode ser anulada:"
 
 #: lms/static/js/instructor_dashboard/send_email.js:68
 msgid "Your message must have a subject."
-msgstr "A sua mensagem deve ter um assunto."
+msgstr "A tua mensagem deve ter um assunto."
 
 #: lms/static/js/instructor_dashboard/send_email.js:70
 msgid "Your message cannot be blank."
-msgstr "A sua mensagem não pode estar em branco."
+msgstr "A tua mensagem não pode estar em branco."
 
 #: lms/static/js/instructor_dashboard/send_email.js:73
 msgid "Your message must have at least one target."
-msgstr "A sua mensagem tem de ter pelo menos um alvo."
+msgstr "A tua mensagem tem de ter pelo menos um alvo."
 
 #: lms/static/js/instructor_dashboard/send_email.js:78
 msgid ""
 "There are invalid keywords in your email. Check the following keywords and "
 "try again."
 msgstr ""
-"Existem palavras-chave inválidas no seu email. Verifique as seguintes "
+"Existem palavras-chave inválidas no teu email. Verifique as seguintes "
 "palavras-chave e tente novamente."
 
 #: lms/static/js/instructor_dashboard/send_email.js:85
@@ -4170,7 +4170,7 @@ msgid ""
 "large number of learners, email messages to learners might take up to an "
 "hour to be sent."
 msgstr ""
-"O seu email foi colocado com sucesso na fila de espera para envio. Em recurso"
+"O teu email foi colocado com sucesso na fila de espera para envio. Em recurso"
 " com um grande número de alunos, as mensagens por email podem levar até "
 "uma hora para serem enviadas."
 
@@ -4535,7 +4535,7 @@ msgid ""
 "An error occurred retrieving your email. Please try again later, and contact"
 " technical support if the problem persists."
 msgstr ""
-"Ocorreu um erro ao recuperar o seu email. Por favor, tente novamente mais "
+"Ocorreu um erro ao recuperar o teu email. Por favor, tente novamente mais "
 "tarde e contate o suporte técnico se o problema persistir."
 
 #: lms/static/js/instructor_dashboard/util.js:207
@@ -4603,7 +4603,7 @@ msgid ""
 "To access the courses available to you through {enterpriseName}, visit the "
 "{enterpriseName} dashboard."
 msgstr ""
-"Para aceder aos recursos à sua disposição através de {enterpriseName}, visite "
+"Para aceder aos recursos à tua disposição através de {enterpriseName}, visite "
 "o painel de controlo de {enterpriseName}."
 
 #: lms/static/js/learner_dashboard/EnterpriseLearnerPortalModal.jsx:160
@@ -4683,7 +4683,7 @@ msgstr "Tem a certeza que pretende sair desta sessão?"
 msgid ""
 "Your unenrollment request could not be processed. Please try again later."
 msgstr ""
-"O seu pedido de cancelamento de matricula não pode ser processado. Por "
+"O teu pedido de cancelamento de matricula não pode ser processado. Por "
 "favor, tente novamente mais tarde."
 
 #: lms/static/js/learner_dashboard/views/entitlement_unenrollment_view.js:118
@@ -4752,7 +4752,7 @@ msgstr "Não foi possível substituir a pontuação do problema para {user}"
 
 #: lms/static/js/student_account/components/PasswordResetConfirmation.jsx:93
 msgid "Enter and confirm your new password."
-msgstr "Insira e confirme a sua nova palavra-passe."
+msgstr "Insira e confirme a tua nova palavra-passe."
 
 #: lms/static/js/student_account/components/PasswordResetConfirmation.jsx:99
 msgid "New Password"
@@ -4774,7 +4774,7 @@ msgstr "Redefinir a minha Palavra-passe"
 #: lms/static/js/student_account/views/account_settings_factory.js:171
 #: lms/static/js/student_account/views/account_settings_factory.js:175
 msgid "Reset Your Password"
-msgstr "Redefinir a sua palavra-passe"
+msgstr "Redefinir a tua palavra-passe"
 
 #: lms/static/js/student_account/components/PasswordResetInput.jsx:15
 msgid "Error: "
@@ -4788,7 +4788,7 @@ msgid ""
 " with deletion."
 msgstr ""
 "Também pode perder o acesso a certificados verificados e outras credenciais "
-"de programas. Pode fazer uma cópia destes para os seus registos antes de "
+"de programas. Pode fazer uma cópia destes para os teus registos antes de "
 "proceder com a remoção."
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx:46
@@ -4807,7 +4807,7 @@ msgstr "Antes de prosseguir, por favor {htmlStart}{emailMsg}{htmlEnd}."
 msgid ""
 "{htmlStart}Want to change your email, name, or password instead?{htmlEnd}"
 msgstr ""
-"{htmlStart}Em alternativa, pretende alterar o seu email, nome ou palavra-"
+"{htmlStart}Em alternativa, pretende alterar o teu email, nome ou palavra-"
 "passe?{htmlEnd}"
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx:71
@@ -4828,8 +4828,8 @@ msgid ""
 "cannot be undone. {platformName} will not be able to recover your account or"
 " the data that is deleted."
 msgstr ""
-"Atenção: Apagar a sua conta e dados pessoais é permanente e não poderá ser "
-"anulada. {platformName} não será capaz de recuperar sua conta ou os dados "
+"Atenção: Apagar a tua conta e dados pessoais é permanente e não poderá ser "
+"anulada. {platformName} não será capaz de recuperar tua conta ou os dados "
 "que são excluídos."
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx:87
@@ -4837,7 +4837,7 @@ msgid ""
 "Once your account is deleted, you cannot use it to take courses on the "
 "{platformName} app, {siteName}, or any other site hosted by {platformName}."
 msgstr ""
-"Uma vez apagada a sua conta, não pode usá-la para fazer recurso na aplicação "
+"Uma vez apagada a tua conta, não pode usá-la para fazer recurso na aplicação "
 "{platformName}, {siteName} ou qualquer outro site hospedado por "
 "{platformName}."
 
@@ -4847,7 +4847,7 @@ msgid ""
 "This includes access to {siteName} from your employer’s or university’s "
 "system{additionalSiteSpecificDeletionText}."
 msgstr ""
-"Isto inclui o acesso a {siteName} a partir do sistema do seu empregador ou "
+"Isto inclui o acesso a {siteName} a partir do sistema do teu empregador ou "
 "da universidade{additionalSiteSpecificDeletionText}."
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx:104
@@ -4869,14 +4869,14 @@ msgstr "Não é possível eliminar a conta"
 
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx:58
 msgid "Please re-enter your password."
-msgstr "Por favor, reinsira a sua palavra-passe."
+msgstr "Por favor, reinsira a tua palavra-passe."
 
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx:58
 msgid ""
 "Sorry, there was an error trying to process your request. Please try again "
 "later."
 msgstr ""
-"Lamentamos, ocorreu um erro enquanto tentávamos processar o seu pedido. Por "
+"Lamentamos, ocorreu um erro enquanto tentávamos processar o teu pedido. Por "
 "favor, tente novamente mais tarde."
 
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx:79
@@ -4889,9 +4889,9 @@ msgid ""
 " data is permanent and cannot be undone. {platformName} will not be able to "
 "recover your account or the data that is deleted."
 msgstr ""
-"Você selecionou “Apagar a minha conta.“ A exclusão da sua conta e dados "
+"Você selecionou “Apagar a minha conta.“ A exclusão da tua conta e dados "
 "pessoais é permanente e não pode ser anulada. {platformName} não será capaz "
-"de recuperar sua conta ou os dados que são excluídos."
+"de recuperar tua conta ou os dados que são excluídos."
 
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx:107
 msgid ""
@@ -4908,7 +4908,7 @@ msgid ""
 "If you still wish to continue and delete your account, please enter your "
 "account password:"
 msgstr ""
-"Se ainda pretende continuar e apagar a sua conta, por favor introduza a sua "
+"Se ainda pretende continuar e apagar a tua conta, por favor introduza a tua "
 "palavra-passe:"
 
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx:190
@@ -4917,7 +4917,7 @@ msgstr "Sim, eliminar"
 
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx:204
 msgid "We're sorry to see you go! Your account will be deleted shortly."
-msgstr "Temos pena que se vá embora. A sua conta será removida imediatamente."
+msgstr "Temos pena que se vá embora. A tua conta será removida imediatamente."
 
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx:206
 msgid ""
@@ -4937,7 +4937,7 @@ msgstr "Termos de Serviço e Código de Honra"
 
 #: lms/static/js/student_account/views/FinishAuthView.js:109
 msgid "Saving your email preference"
-msgstr "A guardar a sua preferência de email"
+msgstr "A guardar a tua preferência de email"
 
 #: lms/static/js/student_account/views/FinishAuthView.js:127
 msgid "Enrolling you in the selected course"
@@ -4945,11 +4945,11 @@ msgstr "Inscrevendo-o/a no recurso selecionado"
 
 #: lms/static/js/student_account/views/FinishAuthView.js:159
 msgid "Adding the selected course to your cart"
-msgstr "A adicionar o recurso selecionado ao seu carrinho"
+msgstr "A adicionar o recurso selecionado ao teu carrinho"
 
 #: lms/static/js/student_account/views/FinishAuthView.js:172
 msgid "Loading your courses"
-msgstr "Carregando os seus recursos"
+msgstr "Carregando os teus recursos"
 
 #: lms/static/js/student_account/views/FormView.js:20
 #: lms/static/js/student_account/views/RegisterView.js:150
@@ -4975,7 +4975,7 @@ msgstr "Ocorreu um erro ao iniciar sessão em %s."
 #: lms/static/js/student_account/views/LoginView.js:171
 #: lms/templates/verify_student/intro_step.underscore:38
 msgid "Check Your Email"
-msgstr "Verifique o Seu Email"
+msgstr "Verifique o Teu Email"
 
 #: lms/static/js/student_account/views/LoginView.js:173
 msgid ""
@@ -4988,11 +4988,11 @@ msgid ""
 "assistance, {anchorStart}contact technical support{anchorEnd}.{paragraphEnd}"
 msgstr ""
 "{paragraphStart} Você entrou {boldStart}{email}{boldEnd}. Se este endereço "
-"de e-mail estiver associado à sua conta {platform_name}, enviaremos uma "
+"de e-mail estiver associado à tua conta {platform_name}, enviaremos uma "
 "mensagem com instruções de recuperação de palavra-chave para este endereço "
 "de e-mail. {paragraphEnd} {paragraphStart} Se você não receber uma mensagem "
 "de redefinição de palavra-chave após 1 minuto, verifique se inseriu o "
-"endereço de e-mail correto ou verifique sua pasta de spam. {paragraphEnd} "
+"endereço de e-mail correto ou verifique tua pasta de spam. {paragraphEnd} "
 "{paragraphStart} Se precisar de mais assistência, {anchorStart}contate o "
 "suporte técnico{anchorEnd}. {paragraphEnd}"
 
@@ -5001,7 +5001,7 @@ msgid ""
 "An error has occurred. Try refreshing the page, or check your Internet "
 "connection."
 msgstr ""
-"Ocorreu um erro. Tente atualizar a página ou verifique a sua ligação de "
+"Ocorreu um erro. Tente atualizar a página ou verifique a tua ligação de "
 "internet."
 
 #: lms/static/js/student_account/views/LoginView.js:225
@@ -5012,9 +5012,9 @@ msgid ""
 "your spam folders or  {anchorStart}contact {platform_name} "
 "Support{anchorEnd}."
 msgstr ""
-"Para fazer login, precisa ativar sua conta. {line_break} {line_break} "
+"Para fazer login, precisa ativar tua conta. {line_break} {line_break} "
 "Acabámos de enviar um link de ativação para {strong_start} {email} "
-"{strong_end}. Se não receber um e-mail, verifique suas pastas de spam ou "
+"{strong_end}. Se não receber um e-mail, verifique tuas pastas de spam ou "
 "{anchorStart}contate o suporte {platform_name}{anchorEnd}."
 
 #: lms/static/js/student_account/views/LoginView.js:249
@@ -5027,14 +5027,14 @@ msgid ""
 "%(currentProvider)s account does not have a linked %(platformName)s account."
 " To link your accounts, sign in now using your %(platformName)s password."
 msgstr ""
-"Iniciou sessão com sucesso em %(currentProvider)s, mas a sua conta "
+"Iniciou sessão com sucesso em %(currentProvider)s, mas a tua conta "
 "%(currentProvider)s não está vinculada a uma conta %(platformName)s. Para "
-"vincular as suas contas, inicie sessão com a palavra-passe usada em "
+"vincular as tuas contas, inicie sessão com a palavra-passe usada em "
 "%(platformName)s."
 
 #: lms/static/js/student_account/views/RegisterView.js:45
 msgid "We couldn't create your account."
-msgstr "Não foi possível criar a sua conta."
+msgstr "Não foi possível criar a tua conta."
 
 #: lms/static/js/student_account/views/RegisterView.js:66
 #: lms/templates/student_account/register.underscore:69
@@ -5062,8 +5062,8 @@ msgid ""
 "Your profile settings are managed by {enterprise_name}. Contact your "
 "administrator or {link_start}edX Support{link_end} for help."
 msgstr ""
-"As suas configurações de perfil são geridas por {enterprise_name}. Para "
-"ajuda, contacte o seu gestor ou {link_start}Suporte edX{link_end}."
+"As tuas configurações de perfil são geridas por {enterprise_name}. Para "
+"ajuda, contacte o teu gestor ou {link_start}Suporte edX{link_end}."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:75
 msgid "Email Address (Sign In)"
@@ -5084,8 +5084,8 @@ msgid ""
 "You may access your account with this address if single-sign on or access to"
 " your primary email is not available."
 msgstr ""
-"Pode aceder à sua conta com este endereço de e-mail se o processo único de "
-"autenticação ou o acesso ao seu e-mail principal não estiver disponível."
+"Pode aceder à tua conta com este endereço de e-mail se o processo único de "
+"autenticação ou o acesso ao teu e-mail principal não estiver disponível."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:103
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:99
@@ -5097,7 +5097,7 @@ msgid ""
 "The name that is used for ID verification and that appears on your "
 "certificates."
 msgstr ""
-"O nome que é utilizado para verificação de ID e que aparece nos seus "
+"O nome que é utilizado para verificação de ID e que aparece nos teus "
 "certificados."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:121
@@ -5115,7 +5115,7 @@ msgstr "Informação básica da conta"
 
 #: lms/static/js/student_account/views/account_settings_factory.js:148
 msgid "These settings include basic information about your account."
-msgstr "Estas configurações incluem informações básicas sobre a sua conta."
+msgstr "Estas configurações incluem informações básicas sobre a tua conta."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:160
 msgid ""
@@ -5132,7 +5132,7 @@ msgstr "Palavra-passe"
 #: lms/static/js/student_account/views/account_settings_factory.js:177
 msgid "Check your email account for instructions to reset your password."
 msgstr ""
-"Verifique a sua conta de email para instruções acerca da redefinição da sua "
+"Verifique a tua conta de email para instruções acerca da redefinição da tua "
 "palavra-passe."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:188
@@ -5157,7 +5157,7 @@ msgid ""
 msgstr ""
 "Selecione o fuso horário para exibir as datas do recurso. Se não for "
 "especificado um fuso horário, as datas do recurso, incluindo os prazos de "
-"atribuição, serão exibidos no fuso horário local do seu navegador."
+"atribuição, serão exibidos no fuso horário local do teu navegador."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:205
 msgid "All Time Zones"
@@ -5194,7 +5194,7 @@ msgid ""
 "the link in the message to update your secondary email address."
 msgstr ""
 "Enviámos um e-mail de confirmação para {new_secondary_email_address}. Clique"
-" no link referido no e-mail e atualize o seu endereço de e-mail secundário."
+" no link referido no e-mail e atualize o teu endereço de e-mail secundário."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:320
 msgid "Social Media Links"
@@ -5205,8 +5205,8 @@ msgid ""
 "Optionally, link your personal accounts to the social media icons on your "
 "edX profile."
 msgstr ""
-"Associe as suas contas pessoais, opcionalmente, aos ícones das redes sociais"
-" no seu perfil edX."
+"Associe as tuas contas pessoais, opcionalmente, aos ícones das redes sociais"
+" no teu perfil edX."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:332
 msgid "{platform_display_name} Link"
@@ -5217,7 +5217,7 @@ msgid ""
 "Enter your {platform_display_name} username or the URL to your "
 "{platform_display_name} page. Delete the URL to remove the link."
 msgstr ""
-"Digite seu nome de utilizador {platform_display_name} ou o URL da página "
+"Digite teu nome de utilizador {platform_display_name} ou o URL da página "
 "{platform_display_name}. Apague o URL para remover o link."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:377
@@ -5230,7 +5230,7 @@ msgid ""
 "You can link your social media accounts to simplify signing in to "
 "{platform_name}."
 msgstr ""
-"Pode vincular as suas contas de redes sociais para simplificar o início da "
+"Pode vincular as tuas contas de redes sociais para simplificar o início da "
 "sessão em {platform_name}."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:401
@@ -5267,7 +5267,7 @@ msgid ""
 "the message to update your email address."
 msgstr ""
 "Foi enviada uma mensagem de confirmação para {new_email_address}. Clique no "
-"endereço da mensagem para atualizar o seu endereço de email."
+"endereço da mensagem para atualizar o teu endereço de email."
 
 #: lms/static/js/student_account/views/account_settings_fields.js:90
 msgid ""
@@ -5283,12 +5283,12 @@ msgid ""
 "support{anchorEnd}."
 msgstr ""
 "Foi enviada uma mensagem para {email}. Clique no link da mensagem para "
-"redefinir a sua palavra-passe. Não recebeu a mensagem? Contacte "
+"redefinir a tua palavra-passe. Não recebeu a mensagem? Contacte "
 "{anchorStart}o suporte técnico{anchorEnd}."
 
 #: lms/static/js/student_account/views/account_settings_fields.js:356
 msgid "Link your {accountName} account"
-msgstr "Ligue a sua conta {accountName}"
+msgstr "Ligue a tua conta {accountName}"
 
 #: lms/static/js/student_account/views/account_settings_fields.js:360
 msgid "Unlink This Account"
@@ -5299,23 +5299,23 @@ msgid ""
 "You can use your {accountName} account to sign in to your {platformName} "
 "account."
 msgstr ""
-"Pode usar a sua conta {accountName} para iniciar a sessão na sua conta "
+"Pode usar a tua conta {accountName} para iniciar a sessão na tua conta "
 "{platformName}."
 
 #: lms/static/js/student_account/views/account_settings_fields.js:367
 msgid "Unlink your {accountName} account"
-msgstr "Desassociar a sua conta {accountName}"
+msgstr "Desassociar a tua conta {accountName}"
 
 #: lms/static/js/student_account/views/account_settings_fields.js:371
 msgid "Link Your Account"
-msgstr "Associe a sua Conta"
+msgstr "Associe a tua Conta"
 
 #: lms/static/js/student_account/views/account_settings_fields.js:374
 msgid ""
 "Link your {accountName} account to your {platformName} account and use "
 "{accountName} to sign in to {platformName}."
 msgstr ""
-"Associe a sua conta {accountName} à sua conta {platformName} e utilize "
+"Associe a tua conta {accountName} à tua conta {platformName} e utilize "
 "{accountName} para iniciar sessão em {platformName}."
 
 #: lms/static/js/student_account/views/account_settings_fields.js:431
@@ -5422,11 +5422,11 @@ msgstr "Não foi possível submeter pedido"
 
 #: lms/static/js/verify_student/views/reverify_view.js:48
 msgid "Take a photo of your ID"
-msgstr "Tire uma fotografia do seu documento de identificação"
+msgstr "Tire uma fotografia do teu documento de identificação"
 
 #: lms/static/js/verify_student/views/reverify_view.js:49
 msgid "Review your info"
-msgstr "Rever a sua informação"
+msgstr "Rever a tua informação"
 
 #: lms/static/js/verify_student/views/step_view.js:51
 msgid "An error has occurred. Please try reloading the page."
@@ -5441,7 +5441,7 @@ msgid ""
 "Please verify that your webcam is connected and that you have allowed your "
 "browser to access it."
 msgstr ""
-"Por favor, verifique se a sua câmara da Web está ligada e se o seu navegador"
+"Por favor, verifique se a tua câmara da Web está ligada e se o teu navegador"
 " tem permissão para aceder à mesma."
 
 #: lms/static/js/verify_student/views/webcam_photo_view.js:187
@@ -5455,7 +5455,7 @@ msgstr "Parece que não tem nenhuma webcam conectada."
 #: lms/static/js/verify_student/views/webcam_photo_view.js:189
 msgid "Double-check that your webcam is connected and working to continue."
 msgstr ""
-"Para continuar, verifique se a sua webcam está conectada e a funcionar."
+"Para continuar, verifique se a tua webcam está conectada e a funcionar."
 
 #: lms/static/js/verify_student/views/webcam_photo_view.js:337
 msgid "Photo Captured successfully."
@@ -5471,7 +5471,7 @@ msgid ""
 "verification."
 msgstr ""
 "Parece que o Flash não está instalado. Por favor instale o Flash para "
-"continuar a sua verificação."
+"continuar a tua verificação."
 
 #: lms/static/js/views/fields.js:38
 msgid "Editable"
@@ -5492,11 +5492,11 @@ msgstr "Espaço Reservado"
 
 #: lms/static/js/views/file_uploader.js:85
 msgid "Your upload of '{file}' succeeded."
-msgstr "O seu envio do '{file}' foi bem sucedido."
+msgstr "O teu envio do '{file}' foi bem sucedido."
 
 #: lms/static/js/views/file_uploader.js:111
 msgid "Your upload of '{file}' failed."
-msgstr "O seu envio de '{file}' falhou."
+msgstr "O teu envio de '{file}' falhou."
 
 #: lms/static/js/views/image_field.js:17
 msgid "Upload an image"
@@ -5623,7 +5623,7 @@ msgid ""
 "Tell other learners a little about yourself: where you live, what your "
 "interests are, why you're taking courses, or what you hope to learn."
 msgstr ""
-"Partilhe com os outros alunos algo sobre si: onde reside, quais os seus "
+"Partilhe com os outros alunos algo sobre si: onde reside, quais os teus "
 "interesses, por que motivo está a tirar recursos ou o que espera aprender."
 
 #: openedx/features/learner_profile/static/learner_profile/js/views/learner_profile_fields.js:38
@@ -5635,8 +5635,8 @@ msgid ""
 "You must specify your birth year before you can share your full profile. To "
 "specify your birth year, go to the {account_settings_page_link}"
 msgstr ""
-"Deverá especificar o seu ano de nascimento para partilhar o seu perfil "
-"completo. Para especificar o seu ano de nascimento, vá a "
+"Deverá especificar o teu ano de nascimento para partilhar o teu perfil "
+"completo. Para especificar o teu ano de nascimento, vá a "
 "{account_settings_page_link}"
 
 #: openedx/features/learner_profile/static/learner_profile/js/views/learner_profile_fields.js:51
@@ -5782,7 +5782,7 @@ msgstr ""
 #: xmodule/js/src/capa/display.js:458
 msgid "Could not grade your answer. The submission was aborted."
 msgstr ""
-"Não foi possível classificar a sua resposta. A submissão foi cancelada."
+"Não foi possível classificar a tua resposta. A submissão foi cancelada."
 
 #: xmodule/js/src/capa/display.js:522
 msgid ""
@@ -5790,7 +5790,7 @@ msgid ""
 "you can, please use Chrome or Safari which have been verified to support "
 "file uploads."
 msgstr ""
-"Submissão cancelada! Lamentamos, o seu browser não permite o carregamento "
+"Submissão cancelada! Lamentamos, o teu browser não permite o carregamento "
 "dos ficheiros. Por favor, utilize o Chrome ou o Safari."
 
 #: xmodule/js/src/capa/display.js:548
@@ -5800,7 +5800,7 @@ msgstr "Submeteu {filename}; apenas {allowedFiles} são permitidos."
 #: xmodule/js/src/capa/display.js:561
 msgid "Your file {filename} is too large (max size: {maxSize}MB)."
 msgstr ""
-"O seu ficheiro {filename} excede o tamanho máximo (limite máximo: "
+"O teu ficheiro {filename} excede o tamanho máximo (limite máximo: "
 "{maxSize}MB)."
 
 #: xmodule/js/src/capa/display.js:577
@@ -6645,7 +6645,7 @@ msgstr "Colar linha antes"
 #. browser when a user needs to edit HTML
 #: xmodule/js/src/html/edit.js:920
 msgid "Paste your embed code below:"
-msgstr "Colar o seu código em baixo:"
+msgstr "Colar o teu código em baixo:"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -7047,9 +7047,9 @@ msgid ""
 "\n"
 "Click Cancel to return to this page without sending your information."
 msgstr ""
-"Clique em OK para enviar o seu nome de utilizador e endereço de email para uma aplicação de terceiros.\n"
+"Clique em OK para enviar o teu nome de utilizador e endereço de email para uma aplicação de terceiros.\n"
 "\n"
-"Clique em Cancelar para regressar a esta página sem enviar as suas informações."
+"Clique em Cancelar para regressar a esta página sem enviar as tuas informações."
 
 #: xmodule/js/src/lti/lti.js:25
 msgid ""
@@ -7057,9 +7057,9 @@ msgid ""
 "\n"
 "Click Cancel to return to this page without sending your information."
 msgstr ""
-"Clique em OK para enviar o seu nome de utilizador para uma aplicação de terceiros.\n"
+"Clique em OK para enviar o teu nome de utilizador para uma aplicação de terceiros.\n"
 "\n"
-"Clique em Cancelar para regressar a esta página sem enviar as suas informações."
+"Clique em Cancelar para regressar a esta página sem enviar as tuas informações."
 
 #: xmodule/js/src/lti/lti.js:28
 msgid ""
@@ -7067,9 +7067,9 @@ msgid ""
 "\n"
 "Click Cancel to return to this page without sending your information."
 msgstr ""
-"Clique em OK para enviar o seu endereço de email para uma aplicação de terceiros.\n"
+"Clique em OK para enviar o teu endereço de email para uma aplicação de terceiros.\n"
 "\n"
-"Clique em Cancelar para regressar a esta página sem enviar as suas informações."
+"Clique em Cancelar para regressar a esta página sem enviar as tuas informações."
 
 #: xmodule/js/src/problem/edit.js:35 xmodule/js/src/problem/edit.js:47
 msgid "incorrect"
@@ -7489,7 +7489,7 @@ msgstr "Ainda não adicionou qualquer ficheiro a este recurso."
 
 #: cms/templates/js/asset-library.underscore:67
 msgid "Upload your first asset"
-msgstr "Carregue o seu primeiro ficheiro"
+msgstr "Carregue o teu primeiro ficheiro"
 
 #: cms/templates/js/asset-upload-modal.underscore:2
 msgid "close"
@@ -7686,7 +7686,7 @@ msgstr "Mostrar toda a subsecção "
 #: cms/templates/js/content-visibility-editor.underscore:15
 msgid "Learners see the published subsection and can access its content."
 msgstr ""
-"Os alunos vêem a subsecção publicada e podem aceder ao seu conteúdo."
+"Os alunos vêem a subsecção publicada e podem aceder ao teu conteúdo."
 
 #: cms/templates/js/content-visibility-editor.underscore:19
 msgid "Hide content after course end date"
@@ -7710,7 +7710,7 @@ msgid ""
 "After the subsection\\'s due date has passed, learners can no longer access "
 "its content. The subsection remains included in grade calculations."
 msgstr ""
-"Após a data de fim da subsecção, os alunos não conseguem aceder aos seu "
+"Após a data de fim da subsecção, os alunos não conseguem aceder aos teu "
 "conteúdo. Os resultados da subsecção continuam incluídos nos cálculos da "
 "classificação."
 
@@ -7840,7 +7840,7 @@ msgid ""
 "through their separate link."
 msgstr ""
 "Escondidas na estrutura geral da disciplina, mas as secções estão acessíveis"
-" aos seus alunos através de uma ligação separada."
+" aos teus alunos através de uma ligação separada."
 
 #: cms/templates/js/course-outline.underscore:63
 msgid ""
@@ -8036,7 +8036,7 @@ msgstr "Adicione aqui um resultado da aprendizagem"
 
 #: cms/templates/js/course-video-settings-update-org-credentials-footer.underscore:3
 msgid "Press discard changes to discard your changes."
-msgstr "Selecione rejeitar alterações para rejeitar as suas alterações."
+msgstr "Selecione rejeitar alterações para rejeitar as tuas alterações."
 
 #: cms/templates/js/course-video-settings-update-org-credentials-footer.underscore:6
 #: cms/templates/js/course-video-settings-update-settings-footer.underscore:6
@@ -8047,7 +8047,7 @@ msgstr "Atualizar Configurações"
 msgid "Press update settings to update the information for your organization."
 msgstr ""
 "Selecione as configurações de actualização para actualizar as informações da"
-" sua organização."
+" tua organização."
 
 #: cms/templates/js/course-video-settings-update-settings-footer.underscore:3
 msgid "Press discard changes to discard changes."
@@ -8219,7 +8219,7 @@ msgid ""
 "There is invalid code in your content. Please check to make sure it is valid"
 " HTML."
 msgstr ""
-"Existe um código inválido no seu conteúdo. Por favor, certifique-se que o "
+"Existe um código inválido no teu conteúdo. Por favor, certifique-se que o "
 "código HTML é válido."
 
 #: cms/templates/js/course_info_update.underscore:5
@@ -8314,7 +8314,7 @@ msgid ""
 "provide the title/name of the text book as you would like your students to "
 "see it"
 msgstr ""
-"indicar o título/nome do livro didático como gostaria que seus alunos o "
+"indicar o título/nome do livro didático como gostaria que teus alunos o "
 "vissem"
 
 #: cms/templates/js/edit-textbook.underscore:18
@@ -8334,7 +8334,7 @@ msgid ""
 "Embed your subsection content directly on a page using an iframe, and view "
 "it without the LMS header and footer."
 msgstr ""
-"Incorpore o conteúdo da sua subsecção diretamente numa página usando um "
+"Incorpore o conteúdo da tua subsecção diretamente numa página usando um "
 "iframe e visualiza-o sem o cabeçalho e rodapé do LMS."
 
 #: cms/templates/js/embed-link-share-link-editor.underscore:11
@@ -8352,8 +8352,8 @@ msgid ""
 "When sharing this link with your learners, they will see the content of the "
 "subsection along with the header and footer of your LMS."
 msgstr ""
-"Ao partilhar esta ligação com os seus alunos, eles verão o conteúdo da "
-"subsecção juntamente com o cabeçalho e o rodapé do seu LMS."
+"Ao partilhar esta ligação com os teus alunos, eles verão o conteúdo da "
+"subsecção juntamente com o cabeçalho e o rodapé do teu LMS."
 
 #: cms/templates/js/grading-editor.underscore:1
 msgid "Grading"
@@ -8485,7 +8485,7 @@ msgid ""
 "pages within your course:"
 msgstr ""
 "A seguinte mensagem será apresentada na parte inferior das páginas do "
-"material didático dentro do seu recurso:"
+"material didático dentro do teu recurso:"
 
 #: cms/templates/js/license-selector.underscore:101
 msgid "Creative Commons licensed content, with terms as follow:"
@@ -8551,7 +8551,7 @@ msgstr "Ainda não adicionou qualquer livro didático a este recurso."
 
 #: cms/templates/js/no-textbooks.underscore:2
 msgid "Add your first textbook"
-msgstr "Adicione o seu primeiro livro didático"
+msgstr "Adicione o teu primeiro livro didático"
 
 #: cms/templates/js/paging-header.underscore:7
 #: common/static/common/templates/components/paging-footer.underscore:2
@@ -8701,7 +8701,7 @@ msgstr "Ocultar dos alunos"
 
 #: cms/templates/js/publish-xblock.underscore:113
 msgid "Note: Do not hide graded assignments after they have been released."
-msgstr "Nota: não oculte as tarefas com classificação após a sua divulgação."
+msgstr "Nota: não oculte as tarefas com classificação após a tua divulgação."
 
 #: cms/templates/js/publish-xblock.underscore:137
 msgid "Copy Unit"
@@ -8774,7 +8774,7 @@ msgid ""
 "Learners never see whether their answers to assessments are correct or "
 "incorrect, nor the score received."
 msgstr ""
-"Os alunos não poderão confirmar se as suas respostas às avaliações estão"
+"Os alunos não poderão confirmar se as tuas respostas às avaliações estão"
 " corretas ou incorretas e qual a pontuação recebida."
 
 #: cms/templates/js/show-correctness-editor.underscore:21
@@ -8789,7 +8789,7 @@ msgid ""
 "incorrect, nor the score received, until after the due date for the "
 "subsection has passed."
 msgstr ""
-"Os alunos não poderão ver se as suas respostas às avaliações estão "
+"Os alunos não poderão ver se as tuas respostas às avaliações estão "
 "corretas ou incorretas, nem a pontuação recebida, até que a data limite da "
 "subsecção tenha passado."
 
@@ -8798,7 +8798,7 @@ msgid ""
 "If the subsection does not have a due date, learners always see their scores"
 " when they submit answers to assessments."
 msgstr ""
-"Se a subsecção não tiver uma data limite, os alunos podem ver as suas "
+"Se a subsecção não tiver uma data limite, os alunos podem ver as tuas "
 "pontuações quando submeterem as respostas às avaliações."
 
 #: cms/templates/js/show-textbook.underscore:12
@@ -8849,7 +8849,7 @@ msgid ""
 "certificate on a single page."
 msgstr ""
 "Os títulos com mais de 100 caracteres podem impedir que os alunos "
-"imprimam o seu certificado numa única página."
+"imprimam o teu certificado numa única página."
 
 #: cms/templates/js/signatory-editor.underscore:29
 msgid "Organization "
@@ -8895,7 +8895,7 @@ msgstr "Visível para os alunos"
 msgid ""
 "It is visible to learners, ensuring that all learners can view its contents."
 msgstr ""
-"É visível para os alunos, assegurando que todos os alunos podem ver o seu "
+"É visível para os alunos, assegurando que todos os alunos podem ver o teu "
 "conteúdo."
 
 #: cms/templates/js/staff-lock-editor.underscore:22
@@ -8909,7 +8909,7 @@ msgid ""
 "individuals with the link can view its contents."
 msgstr ""
 "Está intencionalmente oculto da navegação normal, garantindo que apenas as "
-"pessoas com a ligação podem ver o seu conteúdo."
+"pessoas com a ligação podem ver o teu conteúdo."
 
 #: cms/templates/js/staff-lock-editor.underscore:27
 msgid ""
@@ -8917,7 +8917,7 @@ msgid ""
 "able to see its content."
 msgstr ""
 "Se tornar esta secção visível na tabela de conteúdos, os alunos poderão ver "
-"o seu conteúdo."
+"o teu conteúdo."
 
 #: cms/templates/js/staff-lock-editor.underscore:40
 msgid ""
@@ -8925,7 +8925,7 @@ msgid ""
 "staff can view its contents."
 msgstr ""
 "É intencionalmente escondido dos alunos, garantindo que apenas o pessoal da "
-"disciplina possa ver o seu conteúdo."
+"disciplina possa ver o teu conteúdo."
 
 #: cms/templates/js/staff-lock-editor.underscore:45
 msgid ""
@@ -8944,7 +8944,7 @@ msgid ""
 "the unit. Only units that are explicitly hidden from learners will remain "
 "hidden after you clear this option for the %(xblockType)s."
 msgstr ""
-"Se tornar isto %(xblockType)s visível, os alunos poderão ver seu "
+"Se tornar isto %(xblockType)s visível, os alunos poderão ver teu "
 "conteúdo após a data de lançamento e de ter publicado a unidade. Somente as "
 "unidades que estão explicitamente ocultas aos alunos permanecerão "
 "ocultas depois de desmarcar essa opção para o %(xblockType)s."
@@ -8972,7 +8972,7 @@ msgstr "enviar uma mensagem de email para {email}"
 #: cms/templates/js/team-member.underscore:32
 msgid "Promote another member to Admin to remove your admin rights"
 msgstr ""
-"Promova outro membro a Administrador para remover os seus direitos de "
+"Promova outro membro a Administrador para remover os teus direitos de "
 "administrador"
 
 #: cms/templates/js/team-member.underscore:35
@@ -9063,8 +9063,8 @@ msgid ""
 "business days."
 msgstr ""
 "Use Integração para introduzir os alunos ao processo de Supervisão de "
-"Avaliação, verificar a sua identidade, e criar um perfil de boas-vindas. Os "
-"alunos devem completar o seu perfil antes de fazer o exame vigiado. As "
+"Avaliação, verificar a tua identidade, e criar um perfil de boas-vindas. Os "
+"alunos devem completar o teu perfil antes de fazer o exame vigiado. As "
 "revisões de perfil demoram mais de 2 dias úteis."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:58
@@ -9140,7 +9140,7 @@ msgstr ""
 
 #: cms/templates/js/transcript-organization-credentials.underscore:7
 msgid "Enter the account information for your organization."
-msgstr "Insira as informações da conta da sua organização."
+msgstr "Insira as informações da conta da tua organização."
 
 #: cms/templates/js/transcript-organization-credentials.underscore:11
 msgid "API Key"
@@ -9188,7 +9188,7 @@ msgid ""
 "course settings:"
 msgstr ""
 "Por favor, verifique os seguintes comentários de validação e considere-os "
-"nas suas configurações de recurso:"
+"nas tuas configurações de recurso:"
 
 #: cms/templates/js/verification-access-editor.underscore:3
 msgid "Verification Checkpoint"
@@ -9270,7 +9270,7 @@ msgid ""
 "that's compatible with the student's computer will play."
 msgstr ""
 "Para garantir que todos os alunos podem aceder ao vídeo, recomendamos "
-"que disponibilize as versõs .mp4 e .webm do seu vídeo. Clique abaixo para "
+"que disponibilize as versõs .mp4 e .webm do teu vídeo. Clique abaixo para "
 "adicionar um URL para outra versão. Estes URLs não podem ser URLs do "
 "YouTube. O primeiro vídeo listado compatível com o computador do aluno "
 "será reproduzido."
@@ -9366,7 +9366,7 @@ msgid ""
 msgstr ""
 "O EdX não tem uma transcrição temporizada deste vídeo no Studio, mas "
 "encontrámos uma transcrição no YouTube. Pode importar a transcrição do "
-"YouTube ou carregar seu próprio ficheiro de transcrição .srt."
+"YouTube ou carregar teu próprio ficheiro de transcrição .srt."
 
 #: cms/templates/js/video/transcripts/messages/transcripts-import.underscore:10
 #: cms/templates/js/video/transcripts/messages/transcripts-import.underscore:11
@@ -9552,7 +9552,7 @@ msgstr ""
 
 #: common/static/common/templates/discussion/templates.underscore:144
 msgid "Edit your post below."
-msgstr "Edite a sua publicação abaixo."
+msgstr "Edite a tua publicação abaixo."
 
 #: common/static/common/templates/discussion/templates.underscore:147
 msgid "Update post"
@@ -9665,7 +9665,7 @@ msgid ""
 "students or specify a single group."
 msgstr ""
 "Os administradores dos grupos de debate, os moderadores e os professores "
-"assistentes podem tornar as suas publicações visíveis para todos os "
+"assistentes podem tornar as tuas publicações visíveis para todos os "
 "alunos ou especificar um único grupo."
 
 #: common/static/common/templates/discussion/templates.underscore:447
@@ -9682,7 +9682,7 @@ msgstr "publicar anonimamente para os colegas"
 
 #: common/static/common/templates/discussion/templates.underscore:507
 msgid "Error posting your message."
-msgstr "Erro ao publicar a sua mensagem."
+msgstr "Erro ao publicar a tua mensagem."
 
 #: common/static/common/templates/discussion/templates.underscore:520
 #, python-format
@@ -9700,7 +9700,7 @@ msgstr "Área do tópico"
 #: common/static/common/templates/discussion/templates.underscore:535
 msgid "Add your post to a relevant topic to help others find it. (Required)"
 msgstr ""
-"Associe a sua publicação a um tópico relevante para ajudar os outros a "
+"Associe a tua publicação a um tópico relevante para ajudar os outros a "
 "encontrá-la. (Obrigatório)"
 
 #: common/static/common/templates/discussion/templates.underscore:548
@@ -10016,7 +10016,7 @@ msgid ""
 "Enter information to describe your team. You cannot change these details "
 "after you create the team."
 msgstr ""
-"Introduza informações para descrever a sua equipa. Não pode alterar estes "
+"Introduza informações para descrever a tua equipa. Não pode alterar estes "
 "detalhes depois de criar a equipa."
 
 #: lms/djangoapps/teams/static/teams/templates/edit-team.underscore:35
@@ -10029,10 +10029,10 @@ msgid ""
 "characteristics for your team. Choose carefully, because fewer people might "
 "be interested in joining your team if it seems too restrictive."
 msgstr ""
-"Ajude os outros alunos a decidirem se querem integrar a sua equipa, "
+"Ajude os outros alunos a decidirem se querem integrar a tua equipa, "
 "especificando algumas características da equipa. Escolha com atenção estas "
 "caraterísticas, porque poderão existir poucas pessoas interessadas em "
-"integrar a sua equipa caso esta pareça muito restritiva."
+"integrar a tua equipa caso esta pareça muito restritiva."
 
 #: lms/djangoapps/teams/static/teams/templates/edit-team.underscore:49
 msgid "Create team."
@@ -10125,7 +10125,7 @@ msgid ""
 " that your query is correct and try again."
 msgstr ""
 "Ocorreu um erro ao tentar recuperar os resultados de visualização deste "
-"catálogo. Por favor, verifique se a sua pesquisa está correta e tente "
+"catálogo. Por favor, verifique se a tua pesquisa está correta e tente "
 "novamente."
 
 #: lms/templates/api_admin/catalog-results.underscore:1
@@ -10225,7 +10225,7 @@ msgid ""
 "To receive credit for problems, you must select \"Submit\" for each problem "
 "before you select \"End My Exam\"."
 msgstr ""
-"Para que as suas respostas sejam contabilizadas, clique no botão "
+"Para que as tuas respostas sejam contabilizadas, clique no botão "
 "\"Submeter\" em cada questão antes de selecionar \"Terminar o exame\"."
 
 #: lms/templates/courseware/proctored-exam-status.underscore:35
@@ -10336,8 +10336,8 @@ msgid ""
 "The following information is already a part of your {platform} profile and "
 "is required for your application. To edit this information go to "
 msgstr ""
-"As informações seguintes já fazem parte do seu perfil {platform} e são "
-"necessárias para a sua aplicação. Para editar estas informações, vá a"
+"As informações seguintes já fazem parte do teu perfil {platform} e são "
+"necessárias para a tua aplicação. Para editar estas informações, vá a"
 
 #: lms/templates/financial-assistance/financial_assessment_form.underscore:24
 msgid "Email address"
@@ -10364,7 +10364,7 @@ msgid ""
 "Thank you for submitting your financial assistance application for "
 "{course_name}! You can expect a response in 2-4 business days."
 msgstr ""
-"Obrigado por submeter o seu pedido de assistência financeira para o recurso "
+"Obrigado por submeter o teu pedido de assistência financeira para o recurso "
 "{course_name}! Entraremos em contacto consigo entre 2-4 dias úteis."
 
 #: lms/templates/financial-assistance/financial_assessment_submitted.underscore:7
@@ -10633,7 +10633,7 @@ msgid ""
 "Learners are added to this cohort only when you provide their email "
 "addresses or usernames on this page."
 msgstr ""
-"Os alunos apenas serão adicionados a este grupo quando fornecerem o seu "
+"Os alunos apenas serão adicionados a este grupo quando fornecerem o teu "
 "endereço de email ou nome de utilizador nesta página."
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-group-header.underscore:15
@@ -10823,7 +10823,7 @@ msgid ""
 "subjects"
 msgstr ""
 "Explore os recursos recentemente lançados e veja o que há de novo sobre os "
-"seus temas favoritos"
+"teus temas favoritos"
 
 #: lms/templates/learner_dashboard/explore_new_programs.underscore:6
 msgid "Explore new programs"
@@ -10854,7 +10854,7 @@ msgstr "%(programName)s - Página Inicial."
 
 #: lms/templates/learner_dashboard/program_details_sidebar.underscore:3
 msgid "Your {program} Certificate"
-msgstr "O seu Certificado {program}"
+msgstr "O teu Certificado {program}"
 
 #: lms/templates/learner_dashboard/program_details_sidebar.underscore:6
 #, python-format
@@ -10875,7 +10875,7 @@ msgstr ""
 "Uma vez que complete um dos requisitos do programa, tem um registo do "
 "programa. Este registo é marcado como completo uma vez cumpridos todos os "
 "requisitos do programa. Um registo do programa pode ser utilizado para "
-"continuar o seu percurso de aprendizagem e demonstrar o que aprendeu aos "
+"continuar o teu percurso de aprendizagem e demonstrar o que aprendeu aos "
 "outros"
 
 #: lms/templates/learner_dashboard/program_details_sidebar.underscore:19
@@ -10915,7 +10915,7 @@ msgstr "Completou com sucesso todos os requisitos para o %(title)s %(type)s."
 #: lms/templates/learner_dashboard/program_details_tab_view.underscore:40
 #: lms/templates/learner_dashboard/program_details_view.underscore:15
 msgid "Your Program Journey"
-msgstr "O seu Percurso no Programa"
+msgstr "O teu Percurso no Programa"
 
 #: lms/templates/learner_dashboard/program_details_tab_view.underscore:43
 #, python-format
@@ -10924,7 +10924,7 @@ msgid ""
 "program. To complete the program, you must earn a verified certificate for "
 "each course."
 msgstr ""
-"Acompanhe e planeie o seu progresso através dos  %(count)s recurso(s) neste "
+"Acompanhe e planeie o teu progresso através dos  %(count)s recurso(s) neste "
 "programa. Para completar o programa, deve obter um certificado verificado "
 "para cada recurso."
 
@@ -10968,13 +10968,13 @@ msgstr "Assim que concluir os recursos, irá vê-los listados aqui."
 msgid ""
 "Complete courses on your schedule to ensure you stand out in your field!"
 msgstr ""
-"Complete e liste os recursos na sua agenda para garantir que se destaca no seu"
+"Complete e liste os recursos na tua agenda para garantir que se destaca no teu"
 " campo!"
 
 #: lms/templates/learner_dashboard/program_details_tab_view.underscore:122
 #, python-format
 msgid "Transform your %(org)s %(type)s into a full master’s degree"
-msgstr "Transforme o seu %(org)s %(type)s num mestrado completo"
+msgstr "Transforme o teu %(org)s %(type)s num mestrado completo"
 
 #: lms/templates/learner_dashboard/program_details_tab_view.underscore:125
 #, python-format
@@ -10994,7 +10994,7 @@ msgid ""
 "To complete the program, you must earn a verified certificate for each "
 "course."
 msgstr ""
-"Acompanhe e planeie o seu progresso através dos %(count)s recursos deste "
+"Acompanhe e planeie o teu progresso através dos %(count)s recursos deste "
 "programa. Para completar o programa, deve obter um certificado verificado "
 "para cada recurso."
 
@@ -11049,7 +11049,7 @@ msgstr "Outros problemas sobre iniciar sessão"
 
 #: lms/templates/student_account/form_field.underscore:147
 msgid "Sign in with your company or school"
-msgstr "Inicie sessão com sua empresa ou escola"
+msgstr "Inicie sessão com tua empresa ou escola"
 
 #: lms/templates/student_account/form_field.underscore:151
 msgid "Need other help signing in?"
@@ -11068,7 +11068,7 @@ msgstr "Iniciar sessão"
 #, python-format
 msgid "Would you like to sign in using your %(providerName)s credentials?"
 msgstr ""
-"Gostaria de iniciar sessão utilizando as suas credenciais %(providerName)s?"
+"Gostaria de iniciar sessão utilizando as tuas credenciais %(providerName)s?"
 
 #: lms/templates/student_account/hinted_login.underscore:16
 #, python-format
@@ -11086,7 +11086,7 @@ msgstr "Iniciar sessão com credenciais da instituição/campus"
 #: lms/templates/student_account/institution_login.underscore:8
 #: lms/templates/student_account/institution_register.underscore:9
 msgid "Choose your institution from the list below:"
-msgstr "Escolha a sua instituição na lista abaixo:"
+msgstr "Escolha a tua instituição na lista abaixo:"
 
 #: lms/templates/student_account/institution_login.underscore:27
 msgid "Back to sign in"
@@ -11127,7 +11127,7 @@ msgid ""
 "Going forward, your account information will be updated and maintained by "
 "{enterprise_name}."
 msgstr ""
-"Daqui em diante, as informações da sua conta serão atualizadas e mantidas "
+"Daqui em diante, as informações da tua conta serão atualizadas e mantidas "
 "por {enterprise_name}."
 
 #: lms/templates/student_account/login.underscore:23
@@ -11135,8 +11135,8 @@ msgid ""
 "You can view your information or unlink from {enterprise_name} anytime in "
 "your Account Settings."
 msgstr ""
-"Pode ver as suas informações ou desvincular-se de {enterprise_name} a "
-"qualquer momento, acedendo às suas Configurações de Conta."
+"Pode ver as tuas informações ou desvincular-se de {enterprise_name} a "
+"qualquer momento, acedendo às tuas Configurações de Conta."
 
 #: lms/templates/student_account/login.underscore:25
 msgid "To continue learning with this account, sign in below."
@@ -11151,13 +11151,13 @@ msgid ""
 "Sign in here using your email address and password, or use one of the "
 "providers listed below."
 msgstr ""
-"Inicie aqui a sua sessão utilizando seu endereço de email e palavra-passe, "
+"Inicie aqui a tua sessão utilizando teu endereço de email e palavra-passe, "
 "ou através de um dos fornecedores listados abaixo."
 
 #: lms/templates/student_account/login.underscore:36
 msgid "Sign in here using your email address and password."
 msgstr ""
-"Inicie aqui a sessão utilizando o seu endereço de email e palavra-passe."
+"Inicie aqui a sessão utilizando o teu endereço de email e palavra-passe."
 
 #: lms/templates/student_account/login.underscore:38
 msgid "If you do not yet have an account, use the button below to register."
@@ -11187,7 +11187,7 @@ msgid ""
 "Please enter your log-in or recovery email address below and we will send "
 "you an email with instructions."
 msgstr ""
-"Por favor, introduza abaixo o seu endereço de e-mail de início de sessão ou "
+"Por favor, introduza abaixo o teu endereço de e-mail de início de sessão ou "
 "de recuperação e enviar-lhe-emos um e-mail com instruções."
 
 #: lms/templates/student_account/password_reset.underscore:12
@@ -11238,11 +11238,11 @@ msgstr "Uma lista de recursos onde está inscrito como um aluno validado"
 
 #: lms/templates/verify_student/enrollment_confirmation_step.underscore:31
 msgid "Explore your course!"
-msgstr "Explore o seu recurso!"
+msgstr "Explore o teu recurso!"
 
 #: lms/templates/verify_student/enrollment_confirmation_step.underscore:35
 msgid "Go to your Dashboard"
-msgstr "Aceder ao seu Painel de Controlo"
+msgstr "Aceder ao teu Painel de Controlo"
 
 #: lms/templates/verify_student/enrollment_confirmation_step.underscore:46
 msgid "Verified Status"
@@ -11256,10 +11256,10 @@ msgid ""
 "certificates. Verification is good for one year. After one year, you must "
 "submit photos for verification again."
 msgstr ""
-"Obrigado por enviar as suas fotografias. Iremos revê-las em breve. Pode "
+"Obrigado por enviar as tuas fotografias. Iremos revê-las em breve. Pode "
 "agora inscrever-se em qualquer recurso %(platformName)s que ofereça "
 "certificados verificados. A verificação é válida por um ano. Após um ano, "
-"deverá submeter novamente as suas fotografias para verificação."
+"deverá submeter novamente as tuas fotografias para verificação."
 
 #: lms/templates/verify_student/error.underscore:6
 msgid "Error:"
@@ -11288,19 +11288,19 @@ msgstr "Identificação da Foto"
 
 #: lms/templates/verify_student/face_photo_step.underscore:11
 msgid "You need a valid ID that contains your full name and photo."
-msgstr "Precisa de uma ID válida que contenha seu nome completo e foto."
+msgstr "Precisa de uma ID válida que contenha teu nome completo e foto."
 
 #: lms/templates/verify_student/face_photo_step.underscore:17
 #: lms/templates/verify_student/incourse_reverify.underscore:3
 msgid "Take Your Photo"
-msgstr "Tire a Sua Foto"
+msgstr "Tire a Tua Foto"
 
 #: lms/templates/verify_student/face_photo_step.underscore:19
 msgid ""
 "When your face is in position, use the Take Photo button {icon} below to "
 "take your photo."
 msgstr ""
-"Quando a sua cara estiver em posição, use o botão Tirar foto {icon} abaixo "
+"Quando a tua cara estiver em posição, use o botão Tirar foto {icon} abaixo "
 "para tirar uma fotografia."
 
 #: lms/templates/verify_student/face_photo_step.underscore:25
@@ -11320,7 +11320,7 @@ msgid ""
 "To take the photo of your face, click on the camera button {icon}. If you "
 "need to try again, click 'Retake Photo'."
 msgstr ""
-"Para tirar a fotografia do seu rosto, clique no botão da câmara {icon}. Se "
+"Para tirar a fotografia do teu rosto, clique no botão da câmara {icon}. Se "
 "precisar de tentar novamente, clique em 'Voltar a tirar fotografia'."
 
 #: lms/templates/verify_student/face_photo_step.underscore:38
@@ -11341,8 +11341,8 @@ msgid ""
 "We use your verification photos to confirm your identity and ensure the "
 "validity of your certificate."
 msgstr ""
-"Usamos as suas fotografias de verificação para confirmar a sua identidade e "
-"garantir a validade do seu certificado."
+"Usamos as tuas fotografias de verificação para confirmar a tua identidade e "
+"garantir a validade do teu certificado."
 
 #: lms/templates/verify_student/face_photo_step.underscore:46
 #: lms/templates/verify_student/id_photo_step.underscore:41
@@ -11359,8 +11359,8 @@ msgid ""
 "review. Your photo and information are not saved or visible anywhere on "
 "%(platformName)s after the verification process is complete."
 msgstr ""
-"Encriptamos a sua fotografia com segurança e enviamos para o nosso serviço "
-"de autorização para revisão. A sua fotografia e informações não são "
+"Encriptamos a tua fotografia com segurança e enviamos para o nosso serviço "
+"de autorização para revisão. A tua fotografia e informações não são "
 "guardadas ou visíveis em qualquer lugar em %(platformName)s após o processo "
 "de verificação estar concluído."
 
@@ -11433,12 +11433,12 @@ msgstr "Próximo: %(nextStepTitle)s"
 
 #: lms/templates/verify_student/id_photo_step.underscore:3
 msgid "Take a Photo of Your ID"
-msgstr "Tire uma foto do seu CC"
+msgstr "Tire uma foto do teu CC"
 
 #: lms/templates/verify_student/id_photo_step.underscore:5
 msgid "Use your webcam to take a photo of your ID."
 msgstr ""
-"Use a sua Webcam para tirar uma fotogragia do seu documento de "
+"Use a tua Webcam para tirar uma fotogragia do teu documento de "
 "identificação."
 
 #: lms/templates/verify_student/id_photo_step.underscore:13
@@ -11446,7 +11446,7 @@ msgid ""
 "You need an ID with your name and photo. A driver's license, passport, or ID"
 " are all acceptable."
 msgstr ""
-"Precisa de um documento de identificação com seu nome e fotografia. A carta "
+"Precisa de um documento de identificação com teu nome e fotografia. A carta "
 "de condução, passaporte ou cartão do cidadão  são todos aceites."
 
 #: lms/templates/verify_student/id_photo_step.underscore:15
@@ -11456,11 +11456,11 @@ msgstr "Dicas sobre como tirar uma fotografia bem-sucedida"
 
 #: lms/templates/verify_student/id_photo_step.underscore:19
 msgid "Ensure that you can see your photo and read your name"
-msgstr "Certifique-se de que pode ver a sua fotografia e ler o seu nome"
+msgstr "Certifique-se de que pode ver a tua fotografia e ler o teu nome"
 
 #: lms/templates/verify_student/id_photo_step.underscore:20
 msgid "Make sure your ID is well-lit"
-msgstr "Verifique se o seu ID está bem iluminado"
+msgstr "Verifique se o teu ID está bem iluminado"
 
 #: lms/templates/verify_student/id_photo_step.underscore:22
 msgid "Once in position, use the Take Photo button {icon} to capture your ID"
@@ -11472,7 +11472,7 @@ msgstr ""
 #: lms/templates/verify_student/incourse_reverify.underscore:23
 msgid "Use the Retake Photo button if you are not pleased with your photo"
 msgstr ""
-"Use o botão Voltar a Tirar Fotografia se não estiver satisfeito com sua "
+"Use o botão Voltar a Tirar Fotografia se não estiver satisfeito com tua "
 "fotografia"
 
 #: lms/templates/verify_student/id_photo_step.underscore:38
@@ -11482,9 +11482,9 @@ msgid ""
 "the photo you take with the photo on your ID."
 msgstr ""
 "Como parte do processo de verificação, é necessário tirar uma fotografia do "
-"seu rosto e de um documento de identificação com fotografia. O nosso serviço"
-" de autorização confirma sua identidade comparando a fotografia que tira com"
-" a fotografia do seu documento de identificação."
+"teu rosto e de um documento de identificação com fotografia. O nosso serviço"
+" de autorização confirma tua identidade comparando a fotografia que tira com"
+" a fotografia do teu documento de identificação."
 
 #: lms/templates/verify_student/id_photo_step.underscore:50
 msgid ""
@@ -11517,7 +11517,7 @@ msgstr "Visualizar a imagem carregada"
 #: lms/templates/verify_student/image_input.underscore:3
 msgid "Upload an image or capture one with your web or phone camera."
 msgstr ""
-"Faça o carregamento de uma fotografia ou tire uma com sua webcam ou a partir"
+"Faça o carregamento de uma fotografia ou tire uma com tua webcam ou a partir"
 " do telemóvel."
 
 #: lms/templates/verify_student/incourse_reverify.underscore:5
@@ -11525,28 +11525,28 @@ msgid ""
 "Use your webcam to take a photo of your face. We will match this photo with "
 "the photo on your ID."
 msgstr ""
-"Utilize a sua webcam para tirar uma fotografia do seu rosto. Faremos "
-"corresponder esta foto com a foto do seu Documento de Identificação."
+"Utilize a tua webcam para tirar uma fotografia do teu rosto. Faremos "
+"corresponder esta foto com a foto do teu Documento de Identificação."
 
 #: lms/templates/verify_student/incourse_reverify.underscore:17
 msgid "Make sure your face is well-lit"
-msgstr "Certifique-se que o seu rosto está bem iluminado"
+msgstr "Certifique-se que o teu rosto está bem iluminado"
 
 #: lms/templates/verify_student/incourse_reverify.underscore:18
 msgid "Be sure your entire face is inside the frame"
-msgstr "Certifique-se que o seu rosto inteiro está dentro dos limites"
+msgstr "Certifique-se que o teu rosto inteiro está dentro dos limites"
 
 #: lms/templates/verify_student/incourse_reverify.underscore:20
 msgid ""
 "Once in position, use the Take Photo button {icon} to capture your photo"
 msgstr ""
-"Uma vez em posição, use o botão Tirar fotografia {icon} para capturar sua "
+"Uma vez em posição, use o botão Tirar fotografia {icon} para capturar tua "
 "fotografia"
 
 #: lms/templates/verify_student/incourse_reverify.underscore:22
 msgid "Can we match the photo you took with the one on your ID?"
 msgstr ""
-"Podemos associar a fotografia que tirou com a do seu Documento de "
+"Podemos associar a fotografia que tirou com a do teu Documento de "
 "Identificação?"
 
 #: lms/templates/verify_student/incourse_reverify.underscore:35
@@ -11555,9 +11555,9 @@ msgid ""
 "a government-issued photo ID. Our authorization service confirms your "
 "identity by comparing the photo you take with the photo on your ID."
 msgstr ""
-"Como parte do processo de validação, deve tirar uma fotografia do seu rosto "
+"Como parte do processo de validação, deve tirar uma fotografia do teu rosto "
 "e uma fotografia do Documento de Identificação. O nosso serviço de "
-"autorização confirma a sua identidade, comparando as duas fotografias."
+"autorização confirma a tua identidade, comparando as duas fotografias."
 
 #: lms/templates/verify_student/incourse_reverify.underscore:40
 #, python-format
@@ -11567,14 +11567,14 @@ msgid ""
 "are not saved or visible anywhere on %(platformName)s after the verification"
 " process is complete."
 msgstr ""
-"Utilizamos níveis elevados de segurança para encriptar a sua fotografia e "
-"enviá-la para o nosso serviço de autorização para ser validada. A sua "
+"Utilizamos níveis elevados de segurança para encriptar a tua fotografia e "
+"enviá-la para o nosso serviço de autorização para ser validada. A tua "
 "fotografia e as informações não serão salvas ou visíveis na %(platformName)s"
 " após a conclusão do processo de validação."
 
 #: lms/templates/verify_student/intro_step.underscore:6
 msgid "Thanks for returning to verify your ID in: {courseName}"
-msgstr "Obrigado por regressar para validar o seu ID em: {courseName}"
+msgstr "Obrigado por regressar para validar o teu ID em: {courseName}"
 
 #: lms/templates/verify_student/intro_step.underscore:19
 msgid ""
@@ -11582,13 +11582,13 @@ msgid ""
 "your inbox for an activation email. After you complete activation you can "
 "return and refresh this page."
 msgstr ""
-"É necessário ativar a sua conta antes de se poder inscrever nos recursos. "
-"Verifique se recebeu um email de ativação na sua caixa de correio. Depois de"
+"É necessário ativar a tua conta antes de se poder inscrever nos recursos. "
+"Verifique se recebeu um email de ativação na tua caixa de correio. Depois de"
 " concluir a ativação, poderá regressar e atualizar esta página."
 
 #: lms/templates/verify_student/intro_step.underscore:31
 msgid "Activate Your Account"
-msgstr "Ativar a Sua Conta"
+msgstr "Ativar a Tua Conta"
 
 #: lms/templates/verify_student/intro_step.underscore:45
 #: lms/templates/verify_student/make_payment_step_ab_testing.underscore:93
@@ -11601,7 +11601,7 @@ msgid ""
 "and photo"
 msgstr ""
 "A carta de condução, o passaporte ou outro documento de Identificação com o "
-"seu nome e fotografia"
+"teu nome e fotografia"
 
 #: lms/templates/verify_student/intro_step.underscore:61
 #: lms/templates/verify_student/make_payment_step.underscore:77
@@ -11616,13 +11616,13 @@ msgstr "Está inscrito em: {courseName}"
 
 #: lms/templates/verify_student/make_payment_step.underscore:17
 msgid "You are upgrading your enrollment for: {courseName}"
-msgstr "Vai atualizar a sua inscrição para: {courseName}"
+msgstr "Vai atualizar a tua inscrição para: {courseName}"
 
 #: lms/templates/verify_student/make_payment_step.underscore:26
 msgid ""
 "You can now enter your payment information and complete your enrollment."
 msgstr ""
-"Agora já pode introduzir as suas informações de pagamento e concluir a "
+"Agora já pode introduzir as tuas informações de pagamento e concluir a "
 "inscrição."
 
 #: lms/templates/verify_student/make_payment_step.underscore:37
@@ -11640,7 +11640,7 @@ msgid ""
 "An email has been sent to {userEmail} with a link for you to activate your "
 "account."
 msgstr ""
-"Foi enviado um email para {userEmail} com um link de ativação da sua conta."
+"Foi enviado um email para {userEmail} com um link de ativação da tua conta."
 
 #: lms/templates/verify_student/make_payment_step.underscore:48
 msgid "Why activate?"
@@ -11651,7 +11651,7 @@ msgid ""
 "We ask you to activate your account to ensure it is really you creating the "
 "account and to prevent fraud."
 msgstr ""
-"Solicitamos que ative a sua conta para garantir que é realmente o aluno "
+"Solicitamos que ative a tua conta para garantir que é realmente o aluno "
 "a criar a conta e assim evitar fraudes."
 
 #: lms/templates/verify_student/make_payment_step.underscore:53
@@ -11704,11 +11704,11 @@ msgstr "Atualizar para um Certificado Validado para {courseName}"
 #: lms/templates/verify_student/make_payment_step_ab_testing.underscore:33
 msgid ""
 "Before you upgrade to a certificate track, you must activate your account."
-msgstr "Antes de atualizar para um modo certificado, deve ativar a sua conta."
+msgstr "Antes de atualizar para um modo certificado, deve ativar a tua conta."
 
 #: lms/templates/verify_student/make_payment_step_ab_testing.underscore:34
 msgid "Check your email for an activation message."
-msgstr "Verifique o seu email para uma mensagem de ativação."
+msgstr "Verifique o teu email para uma mensagem de ativação."
 
 #: lms/templates/verify_student/make_payment_step_ab_testing.underscore:40
 msgid "Total"
@@ -11726,33 +11726,33 @@ msgstr "Certificado Verificado para {courseName}"
 msgid ""
 "To receive a certificate, you must also verify your identity before {date}."
 msgstr ""
-"Para receber um certificado, deverá também validar a sua identidade antes de"
+"Para receber um certificado, deverá também validar a tua identidade antes de"
 " {date}."
 
 #: lms/templates/verify_student/make_payment_step_ab_testing.underscore:85
 msgid "To receive a certificate, you must also verify your identity."
-msgstr "Para receber um certificado, deverá também validar a sua identidade."
+msgstr "Para receber um certificado, deverá também validar a tua identidade."
 
 #: lms/templates/verify_student/make_payment_step_ab_testing.underscore:87
 msgid ""
 "To verify your identity, you need a webcam and a government-issued photo ID."
 msgstr ""
-"Para validar a sua identidade, necessita de uma webcam e de um Documento de "
+"Para validar a tua identidade, necessita de uma webcam e de um Documento de "
 "Identificação com fotografia."
 
 #: lms/templates/verify_student/make_payment_step_ab_testing.underscore:96
 msgid ""
 "Your ID must be a government-issued photo ID that clearly shows your face."
 msgstr ""
-"O seu ID deve ser um documento de identificação com uma fotografia que "
-"mostre nitidamente o seu rosto."
+"O teu ID deve ser um documento de identificação com uma fotografia que "
+"mostre nitidamente o teu rosto."
 
 #: lms/templates/verify_student/make_payment_step_ab_testing.underscore:108
 msgid ""
 "You will use your webcam to take a picture of your face and of your "
 "government-issued photo ID."
 msgstr ""
-"Poderá utilizar a sua webcam para tirar uma fotografia do seu rosto e do seu"
+"Poderá utilizar a tua webcam para tirar uma fotografia do teu rosto e do teu"
 " documento de identificação com uma fotografia."
 
 #: lms/templates/verify_student/reverify_success_step.underscore:2
@@ -11766,8 +11766,8 @@ msgid ""
 "(usually within 5-7 days). In the meantime, you can still access all "
 "available course content."
 msgstr ""
-"Recebemos a sua informação e estamos a verificar a sua identidade. Verá uma "
-"mensagem no seu painel de controlo quando o processo de verificação estiver "
+"Recebemos a tua informação e estamos a verificar a tua identidade. Verá uma "
+"mensagem no teu painel de controlo quando o processo de verificação estiver "
 "concluído (normalmente dentro de 5-7 dias). Entretanto, poderá ainda aceder "
 "a todo o conteúdo disponível do recurso."
 
@@ -11777,14 +11777,14 @@ msgstr "Regressar ao Painel de Controlo"
 
 #: lms/templates/verify_student/review_photos_step.underscore:3
 msgid "Review Your Photos"
-msgstr "Reveja as Suas Fotografias"
+msgstr "Reveja as Tuas Fotografias"
 
 #: lms/templates/verify_student/review_photos_step.underscore:5
 msgid ""
 "Make sure we can verify your identity with the photos and information you "
 "have provided."
 msgstr ""
-"Certifique-se de que podemos verificar sua identidade com as fotografias e "
+"Certifique-se de que podemos verificar tua identidade com as fotografias e "
 "informações que nos forneceu."
 
 #: lms/templates/verify_student/review_photos_step.underscore:13
@@ -11803,26 +11803,26 @@ msgstr "Requisitos da fotografia:"
 
 #: lms/templates/verify_student/review_photos_step.underscore:27
 msgid "Does the photo of you show your whole face?"
-msgstr "A fotografia tirada mostra toda a sua cara?"
+msgstr "A fotografia tirada mostra toda a tua cara?"
 
 #: lms/templates/verify_student/review_photos_step.underscore:28
 msgid "Is your name on your ID readable?"
-msgstr "O seu nome está legível no seu ID?"
+msgstr "O teu nome está legível no teu ID?"
 
 #: lms/templates/verify_student/review_photos_step.underscore:29
 #, python-format
 msgid "Does the name on your ID match your account name: %(fullName)s?"
-msgstr "O nome no seu ID corresponde ao nome da sua conta: %(fullName)s?"
+msgstr "O nome no teu ID corresponde ao nome da tua conta: %(fullName)s?"
 
 #: lms/templates/verify_student/review_photos_step.underscore:33
 msgid "Edit Your Name"
-msgstr "Edite o Seu Nome"
+msgstr "Edite o Teu Nome"
 
 #: lms/templates/verify_student/review_photos_step.underscore:38
 msgid ""
 "Make sure that the full name on your account matches the name on your ID."
 msgstr ""
-"Certifique-se de que o nome completo na sua conta corresponde ao nome no seu"
+"Certifique-se de que o nome completo na tua conta corresponde ao nome no teu"
 " ID."
 
 #: lms/templates/verify_student/review_photos_step.underscore:50
@@ -11831,7 +11831,7 @@ msgstr "As fotografias não estão de acordo com os requisitos?"
 
 #: lms/templates/verify_student/review_photos_step.underscore:52
 msgid "Retake Your Photos"
-msgstr "Regressar às Suas Fotografias"
+msgstr "Regressar às Tuas Fotografias"
 
 #: lms/templates/verify_student/review_photos_step.underscore:63
 msgid "Before proceeding, please confirm that your details match"
@@ -11843,7 +11843,7 @@ msgid ""
 "Don't see your picture? Make sure to allow your browser to use your camera "
 "when it asks for permission."
 msgstr ""
-"Não consegue ver a sua fotografia? Certifique-se que permite o acesso do seu"
+"Não consegue ver a tua fotografia? Certifique-se que permite o acesso do teu"
 " browser à webcam quando for pedida permissão."
 
 #: lms/templates/verify_student/webcam_photo.underscore:7
@@ -11890,7 +11890,7 @@ msgstr "Lamentamos, mas não foram encontrados resultados."
 
 #: openedx/features/learner_profile/static/learner_profile/templates/section_two.underscore:5
 msgid "You are currently sharing a limited profile."
-msgstr "O seu perfil está atualmente a ser partilhado com restrições."
+msgstr "O teu perfil está atualmente a ser partilhado com restrições."
 
 #: openedx/features/learner_profile/static/learner_profile/templates/section_two.underscore:7
 msgid "This learner is currently sharing a limited profile."

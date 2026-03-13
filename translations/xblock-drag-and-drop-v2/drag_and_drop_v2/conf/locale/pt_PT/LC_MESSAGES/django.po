@@ -526,7 +526,7 @@ msgstr "Cancelar"
 #: utils.py:121
 #, python-brace-format
 msgid "Your highest score is {score}"
-msgstr "A sua pontuação mais alta é {score}"
+msgstr "A tua pontuação mais alta é {score}"
 
 #: utils.py:122
 #, python-brace-format
@@ -643,7 +643,7 @@ msgid ""
 msgstr ""
 "Os problemas de arrastar e largar consistem em itens arrastáveis e zonas "
 "para largar esses mesmos itens. Os utilizadores devem selecionar um item "
-"arrastável com o seu teclado e, em seguida, navegar até à zona apropriada "
+"arrastável com o teu teclado e, em seguida, navegar até à zona apropriada "
 "para o largar."
 
 #: public/js/drag_and_drop.js:365
@@ -690,7 +690,7 @@ msgid ""
 " the draggable items have been placed on their respective dropzones."
 msgstr ""
 "TAB de volta à lista de itens arrastáveis e repita este processo até que "
-"todos os itens arrastáveis tenham sido colocados nas suas respectivas zonas."
+"todos os itens arrastáveis tenham sido colocados nas tuas respectivas zonas."
 
 #: public/js/drag_and_drop.js:389
 msgid "You have used {used} of {total} attempts."
@@ -714,7 +714,7 @@ msgstr "Reiniciar"
 
 #: public/js/drag_and_drop.js:506 public/js/drag_and_drop.js:1243
 msgid "Some of your answers were not correct."
-msgstr "Algumas das suas respostas não estavam corretas."
+msgstr "Algumas das tuas respostas não estavam corretas."
 
 #: public/js/drag_and_drop.js:507 public/js/drag_and_drop.js:1246
 msgid "Hints:"
@@ -795,7 +795,7 @@ msgstr "Não pode adicionar mais itens nesta zona."
 #: public/js/drag_and_drop_edit.js:123 public/js/drag_and_drop_edit.js:520
 #: public/js/drag_and_drop_edit.js:751
 msgid "There was an error with your form."
-msgstr "Houve um erro com o seu formulário."
+msgstr "Houve um erro com o teu formulário."
 
 #: public/js/drag_and_drop_edit.js:124
 msgid "Please check over your submission."

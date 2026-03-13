@@ -21,7 +21,7 @@
   },
   "dropzone.Dropzone.uploadError": {
     "developer_comment": "Uma mensagem mostrada no caso de o carregamento de ficheiros no componente Dropzone resultar num erro.",
-    "string": "Ocorreu um problema ao carregar o seu ficheiro. Por favor, tente novamente."
+    "string": "Ocorreu um problema ao carregar o teu ficheiro. Por favor, tente novamente."
   },
   "pgn.Alert.closeLabel": {
     "developer_comment": "Etiqueta de um botão de fecho no componente Alert",
@@ -101,7 +101,7 @@
   },
   "pgn.Dropzone.DefaultContent.label": {
     "developer_comment": "Um texto que aparece como uma etiqueta para a entrada do componente Dropzone.",
-    "string": "Arraste e largue o seu ficheiro aqui ou clique para carregar."
+    "string": "Arraste e largue o teu ficheiro aqui ou clique para carregar."
   },
   "pgn.Dropzone.UploadProgress.cancelLabel": {
     "developer_comment": "Rótulo de um botão de cancelamento que é mostrado durante o carregamento de ficheiros na componente Dropzone.",

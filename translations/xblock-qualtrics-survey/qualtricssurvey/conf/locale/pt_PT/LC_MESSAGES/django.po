@@ -34,7 +34,7 @@ msgstr "Texto da ligação:"
 
 #: models.py:36
 msgid "This is the text that will link to your survey."
-msgstr "Este é o texto que ligará ao seu inquérito."
+msgstr "Este é o texto que ligará ao teu inquérito."
 
 #: models.py:39
 msgid "Message:"
@@ -43,7 +43,7 @@ msgstr "Mensagem:"
 #: models.py:43
 msgid "This is the text that will be displayed above the link to your survey."
 msgstr ""
-"Este é o texto que será apresentado por cima da hiperligação para o seu "
+"Este é o texto que será apresentado por cima da hiperligação para o teu "
 "inquérito."
 
 #: models.py:48
@@ -74,8 +74,8 @@ msgstr ""
 
 #: models.py:67
 msgid "Your University:"
-msgstr "A sua universidade:"
+msgstr "A tua universidade:"
 
 #: models.py:70
 msgid "This is the name of your university."
-msgstr "Este é o nome da sua universidade."
+msgstr "Este é o nome da tua universidade."

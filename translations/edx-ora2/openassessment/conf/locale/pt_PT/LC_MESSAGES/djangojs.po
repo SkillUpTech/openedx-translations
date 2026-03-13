@@ -58,7 +58,7 @@ msgstr "Não foi possível repor a submissão."
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:1
 #: xblock/static/js/src/oa_server.js:260
 msgid "Please check your internet connection."
-msgstr "Verifique a sua ligação à internet."
+msgstr "Verifique a tua ligação à internet."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:8
 #: xblock/static/dist/openassessment-studio.227e19b5d099e14574a2.js:1
@@ -289,7 +289,7 @@ msgstr "Por favor, descreva cada ficheiro que carregar."
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
 #: xblock/static/js/src/lms/oa_response.js:352
 msgid "Your file has been deleted or path has been changed: "
-msgstr "O seu ficheiro foi eliminado ou o caminho foi alterado: "
+msgstr "O teu ficheiro foi eliminado ou o caminho foi alterado: "
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
 #: xblock/static/js/src/lms/oa_response.js:447
@@ -302,7 +302,7 @@ msgid ""
 "If you leave this page without saving or submitting your response, you will "
 "lose any work you have done on the response."
 msgstr ""
-"Caso saia desta página sem gravar ou submeter a sua resposta, irá perder "
+"Caso saia desta página sem gravar ou submeter a tua resposta, irá perder "
 "todo o trabalho até aqui realizado."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
@@ -332,7 +332,7 @@ msgid ""
 "this response, you may have a limited time to resubmit before your "
 "submission is graded."
 msgstr ""
-"Está prestes a enviar a sua resposta para este trabalho. Depois de enviar "
+"Está prestes a enviar a tua resposta para este trabalho. Depois de enviar "
 "esta resposta, pode ter um tempo limitado para a enviar novamente antes de "
 "ser classificada."
 
@@ -342,7 +342,7 @@ msgid ""
 "You're about to submit your response for this assignment. After you submit "
 "this response, you can't change it or submit a new response."
 msgstr ""
-"Está prestes a submeter a sua resposta para esta tarefa. Depois de a "
+"Está prestes a submeter a tua resposta para esta tarefa. Depois de a "
 "submeter, não é possível alterá-la ou submeter uma nova resposta."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
@@ -357,7 +357,7 @@ msgid ""
 "submit a new response in order to complete this step. Are you sure you want "
 "to continue?"
 msgstr ""
-"Está prestes a repor a sua resposta para esta tarefa. Terá de enviar uma "
+"Está prestes a repor a tua resposta para esta tarefa. Terá de enviar uma "
 "nova resposta para concluir esta etapa. Tem a certeza de que pretende "
 "continuar?"
 
@@ -417,7 +417,7 @@ msgid ""
 "If you leave this page without submitting your self assessment, you will "
 "lose any work you have done."
 msgstr ""
-"Caso saia desta página sem submeter a sua auto-avaliação, irá perder todo o "
+"Caso saia desta página sem submeter a tua auto-avaliação, irá perder todo o "
 "trabalho até aqui realizado."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
@@ -454,7 +454,7 @@ msgid ""
 "If you leave this page without submitting your staff assessment, you will "
 "lose any work you have done."
 msgstr ""
-"Caso saia desta página sem submeter a sua avaliação individual, irá perder "
+"Caso saia desta página sem submeter a tua avaliação individual, irá perder "
 "todo o trabalho até aqui realizado."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
@@ -468,7 +468,7 @@ msgid ""
 "If you leave this page without submitting your peer assessment, you will "
 "lose any work you have done."
 msgstr ""
-"Caso saia desta página sem submeter o seu teste, irá perder todo o trabalho "
+"Caso saia desta página sem submeter o teu teste, irá perder todo o trabalho "
 "até aqui realizado."
 
 #: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:383
@@ -616,7 +616,7 @@ msgid ""
 "in the sample responses in the Learner Training step. You might have to "
 "select a new option for the criterion."
 msgstr ""
-"Eliminou uma opção. Esta opção foi removida do seu critério nos exemplos de "
+"Eliminou uma opção. Esta opção foi removida do teu critério nos exemplos de "
 "respostas da etapa Formação do Aluno. Deve selecionar uma nova opção "
 "para esse critério."
 

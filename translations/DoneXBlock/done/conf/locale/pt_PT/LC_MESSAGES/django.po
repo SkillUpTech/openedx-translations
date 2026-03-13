@@ -87,7 +87,7 @@ msgstr ""
 "Este é um componente muito simples, sem opções de configuração. É utilizado "
 "para ajudar os alunos a manter um registo de qual parte do curso já foi "
 "concluída. Por exemplo, pode colocá-lo por baixo de cada componente de texto"
-" e vídeo, e os alunos podem ver na sua página de progresso quais as partes "
+" e vídeo, e os alunos podem ver na tua página de progresso quais as partes "
 "concluídas e quais as que ainda precisam de ser vistas ou lidas."
 
 #: templates/studioview.html:6
