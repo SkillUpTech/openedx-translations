@@ -392,5 +392,9 @@
   "LearningEcosystemHeader.components.navigation.children": "Crianças",
   "LearningEcosystemHeader.components.navigation.settings": "Definições",
   "LearningEcosystemHeader.components.menu": "Menu",
-  "LearningEcosystemHeader.components.menu.language": "Idioma"
+  "LearningEcosystemHeader.components.menu.language": "Idioma",
+  "LearningEcosystemHeader.components.logout.modal.title": "Tens a certeza que queres terminar a sessão?",
+  "LearningEcosystemHeader.components.logout.modal.message": "A tua sessão será encerrada.",
+  "LearningEcosystemHeader.components.logout.modal.cancel": "Cancelar",
+  "LearningEcosystemHeader.components.logout.modal.confirm": "Confirmar"
 }
