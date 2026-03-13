@@ -237,14 +237,14 @@ msgstr "Falha na exportação."
 
 #: cms/static/js/factories/manage_users.js:11
 msgid "Already a course team member"
-msgstr "Já é um membro da equipa deste curso"
+msgstr "Já é um membro da equipa deste recurso"
 
 #: cms/static/js/factories/manage_users.js:13
 msgid ""
 "Are you sure you want to delete {email} from the course team for "
 "“{container}”?"
 msgstr ""
-"Tem a certeza de que quer apagar {email} da equipa do curso para "
+"Tem a certeza de que quer apagar {email} da equipa do recurso para "
 "“{container}”?"
 
 #: cms/static/js/factories/manage_users.js:20
@@ -316,7 +316,7 @@ msgstr ""
 #: cms/static/js/features/import/factories/import.js:58
 msgid "There was an error while importing the new course to our database."
 msgstr ""
-"Ocorreu um erro durante a importação do novo curso para a nossa base de "
+"Ocorreu um erro durante a importação do novo recurso para a nossa base de "
 "dados."
 
 #: cms/static/js/features/import/factories/import.js:121
@@ -331,7 +331,7 @@ msgstr ""
 
 #: cms/static/js/features/import/views/import.js:253
 msgid "Error importing course"
-msgstr "Erro ao importar o curso"
+msgstr "Erro ao importar o recurso"
 
 #: cms/static/js/features/import/views/import.js:298
 msgid "There was an error with the upload"
@@ -411,16 +411,16 @@ msgstr "Todos os grupos devem ter um nome único."
 
 #: cms/static/js/models/settings/course_details.js:59
 msgid "The course must have an assigned start date."
-msgstr "O curso deve ter uma data de início definida."
+msgstr "O recurso deve ter uma data de início definida."
 
 #: cms/static/js/models/settings/course_details.js:63
 msgid "The course end date must be later than the course start date."
 msgstr ""
-"A data de fim do curso tem de ser posterior à data de início do curso."
+"A data de fim do recurso tem de ser posterior à data de início do recurso."
 
 #: cms/static/js/models/settings/course_details.js:68
 msgid "The course start date must be later than the enrollment start date."
-msgstr "A data de início do curso tem de ser posterior à data de inscrição."
+msgstr "A data de início do recurso tem de ser posterior à data de inscrição."
 
 #: cms/static/js/models/settings/course_details.js:74
 msgid "The enrollment start date cannot be after the enrollment end date."
@@ -431,12 +431,12 @@ msgstr ""
 #: cms/static/js/models/settings/course_details.js:78
 msgid "The enrollment end date cannot be after the course end date."
 msgstr ""
-"A data final de matrícula não pode ser posterior à data do final do curso. "
+"A data final de matrícula não pode ser posterior à data do final do recurso. "
 
 #: cms/static/js/models/settings/course_details.js:83
 msgid "The certificate available date must be later than the course end date."
 msgstr ""
-"A data de emissão do certificado deve ser posterior à data de fim do curso."
+"A data de emissão do certificado deve ser posterior à data de fim do recurso."
 
 #: cms/static/js/models/settings/course_details.js:94
 msgid "The certificate display behavior must be one of: {behavior_options}"
@@ -782,11 +782,11 @@ msgstr "Rejeitar"
 
 #: cms/static/js/views/course_rerun.js:53
 msgid "Create Re-run"
-msgstr "Criar Nova Edição do Curso"
+msgstr "Criar Nova Edição do Recurso"
 
 #: cms/static/js/views/course_rerun.js:60
 msgid "Processing Re-run Request"
-msgstr "A processar pedido de nova Edição do Curso"
+msgstr "A processar pedido de nova Edição do Recurso"
 
 #: cms/static/js/views/course_video_settings.js:25
 msgid "An error has occurred. Wait a few minutes, and then try again."
@@ -902,13 +902,13 @@ msgid ""
 " identify the failed component. Inspect your course to identify any "
 "problematic components and try again."
 msgstr ""
-"O teu curso não pode ser exportado para XML. Não há informação suficiente "
-"que permita identificar a componente com falha. Inspeccione o teu curso para"
+"O teu recurso não pode ser exportado para XML. Não há informação suficiente "
+"que permita identificar a componente com falha. Inspeccione o teu recurso para"
 " identificar quaisquer componentes problemáticos e tente novamente."
 
 #: cms/static/js/views/export.js:344
 msgid "Take me to the main course page"
-msgstr "Leve-me para a página principal do curso"
+msgstr "Leve-me para a página principal do recurso"
 
 #: cms/static/js/views/export.js:346
 msgid "The raw error message is:"
@@ -1168,7 +1168,7 @@ msgstr "Destaques para {display_name}"
 
 #: cms/static/js/views/modals/course_outline_modals.js:279
 msgid "Enable Course Highlight Emails"
-msgstr "Activar Emails de Destaque do Curso"
+msgstr "Activar Emails de Destaque do Recurso"
 
 #: cms/static/js/views/modals/course_outline_modals.js:297
 msgid "Enable"
@@ -1298,7 +1298,7 @@ msgstr "Isto {parentCategory} não tem {childCategory}"
 #: cms/templates/js/group-configuration-details.underscore:88
 #: cms/templates/js/partition-group-details.underscore:63
 msgid "Course Outline"
-msgstr "Descrição do Curso"
+msgstr "Descrição do Recurso"
 
 #: cms/static/js/views/paged_container.js:260
 msgid "Date added"
@@ -1367,11 +1367,11 @@ msgstr "Tornar Visível para os Alunos"
 
 #: cms/static/js/views/pages/course_outline.js:248
 msgid "Course Index"
-msgstr "Índice de Cursos"
+msgstr "Índice de Recursos"
 
 #: cms/static/js/views/pages/course_outline.js:256
 msgid "There were errors reindexing course."
-msgstr "Ocorreram erros de reindexação do curso."
+msgstr "Ocorreram erros de reindexação do recurso."
 
 #: cms/static/js/views/pages/paged_container.js:46
 msgid "Hide Previews"
@@ -1453,9 +1453,9 @@ msgid ""
 "Removing a video from this list does not affect course content. Any content "
 "that uses a previously uploaded video ID continues to display in the course."
 msgstr ""
-"A ação de eliminar um vídeo desta lista não afeta o conteúdo do curso. "
+"A ação de eliminar um vídeo desta lista não afeta o conteúdo do recurso. "
 "Qualquer conteúdo que utilize um ID de vídeo previamente carregada "
-"continuará a ser mostrado no curso."
+"continuará a ser mostrado no recurso."
 
 #: cms/static/js/views/previous_video_upload.js:81
 #: cms/static/js/views/video/translations_editor.js:177
@@ -1494,15 +1494,15 @@ msgstr ""
 
 #: cms/static/js/views/settings/main.js:62
 msgid "Course Credit Requirements"
-msgstr "Requisitos de Crédito do Curso"
+msgstr "Requisitos de Crédito do Recurso"
 
 #: cms/static/js/views/settings/main.js:63
 msgid "The minimum grade for course credit is not set."
-msgstr "Não está definida a classificação mínima de crédito do curso."
+msgstr "Não está definida a classificação mínima de crédito do recurso."
 
 #: cms/static/js/views/settings/main.js:155
 msgid "Course pacing cannot be changed once a course has started."
-msgstr "O ritmo do curso não pode ser alterado assim que um curso é iniciado."
+msgstr "O ritmo do recurso não pode ser alterado assim que um recurso é iniciado."
 
 #: cms/static/js/views/settings/main.js:223
 msgid "{hours}:{minutes} (current UTC time)"
@@ -1510,7 +1510,7 @@ msgstr "{hours}: {minutes} (hora UTC atual)"
 
 #: cms/static/js/views/settings/main.js:460
 msgid "Upload your course image."
-msgstr "Faça upload da imagem do teu curso."
+msgstr "Faça upload da imagem do teu recurso."
 
 #: cms/static/js/views/settings/main.js:466
 msgid "Upload your banner image."

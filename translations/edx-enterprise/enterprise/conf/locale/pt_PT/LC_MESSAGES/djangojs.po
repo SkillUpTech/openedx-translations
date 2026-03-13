@@ -22,7 +22,7 @@ msgstr ""
 
 #: enterprise/static/enterprise/js/manage_learners.js:38
 msgid "Enter a valid course ID"
-msgstr "Introduza um ID de curso válido"
+msgstr "Introduza um ID de recurso válido"
 
 #: enterprise/static/enterprise/js/manage_learners.js:82
 msgid "Are you sure you want to unlink %(email)s?"

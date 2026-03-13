@@ -19,7 +19,7 @@ en:
   Action Count: Contagem de ações
   Action Date: Data da ação
   Active: Ativo
-  Active Courses: Cursos ativos
+  Active Courses: Recursos ativos
   Active Learner: Aluno Ativo
   Active Learners: Alunos ativos
   Active Users Per Organization: Utilizadores ativos por organização
@@ -35,10 +35,10 @@ en:
   Attempts: Tentativas
   Avg % Correct on 1st Attempt: Média da % de acerto na 1ª tentativa
   Avg Attempts: Média de tentativas
-  Avg Correct Attempts Coursewide: Média de tentativas corretas em todo o curso
+  Avg Correct Attempts Coursewide: Média de tentativas corretas em todo o recurso
   Avg Correct Attempts by Selected Learners: Média de tentativas corretas dos alunos selecionados
-  Avg Course Grade: Nota média do curso
-  Avg Incorrect Attempts Coursewide: Média de tentativas incorretas em todo o curso
+  Avg Course Grade: Nota média do recurso
+  Avg Incorrect Attempts Coursewide: Média de tentativas incorretas em todo o recurso
   Avg Incorrect Attempts by Selected Learners: Média de tentativas incorretas de alunos selecionados
   Avg Video Length (seconds): Duração média do vídeo (segundos)
   Block ID: Bloco ID

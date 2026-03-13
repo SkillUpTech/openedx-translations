@@ -240,13 +240,13 @@ msgstr ""
 
 #: cms/static/js/factories/manage_users.js:11
 msgid "Already a course team member"
-msgstr ""
+msgstr "Already a resource team member"
 
 #: cms/static/js/factories/manage_users.js:13
 msgid ""
 "Are you sure you want to delete {email} from the course team for "
 "“{container}”?"
-msgstr ""
+msgstr "Are you sure you want to delete {email} from the resource team for “{container}”?"
 
 #: cms/static/js/factories/manage_users.js:20
 #: cms/static/js/factories/manage_users_lib.js:22
@@ -310,7 +310,7 @@ msgstr ""
 
 #: cms/static/js/features/import/factories/import.js:58
 msgid "There was an error while importing the new course to our database."
-msgstr ""
+msgstr "There was an error while importing the new resource to our database."
 
 #: cms/static/js/features/import/factories/import.js:121
 msgid "Your import has failed."
@@ -322,7 +322,7 @@ msgstr ""
 
 #: cms/static/js/features/import/views/import.js:253
 msgid "Error importing course"
-msgstr ""
+msgstr "Error importing resource"
 
 #: cms/static/js/features/import/views/import.js:298
 msgid "There was an error with the upload"
@@ -406,15 +406,15 @@ msgstr ""
 
 #: cms/static/js/models/settings/course_details.js:59
 msgid "The course must have an assigned start date."
-msgstr ""
+msgstr "The resource must have an assigned start date."
 
 #: cms/static/js/models/settings/course_details.js:63
 msgid "The course end date must be later than the course start date."
-msgstr ""
+msgstr "The resource end date must be later than the resource start date."
 
 #: cms/static/js/models/settings/course_details.js:68
 msgid "The course start date must be later than the enrollment start date."
-msgstr ""
+msgstr "The resource start date must be later than the enrollment start date."
 
 #: cms/static/js/models/settings/course_details.js:74
 msgid "The enrollment start date cannot be after the enrollment end date."
@@ -422,11 +422,11 @@ msgstr ""
 
 #: cms/static/js/models/settings/course_details.js:78
 msgid "The enrollment end date cannot be after the course end date."
-msgstr ""
+msgstr "The enrollment end date cannot be after the resource end date."
 
 #: cms/static/js/models/settings/course_details.js:83
 msgid "The certificate available date must be later than the course end date."
-msgstr ""
+msgstr "The certificate available date must be later than the resource end date."
 
 #: cms/static/js/models/settings/course_details.js:94
 msgid "The certificate display behavior must be one of: {behavior_options}"
@@ -714,7 +714,7 @@ msgstr ""
 #: cms/static/js/views/pages/container.js:325
 #: cms/static/js/views/utils/xblock_utils.js:98
 msgid "The following required files could not be added to the course:"
-msgstr ""
+msgstr "The following required files could not be added to the resource:"
 
 #: cms/static/js/views/course_outline.js:402
 #: cms/static/js/views/pages/container.js:333
@@ -728,7 +728,7 @@ msgstr ""
 msgid ""
 "The following files already exist in this course but don't match the version "
 "used by the component you pasted:"
-msgstr ""
+msgstr "The following files already exist in this resource but don't match the version used by the component you pasted:"
 
 #: cms/static/js/views/course_outline.js:414
 #: cms/static/js/views/pages/container.js:345
@@ -740,7 +740,7 @@ msgstr ""
 #: cms/static/js/views/pages/container.js:347
 #: cms/static/js/views/utils/xblock_utils.js:120
 msgid "The following required files were imported to this course:"
-msgstr ""
+msgstr "The following required files were imported to this resource:"
 
 #: cms/static/js/views/course_outline.js:421
 #: cms/static/js/views/pages/container.js:352
@@ -868,11 +868,11 @@ msgid ""
 "Your course could not be exported to XML. There is not enough information to "
 "identify the failed component. Inspect your course to identify any "
 "problematic components and try again."
-msgstr ""
+msgstr "Your resource could not be exported to XML. There is not enough information to identify the failed component. Inspect your resource to identify any problematic components and try again."
 
 #: cms/static/js/views/export.js:344
 msgid "Take me to the main course page"
-msgstr ""
+msgstr "Take me to the main resource page"
 
 #: cms/static/js/views/export.js:346
 msgid "The raw error message is:"
@@ -1113,7 +1113,7 @@ msgstr ""
 
 #: cms/static/js/views/modals/course_outline_modals.js:279
 msgid "Enable Course Highlight Emails"
-msgstr ""
+msgstr "Enable Resource Highlight Emails"
 
 #: cms/static/js/views/modals/course_outline_modals.js:297
 msgid "Enable"
@@ -1264,7 +1264,7 @@ msgstr ""
 #: cms/templates/js/group-configuration-details.underscore:88
 #: cms/templates/js/partition-group-details.underscore:63
 msgid "Course Outline"
-msgstr ""
+msgstr "Resource Outline"
 
 #: cms/static/js/views/paged_container.js:260
 msgid "Date added"
@@ -1328,11 +1328,11 @@ msgstr ""
 
 #: cms/static/js/views/pages/course_outline.js:248
 msgid "Course Index"
-msgstr ""
+msgstr "Resource Index"
 
 #: cms/static/js/views/pages/course_outline.js:256
 msgid "There were errors reindexing course."
-msgstr ""
+msgstr "There were errors reindexing resource."
 
 #: cms/static/js/views/pages/paged_container.js:46
 msgid "Hide Previews"
@@ -1405,7 +1405,7 @@ msgstr ""
 msgid ""
 "Removing a video from this list does not affect course content. Any content "
 "that uses a previously uploaded video ID continues to display in the course."
-msgstr ""
+msgstr "Removing a video from this list does not affect resource content. Any content that uses a previously uploaded video ID continues to display in the resource."
 
 #: cms/static/js/views/previous_video_upload.js:81
 #: cms/static/js/views/video/translations_editor.js:177
@@ -1437,15 +1437,15 @@ msgstr ""
 
 #: cms/static/js/views/settings/main.js:62
 msgid "Course Credit Requirements"
-msgstr ""
+msgstr "Resource Credit Requirements"
 
 #: cms/static/js/views/settings/main.js:63
 msgid "The minimum grade for course credit is not set."
-msgstr ""
+msgstr "The minimum grade for resource credit is not set."
 
 #: cms/static/js/views/settings/main.js:155
 msgid "Course pacing cannot be changed once a course has started."
-msgstr ""
+msgstr "Resource pacing cannot be changed once a resource has started."
 
 #: cms/static/js/views/settings/main.js:223
 msgid "{hours}:{minutes} (current UTC time)"
@@ -1453,7 +1453,7 @@ msgstr ""
 
 #: cms/static/js/views/settings/main.js:460
 msgid "Upload your course image."
-msgstr ""
+msgstr "Upload your resource image."
 
 #: cms/static/js/views/settings/main.js:466
 msgid "Upload your banner image."
@@ -1496,7 +1496,7 @@ msgstr ""
 msgid ""
 "The combined length of the organization, course number, and course run "
 "fields cannot be more than <%- limit %> characters."
-msgstr ""
+msgstr "The combined length of the organization, resource number, and resource run fields cannot be more than <%- limit %> characters."
 
 #: cms/static/js/views/utils/create_library_utils.js:9
 msgid ""
@@ -2301,17 +2301,17 @@ msgstr ""
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx:17
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx:43
 msgid "Course Name"
-msgstr ""
+msgstr "Resource Name"
 
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx:20
 msgid ""
 "For inquiries regarding assignments, grades, or structure of a specific "
 "course, please post in the discussion forums for that course directly."
-msgstr ""
+msgstr "For inquiries regarding assignments, grades, or structure of a specific resource, please post in the discussion forums for that resource directly."
 
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx:30
 msgid "Not specific to a course"
-msgstr ""
+msgstr "Not specific to a resource"
 
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx:50
 #: lms/static/js/instructor_dashboard/util.js:200
@@ -2338,7 +2338,7 @@ msgstr ""
 
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx:56
 msgid "Course Content"
-msgstr ""
+msgstr "Resource Content"
 
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx:57
 msgid "Deadlines"
@@ -2367,7 +2367,7 @@ msgstr ""
 
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx:73
 msgid "Course Discussion Forum"
-msgstr ""
+msgstr "Resource Discussion Forum"
 
 #: lms/djangoapps/support/static/support/jsx/logged_in_user.jsx:90
 msgid ""
@@ -2375,7 +2375,7 @@ msgid ""
 "staff has the expertise for specific assignment questions, grading or the "
 "proper procedures in each course. Please post all course related questions "
 "within the Discussion Forum where the Course Staff can directly respond."
-msgstr ""
+msgstr "While our support team is happy to assist with the edX platform, the resource staff has the expertise for specific assignment questions, grading or the proper procedures in each resource. Please post all resource related questions within the Discussion Forum where the Resource Staff can directly respond."
 
 #: lms/djangoapps/support/static/support/jsx/logged_out_user.jsx:15
 msgid "Sign in to {platform} so we can help you better."
@@ -2385,7 +2385,7 @@ msgstr ""
 msgid ""
 "Select a course or select \"Not specific to a course\" for your support "
 "request."
-msgstr ""
+msgstr "Select a resource or select \"Not specific to a resource\" for your support request."
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx:48
 msgid "Select a subject for your support request."
@@ -2713,13 +2713,13 @@ msgid ""
 "See all teams you belong to and all public teams in your course, organized "
 "by topic. Join an open public team to collaborate with other learners who "
 "are interested in the same topic as you are."
-msgstr ""
+msgstr "See all teams you belong to and all public teams in your resource, organized by topic. Join an open public team to collaborate with other learners who are interested in the same topic as you are."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:545
 msgid ""
 "See all teams you belong to and all public teams in your course, organized "
 "by topic."
-msgstr ""
+msgstr "See all teams you belong to and all public teams in your resource, organized by topic."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:549
 msgid "See all teams you belong to."
@@ -3061,35 +3061,35 @@ msgstr ""
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:128
 msgid " learners already appear on the exception list in this course"
-msgstr ""
+msgstr " learners already appear on the exception list in this resource"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:129
 msgid " learner already appears on the exception list in this course"
-msgstr ""
+msgstr " learner already appears on the exception list in this resource"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:134
 msgid ""
 " learners are not enrolled in this course and have not added to the "
 "exception list"
-msgstr ""
+msgstr " learners are not enrolled in this resource and have not added to the exception list"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:136
 msgid ""
 " learner is not enrolled in this course and has not been added to the "
 "exception list"
-msgstr ""
+msgstr " learner is not enrolled in this resource and has not been added to the exception list"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:142
 msgid ""
 " learners have an active certificate invalidation in this course and have "
 "not been added to the exception list"
-msgstr ""
+msgstr " learners have an active certificate invalidation in this resource and have not been added to the exception list"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:144
 msgid ""
 " learner has an active certificate invalidation in this course and has not "
 "been added to the exception list"
-msgstr ""
+msgstr " learner has an active certificate invalidation in this resource and has not been added to the exception list"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:150
 msgid " learners encountered unknown errors"
@@ -3181,7 +3181,7 @@ msgstr ""
 msgid ""
 "Are you sure you want to unenroll from the purchased course {courseName} "
 "({courseNumber})?"
-msgstr ""
+msgstr "Are you sure you want to unenroll from the purchased resource {courseName} ({courseNumber})?"
 
 #: lms/static/js/dashboard/legacy.js:100
 msgid "Are you sure you want to unenroll from {courseName} ({courseNumber})?"
@@ -3203,7 +3203,7 @@ msgstr ""
 msgid ""
 "The refund deadline for this course has passed, so you will not receive a "
 "refund."
-msgstr ""
+msgstr "The refund deadline for this resource has passed, so you will not receive a refund."
 
 #: lms/static/js/dashboard/legacy.js:190 lms/static/js/dashboard/legacy.js:200
 #: lms/static/js/learner_dashboard/views/unenroll_view.js:94
@@ -3264,7 +3264,7 @@ msgstr ""
 
 #: lms/static/js/discussions_management/views/discussions.js:182
 msgid "Discussion topics in the course are not divided."
-msgstr ""
+msgstr "Discussion topics in the resource are not divided."
 
 #: lms/static/js/discussions_management/views/discussions.js:185
 msgid "Any divided discussion topics are divided based on enrollment track."
@@ -3323,7 +3323,7 @@ msgstr ""
 
 #: lms/static/js/edxnotes/views/tabs/course_structure.js:52
 msgid "Location in Course"
-msgstr ""
+msgstr "Location in Resource"
 
 #: lms/static/js/edxnotes/views/tabs/recent_activity.js:30
 msgid "Recent Activity"
@@ -3509,15 +3509,15 @@ msgstr ""
 
 #: lms/static/js/instructor_dashboard/certificates.js:20
 msgid "Allow students to generate certificates for this course?"
-msgstr ""
+msgstr "Allow students to generate certificates for this resource?"
 
 #: lms/static/js/instructor_dashboard/certificates.js:22
 msgid "Prevent students from generating certificates in this course?"
-msgstr ""
+msgstr "Prevent students from generating certificates in this resource?"
 
 #: lms/static/js/instructor_dashboard/certificates.js:45
 msgid "Start generating certificates for all students in this course?"
-msgstr ""
+msgstr "Start generating certificates for all students in this resource?"
 
 #: lms/static/js/instructor_dashboard/certificates.js:61
 msgid "Error while generating certificates. Please try again."
@@ -3525,7 +3525,7 @@ msgstr ""
 
 #: lms/static/js/instructor_dashboard/certificates.js:71
 msgid "Start regenerating certificates for students in this course?"
-msgstr ""
+msgstr "Start regenerating certificates for students in this resource?"
 
 #: lms/static/js/instructor_dashboard/certificates.js:98
 msgid "Error while regenerating certificates. Please try again."
@@ -3799,17 +3799,17 @@ msgstr ""
 msgid ""
 "Emails successfully sent. The following users are no longer enrolled in the "
 "course:"
-msgstr ""
+msgstr "Emails successfully sent. The following users are no longer enrolled in the resource:"
 
 #. Translators: A list of users appears after this sentence;
 #: lms/static/js/instructor_dashboard/membership.js:852
 msgid "The following users are no longer enrolled in the course:"
-msgstr ""
+msgstr "The following users are no longer enrolled in the resource:"
 
 #: lms/static/js/instructor_dashboard/membership.js:863
 msgid ""
 "These users were not affiliated with the course so could not be unenrolled:"
-msgstr ""
+msgstr "These users were not affiliated with the resource so could not be unenrolled:"
 
 #: lms/static/js/instructor_dashboard/send_email.js:68
 msgid "Your message must have a subject."
@@ -3835,11 +3835,11 @@ msgstr ""
 
 #: lms/static/js/instructor_dashboard/send_email.js:87
 msgid "Everyone who has staff privileges in this course"
-msgstr ""
+msgstr "Everyone who has staff privileges in this resource"
 
 #: lms/static/js/instructor_dashboard/send_email.js:89
 msgid "All learners who are enrolled in this course"
-msgstr ""
+msgstr "All learners who are enrolled in this resource"
 
 #: lms/static/js/instructor_dashboard/send_email.js:91
 msgid "All learners in the {cohort_name} cohort"
@@ -3873,15 +3873,15 @@ msgstr ""
 #: lms/static/js/instructor_dashboard/send_email.js:143
 #: lms/static/js/instructor_dashboard/send_email.js:171
 msgid "There is no email history for this course."
-msgstr ""
+msgstr "There is no email history for this resource."
 
 #: lms/static/js/instructor_dashboard/send_email.js:152
 msgid "There was an error obtaining email task history for this course."
-msgstr ""
+msgstr "There was an error obtaining email task history for this resource."
 
 #: lms/static/js/instructor_dashboard/send_email.js:180
 msgid "There was an error obtaining email content history for this course."
-msgstr ""
+msgstr "There was an error obtaining email content history for this resource."
 
 #: lms/static/js/instructor_dashboard/send_email.js:207
 msgid "Send to:"
@@ -4245,7 +4245,7 @@ msgstr ""
 
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:220
 msgid "You must select a session to access the course."
-msgstr ""
+msgstr "You must select a session to access the resource."
 
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:247
 msgid "There was an error. Please reload the page and try again."
@@ -4276,7 +4276,7 @@ msgstr ""
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:324
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:327
 msgid "Any course progress or grades from your current session will be lost."
-msgstr ""
+msgstr "Any resource progress or grades from your current session will be lost."
 
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:326
 msgid "Are you sure that you want to leave this session?"
@@ -4503,11 +4503,11 @@ msgstr ""
 
 #: lms/static/js/student_account/views/FinishAuthView.js:127
 msgid "Enrolling you in the selected course"
-msgstr ""
+msgstr "Enrolling you in the selected resource"
 
 #: lms/static/js/student_account/views/FinishAuthView.js:159
 msgid "Adding the selected course to your cart"
-msgstr ""
+msgstr "Adding the selected resource to your cart"
 
 #: lms/static/js/student_account/views/FinishAuthView.js:172
 msgid "Loading your courses"
@@ -4611,7 +4611,7 @@ msgstr ""
 #: lms/static/js/student_account/views/account_settings_factory.js:78
 msgid ""
 "You receive messages from {platform_name} and course teams at this address."
-msgstr ""
+msgstr "You receive messages from {platform_name} and resource teams at this address."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:95
 msgid "Recovery Email Address"
@@ -4682,7 +4682,7 @@ msgid ""
 "Select the time zone for displaying course dates. If you do not specify a "
 "time zone, course dates, including assignment deadlines, will be displayed "
 "in your browser's local time zone."
-msgstr ""
+msgstr "Select the time zone for displaying resource dates. If you do not specify a time zone, resource dates, including assignment deadlines, will be displayed in your browser's local time zone."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:205
 msgid "All Time Zones"
@@ -5043,13 +5043,13 @@ msgstr ""
 
 #: lms/static/lms/js/preview/preview_factory.js:13
 msgid "Course is not yet visible to students."
-msgstr ""
+msgstr "Resource is not yet visible to students."
 
 #: lms/static/lms/js/preview/preview_factory.js:24
 msgid ""
 "You cannot view the course as a student or beta tester before the course "
 "release date."
-msgstr ""
+msgstr "You cannot view the resource as a student or beta tester before the resource release date."
 
 #: lms/templates/courseware/progress_graph.js:294
 msgid "Overall Score"
@@ -6558,7 +6558,7 @@ msgstr ""
 msgid ""
 "Sequence error! Cannot navigate to %(tab_name)s in the current "
 "SequenceModule. Please contact the course staff."
-msgstr ""
+msgstr "Sequence error! Cannot navigate to %(tab_name)s in the current SequenceModule. Please contact the resource staff."
 
 #: xmodule/js/src/video/00_i18n.js:15
 #: xmodule/js/src/video/09_play_pause_control.js:30
@@ -6889,7 +6889,7 @@ msgstr ""
 
 #: cms/templates/js/asset-library.underscore:5
 msgid "List of uploaded files and assets in this course"
-msgstr ""
+msgstr "List of uploaded files and assets in this resource"
 
 #: cms/templates/js/asset-library.underscore:20
 #: cms/templates/js/asset-library.underscore:53
@@ -6919,7 +6919,7 @@ msgstr ""
 
 #: cms/templates/js/asset-library.underscore:67
 msgid "You haven't added any assets to this course yet."
-msgstr ""
+msgstr "You haven't added any assets to this resource yet."
 
 #: cms/templates/js/asset-library.underscore:67
 msgid "Upload your first asset"
@@ -6971,20 +6971,20 @@ msgstr ""
 #: cms/templates/js/certificate-details.underscore:23
 #: cms/templates/js/certificate-editor.underscore:26
 msgid "Course Title"
-msgstr ""
+msgstr "Resource Title"
 
 #: cms/templates/js/certificate-details.underscore:28
 #: cms/templates/js/certificate-editor.underscore:30
 msgid "Course Title Override"
-msgstr ""
+msgstr "Resource Title Override"
 
 #: cms/templates/js/certificate-details.underscore:36
 msgid "Course Number"
-msgstr ""
+msgstr "Resource Number"
 
 #: cms/templates/js/certificate-details.underscore:42
 msgid "Course Number Override"
-msgstr ""
+msgstr "Resource Number Override"
 
 #: cms/templates/js/certificate-details.underscore:53
 #: cms/templates/js/certificate-editor.underscore:36
@@ -7019,13 +7019,13 @@ msgstr ""
 
 #: cms/templates/js/certificate-editor.underscore:31
 msgid "Course title"
-msgstr ""
+msgstr "Resource title"
 
 #: cms/templates/js/certificate-editor.underscore:32
 msgid ""
 "Specify an alternative to the official course title to display on "
 "certificates. Leave blank to use the official course title."
-msgstr ""
+msgstr "Specify an alternative to the official resource title to display on certificates. Leave blank to use the official resource title."
 
 #: cms/templates/js/certificate-editor.underscore:41
 msgid "Add Additional Signatory"
@@ -7112,7 +7112,7 @@ msgstr ""
 
 #: cms/templates/js/content-visibility-editor.underscore:19
 msgid "Hide content after course end date"
-msgstr ""
+msgstr "Hide content after resource end date"
 
 #: cms/templates/js/content-visibility-editor.underscore:21
 msgid "Hide content after due date"
@@ -7122,7 +7122,7 @@ msgstr ""
 msgid ""
 "After the course\\'s end date has passed, learners can no longer access "
 "subsection content. The subsection remains included in grade calculations."
-msgstr ""
+msgstr "After the resource\\'s end date has passed, learners can no longer access subsection content. The subsection remains included in grade calculations."
 
 #: cms/templates/js/content-visibility-editor.underscore:28
 msgid ""
@@ -7138,7 +7138,7 @@ msgstr ""
 msgid ""
 "Learners do not see the subsection in the course outline. The subsection is "
 "not included in grade calculations."
-msgstr ""
+msgstr "Learners do not see the subsection in the resource outline. The subsection is not included in grade calculations."
 
 #: cms/templates/js/content-visibility-editor.underscore:42
 #, python-format
@@ -7155,7 +7155,7 @@ msgstr ""
 
 #: cms/templates/js/course-highlights-enable.underscore:3
 msgid "Course Highlight Emails"
-msgstr ""
+msgstr "Resource Highlight Emails"
 
 #: cms/templates/js/course-highlights-enable.underscore:7
 msgid "Enabled"
@@ -7230,7 +7230,7 @@ msgstr ""
 
 #: cms/templates/js/course-manage-tags.underscore:3
 msgid "Course tags"
-msgstr ""
+msgstr "Resource tags"
 
 #: cms/templates/js/course-manage-tags.underscore:7
 #: cms/templates/js/tag-list.underscore:28
@@ -7250,7 +7250,7 @@ msgstr ""
 msgid ""
 "Hidden in the course outline, but sections are accessible for your learners "
 "through their separate link."
-msgstr ""
+msgstr "Hidden in the resource outline, but sections are accessible for your learners through their separate link."
 
 #: cms/templates/js/course-outline.underscore:63
 msgid ""
@@ -7387,7 +7387,7 @@ msgstr ""
 
 #: cms/templates/js/course-outline.underscore:410
 msgid "Subsection is hidden after course end date"
-msgstr ""
+msgstr "Subsection is hidden after resource end date"
 
 #: cms/templates/js/course-outline.underscore:412
 msgid "Subsection is hidden after due date"
@@ -7407,7 +7407,7 @@ msgstr ""
 #: cms/templates/js/course-outline.underscore:457
 #: cms/templates/js/xblock-outline.underscore:57
 msgid "You haven't added any content to this course yet."
-msgstr ""
+msgstr "You haven't added any content to this resource yet."
 
 #: cms/templates/js/course-outline.underscore:461
 #: cms/templates/js/course-outline.underscore:482
@@ -7457,15 +7457,15 @@ msgstr ""
 
 #: cms/templates/js/course-video-settings-update-settings-footer.underscore:7
 msgid "Press update settings to update course video settings"
-msgstr ""
+msgstr "Press update settings to update resource video settings"
 
 #: cms/templates/js/course-video-settings.underscore:7
 msgid "Press close to hide course video settings"
-msgstr ""
+msgstr "Press close to hide resource video settings"
 
 #: cms/templates/js/course-video-settings.underscore:13
 msgid "Course Video Settings"
-msgstr ""
+msgstr "Resource Video Settings"
 
 #: cms/templates/js/course-video-sharing-enable.underscore:3
 msgid "Video Sharing"
@@ -7556,7 +7556,7 @@ msgstr ""
 msgid ""
 "The number of subsections in the course that contain problems of this "
 "assignment type."
-msgstr ""
+msgstr "The number of subsections in the resource that contain problems of this assignment type."
 
 #: cms/templates/js/course_grade_policy.underscore:27
 msgid "Number of Droppable"
@@ -7576,11 +7576,11 @@ msgstr ""
 msgid ""
 "The number of {type} assignments defined here does not match the current "
 "number of {type} assignments in the course:"
-msgstr ""
+msgstr "The number of {type} assignments defined here does not match the current number of {type} assignments in the resource:"
 
 #: cms/templates/js/course_grade_policy.underscore:47
 msgid "There are no assignments of this type in the course."
-msgstr ""
+msgstr "There are no assignments of this type in the resource."
 
 #: cms/templates/js/course_grade_policy.underscore:51
 msgid "{assignment_count} {type} assignment(s) found:"
@@ -7590,11 +7590,11 @@ msgstr ""
 msgid ""
 "The number of {type} assignments in the course matches the number defined "
 "here."
-msgstr ""
+msgstr "The number of {type} assignments in the resource matches the number defined here."
 
 #: cms/templates/js/course_info_handouts.underscore:3
 msgid "Course Handouts"
-msgstr ""
+msgstr "Resource Handouts"
 
 #: cms/templates/js/course_info_handouts.underscore:9
 msgid "You have no handouts defined"
@@ -7757,7 +7757,7 @@ msgstr ""
 msgid ""
 "This Group Configuration is not in use. Start by adding a content experiment "
 "to any Unit via the {linkStart}Course Outline{linkEnd}."
-msgstr ""
+msgstr "This Group Configuration is not in use. Start by adding a content experiment to any Unit via the {linkStart}Resource Outline{linkEnd}."
 
 #: cms/templates/js/group-configuration-editor.underscore:9
 msgid "Group Configuration information"
@@ -7850,7 +7850,7 @@ msgstr ""
 msgid ""
 "The following message will be displayed at the bottom of the courseware "
 "pages within your course:"
-msgstr ""
+msgstr "The following message will be displayed at the bottom of the courseware pages within your resource:"
 
 #: cms/templates/js/license-selector.underscore:101
 msgid "Creative Commons licensed content, with terms as follow:"
@@ -7910,7 +7910,7 @@ msgstr ""
 
 #: cms/templates/js/no-textbooks.underscore:2
 msgid "You haven't added any textbooks to this course yet."
-msgstr ""
+msgstr "You haven't added any textbooks to this resource yet."
 
 #: cms/templates/js/no-textbooks.underscore:2
 msgid "Add your first textbook"
@@ -7930,7 +7930,7 @@ msgstr ""
 msgid ""
 "In the {linkStart}Course Outline{linkEnd}, use this group to control access "
 "to a component."
-msgstr ""
+msgstr "In the {linkStart}Resource Outline{linkEnd}, use this group to control access to a component."
 
 #: cms/templates/js/previous-video-upload-list.underscore:2
 msgid "Previous Uploads"
@@ -8235,7 +8235,7 @@ msgstr ""
 
 #: cms/templates/js/staff-lock-editor.underscore:22
 msgid "Hide in Course Outline, accessible via Link"
-msgstr ""
+msgstr "Hide in Resource Outline, accessible via Link"
 
 #: cms/templates/js/staff-lock-editor.underscore:24
 msgid ""
@@ -8253,7 +8253,7 @@ msgstr ""
 msgid ""
 "It is intentionally hidden from learners, ensuring that only the course "
 "staff can view its contents."
-msgstr ""
+msgstr "It is intentionally hidden from learners, ensuring that only the resource staff can view its contents."
 
 #: cms/templates/js/staff-lock-editor.underscore:45
 msgid ""
@@ -8466,7 +8466,7 @@ msgstr ""
 msgid ""
 "Please check the following validation feedbacks and reflect them in your "
 "course settings:"
-msgstr ""
+msgstr "Please check the following validation feedbacks and reflect them in your resource settings:"
 
 #: cms/templates/js/verification-access-editor.underscore:3
 msgid "Verification Checkpoint"
@@ -8518,7 +8518,7 @@ msgstr ""
 msgid ""
 "You have done a dry run of force publishing the course. Nothing has changed. "
 "Had you run it, the following course versions would have been change."
-msgstr ""
+msgstr "You have done a dry run of force publishing the resource. Nothing has changed. Had you run it, the following resource versions would have been change."
 
 #: cms/templates/js/maintenance/force-published-course-response.underscore:7
 msgid ""
@@ -9095,7 +9095,7 @@ msgstr ""
 
 #: lms/djangoapps/support/static/support/templates/certificates.underscore:17
 msgid "course id"
-msgstr ""
+msgstr "resource id"
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore:2
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore:16
@@ -9105,7 +9105,7 @@ msgstr ""
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore:6
 msgid "Course Key"
-msgstr ""
+msgstr "Resource Key"
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore:8
 msgid "Status"
@@ -9167,15 +9167,15 @@ msgstr ""
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:20
 msgid "Course ID"
-msgstr ""
+msgstr "Resource ID"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:21
 msgid "Course Start"
-msgstr ""
+msgstr "Resource Start"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:22
 msgid "Course End"
-msgstr ""
+msgstr "Resource End"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:23
 msgid "Upgrade Deadline"
@@ -9800,7 +9800,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:131
 msgid "Only the parent course staff of a CCX can create content groups."
-msgstr ""
+msgstr "Only the parent resource staff of a CCX can create content groups."
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:133
 msgid "Create a content group"
@@ -9858,7 +9858,7 @@ msgid ""
 "To review learner cohort assignments or see the results of uploading a CSV "
 "file, download course profile information or cohort results on the "
 "{link_start}Data Download{link_end} page."
-msgstr ""
+msgstr "To review learner cohort assignments or see the results of uploading a CSV file, download resource profile information or cohort results on the {link_start}Data Download{link_end} page."
 
 #: lms/templates/instructor/instructor_dashboard_2/discussions.underscore:3
 msgid "Specify whether discussion topics are divided"
@@ -9866,11 +9866,11 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/divided-discussions-course-wide.underscore:6
 msgid "Course-Wide Discussion Topics"
-msgstr ""
+msgstr "Resource-Wide Discussion Topics"
 
 #: lms/templates/instructor/instructor_dashboard_2/divided-discussions-course-wide.underscore:7
 msgid "Select the course-wide discussion topics that you want to divide."
-msgstr ""
+msgstr "Select the resource-wide discussion topics that you want to divide."
 
 #: lms/templates/instructor/instructor_dashboard_2/divided-discussions-inline.underscore:8
 msgid "Content-Specific Discussion Topics"
@@ -9915,7 +9915,7 @@ msgstr ""
 
 #: lms/templates/learner_dashboard/course_card.underscore:29
 msgid "You must select a session by {expiration_date} to access the course."
-msgstr ""
+msgstr "You must select a session by {expiration_date} to access the resource."
 
 #: lms/templates/learner_dashboard/course_card.underscore:33
 msgid "You can no longer change sessions."
@@ -9927,11 +9927,11 @@ msgstr ""
 
 #: lms/templates/learner_dashboard/course_enroll.underscore:5
 msgid "View Archived Course"
-msgstr ""
+msgstr "View Archived Resource"
 
 #: lms/templates/learner_dashboard/course_enroll.underscore:7
 msgid "View Course"
-msgstr ""
+msgstr "View Resource"
 
 #: lms/templates/learner_dashboard/course_enroll.underscore:15
 msgid "Select a session:"
@@ -9964,7 +9964,7 @@ msgstr ""
 
 #: lms/templates/learner_dashboard/course_entitlement.underscore:9
 msgid "To access the course, select a session."
-msgstr ""
+msgstr "To access the resource, select a session."
 
 #: lms/templates/learner_dashboard/course_entitlement.underscore:15
 msgid "Session Selection Dropdown for {courseName}"
@@ -10092,7 +10092,7 @@ msgid ""
 "Track and plan your progress through the %(count)s course(s) in this "
 "program. To complete the program, you must earn a verified certificate for "
 "each course."
-msgstr ""
+msgstr "Track and plan your progress through the %(count)s resource(s) in this program. To complete the program, you must earn a verified certificate for each resource."
 
 #: lms/templates/learner_dashboard/program_details_tab_view.underscore:52
 #: lms/templates/learner_dashboard/program_details_view.underscore:28
@@ -10154,7 +10154,7 @@ msgid ""
 "Track and plan your progress through the %(count)s courses in this program. "
 "To complete the program, you must earn a verified certificate for each "
 "course."
-msgstr ""
+msgstr "Track and plan your progress through the %(count)s resources in this program. To complete the program, you must earn a verified certificate for each resource."
 
 #: lms/templates/learner_dashboard/program_header_view.underscore:15
 msgid "{organization}\\'s logo"
@@ -10385,7 +10385,7 @@ msgstr ""
 
 #: lms/templates/verify_student/enrollment_confirmation_step.underscore:31
 msgid "Explore your course!"
-msgstr ""
+msgstr "Explore your resource!"
 
 #: lms/templates/verify_student/enrollment_confirmation_step.underscore:35
 msgid "Go to your Dashboard"
@@ -10402,7 +10402,7 @@ msgid ""
 "now sign up for any %(platformName)s course that offers verified "
 "certificates. Verification is good for one year. After one year, you must "
 "submit photos for verification again."
-msgstr ""
+msgstr "Thank you for submitting your photos. We will review them shortly. You can now sign up for any %(platformName)s resource that offers verified certificates. Verification is good for one year. After one year, you must submit photos for verification again."
 
 #: lms/templates/verify_student/error.underscore:6
 msgid "Error:"
@@ -10730,7 +10730,7 @@ msgstr ""
 
 #: lms/templates/verify_student/make_payment_step.underscore:92
 msgid "ID-Verification is not required for this Professional Education course."
-msgstr ""
+msgstr "ID-Verification is not required for this Professional Education resource."
 
 #: lms/templates/verify_student/make_payment_step.underscore:93
 msgid ""
@@ -10814,7 +10814,7 @@ msgid ""
 "see a message on your dashboard when the verification process is complete "
 "(usually within 5-7 days). In the meantime, you can still access all "
 "available course content."
-msgstr ""
+msgstr "We have received your information and are verifying your identity. You will see a message on your dashboard when the verification process is complete (usually within 5-7 days). In the meantime, you can still access all available resource content."
 
 #: lms/templates/verify_student/reverify_success_step.underscore:9
 msgid "Return to Your Dashboard"

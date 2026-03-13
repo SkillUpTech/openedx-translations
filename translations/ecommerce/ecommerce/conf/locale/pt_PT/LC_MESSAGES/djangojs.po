@@ -63,7 +63,7 @@ msgstr "Deve ocorrer antes da data final"
 
 #: static/js/models/coupon_model.js:174
 msgid "A valid course ID is required"
-msgstr "É obrigatória uma identificação válida para o curso"
+msgstr "É obrigatória uma identificação válida para o recurso"
 
 #: static/js/models/coupon_model.js:188
 msgid "A valid Program UUID is required."
@@ -71,7 +71,7 @@ msgstr "É necessário um UUID de programa válido."
 
 #: static/js/models/course_model.js:54
 msgid "You must select a course type."
-msgstr "Deve selecionar um tipo de curso."
+msgstr "Deve selecionar um tipo de recurso."
 
 #: static/js/models/course_model.js:60
 msgid "You must choose if an honor seat should be created."
@@ -88,15 +88,15 @@ msgstr "Falha na validação do produto."
 #: static/js/models/course_model.js:94
 #: static/js/views/dynamic_catalog_view.js:70
 msgid "Course ID"
-msgstr "ID do Curso"
+msgstr "ID do Recurso"
 
 #: static/js/models/course_model.js:95
 msgid "Course Name"
-msgstr "Nome do Curso"
+msgstr "Nome do Recurso"
 
 #: static/js/models/course_model.js:96 static/js/views/course_list_view.js:77
 msgid "Course Type"
-msgstr "Tipo de Curso"
+msgstr "Tipo de Recurso"
 
 #: static/js/models/course_model.js:97
 msgid "Verification Deadline"
@@ -108,7 +108,7 @@ msgstr "Inclua Lugar de Honra"
 
 #: static/js/models/course_seats/course_seat.js:28
 msgid "All course seats must have a price."
-msgstr "Todos os lugares no curso devem ter um preço."
+msgstr "Todos os lugares no recurso devem ter um preço."
 
 #: static/js/models/course_seats/course_seat.js:45
 msgid "Verified seats must have an upgrade deadline."
@@ -234,19 +234,19 @@ msgstr "Códigos de Cupão"
 
 #: static/js/pages/course_create_page.js:12
 msgid "Create New Course"
-msgstr "Criar Novo Curso"
+msgstr "Criar Novo Recurso"
 
 #: static/js/pages/course_detail_page.js:13
 msgid "View Course"
-msgstr "Ver Curso"
+msgstr "Ver Recurso"
 
 #: static/js/pages/course_edit_page.js:13
 msgid "Edit Course"
-msgstr "Editar curso"
+msgstr "Editar recurso"
 
 #: static/js/pages/course_list_page.js:10
 msgid "Courses"
-msgstr "Cursos"
+msgstr "Recursos"
 
 #: static/js/pages/enterprise_coupon_list_page.js:10
 msgid "Enterprise Coupon Codes"
@@ -440,21 +440,21 @@ msgstr ""
 #. them.
 #: static/js/views/course_list_view.js:57
 msgid "Displaying _START_ to _END_ of _TOTAL_ courses"
-msgstr "A mostrar _START_ a _END_ de _TOTAL_ cursos"
+msgstr "A mostrar _START_ a _END_ de _TOTAL_ recursos"
 
 #. Translators: _MAX_ is a placeholder. Do NOT translate it.
 #: static/js/views/course_list_view.js:60
 msgid "(filtered from _MAX_ total courses)"
-msgstr "(filtrado de _MAX_ total de cursos)"
+msgstr "(filtrado de _MAX_ total de recursos)"
 
 #. Translators: _MENU_ is a placeholder. Do NOT translate it.
 #: static/js/views/course_list_view.js:63
 msgid "Display _MENU_ courses"
-msgstr "Mostrar _MENU_ cursos"
+msgstr "Mostrar _MENU_ recursos"
 
 #: static/js/views/course_list_view.js:69
 msgid "Course"
-msgstr "Curso"
+msgstr "Recurso"
 
 #: static/js/views/course_list_view.js:86
 msgid "Last Edited"
@@ -491,7 +491,7 @@ msgstr "Catálogo de Cliente Empresarial"
 
 #: static/js/views/form_view.js:71
 msgid "A course with the specified ID already exists."
-msgstr "Um curso com esta ID já existe."
+msgstr "Um recurso com esta ID já existe."
 
 #: static/js/views/form_view.js:81 static/js/views/form_view.js:174
 msgid "Error!"
