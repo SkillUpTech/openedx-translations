@@ -1929,6 +1929,7 @@
   "preferences.unclassified.accordion.content": "Cookies que ainda não foram categorizados.",
   "course-authoring.studio-home.default-section-1.title": "Fazes parte da equipa de um recurso existente no Ecossistema de Aprendizagem - Estúdio?",
   "course-authoring.studio-home.default-section-1.description": "O criador do recurso deve conceder-te acesso ao recurso. Entra em contacto com o criador ou administrador do recurso.",
-  "course-authoring.studio-home.btn.re-run.text": "Republicação do Recurso",
-  "course-authoring.studio-home.btn.view-live.text": "Ver ao vivo"
+  "course-authoring.studio-home.btn.re-run.text": "Republicar Recurso",
+  "course-authoring.studio-home.btn.view-live.text": "Ver ao vivo",
+  "course-authoring.studio-home.add-new-library.btn.text": "Nova biblioteca"
 }
