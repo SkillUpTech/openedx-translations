@@ -576,7 +576,7 @@ msgstr ""
 #: cms/djangoapps/contentstore/video_storage_handlers.py:566
 #, python-brace-format
 msgid "{course}_video_urls"
-msgstr "{resource}_video_urls"
+msgstr "{course}_video_urls"
 
 #: cms/djangoapps/contentstore/video_storage_handlers.py:954
 msgid "A non zero positive integer is expected"
@@ -4934,7 +4934,7 @@ msgid ""
 "The student {student} appears on the Certificate Exception list in course "
 "{course}. Please remove them from the Certificate Exception list before "
 "attempting to invalidate their certificate."
-msgstr "The student {student} appears on the Certificate Exception list in resource {resource}. Please remove them from the Certificate Exception list before attempting to invalidate their certificate."
+msgstr "The student {student} appears on the Certificate Exception list in resource {course}. Please remove them from the Certificate Exception list before attempting to invalidate their certificate."
 
 #: lms/djangoapps/instructor/views/api.py:3707
 #, python-brace-format
@@ -4968,7 +4968,7 @@ msgid ""
 "The student {student} does not have certificate for the course {course}. "
 "Kindly verify student username/email and the selected course are correct and "
 "try again."
-msgstr "The student {student} does not have certificate for the resource {resource}. Kindly verify student username/email and the selected resource are correct and try again."
+msgstr "The student {student} does not have certificate for the resource {course}. Kindly verify student username/email and the selected resource are correct and try again."
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:78
 msgid "Instructor"
@@ -7972,12 +7972,12 @@ msgstr ""
 #: openedx/core/djangoapps/embargo/models.py:515
 #, python-brace-format
 msgid "Whitelist {country} for {course}"
-msgstr "Whitelist {country} for {resource}"
+msgstr "Whitelist {country} for {course}"
 
 #: openedx/core/djangoapps/embargo/models.py:520
 #, python-brace-format
 msgid "Blacklist {country} for {course}"
-msgstr "Blacklist {country} for {resource}"
+msgstr "Blacklist {country} for {course}"
 
 #: openedx/core/djangoapps/notifications/admin.py:16
 msgid "Notification App"
@@ -9451,7 +9451,7 @@ msgstr ""
 #: openedx/features/calendar_sync/ics.py:36
 #, python-brace-format
 msgid "{assignment} is due for {course}."
-msgstr "{assignment} is due for {resource}."
+msgstr "{assignment} is due for {course}."
 
 #: openedx/features/calendar_sync/plugins.py:21
 msgid "Calendar Sync"
@@ -9468,7 +9468,7 @@ msgstr ""
 #: openedx/features/calendar_sync/utils.py:16
 #, python-brace-format
 msgid "Sync {course} to your calendar"
-msgstr "Sync {resource} to your calendar"
+msgstr "Sync {course} to your calendar"
 
 #: openedx/features/calendar_sync/utils.py:17
 #, python-brace-format
@@ -9476,7 +9476,7 @@ msgid ""
 "Sticking to a schedule is the best way to ensure that you successfully "
 "complete your self-paced course. This schedule for {course} will help you "
 "stay on track!"
-msgstr "Sticking to a schedule is the best way to ensure that you successfully complete your self-paced resource. This schedule for {resource} will help you stay on track!"
+msgstr "Sticking to a schedule is the best way to ensure that you successfully complete your self-paced resource. This schedule for {course} will help you stay on track!"
 
 #: openedx/features/calendar_sync/utils.py:20
 msgid ""
@@ -9488,7 +9488,7 @@ msgstr "Once you sync your resource schedule to your calendar, any updates to th
 #: openedx/features/calendar_sync/utils.py:33
 #, python-brace-format
 msgid "{course} dates have been updated on your calendar"
-msgstr "{resource} dates have been updated on your calendar"
+msgstr "{course} dates have been updated on your calendar"
 
 #: openedx/features/calendar_sync/utils.py:34
 msgid ""
