@@ -6895,6 +6895,7 @@ msgstr ""
 #: cms/templates/index.html:200 cms/templates/manage_users.html:68
 #: cms/templates/manage_users_lib.html:69
 #: cms/templates/videos_index_pagination.html:15
+# themes/indigo/lms/templates/dge_header.html:252
 msgid "Cancel"
 msgstr "Cancelar"
 
@@ -26549,10 +26550,6 @@ msgstr "Tens a certeza que queres terminar a sessão?"
 # themes/indigo/lms/templates/dge_header.html:243
 msgid "Your session will be logged out."
 msgstr "A tua sessão será encerrada."
-
-# themes/indigo/lms/templates/dge_header.html:252
-msgid "Cancel"
-msgstr "Cancelar"
 
 # themes/indigo/lms/templates/dge_header.html:258
 msgid "Confirm"
