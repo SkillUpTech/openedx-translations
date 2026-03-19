@@ -6378,8 +6378,9 @@ msgstr ""
 #: cms/templates/index.html:200 cms/templates/manage_users.html:68
 #: cms/templates/manage_users_lib.html:69
 #: cms/templates/videos_index_pagination.html:15
+# themes/indigo/lms/templates/dge_header.html:252
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: lms/templates/oauth2_provider/authorize.html:48
 msgid "Allow"
@@ -17064,8 +17065,9 @@ msgid "Are you sure you want to delete this Announcement?"
 msgstr ""
 
 #: cms/templates/maintenance/_announcement_delete.html:35
+# themes/indigo/lms/templates/dge_header.html:258
 msgid "Confirm"
-msgstr ""
+msgstr "Confirm"
 
 #: cms/templates/maintenance/_announcement_edit.html:8
 #: cms/templates/maintenance/_announcement_edit.html:11
@@ -23809,10 +23811,3 @@ msgstr "Do you want to log out?"
 msgid "Your session will be logged out."
 msgstr "Your session will be logged out."
 
-# themes/indigo/lms/templates/dge_header.html:252
-msgid "Cancel"
-msgstr "Cancel"
-
-# themes/indigo/lms/templates/dge_header.html:258
-msgid "Confirm"
-msgstr "Confirm"
