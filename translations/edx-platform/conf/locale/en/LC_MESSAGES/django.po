@@ -6379,6 +6379,7 @@ msgstr ""
 #: cms/templates/manage_users_lib.html:69
 #: cms/templates/videos_index_pagination.html:15
 # themes/indigo/lms/templates/dge_header.html:252
+#: themes/indigo/lms/templates/select_role.html:47
 msgid "Cancel"
 msgstr "Cancel"
 
@@ -9717,6 +9718,7 @@ msgstr ""
 #: openedx/features/enterprise_support/utils.py:205
 #: lms/templates/course_modes/track_selection.html:156
 #: lms/templates/peer_grading/peer_grading_problem.html:68
+#: themes/indigo/lms/templates/select_role.html:57
 msgid "Continue"
 msgstr ""
 
@@ -23810,4 +23812,8 @@ msgstr "Do you want to log out?"
 # themes/indigo/lms/templates/dge_header.html:243
 msgid "Your session will be logged out."
 msgstr "Your session will be logged out."
+
+#: themes/indigo/lms/templates/select_role.html:16
+msgid "Choose your role"
+msgstr "Choose your role"
 
