@@ -6896,6 +6896,7 @@ msgstr ""
 #: cms/templates/manage_users_lib.html:69
 #: cms/templates/videos_index_pagination.html:15
 # themes/indigo/lms/templates/dge_header.html:252
+#: themes/indigo/lms/templates/select_role.html:47
 msgid "Cancel"
 msgstr "Cancelar"
 
@@ -10582,6 +10583,7 @@ msgstr ""
 #: openedx/features/enterprise_support/utils.py:205
 #: lms/templates/course_modes/track_selection.html:156
 #: lms/templates/peer_grading/peer_grading_problem.html:68
+#: themes/indigo/lms/templates/select_role.html:57
 msgid "Continue"
 msgstr "Continuar"
 
@@ -26636,3 +26638,7 @@ msgstr "Aceitar todos os cookies"
 #: themes/indigo/lms/templates/dge_footer.html:161
 msgid "Save Preferences"
 msgstr "Guardar Preferências"
+
+#: themes/indigo/lms/templates/select_role.html:16
+msgid "Choose your role"
+msgstr "Escolhe o teu perfil"
