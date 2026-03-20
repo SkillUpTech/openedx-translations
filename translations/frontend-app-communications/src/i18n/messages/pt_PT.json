@@ -110,5 +110,9 @@
   "LearningEcosystemHeader.components.menu.profile": "O meu Perfil",
   "LearningEcosystemHeader.components.menu.logout": "Sair",
   "LearningEcosystemHeader.components.language.pt": "Português",
-  "LearningEcosystemHeader.components.language.en": "English"
+  "LearningEcosystemHeader.components.language.en": "English",
+  "LearningEcosystemHeader.components.logout.modal.title": "Tens a certeza que queres terminar a sessão?",
+  "LearningEcosystemHeader.components.logout.modal.message": "A tua sessão será encerrada.",
+  "LearningEcosystemHeader.components.logout.modal.cancel": "Cancelar",
+  "LearningEcosystemHeader.components.logout.modal.confirm": "Confirmar"
 }
