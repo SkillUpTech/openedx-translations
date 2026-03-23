@@ -23817,3 +23817,12 @@ msgstr "Your session will be logged out."
 msgid "Choose your role"
 msgstr "Choose your role"
 
+#: themes/indigo/lms/templates/select_role.html:23
+msgid "Guardian"
+msgstr "Guardian"
+
+#: themes/indigo/lms/templates/select_role.html:24
+msgid "Teacher"
+msgstr "Teacher"
+
+

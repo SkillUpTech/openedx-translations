@@ -26642,3 +26642,12 @@ msgstr "Guardar Preferências"
 #: themes/indigo/lms/templates/select_role.html:16
 msgid "Choose your role"
 msgstr "Escolhe o teu perfil"
+
+#: themes/indigo/lms/templates/select_role.html:23
+msgid "Guardian"
+msgstr "Enc. de Educação"
+
+#: themes/indigo/lms/templates/select_role.html:24
+msgid "Teacher"
+msgstr "Professor (a)"
+
