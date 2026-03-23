@@ -23822,6 +23822,6 @@ msgid "Guardian"
 msgstr "Guardian"
 
 #: themes/indigo/lms/templates/select_role.html:24
-msgid "Teacher
+msgid "Teacher"
 msgstr "Teacher"
 

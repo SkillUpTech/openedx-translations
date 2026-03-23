@@ -26648,5 +26648,5 @@ msgid "Guardian"
 msgstr "Enc. de Educação"
 
 #: themes/indigo/lms/templates/select_role.html:24
-msgid "Teacher
+msgid "Teacher"
 msgstr "Professor (a)"
