@@ -26643,11 +26643,11 @@ msgstr "Guardar Preferências"
 msgid "Choose your role"
 msgstr "Escolhe o teu perfil"
 
-#: themes/indigo/lms/templates/select_role.html:23
+#: themes/indigo/lms/templates/select_role.html:24
 msgid "Guardian"
 msgstr "Enc. de Educação"
 
-#: themes/indigo/lms/templates/select_role.html:24
+#: themes/indigo/lms/templates/select_role.html:26
 msgid "Teacher"
 msgstr "Professor (a)"
 
