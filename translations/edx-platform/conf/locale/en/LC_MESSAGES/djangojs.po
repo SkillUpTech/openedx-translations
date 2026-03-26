@@ -10936,7 +10936,7 @@ msgstr ""
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "My Learnings"
-msgstr ""
+msgstr "My Enrolment"
 
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "Calendar"
