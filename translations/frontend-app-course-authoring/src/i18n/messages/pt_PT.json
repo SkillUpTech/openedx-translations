@@ -2339,5 +2339,6 @@
   "course-authoring.studio-home.libraries.tab.order-filter-menu.newest-librariesv2": "Mais recente",
   "course-authoring.studio-home.libraries.tab.order-filter-menu.oldest-librariesv2": "Mais antigo",
   "course-authoring.breadcrumb.home": "Início",
-  "course-authoring.breadcrumb.studio": "Estúdio"
+  "course-authoring.breadcrumb.studio": "Estúdio",
+  "course-authoring.breadcrumb.taxonomies": "Taxonomias"
 }
