@@ -182,6 +182,7 @@
   "progress.courseGrade.gradeSummary": "Resumo da avaliação",
   "progress.gradeSummary.tooltip.body": "O peso da tarefa do recurso é determinado pelo teu instrutor. A tua nota ponderada é calculada multiplicando a tua nota pelo peso do tipo de tarefa. A tua nota ponderada é usada para determinar se passa no recurso.",
   "progress.detailedGrades": "Avaliação detalhada",
+  "progress.detailedGrades.emptyTable": "Atualmente, não tem qualquer nota atribuída a problemas.",
   "progress.detailedGrades.ProblemScore.label": "Pontuação do Teste",
   "progress.score": "Pontuação",
   "progress.problemScore": "Pontuação do Teste",
