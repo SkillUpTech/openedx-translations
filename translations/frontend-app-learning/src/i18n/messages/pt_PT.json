@@ -85,7 +85,7 @@
   "progress.certificateStatus.notPassingHeader": "Estado do certificado",
   "progress.certificateStatus.notPassingBody": "Para obter o certificado, é necessário ter aprovação no recurso.",
   "progress.certificateStatus.notAvailableHeader": "Estado do certificado",
-  "progress.certificateBody.notAvailable.endDate": "As avaliações finais e os certificados que obteve estão previstos para estar disponíveis após {endDate}.",
+  "progress.certificateBody.notAvailable.endDate": "As avaliações finais e os certificados que obteve estão previstos para ficarem disponíveis após {endDate}.",
   "unit.bookmark.button.add.bookmark": "Guardar esta página",
   "unit.bookmark.button.remove.bookmark": "Nos Marcadores",
   "learning.celebration.goalCongrats": "Parabéns, atingiu o teu objetivo de aprendizagem de {nTimes} por semana.",
