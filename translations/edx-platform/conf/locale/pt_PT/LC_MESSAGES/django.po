@@ -1107,7 +1107,7 @@ msgstr "Documentação"
 #: cms/templates/admin/base_site.html:20 lms/templates/admin/base_site.html:19
 #: wiki/templates/wiki/base.html:129
 msgid "Log out"
-msgstr "Sair"
+msgstr "Terminar sessão"
 
 #: cms/urls.py:29
 msgid "Studio Administration"
