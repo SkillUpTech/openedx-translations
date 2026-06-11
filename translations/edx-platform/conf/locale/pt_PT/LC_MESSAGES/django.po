@@ -690,6 +690,10 @@ msgstr "Vazio"
 msgid "Studio"
 msgstr "Ecossistema de Aprendizagem"
 
+msgctxt "breadcrumb"
+msgid "Studio"
+msgstr "Estúdio"
+
 #: cms/djangoapps/contentstore/views/component.py:302
 msgid "Peer Assessment Only"
 msgstr "Somente Avaliação por Pares"
