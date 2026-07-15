@@ -64,6 +64,7 @@
   "learning.proctoringPanel.status.verified": "Verificado",
   "learning.proctoringPanel.status.rejected": "Recusado",
   "learning.proctoringPanel.status.error": "Erro",
+  "learning.outline.notStarted":"Iniciar",
   "alert.enroll":"Inscreve-te agora para aceder ao curso completo",
   "tours.datesCheckpoint.body": "As datas importantes podem ajudar-te a manteres-te no teu percurso.",
   "tours.datesCheckpoint.title": "Mantém-te a par das principais datas",
