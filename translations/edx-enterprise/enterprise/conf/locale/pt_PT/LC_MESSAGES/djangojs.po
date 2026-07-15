@@ -55,3 +55,7 @@ msgstr "Crédito"
 #: enterprise/static/enterprise/js/manage_learners.js:120
 msgid "Honor"
 msgstr "Honra"
+
+#: enterprise/views.py:1614 enterprise/views.py:2112
+msgid "About This Course"
+msgstr "Sobre este curso"
