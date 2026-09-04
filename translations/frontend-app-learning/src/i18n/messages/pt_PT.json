@@ -26,7 +26,6 @@
   "learning.logistration.alert": "Para ver o conteúdo do recurso, {signIn} ou {register}.",
   "learning.logistration.register": "Regista-te",
   "learning.logistration.login": "Entrar na conta",
-  "general.signIn.sentenceCase": "Entrar na conta",
   "learning.goals.unsubscribe.errorDescription": "Não foi possível cancelar a tua inscrição dos emails de lembrete de objetivo. Tente novamente mais tarde ou {contactSupport} para obter ajuda.",
   "learning.outline.sequence-due-date-set": "{description} previsto {assignmentDue}",
   "learning.outline.sequence-due-date-not-set": "{description}",
