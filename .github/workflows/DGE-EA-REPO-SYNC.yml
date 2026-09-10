@@ -12,7 +12,7 @@ permissions:
 jobs:
   sync-to-dge-ea:
     name: Sync openedx-translations main -> dge-ea/dge-openedx-translations main
-    runs-on: dge-ntt
+    runs-on: ubuntu-latest
     environment: dev
     steps:
       - name: Checkout openedx-translations (main)
