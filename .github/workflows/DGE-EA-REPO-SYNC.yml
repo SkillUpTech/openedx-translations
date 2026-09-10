@@ -1,0 +1,101 @@
+name: DGE - Sync openedx-translations main to dge-ea/dge-openedx-translations main
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync-to-dge-ea:
+    name: Sync openedx-translations main -> dge-ea/dge-openedx-translations main
+    runs-on: dge-ntt
+    environment: dev
+    steps:
+      - name: Checkout openedx-translations (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Push main to dge-ea/dge-openedx-translations main
+        env:
+          SYNC_TOKEN: ${{ secrets.DGE_EA_REPO_SYNC_TOKEN }}
+        run: |
+          git remote add sync-target "https://x-access-token:${SYNC_TOKEN}@github.com/dge-ea/dge-openedx-translations.git"
+
+          BEFORE_SHA=$(git ls-remote sync-target refs/heads/main | cut -f1 || echo "none")
+          SYNC_START_TIME=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          git push sync-target HEAD:main
+          AFTER_SHA=$(git rev-parse HEAD)
+          echo "BEFORE_SHA=${BEFORE_SHA}" >> $GITHUB_ENV
+          echo "AFTER_SHA=${AFTER_SHA}" >> $GITHUB_ENV
+          echo "SYNC_START_TIME=${SYNC_START_TIME}" >> $GITHUB_ENV
+
+          echo "# 📋 Pipeline Summary" >> $GITHUB_STEP_SUMMARY
+          echo "## 🔄 Sync" >> $GITHUB_STEP_SUMMARY
+          echo "| Source | Target | Before | After |" >> $GITHUB_STEP_SUMMARY
+          echo "|---|---|---|---|" >> $GITHUB_STEP_SUMMARY
+          echo "| \`SkillUpTech/openedx-translations@main\` | \`dge-ea/dge-openedx-translations@main\` | \`${BEFORE_SHA:0:8}\` | \`${AFTER_SHA:0:8}\` |" >> $GITHUB_STEP_SUMMARY
+
+          if [ "${BEFORE_SHA}" = "${AFTER_SHA}" ]; then
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "ℹ️ Already up to date — no new commits synced." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "✅ Synced new commit(s)." >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Wait for dge-ea/dge-openedx-translations's own workflow runs to finish
+        if: env.BEFORE_SHA != env.AFTER_SHA
+        env:
+          SYNC_TOKEN: ${{ secrets.DGE_EA_REPO_SYNC_TOKEN }}
+        run: |
+          # The synced content includes openedx-translations's own workflow files,
+          # and dge-ea/dge-openedx-translations keeps Actions enabled, so those
+          # auto-run there asynchronously after our push and can create
+          # side-effect branches. Wait for them to finish so any such side
+          # effects land before this run ends.
+          LIST_API="https://api.github.com/repos/dge-ea/dge-openedx-translations/actions/runs?head_sha=${AFTER_SHA}&per_page=100"
+          AUTH_HEADER="Authorization: Bearer ${SYNC_TOKEN}"
+
+          echo "Waiting up to 60s for any workflow run on ${AFTER_SHA} created at/after ${SYNC_START_TIME} to start..."
+          waited=0
+          run_ids=""
+          while [ "${waited}" -lt 60 ]; do
+            # Scope to runs created at/after this sync's push started, not
+            # just matching head_sha — openedx-translations content (and so
+            # its SHA) can be identical across multiple syncs (e.g. no new
+            # commits upstream), and a bare head_sha filter would then also
+            # match stale, already-completed runs from earlier syncs of that
+            # same content, causing us to stop waiting immediately.
+            run_ids=$(curl -sS -H "${AUTH_HEADER}" -H "Accept: application/vnd.github+json" "${LIST_API}" \
+              | jq -r --arg since "${SYNC_START_TIME}" '[.workflow_runs[] | select(.created_at >= $since)] | .[].id')
+            [ -n "${run_ids}" ] && break
+            sleep 5
+            waited=$((waited + 5))
+          done
+
+          if [ -z "${run_ids}" ]; then
+            echo "No workflow runs detected for this push within 60s; proceeding."
+          else
+            echo "Found run(s): ${run_ids}; waiting up to 180s for them to complete..."
+            # Poll each specific run by ID rather than re-querying by
+            # head_sha each time — that list filter can show a brief
+            # consistency lag right after a run is first found, which could
+            # make this loop exit before the run had actually finished.
+            waited=0
+            while [ "${waited}" -lt 180 ]; do
+              all_done=true
+              for id in ${run_ids}; do
+                status=$(curl -sS -H "${AUTH_HEADER}" -H "Accept: application/vnd.github+json" "https://api.github.com/repos/dge-ea/dge-openedx-translations/actions/runs/${id}" | jq -r '.status')
+                [ "${status}" != "completed" ] && all_done=false
+              done
+              [ "${all_done}" = "true" ] && break
+              sleep 10
+              waited=$((waited + 10))
+            done
+          fi
