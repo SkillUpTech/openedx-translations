@@ -8668,6 +8668,12 @@ msgstr ""
 "Última publicação em {lastPublishedStart}{publishedOn}{lastPublishedEnd} por"
 " {publishedByStart}{publishedBy}{publishedByEnd}"
 
+#: cms/templates/js/publish-xblock.underscore:55
+msgid ""
+"Last published {lastPublishedStart}{publishedOn}{lastPublishedEnd}"
+msgstr ""
+"Última publicação em {lastPublishedStart}{publishedOn}{lastPublishedEnd}"
+
 #: cms/templates/js/publish-xblock.underscore:67
 #, python-format
 msgid "with %(release_date_from)s"
