@@ -678,6 +678,22 @@ msgstr "Vídeo"
 msgid "Open Response"
 msgstr "Respostas Abertas"
 
+#: cms/djangoapps/contentstore/views/component.py:263
+msgid "Legacy Library"
+msgstr "Biblioteca Legada"
+
+#: cms/djangoapps/contentstore/views/component.py:264
+msgid "Problem Bank"
+msgstr "Banco de Questões"
+
+#: xmodule/library_content_block.py:79
+msgid "Randomized Content Block"
+msgstr "Bloco de Conteúdo Aleatório"
+
+#: cms/djangoapps/contentstore/views/component.py:436
+msgid "CMI5 Module"
+msgstr "Módulo CMI5"
+
 #: cms/djangoapps/contentstore/views/component.py:265
 msgid "Drag and Drop"
 msgstr "Arraste e Solte"
