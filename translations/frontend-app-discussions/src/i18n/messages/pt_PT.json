@@ -255,5 +255,13 @@
   "preferences.functional.accordion.content": "Cookies utilizados para melhorar a funcionalidade do Ecossistema de Aprendizagem.",
   "preferences.marketing.accordion.content": "Cookies utilizados para apresentar anúncios mais relevantes para ti e para os teus interesses.",
   "preferences.analytics.accordion.content": "Cookies utilizados para compreender o funcionamento do Ecossistema de Aprendizagem.",
-  "preferences.unclassified.accordion.content": "Cookies que ainda não foram categorizados."
+  "preferences.unclassified.accordion.content": "Cookies que ainda não foram categorizados.",
+  "role.staff": "Equipa",
+  "role.specific": "Aluno específico",
+  "role.exam": "Exame",
+  "instructor.toolbar.staff": "Equipa",
+  "roleSpecific": "Aluno específico",
+  "instructor.toolbar.view.as": "Ver este recurso como",
+  "instructor.toolbar.view.course": "Ver recurso no",
+  "instructor.toolbar.studio": "Estúdio",
 }
