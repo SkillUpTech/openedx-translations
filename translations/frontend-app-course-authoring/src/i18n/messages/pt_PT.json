@@ -2346,7 +2346,5 @@
   "course-authoring.studio-home.libraries.tab.order-filter-menu.oldest-librariesv2": "Mais antigo",
   "course-authoring.breadcrumb.home": "Início",
   "course-authoring.breadcrumb.studio": "Estúdio",
-  "course-authoring.breadcrumb.taxonomies": "Taxonomias",
-  "course-authoring.course-outline.header-navigations.button.expand-all": "Expandir tudo",
-  "course-authoring.course-outline.header-navigations.button.collapse-all": "Recolher tudo"
+  "course-authoring.breadcrumb.taxonomies": "Taxonomias"
 }
