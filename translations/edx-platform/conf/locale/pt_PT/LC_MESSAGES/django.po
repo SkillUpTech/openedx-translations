@@ -1923,7 +1923,7 @@ msgstr "LONG_DATE_FORMAT"
 #. See http://strftime.org for details.
 #: common/djangoapps/util/date_utils.py:153
 msgid "DATE_TIME_FORMAT"
-msgstr "DATE_TIME_FORMAT"
+msgstr "%d %b. %Y às %H:%M"
 
 #. Translators: the translation for "SHORT_DATE_FORMAT" must be a
 #. format string for formatting dates in a brief form.  For example,
