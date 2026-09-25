@@ -2346,5 +2346,7 @@
   "course-authoring.studio-home.libraries.tab.order-filter-menu.oldest-librariesv2": "Mais antigo",
   "course-authoring.breadcrumb.home": "Início",
   "course-authoring.breadcrumb.studio": "Estúdio",
-  "course-authoring.breadcrumb.taxonomies": "Taxonomias"
+  "course-authoring.breadcrumb.taxonomies": "Taxonomias",
+  "pgn.DataTable.ExpandAll.expandAllLabel": "Expandir tudo",
+  "pgn.DataTable.ExpandAll.collapseAllLabel": "Recolher tudo"
 }
