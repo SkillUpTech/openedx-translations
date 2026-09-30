@@ -2348,5 +2348,10 @@
   "course-authoring.breadcrumb.studio": "Estúdio",
   "course-authoring.breadcrumb.taxonomies": "Taxonomias",
   "pgn.DataTable.ExpandAll.expandAllLabel": "Expandir tudo",
-  "pgn.DataTable.ExpandAll.collapseAllLabel": "Recolher tudo"
+  "pgn.DataTable.ExpandAll.collapseAllLabel": "Recolher tudo",
+  "authoring.problemeditor.problemtype.singleselect": "Seleção única",
+  "authoring.problemeditor.problemtype.multiselect": "Seleção múltipla",
+  "authoring.problemeditor.problemtype.dropdown": "Lista suspensa",
+  "authoring.problemeditor.problemtype.numericalinput": "Entrada numérica",
+  "authoring.problemeditor.problemtype.textinput": "Entrada de texto"
 }
