@@ -26683,3 +26683,24 @@ msgstr "Enc. de Educação"
 msgid "Teacher"
 msgstr "Professor (a)"
 
+
+msgid "{button_start}Add components{button_end} from a content library to this problem bank."
+msgstr "{button_start}Adicionar componentes{button_end} de uma biblioteca de conteúdos a este banco de problemas."
+
+msgid "You have not selected any components yet."
+msgstr "Ainda não selecionou nenhum componente."
+
+msgid "Announcement"
+msgstr "Anúncio"
+
+msgid "Anonymous User ID"
+msgstr "ID de utilizador anónimo"
+
+msgid "IFrame Tool"
+msgstr "Ferramenta de IFrame"
+
+msgid "Raw HTML"
+msgstr "HTML bruto"
+
+msgid "Zooming Image Tool"
+msgstr "Ferramenta de zoom em imagem"
