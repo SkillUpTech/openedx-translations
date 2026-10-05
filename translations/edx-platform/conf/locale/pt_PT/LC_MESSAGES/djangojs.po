@@ -11970,6 +11970,9 @@ msgstr "Banners (Configurações)"
 msgid "Reports"
 msgstr "Relatórios"
 
+msgid "Course Dashboard"
+msgstr "Painel do Curso"
+
 #: apps/openedx/themes/indigo/lms/static/js/DgeHeaderMenu.js
 msgid "CMS"
 msgstr "CMS"
