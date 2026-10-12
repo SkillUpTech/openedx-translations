@@ -706,6 +706,30 @@ msgstr "Assistente ChatGPT"
 msgid "Word cloud"
 msgstr "Nuvem de palavras"
 
+#. HTML component boilerplate display name (xmodule/templates/html/announcement.yaml)
+msgid "Announcement"
+msgstr "Anúncio"
+
+#. HTML component boilerplate display name (xmodule/templates/html/anon_user_id.yaml)
+msgid "Anonymous User ID"
+msgstr "ID de Utilizador Anónimo"
+
+#. HTML component boilerplate display name (xmodule/templates/html/iframe.yaml)
+msgid "IFrame Tool"
+msgstr "Ferramenta IFrame"
+
+#. HTML component boilerplate display name (xmodule/templates/html/raw.yaml)
+msgid "Raw HTML"
+msgstr "HTML em Bruto"
+
+#. HTML component boilerplate display name (xmodule/templates/html/zooming_image.yaml)
+msgid "Zooming Image Tool"
+msgstr "Ferramenta de Ampliação de Imagem"
+
+#. HTML component boilerplate display name (xmodule/templates/html/latex_html.yaml)
+msgid "E-text Written in LaTeX"
+msgstr "Texto Eletrónico Escrito em LaTeX"
+
 #: cms/djangoapps/contentstore/views/component.py:265
 msgid "Drag and Drop"
 msgstr "Arraste e Solte"

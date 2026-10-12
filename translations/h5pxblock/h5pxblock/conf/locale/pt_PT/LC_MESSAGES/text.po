@@ -1,0 +1,11 @@
+# H5P XBlock Portuguese (Portugal) translations.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pt_PT\n"
+
+msgid "Not attempted"
+msgstr "Não tentado"
+
+msgid "Completed"
+msgstr "Concluído"
