@@ -10,6 +10,15 @@ git:
     mode: onlyreviewed
     translation_files_expression: 'translations/AudioXBlock/audio/conf/locale/<lang>/'
 
+  # h5pxblock
+  - filter_type: dir
+    file_format: PO
+    source_file_extension: po
+    source_language: en
+    source_file_dir: translations/h5pxblock/h5pxblock/conf/locale/en/
+    mode: onlyreviewed
+    translation_files_expression: 'translations/h5pxblock/h5pxblock/conf/locale/<lang>/'
+
   # completion
   - filter_type: dir
     file_format: PO

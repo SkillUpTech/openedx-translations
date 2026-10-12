@@ -1,0 +1,11 @@
+# H5P XBlock source strings.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "Not attempted"
+msgstr "Not attempted"
+
+msgid "Completed"
+msgstr "Completed"
