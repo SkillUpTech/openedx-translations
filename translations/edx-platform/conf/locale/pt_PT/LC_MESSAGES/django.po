@@ -26713,18 +26713,3 @@ msgstr "{button_start}Adicionar componentes{button_end} de uma biblioteca de con
 
 msgid "You have not selected any components yet."
 msgstr "Ainda não selecionou nenhum componente."
-
-msgid "Announcement"
-msgstr "Anúncio"
-
-msgid "Anonymous User ID"
-msgstr "ID de utilizador anónimo"
-
-msgid "IFrame Tool"
-msgstr "Ferramenta de IFrame"
-
-msgid "Raw HTML"
-msgstr "HTML bruto"
-
-msgid "Zooming Image Tool"
-msgstr "Ferramenta de zoom em imagem"
