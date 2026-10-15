@@ -1,0 +1,149 @@
+# H5P XBlock source strings.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Not attempted"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "H5P Player Id"
+msgstr ""
+
+msgid "Unique ID for player instance"
+msgstr ""
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Display name for this module"
+msgstr ""
+
+msgid "Upload H5P content"
+msgstr ""
+
+msgid "Show H5P player frame"
+msgstr ""
+
+msgid "whether to show H5P player frame and button"
+msgstr ""
+
+msgid "Show copyright button"
+msgstr ""
+
+msgid "whether to show copyright button"
+msgstr ""
+
+msgid "Show h5p icon"
+msgstr ""
+
+msgid "whether to show h5p icon"
+msgstr ""
+
+msgid "Show fullscreen button"
+msgstr ""
+
+msgid "whether to show fullscreen button"
+msgstr ""
+
+msgid "Is Scorable"
+msgstr ""
+
+msgid "Select True if this component will save score"
+msgstr ""
+
+msgid "User content state save frequency"
+msgstr ""
+
+msgid ""
+"How often current user content state should be autosaved (in seconds). Set "
+"it to zero if you don't want to save content state."
+msgstr ""
+
+msgid "User previous content interaction states"
+msgstr ""
+
+msgid "Problem Weight"
+msgstr ""
+
+msgid ""
+"Defines the number of points this problem is worth. If the value is not set,"
+" the problem is worth one point."
+msgstr ""
+
+msgid "Maximum score"
+msgstr ""
+
+msgid "Maximum grade score given to assignment by staff."
+msgstr ""
+
+msgid "Problem weighted score"
+msgstr ""
+
+msgid ""
+"Defines the weighted score of this problem. If the value is not set, the "
+"problem is worth one point."
+msgstr ""
+
+msgid "Submission status"
+msgstr ""
+
+msgid "The submission status of the assignment."
+msgstr ""
+
+msgid "Uploading"
+msgstr ""
+
+msgid "Uploaded"
+msgstr ""
+
+msgid "Extracting"
+msgstr ""
+
+msgid "points"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid ""
+"The due date for this subsection has passed. Your response will be recorded,"
+" but not graded."
+msgstr ""
+
+msgid "No content. Please upload H5P content."
+msgstr ""
+
+msgid "Currently:"
+msgstr ""
+
+msgid "Upload time:"
+msgstr ""
+
+msgid "Reuse Existing H5P Content"
+msgstr ""
+
+msgid ""
+"Enter path of existing content or copy path to reuse this content in another"
+" block"
+msgstr ""
+
+msgid "True"
+msgstr ""
+
+msgid "(Default)"
+msgstr ""
+
+msgid "False"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""

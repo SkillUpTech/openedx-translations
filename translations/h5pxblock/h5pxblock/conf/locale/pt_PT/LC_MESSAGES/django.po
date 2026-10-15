@@ -1,0 +1,160 @@
+# H5P XBlock Portuguese (Portugal) translations.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Not attempted"
+msgstr "Não tentado"
+
+msgid "Completed"
+msgstr "Concluído"
+
+msgid "H5P Player Id"
+msgstr "ID do reprodutor H5P"
+
+msgid "Unique ID for player instance"
+msgstr "ID único da instância de reprodução"
+
+msgid "Display Name"
+msgstr "Nome de apresentação"
+
+msgid "Display name for this module"
+msgstr "Nome de apresentação para este módulo"
+
+msgid "Upload H5P content"
+msgstr "Carregar conteúdo H5P"
+
+msgid "Show H5P player frame"
+msgstr "Mostrar a moldura do leitor H5P"
+
+msgid "whether to show H5P player frame and button"
+msgstr "se deve mostrar a moldura e o botão do leitor H5P"
+
+msgid "Show copyright button"
+msgstr "Mostrar botão de direitos de autor"
+
+msgid "whether to show copyright button"
+msgstr "se deve ser mostrado o botão de direitos de autor"
+
+msgid "Show h5p icon"
+msgstr "Mostrar ícone H5P"
+
+msgid "whether to show h5p icon"
+msgstr "se deve mostrar o ícone H5P"
+
+msgid "Show fullscreen button"
+msgstr "Mostrar botão de ecrã completo"
+
+msgid "whether to show fullscreen button"
+msgstr "se deve ser mostrado o botão de ecrã completo"
+
+msgid "Is Scorable"
+msgstr "Tem pontuação"
+
+msgid "Select True if this component will save score"
+msgstr "Selecione Verdadeiro se este componente guarda pontuação"
+
+msgid "User content state save frequency"
+msgstr "Frequência de gravação do estado do conteúdo do utilizador"
+
+msgid ""
+"How often current user content state should be autosaved (in seconds). Set "
+"it to zero if you don't want to save content state."
+msgstr ""
+"Com que frequência o estado atual do conteúdo do utilizador deve ser guardado "
+"automaticamente (em segundos). Defina-o como zero se não pretender guardar o "
+"estado do conteúdo."
+
+msgid "User previous content interaction states"
+msgstr "Estados de interação de conteúdos anteriores do utilizador"
+
+msgid "Problem Weight"
+msgstr "Peso do problema"
+
+msgid ""
+"Defines the number of points this problem is worth. If the value is not set,"
+" the problem is worth one point."
+msgstr ""
+"Define o número de pontos que este problema vale. Se o valor não for definido, "
+"o problema vale um ponto."
+
+msgid "Maximum score"
+msgstr "Pontuação máxima"
+
+msgid "Maximum grade score given to assignment by staff."
+msgstr "Nota máxima atribuída a um trabalho pelo pessoal."
+
+msgid "Problem weighted score"
+msgstr "Pontuação ponderada do problema"
+
+msgid ""
+"Defines the weighted score of this problem. If the value is not set, the "
+"problem is worth one point."
+msgstr ""
+"Define a pontuação ponderada deste problema. Se o valor não for definido, "
+"o problema vale um ponto."
+
+msgid "Submission status"
+msgstr "Estado da submissão"
+
+msgid "The submission status of the assignment."
+msgstr "O estado de submissão da tarefa."
+
+msgid "Uploading"
+msgstr "A carregar"
+
+msgid "Uploaded"
+msgstr "Carregado"
+
+msgid "Extracting"
+msgstr "A extrair"
+
+msgid "points"
+msgstr "pontos"
+
+msgid "Loading..."
+msgstr "A carregar..."
+
+msgid ""
+"The due date for this subsection has passed. Your response will be recorded,"
+" but not graded."
+msgstr ""
+"A data limite para esta subsecção já passou. "
+"A sua resposta será registada, mas não será avaliada."
+
+msgid "No content. Please upload H5P content."
+msgstr "Sem conteúdo. Carregue conteúdo H5P."
+
+msgid "Currently:"
+msgstr "Atualmente:"
+
+msgid "Upload time:"
+msgstr "Tempo de carregamento:"
+
+msgid "Reuse Existing H5P Content"
+msgstr "Reutilizar conteúdos H5P existentes"
+
+msgid ""
+"Enter path of existing content or copy path to reuse this content in another"
+" block"
+msgstr ""
+"Introduza o caminho do conteúdo existente ou copie o caminho "
+"para reutilizar este conteúdo noutro bloco"
+
+msgid "True"
+msgstr "Verdadeiro"
+
+msgid "(Default)"
+msgstr "(Predefinição)"
+
+msgid "False"
+msgstr "Falso"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Cancel"
+msgstr "Cancelar"
