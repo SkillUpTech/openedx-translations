@@ -26713,3 +26713,6 @@ msgstr "{button_start}Adicionar componentes{button_end} de uma biblioteca de con
 
 msgid "You have not selected any components yet."
 msgstr "Ainda não selecionou nenhum componente."
+
+msgid "Not attempted"
+msgstr "Não tentado"
