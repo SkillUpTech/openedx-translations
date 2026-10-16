@@ -3979,7 +3979,7 @@ msgstr "Resource level settings for Flexible Peer Grading Open Response Assessme
 #: lms/templates/courseware/courseware.html:215
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:21
 msgid "Course"
-msgstr "Resource"
+msgstr "Course"
 
 #: lms/djangoapps/courseware/tabs.py:63
 #: lms/templates/courseware/syllabus.html:21
