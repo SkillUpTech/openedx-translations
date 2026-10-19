@@ -531,6 +531,15 @@ msgstr "Esta unidade tem problemas de validação."
 msgid "This component has validation issues."
 msgstr "Esta componente tem problemas de validação."
 
+#: xmodule/video_block.py
+#, python-brace-format
+msgid "This component will appear in the video at {time}"
+msgstr "Este componente aparecerá no vídeo em {time}"
+
+#: xmodule/video_block.py
+msgid "Continue"
+msgstr "Continuar"
+
 #: cms/static/js/utils/copy_to_clipboard.js:23
 msgid "Copied"
 msgstr "Copiado"
