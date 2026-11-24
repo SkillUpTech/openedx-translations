@@ -33,5 +33,8 @@
   "header.user.menu.studio": "Início do Studio ",
   "header.user.menu.maintenance": "",
   "header.label.courseOutline": "Voltar ao resumo do recurso no Studio",
-  "header.label.search.nav": "Pesquisar conteúdo"
+  "header.label.search.nav": "Pesquisar conteúdo",
+  "header.menu.discover.label": "Explorar",
+  "header.menu.mycourses.label": "Os meus recursos",
+  "header.user.theme": "Alternar tema"
 }
